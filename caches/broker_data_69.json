@@ -1,0 +1,470 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139515",
+                    "firm_bd_sec_number": "67217",
+                    "firm_bd_full_sec_number": "8-67217",
+                    "firm_name": "MCAP LLC",
+                    "firm_other_names": [
+                        "EQUISEARCH SECURITIES, INC.",
+                        "MCAP LLC",
+                        "MADISON CAPITAL MARKETS, LLC",
+                        "MADISON CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-750-1056\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1633 BROADWAY",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "123717",
+                    "firm_bd_sec_number": "65606",
+                    "firm_bd_full_sec_number": "8-65606",
+                    "firm_name": "CUSHMAN & WAKEFIELD SECURITIES, INC.",
+                    "firm_other_names": [
+                        "CUSHMAN & WAKEFIELD SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1290 AVENUE OF THE AMERICAS\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10104\"}, \"mailingAddress\": {\"street1\": \"1290 AVENUE OF THE AMERICAS\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10104\"}, \"businessPhoneNumber\": \"(212) 841-7850\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1290 AVENUE OF THE AMERICAS",
+                                        "street2": "7TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154717",
+                    "firm_bd_sec_number": "68671",
+                    "firm_bd_full_sec_number": "8-68671",
+                    "firm_ia_sec_number": "112815",
+                    "firm_ia_full_sec_number": "801-112815",
+                    "firm_name": "TIGRESS FINANCIAL PARTNERS, LLC",
+                    "ia_firm_name": "TIGRESS FINANCIAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "TIGRESS FINANCIAL PARTNERS LLC",
+                        "TIGRESS FINANCIAL PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"410 PARK AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"410 PARK AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-430-8750\", \"iaFirmName\": \"TIGRESS FINANCIAL PARTNERS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"410 PARK AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10022\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "410 PARK AVENUE",
+                                        "street2": "12TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "140341",
+                    "firm_bd_sec_number": "67306",
+                    "firm_bd_full_sec_number": "8-67306",
+                    "firm_name": "ELEVATION, LLC",
+                    "firm_other_names": [
+                        "ELEVATION SECURITIES",
+                        "ELEVATION, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6836 CARNEGIE BOULEVARD\", \"street2\": \"SUITE 240\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28211\"}, \"mailingAddress\": {\"street1\": \"6836 CARNEGIE BOULEVARD\", \"street2\": \"SUITE 240\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28211\"}, \"businessPhoneNumber\": \"704-926-1100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "261 Madison Ave",
+                                        "street2": "9th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120242",
+                    "firm_bd_sec_number": "65270",
+                    "firm_bd_full_sec_number": "8-65270",
+                    "firm_name": "AINVEST FINANCIAL, INC.",
+                    "firm_other_names": [
+                        "AINVEST FINANCIAL, INC.",
+                        "LIGHT HORSE MARKET SOLUTIONS, INC,",
+                        "LIGHT HORSE MARKET SOLUTIONS INC",
+                        "B&T ASSET MANAGEMENT",
+                        "B & T SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"330 7TH AVE\", \"street2\": \"SUITE 902\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"330 7TH AVE\", \"street2\": \"SUITE 902\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"6463304718\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 7TH AVE",
+                                        "street2": "SUITE 902",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "156691",
+                    "firm_bd_sec_number": "68817",
+                    "firm_bd_full_sec_number": "8-68817",
+                    "firm_name": "XP INVESTMENTS US, LLC",
+                    "firm_other_names": [
+                        "XP INTERNATIONAL",
+                        "XP SECURITIES, LLC",
+                        "XP PRIVATE INTERNATIONAL",
+                        "XP PRIVATE",
+                        "XP INVESTMENTS US, LLC",
+                        "XP INVESTMENTS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WEST 46TH STREET\", \"street2\": \"30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"701 BRICKELL AVENUE\", \"street2\": \"#2120\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"7867321100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 W 46th Street",
+                                        "street2": "30th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "130645",
+                    "firm_bd_sec_number": "66367",
+                    "firm_bd_full_sec_number": "8-66367",
+                    "firm_name": "DAWSON JAMES SECURITIES, INC.",
+                    "firm_other_names": [
+                        "DAWSON JAMES SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"101 NORTH FEDERAL HIGHWAY\", \"street2\": \"SUITE 600\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33432\"}, \"mailingAddress\": {\"street1\": \"101 NORTH FEDERAL HIGHWAY\", \"street2\": \"SUITE 600\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33432\"}, \"businessPhoneNumber\": \"561-391-5555\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 Wolfs Lane",
+                                        "street2": "Suite #316",
+                                        "city": "Pelham",
+                                        "state": "NY",
+                                        "zipCode": "10803"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "160209",
+                    "firm_bd_sec_number": "69032",
+                    "firm_bd_full_sec_number": "8-69032",
+                    "firm_name": "THIRD SEVEN CAPITAL LLC",
+                    "ia_firm_name": "THIRD SEVEN CAPITAL ADVISORS",
+                    "firm_other_names": [
+                        "THIRD SEVEN CAPITAL ADVISORS",
+                        "THIRD SEVEN CAPITAL, LLC",
+                        "THIRD SEVEN CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"9145272160\", \"iaFirmName\": \"THIRD SEVEN CAPITAL ADVISORS\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"444 MADISON AVE.\", \"street2\": \"SUITE 8500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10022\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 Avenue of the Americas",
+                                        "street2": "33rd Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46585",
+                    "firm_bd_sec_number": "51483",
+                    "firm_bd_full_sec_number": "8-51483",
+                    "firm_name": "FEF DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "ASB SECURITIES, INC.",
+                        "FEF DISTRIBUTORS, LLC",
+                        "ASB SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105-4800\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105-4800\"}, \"businessPhoneNumber\": \"212-632-2700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29540",
+                    "firm_bd_sec_number": "44816",
+                    "firm_bd_full_sec_number": "8-44816",
+                    "firm_name": "BROWN, GIBBONS, LANG & COMPANY SECURITIES, LLC",
+                    "firm_other_names": [
+                        "B. G. SECURITIES, INC.",
+                        "BROWN, GIBBONS, LANG & COMPANY SECURITIES, LLC",
+                        "BROWN, GIBBONS, LANG & COMPANY SECURITIES, INC.",
+                        "BROWN, GIBBONS & COMPANY SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1375 E. 9TH STREET\", \"street2\": \"SUITE 2500\", \"city\": \"CLEVELAND\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"44114\"}, \"mailingAddress\": {\"street1\": \"1375 E. 9TH STREET\", \"street2\": \"SUITE 2500\", \"city\": \"CLEVELAND\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"44114\"}, \"businessPhoneNumber\": \"(216) 241-2800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "489 Fifth Avenue",
+                                        "street2": "23rd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46709",
+                    "firm_bd_sec_number": "51529",
+                    "firm_bd_full_sec_number": "8-51529",
+                    "firm_name": "KBC SECURITIES USA LLC",
+                    "firm_other_names": [
+                        "D.E. SHAW FINANCIAL PRODUCTS, INC.",
+                        "KBC SECURITIES USA, INC.",
+                        "KBC SECURITIES USA LLC",
+                        "KBC FINANCIAL PRODUCTS USA, INC.",
+                        "KBC FINANCIAL PRODUCTD USA, INC.",
+                        "D.E. SHAW FINANCIAL PRODUCTS, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1177 AVENUE OF THE AMERICAS\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1177 AVENUE OF THE AMERICAS\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-845-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1177 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "319501",
+                    "firm_bd_sec_number": "70911",
+                    "firm_bd_full_sec_number": "8-70911",
+                    "firm_name": "UPSIDE MARKETPLACE, LLC",
+                    "firm_other_names": [
+                        "UPSIDE MARKETPLACE, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 JAY STREET\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11201\"}, \"mailingAddress\": {\"street1\": \"10 JAY STREET\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11201\"}, \"businessPhoneNumber\": \"347-255-1996\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 JAY STREET",
+                                        "city": "BROOKLYN",
+                                        "state": "NY",
+                                        "zipCode": "11201"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

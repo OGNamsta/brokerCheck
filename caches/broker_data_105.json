@@ -1,0 +1,468 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104347",
+                    "firm_bd_sec_number": "52806",
+                    "firm_bd_full_sec_number": "8-52806",
+                    "firm_name": "BRADESCO SECURITIES, INC.",
+                    "firm_other_names": [
+                        "BRADESCO BBI",
+                        "BRADESCO SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"450 PARK AVENUE\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"450 PARK AVENUE\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 888-9142\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "450 PARK AVENUE",
+                                        "street2": "32ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285852",
+                    "firm_bd_sec_number": "69862",
+                    "firm_bd_full_sec_number": "8-69862",
+                    "firm_name": "STATE STREET GLOBAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "STATE STREET GLOBAL MARKETS, LLC",
+                        "STATE STREET NEWCO, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE CONGRESS STREET, SUITE 1\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02114-2016\"}, \"mailingAddress\": {\"street1\": \"ONE CONGRESS STREET, SUITE 1\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02114-2016\"}, \"businessPhoneNumber\": \"617 664-3619\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1290 Ave of the Americas",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129119",
+                    "firm_bd_sec_number": "66201",
+                    "firm_bd_full_sec_number": "8-66201",
+                    "firm_name": "LAZARD ASSET MANAGEMENT SECURITIES LLC",
+                    "firm_other_names": [
+                        "LAZARD ASSET MANAGEMENT SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 ROCKEFELLER PLAZA, 56TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10112\"}, \"mailingAddress\": {\"street1\": \"30 ROCKEFELLER PLAZA, 56TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10112\"}, \"businessPhoneNumber\": \"212-632-6521\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 ROCKEFELLER PLAZA, 56TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10112"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29087",
+                    "firm_bd_sec_number": "44088",
+                    "firm_bd_full_sec_number": "8-44088",
+                    "firm_ia_sec_number": "56328",
+                    "firm_ia_full_sec_number": "801-56328",
+                    "firm_name": "WORLD EQUITY GROUP, INC.",
+                    "ia_firm_name": "WORLD EQUITY GROUP, INC.",
+                    "firm_other_names": [
+                        "COMPASS ASSET MANAGEMENT",
+                        "WORLD EQUITY GROUP, INC.",
+                        "UNITED FINANCIAL GROUP INC.",
+                        "PRAXIS WEALTH MANAGEMENT",
+                        "MIDWAY WEALTH PARTNERS",
+                        "MARTIN JAMES INVESTMENT & TAX MANAGEMENT LLC",
+                        "INFINITY WEALTH MANAGEMENT, LLC",
+                        "FOUR POINTS ADVISORY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 84,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"425 N MARTINGALE ROAD\", \"street2\": \"SUITE 1220\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60173\"}, \"mailingAddress\": {\"street1\": \"425 N MARTINGALE ROAD\", \"street2\": \"SUITE 100\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60173\"}, \"businessPhoneNumber\": \"847-342-1700\", \"iaFirmName\": \"WORLD EQUITY GROUP, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"425 N MARTINGALE RD\", \"street2\": \"SUITE 1220\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60173\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "661 Route 22",
+                                        "city": "Westport",
+                                        "state": "NY",
+                                        "zipCode": "12993"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30107",
+                    "firm_bd_sec_number": "44744",
+                    "firm_bd_full_sec_number": "8-44744",
+                    "firm_name": "STATE STREET GLOBAL ADVISORS FUNDS DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "STATE STREET BROKERAGE SERVICES, INC.",
+                        "STATE STREET GLOBAL MARKETS, LLC",
+                        "STATE STREET GLOBAL ADVISORS FUNDS DISTRIBUTORS, LLC",
+                        "STATE STREET CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"CHANNEL CENTER\", \"street2\": \"1 IRON STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02210\"}, \"mailingAddress\": {\"street1\": \"PO BOX 5501\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02210-5501\"}, \"businessPhoneNumber\": \"617-664-4959\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1290 Avenue of the Americas",
+                                        "street2": "6th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159712",
+                    "firm_bd_sec_number": "69009",
+                    "firm_bd_full_sec_number": "8-69009",
+                    "firm_name": "CABOT LODGE SECURITIES LLC",
+                    "firm_other_names": [
+                        "CABOT LODGE SECURITIES LLC",
+                        "WENTWORTH CAPITAL MARKETS",
+                        "PRIME UNITED SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 80,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"425 N MARTINGALE RD\", \"street2\": \"SUITE 1220\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60173\"}, \"mailingAddress\": {\"street1\": \"425 N MARTINGALE RD\", \"street2\": \"SUITE 1220\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60173\"}, \"businessPhoneNumber\": \"212-388-6200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "190 Washington Avenue",
+                                        "city": "Pleasantville",
+                                        "state": "NY",
+                                        "zipCode": "10570"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120708",
+                    "firm_bd_sec_number": "65337",
+                    "firm_bd_full_sec_number": "8-65337",
+                    "firm_name": "MAXIM GROUP LLC",
+                    "firm_other_names": [
+                        "M-VEST (A WHOLLY OWNED DIVISION OF MAXIM GROUP)",
+                        "MAXIM MERCHANT CAPITAL (A WHOLLY OWNED DIVISION OF MAXIM GROUP",
+                        "MAXIM GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 PARK AVE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"300 PARK AVE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-895-3500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 Crossways Park Drive West - Suite 207",
+                                        "city": "WOODBURY",
+                                        "state": "NY",
+                                        "zipCode": "11797"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103848",
+                    "firm_bd_sec_number": "52323",
+                    "firm_bd_full_sec_number": "8-52323",
+                    "firm_name": "QUASAR DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "QUASAR DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 73,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"THREE CANAL PLAZA, SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"USA\", \"postalCode\": \"04101\"}, \"mailingAddress\": {\"street1\": \"THREE CANAL PLAZA, SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"USA\", \"postalCode\": \"04101\"}, \"businessPhoneNumber\": \"866-251-6920\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 E. 53rd Street",
+                                        "street2": "21st Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136113",
+                    "firm_bd_sec_number": "66971",
+                    "firm_bd_full_sec_number": "8-66971",
+                    "firm_name": "RENAISSANCE INSTITUTIONAL MANAGEMENT LLC",
+                    "firm_other_names": [
+                        "RENAISSANCE INSTITUTIONAL MANAGEMENT LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 THIRD AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"800 THIRD AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 821-1502\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 THIRD AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "34071",
+                    "firm_bd_sec_number": "46202",
+                    "firm_bd_full_sec_number": "8-46202",
+                    "firm_name": "JNK SECURITIES CORP.",
+                    "firm_other_names": [
+                        "JNK SECURITIES",
+                        "UPHOLD SECURITIES, INC. DBA JNK SECURITIES",
+                        "UPHOLD SECURITIES INC.",
+                        "JNK SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"530 FIFTH AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"530 FIFTH AVENUE\", \"street2\": \"STE 3A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-885-6314\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "530 FIFTH AVE.",
+                                        "street2": "3RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172056",
+                    "firm_bd_sec_number": "69497",
+                    "firm_bd_full_sec_number": "8-69497",
+                    "firm_name": "RIVERSTONE CAPITAL SERVICES LLC",
+                    "firm_other_names": [
+                        "RIVERSTONE CAPITAL SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"712 5TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"712 5TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-271-6252\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "712 5th Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "61",
+                    "firm_bd_sec_number": "94",
+                    "firm_bd_full_sec_number": "8-94",
+                    "firm_ia_sec_number": "19699",
+                    "firm_ia_full_sec_number": "801-19699",
+                    "firm_name": "B. C. ZIEGLER AND COMPANY",
+                    "ia_firm_name": "B. C. ZIEGLER AND COMPANY",
+                    "firm_other_names": [
+                        "B. C. ZIEGLER AND COMPANY",
+                        "ZIEGLER WEALTH MANAGEMENT",
+                        "ZIEGLER PRIVATE EQUITY",
+                        "ZIEGLER INVESTMENT SERVICES GROUP",
+                        "ZIEGLER CONSULTING SERVICE",
+                        "ZIEGLER CAPITAL MARKETS",
+                        "ZIEGLER",
+                        "REACT GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 22,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE NORTH WACKER DRIVE, SUITE 2000\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"ONE NORTH WACKER DRIVE, SUITE 2000\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312/263-0110\", \"iaFirmName\": \"B. C. ZIEGLER AND COMPANY\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1 N. WACKER DRIVE\", \"street2\": \"SUITE 2000\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60606\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 Grand Central Tower",
+                                        "street2": "140 East 45th Street, Ste. 2200",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,470 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35560",
+                    "firm_bd_sec_number": "46816",
+                    "firm_bd_full_sec_number": "8-46816",
+                    "firm_name": "ICBC STANDARD SECURITIES INC.",
+                    "firm_other_names": [
+                        "ICBC STANDARD SECURITIES INC.",
+                        "STANDARD NEW YORK, INC",
+                        "STANDARD NEW YORK SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"520 MADISON AVENUE\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"520 MADISON AVENUE\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 407-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "520 MADISON AVENUE",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6939",
+                    "firm_bd_sec_number": "19412",
+                    "firm_bd_full_sec_number": "8-19412",
+                    "firm_name": "INVESCO CAPITAL MARKETS, INC.",
+                    "firm_other_names": [
+                        "INVESCO CAPITAL MARKETS, INC.",
+                        "ZEDD SECURITIES",
+                        "VAN KAMPEN/AMERICAN CAPITAL DISTRIBUTORS, INC.",
+                        "VAN KAMPEN MERRITT INC.",
+                        "VAN KAMPEN FUNDS INC.",
+                        "VAN KAMPEN FILKIN & MERRITT INC.",
+                        "VAN KAMPEN AMERICAN CAPITAL DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 GREENWAY PLAZA\", \"street2\": \"SUITE 1000\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77046\"}, \"mailingAddress\": {\"street1\": \"11 GREENWAY PLAZA\", \"street2\": \"SUITE 1000\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77046\"}, \"businessPhoneNumber\": \"713-214-1919\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 Liberty St.",
+                                        "street2": "11th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104245",
+                    "firm_bd_sec_number": "52725",
+                    "firm_bd_full_sec_number": "8-52725",
+                    "firm_name": "CF GLOBAL TRADING, LLC",
+                    "firm_other_names": [
+                        "CF GLOBAL TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"SUITE 1455\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10165\"}, \"mailingAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"SUITE 1455\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10165\"}, \"businessPhoneNumber\": \"212-888-4711\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 East 42nd Street",
+                                        "street2": "SUITE 1455",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "109679",
+                    "firm_bd_sec_number": "53100",
+                    "firm_bd_full_sec_number": "8-53100",
+                    "firm_name": "BDO CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "BDO CAPITAL ADVISORS, LLC",
+                        "TRENWITH SECURITIES, LLC",
+                        "BDO CORPORATE FINANCE, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE INTERNATIONAL PLACE, 4TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02110\"}, \"mailingAddress\": {\"street1\": \"ONE INTERNATIONAL PLACE, 4TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02110\"}, \"businessPhoneNumber\": \"617.442.7576\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "325143",
+                    "firm_bd_sec_number": "71064",
+                    "firm_bd_full_sec_number": "8-71064",
+                    "firm_name": "KINGSROCK SECURITIES LLC",
+                    "firm_other_names": [
+                        "KINGSROCK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 THIRD AVENUE, SUITE 100\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"900 THIRD AVENUE, SUITE 100\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"917-992-4544\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "900 THIRD AVENUE, SUITE 100",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169092",
+                    "firm_bd_sec_number": "69349",
+                    "firm_bd_full_sec_number": "8-69349",
+                    "firm_name": "BMS CAPITAL ADVISORY, INC.",
+                    "firm_other_names": [
+                        "BMS CAPITAL ADVISORY, INC.",
+                        "BMS CAPITAL SOLUTIONS & ADVISORY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"757 THIRD AVENUE, 22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"757 THIRD AVENUE, 22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"469-847-2134\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "757 THIRD AVENUE, 22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299729",
+                    "firm_bd_sec_number": "70312",
+                    "firm_bd_full_sec_number": "8-70312",
+                    "firm_name": "ABSA SECURITIES U.S. INC.",
+                    "firm_other_names": [
+                        "ABSA SECURITIES U.S. INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"610 FIFTH AVENUE\", \"street2\": \"SUITE 405\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"610 FIFTH AVENUE\", \"street2\": \"SUITE 405\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"646-844-0282\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "610 FIFTH AVENUE",
+                                        "street2": "SUITE 405",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44542",
+                    "firm_bd_sec_number": "50727",
+                    "firm_bd_full_sec_number": "8-50727",
+                    "firm_name": "MARKETAXESS CORPORATION",
+                    "firm_other_names": [
+                        "MARKETAXESS CORPORATION",
+                        "TRADING EDGE, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 HUDSON YARDS\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"55 HUDSON YARDS\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-813-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 HUDSON YARDS",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31977",
+                    "firm_bd_sec_number": "45648",
+                    "firm_bd_full_sec_number": "8-45648",
+                    "firm_name": "SHINHAN SECURITIES AMERICA, INC.",
+                    "firm_other_names": [
+                        "GOOD MORNING SECURITIES USA INC.",
+                        "SSANGYONG SECURITIES AMERICA INC.",
+                        "SHINHAN SECURITIES AMERICA, INC.",
+                        "SHINHAN INVESTMENT AMERICA INC.",
+                        "GOOD MORNING SHINHAN SECURITIES USA INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"750 7TH AVENUE\", \"street2\": \"SUITE 2602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"750 7TH AVENUE\", \"street2\": \"SUITE 2602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-397-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "750 7TH AVENUE",
+                                        "street2": "SUITE 2602",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148248",
+                    "firm_bd_sec_number": "67996",
+                    "firm_bd_full_sec_number": "8-67996",
+                    "firm_name": "INVESTX MARKETS LLC",
+                    "firm_other_names": [
+                        "AUCTUS SECURITIES, LLC",
+                        "WOODVILLE HALL CAPITAL, LLC",
+                        "INVESTX MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19 FULTON STREET\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"19 FULTON STREET\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"212-390-9270\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "19 Fulton St. Suite #307",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "323755",
+                    "firm_bd_sec_number": "71002",
+                    "firm_bd_full_sec_number": "8-71002",
+                    "firm_name": "VERITAS CAPITAL SECURITIES L.L.C.",
+                    "firm_other_names": [
+                        "VERITAS CAPITAL SECURITIES L.L.C.",
+                        "VERITAS CAPITAL SECURITIES, LLC",
+                        "VERITAS CAPITAL SECURITIES, L.L.C"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"9 WEST 57TH ST, FLOOR 31ST\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"9 WEST 57TH ST, FLOOR 32 ND\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-415-6700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "9 WEST 57TH ST, FLOOR 31ST",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5611",
+                    "firm_bd_sec_number": "16247",
+                    "firm_bd_full_sec_number": "8-16247",
+                    "firm_ia_sec_number": "12999",
+                    "firm_ia_full_sec_number": "801-12999",
+                    "firm_name": "INSIGHT SECURITIES, INC.",
+                    "ia_firm_name": "INSIGHT SECURITIES, INC.",
+                    "firm_other_names": [
+                        "G. A. HORWITZ & CO., INC.",
+                        "THE HELMSMAN GROUP, INC.",
+                        "PRECISE SECURITIES - DIVISION OF INSIGHT SECURITIES, INC.",
+                        "PRECISE SECURITIES - DIVISION OF HORWITZ & ASSOCIATES, INC.",
+                        "PRECISE INVESTMENT MANAGEMENT",
+                        "PASSERELLE ADVISORS",
+                        "MISSION GLOBAL PARTNERS",
+                        "INTERGLOBAL INVESTMENTS - DIVISION OF INSIGHT SECURITIES INC.",
+                        "INSURANCE & FINANCIAL SERVICES OF SOUTH FLORIDA, INC.",
+                        "INSIGHT SECURITIES, INC.",
+                        "INSIGHT AMERICAS SECURITIES INC",
+                        "HORWITZ, SCHAKNER & ASSOCIATES, INC.",
+                        "HORWITZ PHILANTHROPIC ADVISORS",
+                        "HORWITZ & ASSOCIATES, INC.",
+                        "GWM PARTNERS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 23,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 CENTRAL AVE\", \"street2\": \"SUITE 293\", \"city\": \"HIGHLAND PARK\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60035\"}, \"mailingAddress\": {\"street1\": \"600 CENTRAL AVE\", \"street2\": \"SUITE 265\", \"city\": \"HIGHLAND PARK\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60035\"}, \"businessPhoneNumber\": \"224-632-4700\", \"iaFirmName\": \"INSIGHT SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"600 CENTRAL AVE.\", \"street2\": \"SUITE 293\", \"city\": \"HIGHLAND PARK\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60035\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "Brooklyn",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

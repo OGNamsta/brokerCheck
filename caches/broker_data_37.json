@@ -1,0 +1,467 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "138970",
+                    "firm_bd_sec_number": "67183",
+                    "firm_bd_full_sec_number": "8-67183",
+                    "firm_name": "ATLAS STRATEGIC ADVISORS, LLC",
+                    "firm_other_names": [
+                        "ATLAS STRATEGIC ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"126 WEST 22 STREET\", \"street2\": \"SUITE 9S\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10011\"}, \"mailingAddress\": {\"street1\": \"126 WEST 22 STREET\", \"street2\": \"SUITE 9S\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10011\"}, \"businessPhoneNumber\": \"212-471-4120\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "126 WEST 22 STREET",
+                                        "street2": "SUITE 9S",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10011"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7424",
+                    "firm_bd_sec_number": "21380",
+                    "firm_bd_full_sec_number": "8-21380",
+                    "firm_name": "MONNESS CRESPI HARDT & CO., INC.",
+                    "firm_other_names": [
+                        "MONNESS CRESPI HARDT & CO., INC.",
+                        "MONNESS, WILLIAMS, CRESPI & CO., INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"767 THIRD AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-2047\"}, \"mailingAddress\": {\"street1\": \"767 THIRD AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-2047\"}, \"businessPhoneNumber\": \"(212)838-7575\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "767 THIRD AVE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132398",
+                    "firm_bd_sec_number": "66593",
+                    "firm_bd_full_sec_number": "8-66593",
+                    "firm_name": "WEILD & CO.",
+                    "firm_other_names": [
+                        "CMA PARTNERS, LLC",
+                        "WEILD CAPITAL, LLC",
+                        "WEILD & CO., LLC",
+                        "WEILD & CO.",
+                        "THE NATIONAL RESEARCH STANDARD, INC.",
+                        "THE NATIONAL RESEARCH STANDARD",
+                        "THE NATIONAL RESEARCH EXCHANGE",
+                        "ISSUWORKS CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"777 29TH STREET\", \"street2\": \"SUITE 402\", \"city\": \"BOULDER\", \"state\": \"CO\", \"country\": \"USA\", \"postalCode\": \"80303\"}, \"mailingAddress\": {\"street1\": \"777 29TH STREET\", \"street2\": \"SUITE 402\", \"city\": \"BOULDER\", \"state\": \"CO\", \"country\": \"USA\", \"postalCode\": \"80303\"}, \"businessPhoneNumber\": \"303-223-9621\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 Lexington, 17th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309938",
+                    "firm_bd_sec_number": "70561",
+                    "firm_bd_full_sec_number": "8-70561",
+                    "firm_name": "HIGHWOOD SECURITIES LLC",
+                    "firm_other_names": [
+                        "HIGHWOOD SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"62 OAK HILL DRIVE\", \"city\": \"OYSTER BAY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11771\"}, \"mailingAddress\": {\"street1\": \"62 OAK HILL DRIVE\", \"city\": \"OYSTER BAY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11771\"}, \"businessPhoneNumber\": \"516-497-0300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "62 OAK HILL DRIVE",
+                                        "city": "OYSTER BAY",
+                                        "state": "NY",
+                                        "zipCode": "11771"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18377",
+                    "firm_bd_sec_number": "24255",
+                    "firm_bd_full_sec_number": "8-24255",
+                    "firm_name": "ROSENBLATT SECURITIES INC.",
+                    "firm_other_names": [
+                        "RICHARD A. ROSENBLATT & COMPANY, INC.",
+                        "ROSENBLATT SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"59TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"59TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-607-3100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 WALL STREET",
+                                        "street2": "59TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8052",
+                    "firm_bd_sec_number": "24075",
+                    "firm_bd_full_sec_number": "8-24075",
+                    "firm_ia_sec_number": "128827",
+                    "firm_ia_full_sec_number": "801-128827",
+                    "firm_name": "CREWS & ASSOCIATES, INC.",
+                    "ia_firm_name": "CREWS & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "CREWS",
+                        "FIRST SECURITY CREWS",
+                        "CREWS & ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 31,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"521 PRESIDENT CLINTON AVENUE\", \"street2\": \"SUITE 800\", \"city\": \"LITTLE ROCK\", \"state\": \"AR\", \"country\": \"UNITED STATES\", \"postalCode\": \"72201-1729\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 1696\", \"city\": \"LITTLE ROCK\", \"state\": \"AR\", \"country\": \"UNITED STATES\", \"postalCode\": \"72203-1696\"}, \"businessPhoneNumber\": \"501-907-2000\", \"iaFirmName\": \"CREWS & ASSOCIATES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"521 PRESIDENT CLINTON AVENUE\", \"street2\": \"SUITE 800\", \"city\": \"LITTLE ROCK\", \"state\": \"AR\", \"country\": \"United States\", \"postalCode\": \"72201\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "369 Lexington Avenue",
+                                        "street2": "21st Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "312784",
+                    "firm_bd_sec_number": "70739",
+                    "firm_bd_full_sec_number": "8-70739",
+                    "firm_name": "PROMETHEUM EMBER CAPITAL",
+                    "firm_other_names": [
+                        "PROMETHEUM CAPITAL",
+                        "PROMETHEUM EMBER CAPITAL, LLC",
+                        "PROMETHEUM EMBER CAPITAL",
+                        "PROMETHEUM CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"120 WALL STREET\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"120 WALL STREET\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212 333 3315\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 WALL STREET",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7976",
+                    "firm_bd_sec_number": "33944",
+                    "firm_bd_full_sec_number": "8-33944",
+                    "firm_name": "GORDON, HASKETT CAPITAL CORPORATION",
+                    "firm_other_names": [
+                        "BRUAN, GORDON INVESTING GROUP, INC.",
+                        "GORDON, HASKETT INVESTING GROUP, INC.",
+                        "GORDON, HASKETT CAPITAL CORPORATION",
+                        "GORDON, HASKETT & CO., INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"441 LEXINGTON AVENUE 10TH FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"441 LEXINGTON AVENUE 10TH FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"9143290370\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "441 LEXINGTON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41504",
+                    "firm_bd_sec_number": "49466",
+                    "firm_bd_full_sec_number": "8-49466",
+                    "firm_name": "FIRST CITIZENS CAPITAL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CAP-SYN CORP.",
+                        "NEWCOURT CAPITAL SECURITIES, INC.",
+                        "NEWCOURT CAPITAL",
+                        "FIRST CITIZENS CAPITAL SECURITIES, LLC",
+                        "CIT CAPITAL SECURITIES, INC.",
+                        "CIT CAPITAL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 WEST 42ND STREET\", \"street2\": \"13TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"11 WEST 42ND STREET\", \"street2\": \"13TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-771-7872\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 WEST 42ND STREET",
+                                        "street2": "13TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148521",
+                    "firm_bd_sec_number": "68040",
+                    "firm_bd_full_sec_number": "8-68040",
+                    "firm_name": "MCINTYRE CAPITAL PARTNERS, LLC",
+                    "firm_other_names": [
+                        "CEDI CAPITAL MARKETS, LLC",
+                        "TRILIAD SECURITIES, LLC",
+                        "MCINTYRE CAPITAL PARTNERS, LLC",
+                        "GOTHAM CAPITAL ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 COLUMBUS CIRCLE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"3 COLUMBUS CIRCLE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"646-450-3554\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 Columbus Circle",
+                                        "street2": "15th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "166504",
+                    "firm_bd_sec_number": "69218",
+                    "firm_bd_full_sec_number": "8-69218",
+                    "firm_name": "JM FINANCIAL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "JM FINANCIAL SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1325 AVENUE OF THE AMERICAS\", \"street2\": \"28TH FLOOR, OFFICE 2821\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1325 AVENUE OF THE AMERICAS\", \"street2\": \"28TH FLOOR, OFFICE 2821\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"1-332-900-4958\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1325 AVENUE OF THE AMERICAS",
+                                        "street2": "28TH FLOOR, OFFICE 2821",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103725",
+                    "firm_bd_sec_number": "52234",
+                    "firm_bd_full_sec_number": "8-52234",
+                    "firm_name": "LAMPERT CAPITAL MARKETS INC.",
+                    "firm_other_names": [
+                        "ICM CAPITAL MARKETS LTD.",
+                        "LAMPERT CAPITAL MARKETS INC.",
+                        "INTERNET CAPITAL MARKETS CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 THIRD AVE\", \"street2\": \"SUITE 1403\", \"city\": \"NY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"900 THIRD AVE\", \"street2\": \"SUITE 1403\", \"city\": \"NY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-833-4900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444  MADISON AVE",
+                                        "street2": "4th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

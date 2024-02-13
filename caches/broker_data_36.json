@@ -1,0 +1,450 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152385",
+                    "firm_bd_sec_number": "68449",
+                    "firm_bd_full_sec_number": "8-68449",
+                    "firm_name": "FORTRESS CAPITAL FORMATION LLC",
+                    "firm_other_names": [
+                        "FORTRESS CAPITAL FORMATION LLC",
+                        "FORTRESS INVESTMENT GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS, 45TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS, 45TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"212-798-6100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS, 45TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "140016",
+                    "firm_bd_sec_number": "67270",
+                    "firm_bd_full_sec_number": "8-67270",
+                    "firm_name": "PARK MADISON PARTNERS LLC",
+                    "firm_other_names": [
+                        "PARK MADISON PARTNERS LLC",
+                        "PARTNERS AT PARK MADISON LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 HARBOR RD.\", \"city\": \"PORT WASHINGTON\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11050\"}, \"mailingAddress\": {\"street1\": \"200 HARBOR RD.\", \"city\": \"PORT WASHINGTON\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11050\"}, \"businessPhoneNumber\": \"212-448-7350\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "299 Park Avenue",
+                                        "street2": "Suite 4100",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10171"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "269984",
+                    "firm_bd_sec_number": "69643",
+                    "firm_bd_full_sec_number": "8-69643",
+                    "firm_name": "DUCERA SECURITIES LLC",
+                    "firm_other_names": [
+                        "DUCERA SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 TIMES SQUARE, FLOOR 36\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"11 TIMES SQUARE, FLOOR 36\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-671-9771\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 TIMES SQUARE, FLOOR 36",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "164399",
+                    "firm_bd_sec_number": "69097",
+                    "firm_bd_full_sec_number": "8-69097",
+                    "firm_name": "LIONTREE ADVISORS LLC",
+                    "firm_other_names": [
+                        "AB ADVISORS GROUP LLC",
+                        "LIONTREE ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"745 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10151\"}, \"mailingAddress\": {\"street1\": \"745 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10151\"}, \"businessPhoneNumber\": \"(212) 644-4200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "745 Fifth Avenue",
+                                        "street2": "15th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10151"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151337",
+                    "firm_bd_sec_number": "68358",
+                    "firm_bd_full_sec_number": "8-68358",
+                    "firm_name": "MCS CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "KKR CAPITAL MARKETS II LLC",
+                        "SEVARA CAPITAL MARKETS, LLC",
+                        "MCS CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 HUDSON YARDS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"30 HUDSON YARDS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-750-8300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 HUDSON YARDS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304656",
+                    "firm_bd_sec_number": "70389",
+                    "firm_bd_full_sec_number": "8-70389",
+                    "firm_name": "OHANAE SECURITIES LLC",
+                    "firm_other_names": [
+                        "OHANAE SECURITIES LLC",
+                        "QUICKSILVER SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-796-1531\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 Broadway, Suite 12-129",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "170172",
+                    "firm_bd_sec_number": "69412",
+                    "firm_bd_full_sec_number": "8-69412",
+                    "firm_name": "JAMIESON CORPORATE FINANCE US LLC",
+                    "firm_other_names": [
+                        "JAMIESON CORPORATE FINANCE US LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"410 PARK AVE\", \"street2\": \"SUITE 1510\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"33 FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"(212) 224 8200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "410 PARK AVE",
+                                        "street2": "SUITE 1510",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "305134",
+                    "firm_bd_sec_number": "70393",
+                    "firm_bd_full_sec_number": "8-70393",
+                    "firm_name": "DV SECURITIES, LLC",
+                    "firm_other_names": [
+                        "DV SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"425 S. FINANCIAL PLACE\", \"street2\": \"SUITE 2800\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60605\"}, \"mailingAddress\": {\"street1\": \"425 S. FINANCIAL PLACE\", \"street2\": \"SUITE 2800\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60605\"}, \"businessPhoneNumber\": \"312-837-0649\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "395 Hudson Street",
+                                        "street2": "Suite 701",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104408",
+                    "firm_bd_sec_number": "52864",
+                    "firm_bd_full_sec_number": "8-52864",
+                    "firm_name": "TRAILMARK INC.",
+                    "firm_other_names": [
+                        "FORTRESS GROUP, INC.",
+                        "TRAILMARK INC.",
+                        "FORTRESS WILLIAMSON SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3379 PEACHTREE ROAD N.E.-SUITE 272\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30326-1020\"}, \"mailingAddress\": {\"street1\": \"3535 PEACHTREE RD NE STE 520-424\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30326\"}, \"businessPhoneNumber\": \"404 869-4600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "757 THIRD AVENUE",
+                                        "street2": "20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29102",
+                    "firm_bd_sec_number": "44118",
+                    "firm_bd_full_sec_number": "8-44118",
+                    "firm_ia_sec_number": "68376",
+                    "firm_ia_full_sec_number": "801-68376",
+                    "firm_name": "TAGLICH BROTHERS, INC.",
+                    "ia_firm_name": "TAGLICH BROTHERS, INC.",
+                    "firm_other_names": [
+                        "MICHAEL N. TAGLICH, B/D",
+                        "TAGLICH BROTHERS, INC.",
+                        "TAGLICH BROTHERS, D'AMADEO, WAGNER & CO., INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"37 MAIN STREET\", \"city\": \"COLD SPRING HARBOR\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11724\"}, \"mailingAddress\": {\"street1\": \"37 MAIN STREET\", \"city\": \"COLD SPRING HARBOR\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11724\"}, \"businessPhoneNumber\": \"631-757-1500\", \"iaFirmName\": \"TAGLICH BROTHERS, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"37 MAIN STREET\", \"city\": \"COLD SPRING HARBOR\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"11724\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "37 Main Street",
+                                        "city": "Cold Spring Harbor",
+                                        "state": "NY",
+                                        "zipCode": "11724"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155535",
+                    "firm_bd_sec_number": "68721",
+                    "firm_bd_full_sec_number": "8-68721",
+                    "firm_name": "TOWERBROOK FINANCIAL, L.P.",
+                    "firm_other_names": [
+                        "TOWERBROOK FINANCIAL, L.P.",
+                        "TOWERBROOK FINANCIAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"PARK AVENUE TOWER, 65 EAST 55TH STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"PARK AVENUE TOWER, 65 EAST 55TH STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-699-2260\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "PARK AVENUE TOWER, 65 EAST 55TH STREET",
+                                        "street2": "19TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290408",
+                    "firm_bd_sec_number": "70030",
+                    "firm_bd_full_sec_number": "8-70030",
+                    "firm_name": "DRW EXECUTION SERVICES, LLC",
+                    "firm_other_names": [
+                        "DRW EXECUTION SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"540 W. MADISON ST.\", \"street2\": \"SUITE 2500\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"U.S.\", \"postalCode\": \"60661\"}, \"mailingAddress\": {\"street1\": \"540 W. MADISON ST.\", \"street2\": \"SUITE 2500\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"U.S.\", \"postalCode\": \"60661\"}, \"businessPhoneNumber\": \"312-542-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 Liberty Street",
+                                        "street2": "42nd Floor, Suite 4201",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

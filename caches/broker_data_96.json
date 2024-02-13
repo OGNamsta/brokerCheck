@@ -1,0 +1,534 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "628",
+                    "firm_bd_sec_number": "2428",
+                    "firm_bd_full_sec_number": "8-2428",
+                    "firm_ia_sec_number": "63623",
+                    "firm_ia_full_sec_number": "801-63623",
+                    "firm_name": "FIFTH THIRD SECURITIES, INC.",
+                    "ia_firm_name": "FIFTH THIRD SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FIFTH THIRD SECURITIES",
+                        "THE OHIO COMPANY",
+                        "FIFTH THIRD/THE OHIO COMPANY",
+                        "FIFTH THIRD SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1102,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"34 FOUNTAIN SQUARE PLAZA\", \"street2\": \"MD 1090AM\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"45202\"}, \"mailingAddress\": {\"street1\": \"38 FOUNTAIN SQUARE PLAZA\", \"street2\": \"MD 1090AM\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"45263\"}, \"businessPhoneNumber\": \"888-889-1025\", \"iaFirmName\": \"FIFTH THIRD SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"34 FOUNTAIN SQUARE PLAZA\", \"street2\": \"MD 1090AM\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"United States\", \"postalCode\": \"45263\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "50 Rockefeller Plaza",
+                                        "street2": "11th Floor, Suite 1101",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152974",
+                    "firm_bd_sec_number": "68494",
+                    "firm_bd_full_sec_number": "8-68494",
+                    "firm_ia_sec_number": "78158",
+                    "firm_ia_full_sec_number": "801-78158",
+                    "firm_name": "CREATIVEONE SECURITIES, LLC",
+                    "ia_firm_name": "CREATIVEONE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "AFFINITY ASSET MANAGEMENT",
+                        "WESTERN LAKES FINANCIAL",
+                        "WALLSTREET GROUP ADVISORS, LLC",
+                        "VOYAGE FINANCIAL PARTNERS",
+                        "VJH CONCIERGE FINANCIAL PLANNING",
+                        "UPSTATE WEALTH MANAGEMENT",
+                        "SECURE FINANCIAL SERVICES, INC",
+                        "SAWYER WEALTH MANAGEMENT",
+                        "SABATKA FINANCIAL ADVISORY SERVICE, INC.",
+                        "RZA WEALTH MANAGEMENT",
+                        "RSL FINANCIAL MANAGEMENT",
+                        "ROBINSON FINANCIAL",
+                        "RG INVESTMENTS",
+                        "RETIREMENT DEFENDERS",
+                        "RASBERRY FINANCIAL SERVICES",
+                        "PRAIRIELAND INSURANCE GROUP, LLC",
+                        "NUTTER WEALTH MANAGEMENT",
+                        "NORTH COUNTY FINANCIAL ASSOCIATES",
+                        "MWI",
+                        "MUNKER FINANCIAL",
+                        "MONK FINANCIAL ADVISORS",
+                        "MIKE KLOBERDANZ, CHFC, LUTCF & ASSOCIATES",
+                        "MIKE AXTON & ASSOCIATES",
+                        "MG NASH FINANCIAL SOLUTIONS, INC",
+                        "MANAGING WEALTH & INCOME",
+                        "LUND FINANCIAL",
+                        "LLP FINANCIAL SERVICES",
+                        "LIFETIME FINANCIAL PLANNING",
+                        "LEWIS RETIREMENT SOLUTIONS, LLC",
+                        "JUDY FINANCIAL GROUP, INC",
+                        "JOHNSON FINANCIAL",
+                        "JENKINS & ASSOCIATES",
+                        "IWM FINANCIAL, INC",
+                        "INTEGRITY INVESTMENTS, INC",
+                        "HAYDENROCK FINANCIAL, LLC",
+                        "HARVEST FINANCIAL GROUP",
+                        "GULF COAST RETIREMENT SOLUTIONS",
+                        "GREER FINANCIAL SOLUTIONS, LLC",
+                        "GRAND CANYON PLANNING",
+                        "FUNDS MANAGEMENT",
+                        "FOOTE FINANCIAL",
+                        "FINANCIAL SOLUTIONS GROUP, LLC",
+                        "FINANCIAL CHOREOGRAPHY LLC",
+                        "EVERSON TAX & FINANCIAL SERVICES",
+                        "ETA FINANCIAL SERVICES",
+                        "DS DRELICH WEALTH MANAGEMENT",
+                        "CREATIVEONE SECURITIES, LLC",
+                        "CREATIVE ONE SECURITIES, LLC",
+                        "CORNERSTONE FINANCIAL",
+                        "COOK FINANCIAL GROUP",
+                        "CONFIANCE FINANCIAL ADVISORY",
+                        "COMPASS FINANCIAL WEALTH MANAGEMENT",
+                        "COASTAL CAPITAL INVESTMENT SERVICES",
+                        "CLIENT ONE SECURITIES, LLC",
+                        "CLIENT ONE SECURITIES LLC",
+                        "CLC FINANCIAL SERVICES, LLC",
+                        "CARTIER FINANCIAL",
+                        "CARSTENS FINANCIAL GROUP",
+                        "BENCHMARK FINANCIAL",
+                        "BELLUE & ASSOCIATES",
+                        "BAACKE INSURANCE SERVICES, INC.",
+                        "ATLANTIC COAST ADVISORY GROUP",
+                        "ASSOCIATES GROUP",
+                        "AMERICA'S RETIREMENT ADVISORY GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 158,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"USA\", \"postalCode\": \"66211\"}, \"mailingAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"USA\", \"postalCode\": \"66211\"}, \"businessPhoneNumber\": \"913 814-6097\", \"iaFirmName\": \"CREATIVEONE SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"United States\", \"postalCode\": \"66211\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2078 Richmond Ave",
+                                        "city": "Staten Island",
+                                        "state": "NY",
+                                        "zipCode": "10314"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "665",
+                    "firm_bd_sec_number": "15204",
+                    "firm_bd_full_sec_number": "8-15204",
+                    "firm_ia_sec_number": "108049",
+                    "firm_ia_full_sec_number": "801-108049",
+                    "firm_name": "PIPER SANDLER & CO.",
+                    "ia_firm_name": "PIPER SANDLER & CO.",
+                    "firm_other_names": [
+                        "PIPER JAFFRAY & CO.",
+                        "U.S. BANCORP PIPER JAFFRAY INC.",
+                        "THE VALENCE GROUP OF PIPER SANDLER",
+                        "RESTRUCTURING GROUP | TRS ADVISORS (PART OF INVESTMENT BANKING)",
+                        "PIPER, JAFFRAY & HOPWOOD INCORPORATED",
+                        "PIPER SANDLER & CO.",
+                        "PIPER JAFFRAY INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 61,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 NICOLLET MALL\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55402-7020\"}, \"mailingAddress\": {\"street1\": \"800 NICOLLET MALL\", \"street2\": \"SUITE 900\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55402-7020\"}, \"businessPhoneNumber\": \"612-303-6000\", \"iaFirmName\": \"PIPER SANDLER & CO.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"800 NICOLLET MALL\", \"street2\": \"SUITE 900\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"United States\", \"postalCode\": \"55402-7020\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1251 AVENUE OF THE AMERICAS, 6TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "189511",
+                    "firm_bd_sec_number": "69612",
+                    "firm_bd_full_sec_number": "8-69612",
+                    "firm_name": "CASTLE PLACEMENT, LLC",
+                    "firm_other_names": [
+                        "CASTLE PLACEMENT, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 15,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1460 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1460 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-418-1180\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1460 BROADWAY",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285406",
+                    "firm_bd_sec_number": "69839",
+                    "firm_bd_full_sec_number": "8-69839",
+                    "firm_name": "MADISON GLOBAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "MADISON GLOBAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"350 VANDERBILT MOTOR PARKWAY, SUITE 205\", \"city\": \"HAUPPAUGE\", \"state\": \"NY\", \"postalCode\": \"11788\"}, \"mailingAddress\": {\"street1\": \"350 VANDERBILT MOTOR PARKWAY, SUITE 205\", \"city\": \"HAUPPAUGE\", \"state\": \"NY\", \"postalCode\": \"11788\"}, \"businessPhoneNumber\": \"631-240-4155\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "350 VANDERBILT MOTOR PARKWAY, SUITE 205",
+                                        "city": "HAUPPAUGE",
+                                        "state": "NY",
+                                        "zipCode": "11788"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "40638",
+                    "firm_bd_sec_number": "49107",
+                    "firm_bd_full_sec_number": "8-49107",
+                    "firm_name": "GUGGENHEIM SECURITIES, LLC",
+                    "firm_other_names": [
+                        "GUGGENHEIM CAPITAL MARKETS, LLC",
+                        "LINKS SECURITIES LLC",
+                        "LINKS SECURITIES INC.",
+                        "GUGGENHEIM SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 18,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"330 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"330 MADISON AVENUE\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(212) 518-9200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 MADISON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146936",
+                    "firm_bd_sec_number": "68023",
+                    "firm_bd_full_sec_number": "8-68023",
+                    "firm_ia_sec_number": "71421",
+                    "firm_ia_full_sec_number": "801-71421",
+                    "firm_name": "BENJAMIN F. EDWARDS & COMPANY, INC.",
+                    "ia_firm_name": "BENJAMIN F. EDWARDS & COMPANY, INCORPORATED",
+                    "firm_other_names": [
+                        "BENJAMIN F. EDWARDS",
+                        "MSHB, LLC",
+                        "MSHB",
+                        "BENJAMIN F. EDWARDS & COMPANY, LLC",
+                        "BENJAMIN F. EDWARDS & COMPANY, INCORPORATED",
+                        "BENJAMIN F. EDWARDS & COMPANY, INC.",
+                        "BENJAMIN F. EDWARDS & COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 114,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE NORTH BRENTWOOD BLVD, SUITE 850\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"USA\", \"postalCode\": \"63105\"}, \"mailingAddress\": {\"street1\": \"ONE NORTH BRENTWOOD BLVD, SUITE 850\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"USA\", \"postalCode\": \"63105\"}, \"businessPhoneNumber\": \"314 726-1600\", \"iaFirmName\": \"BENJAMIN F. EDWARDS & COMPANY, INCORPORATED\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"ONE NORTH BRENTWOOD BOULEVARD\", \"street2\": \"SUITE 850\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"United States\", \"postalCode\": \"63105\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "925 WESTCHESTER AVE.",
+                                        "street2": "SUITE LL-01",
+                                        "city": "WHITE PLAINS",
+                                        "state": "NY",
+                                        "zipCode": "10604"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5249",
+                    "firm_bd_sec_number": "15826",
+                    "firm_bd_full_sec_number": "8-15826",
+                    "firm_name": "JOHN HANCOCK DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "JOHN HANCOCK DISTRIBUTORS LLC",
+                        "MANULIFE FINANCIAL SECURITIES LLC",
+                        "MANEQUITY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 34,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 BERKELEY STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02116\"}, \"mailingAddress\": {\"street1\": \"200 BERKELEY STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02116\"}, \"businessPhoneNumber\": \"617-663-3021\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2382 Algonquin Road",
+                                        "city": "Niskayuna",
+                                        "state": "NY",
+                                        "zipCode": "12309"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41795",
+                    "firm_bd_sec_number": "49575",
+                    "firm_bd_full_sec_number": "8-49575",
+                    "firm_name": "LOOMIS SAYLES DISTRIBUTORS, L.P.",
+                    "firm_other_names": [
+                        "LOOMIS SAYLES DISTRIBUTORS, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FINANCIAL CENTER\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02111\"}, \"mailingAddress\": {\"street1\": \"ONE FINANCIAL CENTER\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02111-2620\"}, \"businessPhoneNumber\": \"617-482-2450\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "667 MADISON AVENUE, 5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10065"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103782",
+                    "firm_bd_sec_number": "52275",
+                    "firm_bd_full_sec_number": "8-52275",
+                    "firm_name": "JANE STREET CAPITAL, LLC",
+                    "firm_other_names": [
+                        "JANE STREET CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 VESEY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"250 VESEY STREET\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"646-759-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 VESEY STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103987",
+                    "firm_bd_sec_number": "52461",
+                    "firm_bd_full_sec_number": "8-52461",
+                    "firm_name": "LIQUIDNET, INC.",
+                    "firm_other_names": [
+                        "LIQUIDNET, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 VESEY STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"200 VESEY STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-208-7061\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 Vesey Street",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "324533",
+                    "firm_bd_sec_number": "71031",
+                    "firm_bd_full_sec_number": "8-71031",
+                    "firm_name": "PAVE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PAVE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"171 MADISON AVE.\", \"street2\": \"SUITE 1500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"171 MADISON AVE.\", \"street2\": \"SUITE 1500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"646-690-2800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "171 MADISON AVE.",
+                                        "street2": "SUITE 1500",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

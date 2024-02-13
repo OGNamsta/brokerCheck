@@ -1,0 +1,463 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "314958",
+                    "firm_bd_sec_number": "70765",
+                    "firm_bd_full_sec_number": "8-70765",
+                    "firm_name": "RMB SECURITIES (USA) INC.",
+                    "firm_other_names": [
+                        "RMB SECURITIES (USA) INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"75 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 23A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"75 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 23A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"914-987-8668\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 Rockefeller Plaza",
+                                        "street2": "Suite 23A",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46749",
+                    "firm_bd_sec_number": "51538",
+                    "firm_bd_full_sec_number": "8-51538",
+                    "firm_name": "GEORGESON SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "GEORGESON SECURITIES CORPORATION",
+                        "GEORGESON SHAREHOLDER SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"118 FERNWOOD AVENUE\", \"city\": \"EDISON\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"08837\"}, \"mailingAddress\": {\"street1\": \"118 FERNWOOD AVENUE\", \"city\": \"EDISON\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"08837\"}, \"businessPhoneNumber\": \"2012755342\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1290 Avenue of the Americas",
+                                        "street2": "9th floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "289328",
+                    "firm_bd_sec_number": "69991",
+                    "firm_bd_full_sec_number": "8-69991",
+                    "firm_name": "BELL POTTER SECURITIES (US) LLC",
+                    "firm_other_names": [
+                        "BELL POTTER SECURITIES (US) LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"444 MADISON AVE\", \"street2\": \"FLOOR 39\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"444 MADISON AVE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"+1 917 819 1410\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444 MADISON AVE",
+                                        "street2": "FLOOR 39",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "173795",
+                    "firm_bd_sec_number": "69555",
+                    "firm_bd_full_sec_number": "8-69555",
+                    "firm_name": "AMBIT AMERICA INC.",
+                    "firm_other_names": [
+                        "AMBIT AMERICA INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"AMBIT AMERICA INC.\", \"street2\": \"485 MADISON AVENUE, 15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"AMBIT AMERICA INC.\", \"street2\": \"485 MADISON AVENUE, 15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-751-4422\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "485 Madison Avenue",
+                                        "street2": "15th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41957",
+                    "firm_bd_sec_number": "49647",
+                    "firm_bd_full_sec_number": "8-49647",
+                    "firm_name": "COMMERZ MARKETS LLC",
+                    "firm_other_names": [
+                        "COMMERZ MARKETS LLC",
+                        "DRESDNER KLEINWORT WASSERSTEIN SECURITIES LLC",
+                        "DRESDNER KLEINWORT SECURITIES LLC",
+                        "DRESDNER KLEINWORT BENSON NORTH AMERICA LLC",
+                        "COMMERZBANK"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"225 LIBERTY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"225 LIBERTY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-266-7200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 LIBERTY STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131449",
+                    "firm_bd_sec_number": "66467",
+                    "firm_bd_full_sec_number": "8-66467",
+                    "firm_name": "EQUUS FINANCIAL CONSULTING LLC",
+                    "firm_other_names": [
+                        "BAY POINT ADVISORS, LLC",
+                        "WEATHERVANE CAPITAL STRATEGIES LLC",
+                        "PTD CAPITAL ADVISORS LLC",
+                        "LIBERTY LANE CAPITAL LLC",
+                        "HAYSTACK CAPITAL PARTNERS, LLC",
+                        "EQUUS FINANCIAL CONSULTING LLC",
+                        "CROSSBAY CAPITAL PARTNERS LLC",
+                        "C2 GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"78 PINE ST., SUITE 101\", \"city\": \"NEW CANAAN\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06840\"}, \"mailingAddress\": {\"street1\": \"78 PINE ST., SUITE 101\", \"city\": \"NEW CANAAN\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06840\"}, \"businessPhoneNumber\": \"203-222-7400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "64 Purchase St., 2nd fl.",
+                                        "city": "Rye",
+                                        "state": "NY",
+                                        "zipCode": "10580"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "135327",
+                    "firm_bd_sec_number": "66911",
+                    "firm_bd_full_sec_number": "8-66911",
+                    "firm_name": "SGMA CAPITAL MARKETS LIMITED",
+                    "ia_firm_name": "NIAGARA INTERNATIONAL CAPITAL LIMITED",
+                    "firm_other_names": [
+                        "NIAGARA INTERNATIONAL CAPITAL LIMITED",
+                        "SGMA CAPITAL MARKETS LIMITED",
+                        "SGMA CAPITAL MARKETS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"757 THIRD AVENUE\", \"street2\": \"21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"757 THIRD AVENUE\", \"street2\": \"21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-681-6349\", \"iaFirmName\": \"NIAGARA INTERNATIONAL CAPITAL LIMITED\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"8940 MAIN STREET\", \"city\": \"CLARENCE\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"14031\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "757 THIRD AVENUE",
+                                        "street2": "21ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "119266",
+                    "firm_bd_sec_number": "65167",
+                    "firm_bd_full_sec_number": "8-65167",
+                    "firm_name": "THE SILVERFERN GROUP, INC.",
+                    "firm_other_names": [
+                        "KIWI PARTNERS SECURITIES INC.",
+                        "THE SILVERFERN GROUP, INC.",
+                        "KIWI SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"777 W. PUTNAM AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"GREENWICH\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06830\"}, \"mailingAddress\": {\"street1\": \"2 GREENWICH OFFICE PARK\", \"street2\": \"SUITE 300\", \"city\": \"GREENWICH\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06830\"}, \"businessPhoneNumber\": \"203-542-2870\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 E. 52ND STREET",
+                                        "street2": "32ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146993",
+                    "firm_bd_sec_number": "67865",
+                    "firm_bd_full_sec_number": "8-67865",
+                    "firm_name": "HUNTWICKE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "HUNTWICKE SECURITIES, LLC",
+                        "PHALANX TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7 GROVE STREET\", \"street2\": \"SUITE 201\", \"city\": \"TOPSFIELD\", \"state\": \"MA\", \"postalCode\": \"01983\"}, \"mailingAddress\": {\"street1\": \"7 GROVE STREET\", \"street2\": \"SUITE 201\", \"city\": \"TOPSFIELD\", \"state\": \"MA\", \"postalCode\": \"01983\"}, \"businessPhoneNumber\": \"978-887-5981\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1185 Avenue of the Americas",
+                                        "street2": "3rd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147374",
+                    "firm_bd_sec_number": "67902",
+                    "firm_bd_full_sec_number": "8-67902",
+                    "firm_name": "PARAMAX SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PARAMAX SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"333 INTERNATIONAL DRIVE\", \"street2\": \"SUITE A\", \"city\": \"WILLIAMSVILLE\", \"state\": \"NY\", \"postalCode\": \"14221\"}, \"mailingAddress\": {\"street1\": \"333 INTERNATIONAL DRIVE\", \"street2\": \"SUITE A\", \"city\": \"WILLIAMSVILLE\", \"state\": \"NY\", \"postalCode\": \"14221\"}, \"businessPhoneNumber\": \"716.626.1200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "333 INTERNATIONAL DRIVE",
+                                        "street2": "SUITE A",
+                                        "city": "WILLIAMSVILLE",
+                                        "state": "NY",
+                                        "zipCode": "14221"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146087",
+                    "firm_bd_sec_number": "67782",
+                    "firm_bd_full_sec_number": "8-67782",
+                    "firm_name": "MONITOR CAPITAL LLC",
+                    "ia_firm_name": "MONITOR CAPITAL LLC",
+                    "firm_other_names": [
+                        "MONITOR CAPITAL (SUCCESSOR) LLC",
+                        "MONITOR CAPITAL, LLC",
+                        "MONITOR CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"39 MILLER HILL WOODS COURT\", \"city\": \"CARMEL\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10512\"}, \"mailingAddress\": {\"street1\": \"39 MILLER HILL WOODS COURT\", \"city\": \"CARMEL\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10512\"}, \"businessPhoneNumber\": \"9174506773\", \"iaFirmName\": \"MONITOR CAPITAL LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"39 MILLER HILL WOODS COURT\", \"city\": \"CARMEL\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10512\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "39 Miller Hill Woods Court",
+                                        "city": "Carmel",
+                                        "state": "NY",
+                                        "zipCode": "10512"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "125958",
+                    "firm_bd_sec_number": "65839",
+                    "firm_bd_full_sec_number": "8-65839",
+                    "firm_name": "AGC PARTNERS",
+                    "firm_other_names": [
+                        "AGC PARTNERS",
+                        "AMERICA'S GROWTH CAPTIAL, LLC",
+                        "AMERICA'S GROWTH CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"99 HIGH STREET\", \"street2\": \"FLOOR 22\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02110\"}, \"mailingAddress\": {\"street1\": \"99 HIGH STREET\", \"street2\": \"FLOOR 22\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02110\"}, \"businessPhoneNumber\": \"617-261-4100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 E 42nd Street",
+                                        "street2": "SUITE 1850",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

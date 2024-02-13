@@ -1,0 +1,467 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7360",
+                    "firm_bd_sec_number": "13023",
+                    "firm_bd_full_sec_number": "8-13023",
+                    "firm_name": "OLD SLIP CAPITAL MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "CNA INVESTOR SERVICES, INC.",
+                        "OLD SLIP CAPITAL MANAGMENT, INC.",
+                        "OLD SLIP CAPITAL MANAGEMENT, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"646-290-7711\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 WALL STREET",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147798",
+                    "firm_bd_sec_number": "67928",
+                    "firm_bd_full_sec_number": "8-67928",
+                    "firm_name": "ARKONIS CAPITAL LLC",
+                    "firm_other_names": [
+                        "ARKONIS CAPITAL LLC",
+                        "SPREADZERO LLC",
+                        "SPREAD ZERO, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7600 JERICHO TURNPIKE\", \"street2\": \"SUITE 304\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11797\"}, \"mailingAddress\": {\"street1\": \"7600 JERICHO TURNPIKE\", \"street2\": \"SUITE 304\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11797\"}, \"businessPhoneNumber\": \"917-716-3542\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "7600 JERICHO TURNPIKE",
+                                        "street2": "SUITE 304",
+                                        "city": "WOODBURY",
+                                        "state": "NY",
+                                        "zipCode": "11797"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "167663",
+                    "firm_bd_sec_number": "69274",
+                    "firm_bd_full_sec_number": "8-69274",
+                    "firm_name": "SOVEREIGN GLOBAL ADVISORS LLC",
+                    "ia_firm_name": "SOVEREIGN GLOBAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "DRAGOTTA, JOHN",
+                        "SOVEREIGN GLOBAL ADVISORS, LLC",
+                        "SOVEREIGN GLOBAL ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"501 S CHERRY STREET\", \"street2\": \"11TH FLOOR\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"US\", \"postalCode\": \"80246\"}, \"mailingAddress\": {\"street1\": \"501 S CHERRY STREET\", \"street2\": \"11TH FLOOR\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"US\", \"postalCode\": \"80246\"}, \"businessPhoneNumber\": \"866-790-9700\", \"iaFirmName\": \"SOVEREIGN GLOBAL ADVISORS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"501 SOUTH CHERRY STREET\", \"street2\": \"11TH FLOOR\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"United States\", \"postalCode\": \"80246\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "50 Glen Street",
+                                        "street2": "Ste 218",
+                                        "city": "Glen Cove",
+                                        "state": "NY",
+                                        "zipCode": "11542"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "117015",
+                    "firm_bd_sec_number": "53573",
+                    "firm_bd_full_sec_number": "8-53573",
+                    "firm_name": "MARWOOD GROUP",
+                    "ia_firm_name": "MARWOOD GROUP",
+                    "firm_other_names": [
+                        "MARWOOD GROUP",
+                        "MARWOOD GROUP LLC",
+                        "MARWOOD GROUP ASSET MANAGEMENT LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"733 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"733 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 532-3651\", \"iaFirmName\": \"MARWOOD GROUP\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"733 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10017\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "733 THIRD AVENUE",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154431",
+                    "firm_bd_sec_number": "68639",
+                    "firm_bd_full_sec_number": "8-68639",
+                    "firm_name": "T3 TRADING GROUP, LLC",
+                    "firm_other_names": [
+                        "T3 TRADING GROUP, LLC",
+                        "TITUS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"88 PINE STREET\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"88 PINE STREET\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"646-346-1700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "88 PINE STREET",
+                                        "street2": "23RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5397",
+                    "firm_bd_sec_number": "20746",
+                    "firm_bd_full_sec_number": "8-20746",
+                    "firm_name": "DAVID LERNER ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "DAVID LERNER ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"477 JERICHO TPKE\", \"street2\": \"P.O.BOX 9006\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11791-9006\"}, \"mailingAddress\": {\"street1\": \"477 JERICHO TPKE\", \"street2\": \"P.O.BOX 9006\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11791-9006\"}, \"businessPhoneNumber\": \"(516) 921-4200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "477 JERICHO TURNPIKE",
+                                        "city": "SYOSSET",
+                                        "state": "NY",
+                                        "zipCode": "11791"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47390",
+                    "firm_bd_sec_number": "51785",
+                    "firm_bd_full_sec_number": "8-51785",
+                    "firm_name": "NABSECURITIES, LLC",
+                    "firm_other_names": [
+                        "NABCAPITAL SECURITIES LLC",
+                        "NATIONAL AUSTRALIA CAPITAL MARKETS, LLC",
+                        "NABSECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"277 PARK AVENUE, 19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172\"}, \"mailingAddress\": {\"street1\": \"277 PARK AVENUE, 19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172\"}, \"businessPhoneNumber\": \"212-916-9500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "277 PARK AVENUE, 19TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10172"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1042",
+                    "firm_bd_sec_number": "12123",
+                    "firm_bd_full_sec_number": "8-12123",
+                    "firm_name": "ALLEN & COMPANY LLC",
+                    "firm_other_names": [
+                        "ALLEN & COMPANY INCORPORATED",
+                        "ALLEN & COMPANY LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"711 FIFTH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"711 FIFTH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-832-8000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "711 FIFTH AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "22208",
+                    "firm_bd_sec_number": "39613",
+                    "firm_bd_full_sec_number": "8-39613",
+                    "firm_name": "CITIZENS JMP SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CITIZENS CAPITAL MARKETS",
+                        "TRINITY CAPITAL",
+                        "MITCHUM, JONES & TEMPLETON, INC.",
+                        "JOLSON MERCHANT PARTNERS",
+                        "JMP SECURITIES LLC",
+                        "JMP SECURITIES",
+                        "DH CAPITAL",
+                        "CITIZENS JMP SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 18,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 MONTGOMERY STREET, SUITE 1100\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"600 MONTGOMERY STREET, SUITE 1100\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94111\"}, \"businessPhoneNumber\": \"415-835-8900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "450 PARK AVENUE,",
+                                        "street2": "SUITE 600",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "119302",
+                    "firm_bd_sec_number": "65170",
+                    "firm_bd_full_sec_number": "8-65170",
+                    "firm_name": "FDX CAPITAL LLC",
+                    "firm_other_names": [
+                        "DOUGLAS FINANCIAL LLC",
+                        "FDX CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"515 MADISON AVENUE, 24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"515 MADISON AVENUE, 24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"888-814-8180\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "515 MADISON AVENUE, 24TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "113404",
+                    "firm_bd_sec_number": "53341",
+                    "firm_bd_full_sec_number": "8-53341",
+                    "firm_name": "DANSKE MARKETS INC.",
+                    "firm_other_names": [
+                        "DANSKE MARKETS INC",
+                        "DANSKE SECURITIES (US), INC.",
+                        "DANSKE MARKETS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 FIFTH AVENUE\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"575 FIFTH AVENUE\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(212) 293-0600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 FIFTH AVENUE",
+                                        "street2": "33RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "23723",
+                    "firm_bd_sec_number": "40742",
+                    "firm_bd_full_sec_number": "8-40742",
+                    "firm_name": "BREAN CAPITAL, LLC",
+                    "firm_other_names": [
+                        "BREAN CAPITAL, LLC",
+                        "NATIONAL LIQUIDATORS, INC",
+                        "CARRET SECURITIES, LLC",
+                        "CARRET SECURITIES, INC.",
+                        "BREAN MURRAY, CARRET & CO., LLC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"505 FIFTH AVENUE\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"505 FIFTH AVENUE\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 702-6500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 FIFTH AVENUE",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

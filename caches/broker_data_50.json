@@ -1,0 +1,463 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148743",
+                    "firm_bd_sec_number": "68062",
+                    "firm_bd_full_sec_number": "8-68062",
+                    "firm_name": "SPIDERROCK EXS, LLC",
+                    "firm_other_names": [
+                        "SPIDERROCK EXS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 S. RIVERSIDE PLAZA\", \"street2\": \"SUITE 2350\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"300 S. RIVERSIDE PLAZA\", \"street2\": \"SUITE 2350\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-256-9605\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "222 Broadway",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "305279",
+                    "firm_bd_sec_number": "70753",
+                    "firm_bd_full_sec_number": "8-70753",
+                    "firm_name": "ANCORIS SECURITIES LLC",
+                    "firm_other_names": [
+                        "ANCORIS SECURITIES LLC",
+                        "UPPERDECK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"515 MADISON AVENUE, 22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"515 MADISON AVENUE, 22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-601-2813\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "515 MADISON AVENUE, 22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16168",
+                    "firm_bd_sec_number": "33438",
+                    "firm_bd_full_sec_number": "8-33438",
+                    "firm_name": "COMPASS SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "COMPASS SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"50 BRAINTREE HILL PARK\", \"street2\": \"SUITE 105\", \"city\": \"BRAINTREE\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02184-8734\"}, \"mailingAddress\": {\"street1\": \"50 BRAINTREE HILL PARK\", \"street2\": \"SUITE 105\", \"city\": \"BRAINTREE\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02184-8734\"}, \"businessPhoneNumber\": \"781-535-6083\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "111 Canter Court",
+                                        "city": "Goshen",
+                                        "state": "NY",
+                                        "zipCode": "10924"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154075",
+                    "firm_bd_sec_number": "68606",
+                    "firm_bd_full_sec_number": "8-68606",
+                    "firm_name": "FENICS EXECUTION, LLC",
+                    "firm_other_names": [
+                        "FENICS EXECUTION, LLC",
+                        "MODENA SECURITIES LLC",
+                        "KYTE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WATER STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10041\"}, \"mailingAddress\": {\"street1\": \"55 WATER STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10041\"}, \"businessPhoneNumber\": \"212 968-4122\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 WATER STREET",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10041"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14470",
+                    "firm_bd_sec_number": "28663",
+                    "firm_bd_full_sec_number": "8-28663",
+                    "firm_name": "ROYCE FUND SERVICES, LLC",
+                    "firm_other_names": [
+                        "QUEST DISTRIBUTORS, INC.",
+                        "ROYCE FUND SERVICES, LLC",
+                        "ROYCE FUND SERVICES, INC.",
+                        "QUEST SECURITIES,INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"745 5TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10151\"}, \"mailingAddress\": {\"street1\": \"745 5TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10151\"}, \"businessPhoneNumber\": \"212-508-4500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "745 5TH AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10151"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "630",
+                    "firm_bd_sec_number": "18333",
+                    "firm_bd_full_sec_number": "8-18333",
+                    "firm_name": "CIBC WORLD MARKETS CORP.",
+                    "firm_other_names": [
+                        "CIBC OPPENHEIMER",
+                        "OPPENHEIMER & CO., INC.",
+                        "CIBC WORLD MARKETS CORP.",
+                        "CIBC WORLD MARKETS",
+                        "CIBC OPPENHEIMER CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 MADISON AVENUE\", \"street2\": \"SIXTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"300 MADISON AVENUE\", \"street2\": \"SIXTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-856-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 MADISON AVENUE",
+                                        "street2": "SIXTH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143571",
+                    "firm_bd_sec_number": "67578",
+                    "firm_bd_full_sec_number": "8-67578",
+                    "firm_name": "KKR CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "KKR CAPITAL MARKETS LLC",
+                        "KKR GLOBAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 HUDSON YARDS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"30 HUDSON YARDS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212 750-8300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 Hudson Yards",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "153792",
+                    "firm_bd_sec_number": "68572",
+                    "firm_bd_full_sec_number": "8-68572",
+                    "firm_name": "BELMONT CAPITAL",
+                    "firm_other_names": [
+                        "BELMONT CAPITAL",
+                        "CILLIAN HOLDINGS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"535 FIFTH AVENUE, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"535 FIFTH AVENUE, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 406-3610\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "535 FIFTH AVENUE, 4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42404",
+                    "firm_bd_sec_number": "49829",
+                    "firm_bd_full_sec_number": "8-49829",
+                    "firm_name": "SECOND STREET SECURITIES, INC.",
+                    "firm_other_names": [
+                        "SECOND STREET SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"340 NORTH WESTLAKE BLVD.,\", \"street2\": \"SUITE 160\", \"city\": \"WESTLAKE VILLAGE\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"91362\"}, \"mailingAddress\": {\"street1\": \"340 NORTH WESTLAKE BLVD.,\", \"street2\": \"SUITE 160\", \"city\": \"WESTLAKE VILLAGE\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"91362\"}, \"businessPhoneNumber\": \"818-657-0288\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4 Times Square",
+                                        "street2": "6th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317568",
+                    "firm_bd_sec_number": "70836",
+                    "firm_bd_full_sec_number": "8-70836",
+                    "firm_name": "TULIPSHARE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "TULIPSHARE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"115 SEACORD RD\", \"city\": \"NEW ROCHELLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10804\"}, \"mailingAddress\": {\"street1\": \"115 SEACORD RD\", \"city\": \"NEW ROCHELLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10804\"}, \"businessPhoneNumber\": \"(636) 675-3746\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "115 SEACORD RD",
+                                        "city": "NEW ROCHELLE",
+                                        "state": "NY",
+                                        "zipCode": "10804"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19801",
+                    "firm_bd_sec_number": "39012",
+                    "firm_bd_full_sec_number": "8-39012",
+                    "firm_name": "BGC FINANCIAL, L.P.",
+                    "firm_other_names": [
+                        "AUREL, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "WOLFE & HURST, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "SUNRISE, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "PRECISION",
+                        "POTEN CAPITAL, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "NGKF SECURITIES",
+                        "MIS, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "MINT PARTNERS, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "MAXCOR, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "MAXCOR FINANCIAL INC.",
+                        "MAXCOR (DIVISION OF EURO BROKERS INC.)",
+                        "MAXCOR",
+                        "FENICS, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "FENICS UST, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "FENICS US TREASURIES, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "EUROBROKERS, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "EURO BROKERS, A DIVISION OF MAXCOR FINANCIAL INC.",
+                        "EURO BROKERS MAXCOR INC.",
+                        "BGC LAKE, A DIVISION OF BGC FINANCIAL, L.P.",
+                        "BGC FINANCIAL, L.P.",
+                        "BGC FINANCIAL INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WATER STREET, 10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"55 WATER STREET, 10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10041\"}, \"businessPhoneNumber\": \"646-346-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 WATER STREET, 10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159744",
+                    "firm_bd_sec_number": "69014",
+                    "firm_bd_full_sec_number": "8-69014",
+                    "firm_name": "JOSEPH STONE CAPITAL L.L.C.",
+                    "firm_other_names": [
+                        "JOSEPH STONE CAPITAL L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"585 STEWART AVE\", \"street2\": \"SUITE L60C\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11530\"}, \"mailingAddress\": {\"street1\": \"585 STEWART AVE\", \"street2\": \"SUITE L60C\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11530\"}, \"businessPhoneNumber\": \"516 267-7001\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "29 BROADWAY",
+                                        "street2": "SUITE 1800",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

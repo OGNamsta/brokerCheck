@@ -1,0 +1,476 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159341",
+                    "firm_bd_sec_number": "68979",
+                    "firm_bd_full_sec_number": "8-68979",
+                    "firm_name": "KEYSTONE GLOBAL",
+                    "firm_other_names": [
+                        "KEYSTONE GLOBAL",
+                        "STAR AMERICA CAPITAL ADVISORS, LLC",
+                        "KSG ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"390 NORTH BROADWAY\", \"street2\": \"3RD FLOOR\", \"city\": \"JERICHO\", \"state\": \"NY\", \"postalCode\": \"11753\"}, \"mailingAddress\": {\"street1\": \"390 NORTH BROADWAY\", \"street2\": \"3RD FLOOR\", \"city\": \"JERICHO\", \"state\": \"NY\", \"postalCode\": \"11753\"}, \"businessPhoneNumber\": \"516-882-1552\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "390 NORTH BROADWAY",
+                                        "street2": "3RD FLOOR",
+                                        "city": "JERICHO",
+                                        "state": "NY",
+                                        "zipCode": "11753"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "281102",
+                    "firm_bd_sec_number": "69663",
+                    "firm_bd_full_sec_number": "8-69663",
+                    "firm_name": "CITADEL SECURITIES INSTITUTIONAL LLC",
+                    "firm_other_names": [
+                        "CITADEL SECURITIES INSTITUTIONAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"SUITE 3300\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"SUITE 3300\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"305-929-6851\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "425 Park Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155575",
+                    "firm_bd_sec_number": "68725",
+                    "firm_bd_full_sec_number": "8-68725",
+                    "firm_name": "SHERMAN & COMPANY LLC",
+                    "firm_other_names": [
+                        "SHERMAN & COMPANY LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6302 FAIRVIEW ROAD SUITE 320\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"postalCode\": \"28210\"}, \"mailingAddress\": {\"street1\": \"6302 FAIRVIEW ROAD SUITE 320\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"postalCode\": \"28210\"}, \"businessPhoneNumber\": \"646-321-3750\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "437 Madison Avenue, 23rd Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41916",
+                    "firm_bd_sec_number": "49624",
+                    "firm_bd_full_sec_number": "8-49624",
+                    "firm_name": "SEABURY SECURITIES LLC",
+                    "firm_other_names": [
+                        "SEABURY SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"152 W 57TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"152 W 57TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-284-1150\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "152 W 57TH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7789",
+                    "firm_bd_sec_number": "23081",
+                    "firm_bd_full_sec_number": "8-23081",
+                    "firm_name": "UNICREDIT CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "ASSOCIATED EUROPEAN CAPITAL CORPORATION",
+                        "UNICREDIT CAPITAL MARKETS, INC",
+                        "UNICREDIT CAPITAL MARKETS LLC",
+                        "HYPOVEREINSBANK CAPITAL MARKETS",
+                        "HVB CAPITAL MARKETS, INC.",
+                        "CAIB SECURITIES NEW YORK",
+                        "BV CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"15O EAST 42ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-4679\"}, \"mailingAddress\": {\"street1\": \"150 EAST 42ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-4679\"}, \"businessPhoneNumber\": \"212-672-5945\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 EAST 42ND ST",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "118219",
+                    "firm_bd_sec_number": "53640",
+                    "firm_bd_full_sec_number": "8-53640",
+                    "firm_name": "ICAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "AXIO FINANCIAL LLC",
+                        "SCURA, RISE & PARTNERS SECURITIES, LLC",
+                        "SCURA PARTNERS SECURITIES LLC",
+                        "SCURA PALEY SECURITIES LLC",
+                        "ICAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10165\"}, \"mailingAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10165\"}, \"businessPhoneNumber\": \"646-520-2020\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 East 42nd Street",
+                                        "street2": "26th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5670",
+                    "firm_bd_sec_number": "26807",
+                    "firm_bd_full_sec_number": "8-26807",
+                    "firm_ia_sec_number": "107194",
+                    "firm_ia_full_sec_number": "801-107194",
+                    "firm_name": "PAULSON INVESTMENT COMPANY LLC",
+                    "ia_firm_name": "PAULSON INVESTMENT COMPANY, LLC",
+                    "firm_other_names": [
+                        "PAULSON INVESTMENT COMPANY LLC",
+                        "PAULSON WEALTH ADVISORS",
+                        "PAULSON INVESTMENT COMPANY, LLC",
+                        "PAULSON INVESTMENT COMPANY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10220 SW GREENBURG RD\", \"street2\": \"SUITE 380\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"UNITED STATES\", \"postalCode\": \"97223\"}, \"mailingAddress\": {\"street1\": \"10220 SW GREENBURG RD\", \"street2\": \"SUITE 380\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"UNITED STATES\", \"postalCode\": \"97223\"}, \"businessPhoneNumber\": \"503-243-6000\", \"iaFirmName\": \"PAULSON INVESTMENT COMPANY, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5335 MEADOWS ROAD\", \"street2\": \"SUITE 465\", \"city\": \"LAKE OSWEGO\", \"state\": \"OR\", \"country\": \"United States\", \"postalCode\": \"97035\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 WALL STREET",
+                                        "street2": "39th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "40581",
+                    "firm_bd_sec_number": "49140",
+                    "firm_bd_full_sec_number": "8-49140",
+                    "firm_name": "HMC INVESTMENTS, LLC",
+                    "firm_other_names": [
+                        "HARBINGER SECURITIES, INC.",
+                        "HMC INVESTMENTS, LLC",
+                        "HMC INVESTMENTS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2100 3RD AVENUE NORTH\", \"street2\": \"SUITE 600\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"UNITED STATES\", \"postalCode\": \"35203\"}, \"mailingAddress\": {\"street1\": \"2100 3RD AVENUE NORTH\", \"street2\": \"SUITE 600\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"UNITED STATES\", \"postalCode\": \"35203\"}, \"businessPhoneNumber\": \"205-987-5500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "555 MADISON AVENUE, 25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16686",
+                    "firm_bd_sec_number": "34344",
+                    "firm_bd_full_sec_number": "8-34344",
+                    "firm_ia_sec_number": "73047",
+                    "firm_ia_full_sec_number": "801-73047",
+                    "firm_name": "BMO CAPITAL MARKETS CORP.",
+                    "ia_firm_name": "BMO CAPITAL MARKETS CORP.",
+                    "firm_other_names": [
+                        "B2RICK SECURITIES",
+                        "HARRIS NESBITT GERARD, INC.",
+                        "HARRIS NESBITT CORP.",
+                        "GERARD KLAUER MATTISON & COMPANY",
+                        "GERARD KLAUER MATTISON & CO.,L.L.C.",
+                        "GERARD KLAUER MATTISON & CO., L.L.C.",
+                        "GERARD KLAUER MATTISON & CO., INC.",
+                        "BRICK SECURITIES PARTNERS, L.P.",
+                        "BRICK SECURITIES ASSOCIATES",
+                        "BMO CAPITAL MARKETS CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 22,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"151 WEST 42ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"151 WEST 42ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-702-1981\", \"iaFirmName\": \"BMO CAPITAL MARKETS CORP.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"151 WEST 42ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10036\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "151 WEST 42ND STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17935",
+                    "firm_bd_sec_number": "35120",
+                    "firm_bd_full_sec_number": "8-35120",
+                    "firm_ia_sec_number": "77738",
+                    "firm_ia_full_sec_number": "801-77738",
+                    "firm_name": "INTEGRATED FINANCIAL PLANNING SERVICES",
+                    "ia_firm_name": "INTEGRATED FINANCIAL PLANNING SERVICES",
+                    "firm_other_names": [
+                        "BARRY E. SWANSON, CFP",
+                        "SWANSON, BARRY EARNEST",
+                        "INTEGRATED FINANCIAL PLANNING SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"KARLSTRASSE 20\", \"city\": \"HEIDELBERG\", \"country\": \"GERMANY\", \"postalCode\": \"69117\"}, \"mailingAddress\": {\"street1\": \"KARLSTRASSE 20\", \"city\": \"HEIDELBERG 69117\", \"country\": \"GERMANY\", \"postalCode\": \"69117\"}, \"businessPhoneNumber\": \"011496221-23597\", \"iaFirmName\": \"INTEGRATED FINANCIAL PLANNING SERVICES\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"KARLSTR. 20\", \"city\": \"HEIDELBERG\", \"country\": \"Germany\", \"postalCode\": \"69117\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "365 N. SHORE ROAD",
+                                        "city": "CUBA",
+                                        "state": "NY",
+                                        "zipCode": "14727"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283566",
+                    "firm_bd_sec_number": "69763",
+                    "firm_bd_full_sec_number": "8-69763",
+                    "firm_name": "RUBICON CAPITAL ADVISORS",
+                    "firm_other_names": [
+                        "CADIA CAPITAL ADVISORS, LLC",
+                        "RUBICON CAPITAL ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 PEMBROKE PLACE, BALLSBRIDGE\", \"city\": \"DUBLIN 4\", \"country\": \"IRELAND\", \"postalCode\": \"D04 V1W6\"}, \"mailingAddress\": {\"street1\": \"10 PEMBROKE PLACE, BALLSBRIDGE\", \"city\": \"DUBLIN 4\", \"country\": \"IRELAND\", \"postalCode\": \"D04 V1W6\"}, \"businessPhoneNumber\": \"212-974-2610\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1155 AVENUE OF THE AMERICAS",
+                                        "street2": "SUITE 1800",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "288294",
+                    "firm_bd_sec_number": "69935",
+                    "firm_bd_full_sec_number": "8-69935",
+                    "firm_name": "VISION ONE PARTNERS, LLC",
+                    "firm_other_names": [
+                        "BERNSTEIN HEBERT SECURITIES LLC",
+                        "VISION ONE PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 GRACIE SQUARE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10028\"}, \"mailingAddress\": {\"street1\": \"1 GRACIE SQUARE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10028\"}, \"businessPhoneNumber\": \"347-322-9322\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 GRACIE SQUARE",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10028"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

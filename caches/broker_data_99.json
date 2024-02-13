@@ -1,0 +1,495 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "142271",
+                    "firm_bd_sec_number": "67447",
+                    "firm_bd_full_sec_number": "8-67447",
+                    "firm_name": "VISION FINANCIAL MARKETS LLC",
+                    "firm_other_names": [
+                        "HR TRADER",
+                        "VISION LIMITED PARTNERSHIP",
+                        "VISION FINANCIAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"120 LONG RIDGE RD.\", \"street2\": \"3 NORTH\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"postalCode\": \"06902\"}, \"mailingAddress\": {\"street1\": \"120 LONG RIDGE RD.\", \"street2\": \"3 NORTH\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"postalCode\": \"06902\"}, \"businessPhoneNumber\": \"203-388-2700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 Broad Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "816",
+                    "firm_bd_sec_number": "422",
+                    "firm_bd_full_sec_number": "8-422",
+                    "firm_ia_sec_number": "56264",
+                    "firm_ia_full_sec_number": "801-56264",
+                    "firm_name": "CREDIT SUISSE SECURITIES (USA) LLC",
+                    "ia_firm_name": "CREDIT SUISSE SECURITIES (USA) LLC",
+                    "firm_other_names": [
+                        "CREDIT SUISSE FIRST BOSTON",
+                        "CS FIRST BOSTON CORPORATION",
+                        "CREDIT SUISSE SECURITIES (USA) LLC",
+                        "CREDIT SUISSE SECURITIES",
+                        "CREDIT SUISSE FIRST BOSTON LLC",
+                        "CREDIT SUISSE FIRST BOSTON CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 17,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"11 MADISON AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"212-325-2000\", \"iaFirmName\": \"CREDIT SUISSE SECURITIES (USA) LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"11 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10010\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 Madison Ave",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "231",
+                    "firm_bd_sec_number": "13801",
+                    "firm_bd_full_sec_number": "8-13801",
+                    "firm_ia_sec_number": "54739",
+                    "firm_ia_full_sec_number": "801-54739",
+                    "firm_name": "BNY MELLON SECURITIES CORPORATION",
+                    "ia_firm_name": "BNY MELLON SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "BNY MELLON SECURITIES CORPORATION",
+                        "THE DREYFUS SERVICE CORPORATION",
+                        "MBSC SECURITIES CORPORATION",
+                        "DREYFUS SERVICE CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 45,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"240 GREENWICH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10286\"}, \"mailingAddress\": {\"street1\": \"240 GREENWICH STREET\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10286\"}, \"businessPhoneNumber\": \"212-922-6000\", \"iaFirmName\": \"BNY MELLON SECURITIES CORPORATION\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"240 GREENWICH STREET\", \"street2\": \"9TH FLOOR EAST\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10286-0001\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1001 FRANKLIN AVENUE",
+                                        "city": "GARDEN CITY",
+                                        "state": "NY",
+                                        "zipCode": "11530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30773",
+                    "firm_bd_sec_number": "45150",
+                    "firm_bd_full_sec_number": "8-45150",
+                    "firm_name": "INTL FILLMORE ADVISORS LLC",
+                    "firm_other_names": [
+                        "CRESSMAN ESSER SECURITIES LLC",
+                        "MARIANA CAPITAL USA, LLC",
+                        "INTL FILLMORE ADVISORS LLC",
+                        "FILLMORE ADVISORS, LLC",
+                        "FILLMORE ADVISOR, LLC",
+                        "CRESSMAN ESSER SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1441 W. UTE BLVD,\", \"street2\": \"SUITE 280\", \"city\": \"PARK CITY\", \"state\": \"UT\", \"country\": \"UNITED STATES\", \"postalCode\": \"84098\"}, \"mailingAddress\": {\"street1\": \"1441 W. UTE BLVD,\", \"street2\": \"SUITE 280\", \"city\": \"PARK CITY\", \"state\": \"UT\", \"country\": \"UNITED STATES\", \"postalCode\": \"84098\"}, \"businessPhoneNumber\": \"415-230-5502\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 Park Avenue",
+                                        "street2": "10th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10169"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45993",
+                    "firm_bd_sec_number": "51269",
+                    "firm_bd_full_sec_number": "8-51269",
+                    "firm_name": "STONEX FINANCIAL INC.",
+                    "firm_other_names": [
+                        "INTERNATIONAL TRADER ASSOCIATION, INC.",
+                        "STONEX FINANCIAL INC.",
+                        "STONEX",
+                        "INTLTRADER.COM, INC.",
+                        "INTL TRADING, INC.",
+                        "INTL FCSTONE SECURITIES INC.",
+                        "INTL FCSTONE FINANCIAL INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"329 PARK AVENUE NORTH\", \"street2\": \"SUITE 350\", \"city\": \"WINTER PARK\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32789\"}, \"mailingAddress\": {\"street1\": \"329 PARK AVENUE NORTH\", \"street2\": \"SUITE 350\", \"city\": \"WINTER PARK\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"32789\"}, \"businessPhoneNumber\": \"407-741-5300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 PARK AVENUE, 10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10169"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14020",
+                    "firm_bd_sec_number": "34354",
+                    "firm_bd_full_sec_number": "8-34354",
+                    "firm_name": "ABN AMRO CLEARING USA LLC",
+                    "firm_other_names": [
+                        "ABN AMRO CLEARING CHICAGO LLC",
+                        "SHAMROCK SECURITIES",
+                        "SHAMROCK OPTIONS",
+                        "SHAMROCK EQUITY SECURITIES",
+                        "O'CONNOR & COMPANY LLC",
+                        "O'CONNOR & COMPANY",
+                        "FORTIS CLEARING AMERICAS LLC",
+                        "ABN AMRO CLEARING USA LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"175 WEST JACKSON BLVD\", \"street2\": \"STE 2050\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60604\"}, \"mailingAddress\": {\"street1\": \"175 WEST JACKSON BLVD\", \"street2\": \"STE 2050\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60604\"}, \"businessPhoneNumber\": \"312-604-8000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "450 7th Ave.",
+                                        "street2": "Suite 2203",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10123"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104474",
+                    "firm_bd_sec_number": "52942",
+                    "firm_bd_full_sec_number": "8-52942",
+                    "firm_ia_sec_number": "57937",
+                    "firm_ia_full_sec_number": "801-57937",
+                    "firm_name": "SANFORD C. BERNSTEIN & CO., LLC",
+                    "ia_firm_name": "SANFORD C. BERNSTEIN & CO., LLC",
+                    "firm_other_names": [
+                        "AUTONOMOUS",
+                        "SANFORD C. BERSTEIN & CO., LLC",
+                        "SANFORD C. BERNSTEIN & CO., LLC",
+                        "BERNSTEIN"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 26,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"212-969-1000\", \"iaFirmName\": \"SANFORD C. BERNSTEIN & CO., LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10105\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8326",
+                    "firm_bd_sec_number": "25027",
+                    "firm_bd_full_sec_number": "8-25027",
+                    "firm_name": "GLOBAL ATLANTIC DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "FORETHOUGHT DISTRIBUTORS, LLC",
+                        "PLANCO FINANCIAL SERVICES, LLC",
+                        "PLANCO FINANCIAL SERVICES, INC.",
+                        "HARTFORD LIFE DISTRIBUTORS, LLC",
+                        "GLOBAL ATLANTIC DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 14,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FINANCIAL PLAZA\", \"street2\": \"755 MAIN STREET, 24TH FLOOR\", \"city\": \"HARTFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06103\"}, \"mailingAddress\": {\"street1\": \"ONE FINANCIAL PLAZA\", \"street2\": \"755 MAIN STREET, 24TH FLOOR\", \"city\": \"HARTFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06103\"}, \"businessPhoneNumber\": \"877-454-4777\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "31 Hudson Yards",
+                                        "street2": "12th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14549",
+                    "firm_bd_sec_number": "30851",
+                    "firm_bd_full_sec_number": "8-30851",
+                    "firm_name": "ALLIANCEBERNSTEIN INVESTMENTS, INC.",
+                    "firm_other_names": [
+                        "ALLIANCE FUND DISTRIBUTORS",
+                        "ALLIANCEBERNSTEIN INVESTMENTS, INC.",
+                        "ALLIANCEBERNSTEIN INVESTMENT RESEARCH AND MANAGEMENT, INC.",
+                        "ALLIANCE FUND DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"501 COMMERCE STREET\", \"city\": \"NASHVILLE\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"37203\"}, \"mailingAddress\": {\"street1\": \"501 COMMERCE STREET\", \"city\": \"NASHVILLE\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"37203\"}, \"businessPhoneNumber\": \"212-969-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "298809",
+                    "firm_bd_sec_number": "70231",
+                    "firm_bd_full_sec_number": "8-70231",
+                    "firm_name": "HUATAI SECURITIES (USA), INC.",
+                    "firm_other_names": [
+                        "HUATAI SECURITIES (USA), INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"280 PARK AVE\", \"street2\": \"21 FLOOR EAST\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"280 PARK AVE\", \"street2\": \"21 FLOOR EAST\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-763-8180\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 PARK AVE",
+                                        "street2": "21 FLOOR EAST",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18456",
+                    "firm_bd_sec_number": "36638",
+                    "firm_bd_full_sec_number": "8-36638",
+                    "firm_name": "STONEX SECURITIES INC.",
+                    "firm_other_names": [
+                        "C G MATON FINANCIAL SERVICES , INC.",
+                        "STONEX WEALTH MANAGEMENT",
+                        "STONEX SECURITIES INC.",
+                        "STERNE AGEE FINANCIAL SERVICES, INC.",
+                        "SOUTHEAST NETWORK EQUITIES GROUP, INC.",
+                        "SAL FINANCIAL SERVICES, INC.",
+                        "SA STONE WEALTH MANAGEMENT INC.",
+                        "INVESTECH CAPITAL CORPORATION",
+                        "CAPITAL GROWTH MANAGEMENT INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 317,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2 PERIMETER PARK SOUTH\", \"street2\": \"SUITE 500 WEST\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"USA\", \"postalCode\": \"35243\"}, \"mailingAddress\": {\"street1\": \"2 PERIMETER PARK SOUTH\", \"street2\": \"SUITE 500 WEST\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"USA\", \"postalCode\": \"35243\"}, \"businessPhoneNumber\": \"800-292-2411\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1584 FEUREISEN AVENUE",
+                                        "city": "BOHEMIA",
+                                        "state": "NY",
+                                        "zipCode": "11716"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "124180",
+                    "firm_bd_sec_number": "65641",
+                    "firm_bd_full_sec_number": "8-65641",
+                    "firm_name": "BERKSHIRE GLOBAL ADVISORS LP",
+                    "firm_other_names": [
+                        "BERKSHIRE CAPITAL CORPORATION",
+                        "BERKSHIRE GLOBAL ADVISORS LP",
+                        "BERKSHIRE CAPITAL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"527 MADISON AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022-4212\"}, \"mailingAddress\": {\"street1\": \"527 MADISON AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022-4212\"}, \"businessPhoneNumber\": \"212-207-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "527 Madison Avenue",
+                                        "street2": "3rd Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

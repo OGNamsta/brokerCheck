@@ -1,0 +1,436 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151531",
+                    "firm_bd_sec_number": "68377",
+                    "firm_bd_full_sec_number": "8-68377",
+                    "firm_name": "GSA CAPITAL ASSOCIATES, LLC",
+                    "firm_other_names": [
+                        "GSA CAPITAL ASSOCIATES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"278 BROADWAY\", \"street2\": \"2R\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11211\"}, \"mailingAddress\": {\"street1\": \"278 BROADWAY\", \"street2\": \"2R\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11211\"}, \"businessPhoneNumber\": \"212-308-6423\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "278 Broadway",
+                                        "street2": "2R",
+                                        "city": "Brooklyn",
+                                        "state": "NY",
+                                        "zipCode": "11211"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "286678",
+                    "firm_bd_sec_number": "69898",
+                    "firm_bd_full_sec_number": "8-69898",
+                    "firm_name": "VISIONS ANALYSIS LLC",
+                    "firm_other_names": [
+                        "VISIONS ANALYSIS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"24 MCKINLEY AVENUE\", \"city\": \"ENDICOTT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13760\"}, \"mailingAddress\": {\"street1\": \"24 MCKINLEY AVENUE\", \"city\": \"ENDICOTT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13760\"}, \"businessPhoneNumber\": \"845-489-3883\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "24 MCKINLEY AVENUE",
+                                        "city": "ENDICOTT",
+                                        "state": "NY",
+                                        "zipCode": "13760"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45349",
+                    "firm_bd_sec_number": "51033",
+                    "firm_bd_full_sec_number": "8-51033",
+                    "firm_name": "ASTORIA CAPITAL MARKETS, INC.",
+                    "firm_other_names": [
+                        "ASTORIA CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"344A WILLIS AVE\", \"city\": \"MINEOLA\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11501\"}, \"mailingAddress\": {\"street1\": \"344A WILLIS AVE\", \"city\": \"MINEOLA\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11501\"}, \"businessPhoneNumber\": \"347-514-9075\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "344A WILLIS AVE",
+                                        "city": "MINEOLA",
+                                        "state": "NY",
+                                        "zipCode": "11501"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159173",
+                    "firm_bd_sec_number": "68968",
+                    "firm_bd_full_sec_number": "8-68968",
+                    "firm_name": "SURYA CAPITALE SECURITIES LLC",
+                    "firm_other_names": [
+                        "SURYA CAPITALE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WALL STREET, SUITE 530B\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"55 WALL STREET, SUITE 530B\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-482-3280\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 WALL STREET, SUITE 530B",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "135306",
+                    "firm_bd_sec_number": "66908",
+                    "firm_bd_full_sec_number": "8-66908",
+                    "firm_name": "TRANSNATIONAL CAPITAL CORP.",
+                    "firm_other_names": [
+                        "TRANSNATIONAL CAPITAL CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"212 453-0648\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "SUITE 300",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "3049",
+                    "firm_bd_sec_number": "5727",
+                    "firm_bd_full_sec_number": "8-5727",
+                    "firm_name": "PLANNED FINANCIAL PROGRAMS, INC.",
+                    "firm_other_names": [
+                        "PLANNED FINANCIAL PROGRAMS",
+                        "PLANNED FINANCIAL PROGRAMS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"734 WALT WHITMAN ROAD\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747-2216\"}, \"mailingAddress\": {\"street1\": \"734 WALT WHITMAN ROAD\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747-2216\"}, \"businessPhoneNumber\": \"631- 423-8800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "734 WALT WHITMAN ROAD",
+                                        "street2": "SUITE 301",
+                                        "city": "MELVILLE",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44823",
+                    "firm_bd_sec_number": "50853",
+                    "firm_bd_full_sec_number": "8-50853",
+                    "firm_name": "CJS SECURITIES, INC.",
+                    "firm_other_names": [
+                        "CJS SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"50 MAIN STREET\", \"street2\": \"SUITE 325\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10606\"}, \"mailingAddress\": {\"street1\": \"50 MAIN STREET\", \"street2\": \"SUITE 325\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10606\"}, \"businessPhoneNumber\": \"914-287-7600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "50 MAIN STREET",
+                                        "street2": "SUITE 325",
+                                        "city": "WHITE PLAINS",
+                                        "state": "NY",
+                                        "zipCode": "10606"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29493",
+                    "firm_bd_sec_number": "44363",
+                    "firm_bd_full_sec_number": "8-44363",
+                    "firm_name": "AKIN BAY COMPANY LLC",
+                    "firm_other_names": [
+                        "AKIN BAY COMPANY",
+                        "AKIN BAY COMPANY LLC",
+                        "AKIN BLAIR COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"780 THIRD AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"780 THIRD AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-583-9800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "780 THIRD AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "130252",
+                    "firm_bd_sec_number": "66321",
+                    "firm_bd_full_sec_number": "8-66321",
+                    "firm_name": "CYPRESS ASSOCIATES",
+                    "firm_other_names": [
+                        "CYPRESS ASSOCIATES",
+                        "CYPRESS PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"52 VANDERBILT AVENUE, SUITE 501\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"52 VANDERBILT AVENUE, SUITE 501\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-682-2222\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "52 VANDERBILT AVENUE, SUITE 501",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "134887",
+                    "firm_bd_sec_number": "66867",
+                    "firm_bd_full_sec_number": "8-66867",
+                    "firm_name": "JEGI LLC",
+                    "firm_other_names": [
+                        "JEGI LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 EAST 52ND STREET-18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"150 EAST 52ND STREET-18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-754-0710\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 EAST 52 STREET",
+                                        "street2": "18TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103958",
+                    "firm_bd_sec_number": "52447",
+                    "firm_bd_full_sec_number": "8-52447",
+                    "firm_name": "LIATI CAPITAL, LLC",
+                    "firm_other_names": [
+                        "LIATI CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"14 WALL STREET 20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"14 WALL STREET 20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-269-0003\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "14 WALL STREET 20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169127",
+                    "firm_bd_sec_number": "69353",
+                    "firm_bd_full_sec_number": "8-69353",
+                    "firm_name": "JETT CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "JETT CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"712 FIFTH AVENUE, 11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"712 FIFTH AVENUE, 11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212 616-0423\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "712 FIFTH AVENUE, 11TH FLOOR",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

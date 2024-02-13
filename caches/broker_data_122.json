@@ -1,0 +1,543 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "23224",
+                    "firm_bd_sec_number": "40426",
+                    "firm_bd_full_sec_number": "8-40426",
+                    "firm_ia_sec_number": "69919",
+                    "firm_ia_full_sec_number": "801-69919",
+                    "firm_name": "MADISON AVENUE SECURITIES, LLC",
+                    "ia_firm_name": "MADISON AVENUE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ASHLAND SECURITIES, INC.",
+                        "MADISON AVENUE SECURITIES, LLC",
+                        "MADISON AVENUE SECURITIES, INC.",
+                        "MADISON AVENUE SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 110,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"13500 EVENING CREEK DR N\", \"street2\": \"#555\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"92128\"}, \"mailingAddress\": {\"street1\": \"13500 EVENING CREEK DR N\", \"street2\": \"#555\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"92128\"}, \"businessPhoneNumber\": \"858-207-1300\", \"iaFirmName\": \"MADISON AVENUE SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"13500 EVENING CREEK DR. N\", \"street2\": \"#555\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"92128\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "199 Water St",
+                                        "street2": "34th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "265",
+                    "firm_bd_sec_number": "14286",
+                    "firm_bd_full_sec_number": "8-14286",
+                    "firm_ia_sec_number": "41722",
+                    "firm_ia_full_sec_number": "801-41722",
+                    "firm_name": "EQUITY SERVICES, INC.",
+                    "ia_firm_name": "ESI FINANCIAL ADVISORS",
+                    "firm_other_names": [
+                        "360 DEGREE PANORAMIC WEALTHVIEW",
+                        "FIRST AMERICAN FINANCIAL",
+                        "ESI FINANCIAL ADVISORS",
+                        "EQUITY SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 268,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE NATIONAL LIFE DRIVE\", \"city\": \"MONTPELIER\", \"state\": \"VT\", \"country\": \"UNITED STATES\", \"postalCode\": \"05604\"}, \"mailingAddress\": {\"street1\": \"ONE NATIONAL LIFE DRIVE\", \"city\": \"MONTPELIER\", \"state\": \"VT\", \"country\": \"UNITED STATES\", \"postalCode\": \"05604\"}, \"businessPhoneNumber\": \"800-344-7437\", \"iaFirmName\": \"ESI FINANCIAL ADVISORS\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"ONE NATIONAL LIFE DRIVE\", \"city\": \"MONTPELIER\", \"state\": \"VT\", \"country\": \"United States\", \"postalCode\": \"05604\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "18 COMPUTER DRIVE EAST",
+                                        "street2": "SUITE 101",
+                                        "city": "ALBANY",
+                                        "state": "NY",
+                                        "zipCode": "12205"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "20999",
+                    "firm_bd_sec_number": "38635",
+                    "firm_bd_full_sec_number": "8-38635",
+                    "firm_ia_sec_number": "70036",
+                    "firm_ia_full_sec_number": "801-70036",
+                    "firm_name": "CALTON & ASSOCIATES, INC.",
+                    "ia_firm_name": "CALTON & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "CALTON",
+                        "IEP FINANCIAL",
+                        "CALTON & ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 202,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2701 N ROCKY POINT DRIVE\", \"street2\": \"SUITE 1000\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33607\"}, \"mailingAddress\": {\"street1\": \"2701 N ROCKY POINT DRIVE\", \"street2\": \"SUITE 1000\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33607\"}, \"businessPhoneNumber\": \"813-264-0440\", \"iaFirmName\": \"CALTON & ASSOCIATES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2701 N. ROCKY POINT DRIVE\", \"street2\": \"SUITE 1000\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"33607\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 East Main Street",
+                                        "city": "Morrisville",
+                                        "state": "NY",
+                                        "zipCode": "13408"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5685",
+                    "firm_bd_sec_number": "16402",
+                    "firm_bd_full_sec_number": "8-16402",
+                    "firm_ia_sec_number": "52208",
+                    "firm_ia_full_sec_number": "801-52208",
+                    "firm_name": "PRUCO SECURITIES, LLC.",
+                    "ia_firm_name": "PRUDENTIAL FINANCIAL PLANNING SERVICES",
+                    "firm_other_names": [
+                        "PRUCO SECURITIES CORPORATION",
+                        "PRUDENTIAL FINANCIAL PLANNING SERVICES",
+                        "PRUCO SECURITIES, LLC.",
+                        "PRUCO SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1222,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"751 BROAD STREET\", \"city\": \"NEWARK\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07102-3777\"}, \"mailingAddress\": {\"street1\": \"751 BROAD STREET\", \"city\": \"NEWARK\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07102-3777\"}, \"businessPhoneNumber\": \"800-201-6690\", \"iaFirmName\": \"PRUDENTIAL FINANCIAL PLANNING SERVICES\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"751 BROAD STREET\", \"city\": \"NEWARK\", \"state\": \"NJ\", \"country\": \"United States\", \"postalCode\": \"07102-3777\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "48 Bonnie Meadow Rd",
+                                        "city": "Scarsdale",
+                                        "state": "NY",
+                                        "zipCode": "10583"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8209",
+                    "firm_bd_sec_number": "15869",
+                    "firm_bd_full_sec_number": "8-15869",
+                    "firm_name": "MORGAN STANLEY & CO. LLC",
+                    "firm_other_names": [
+                        "MORGAN STANLEY",
+                        "MORGAN STANLEY DEAN WITTER",
+                        "MORGAN STANLEY & CO., INCORPORATED",
+                        "MORGAN STANLEY & CO. LLC",
+                        "MORGAN STANLEY & CO. INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 37,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1585 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036-8293\"}, \"mailingAddress\": {\"street1\": \"100 SOUTH CHARLES STREET, 4TH FLOOR\", \"street2\": \"C/O NORTH AMERICAN REGISTRATION\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21201\"}, \"businessPhoneNumber\": \"212-761-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1585 Broadway",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6363",
+                    "firm_bd_sec_number": "16791",
+                    "firm_bd_full_sec_number": "8-16791",
+                    "firm_ia_sec_number": "28543",
+                    "firm_ia_full_sec_number": "801-28543",
+                    "firm_name": "AMERIPRISE FINANCIAL SERVICES, LLC",
+                    "ia_firm_name": "AMERIPRISE FINANCIAL SERVICES, LLC",
+                    "firm_other_names": [
+                        "AMERICAN EXPRESS FINANCIAL ADVISORS INC.",
+                        "IDS MARKETING CORPORATION",
+                        "AMERIPRISE FINANCIAL SERVICES, LLC.",
+                        "AMERIPRISE FINANCIAL SERVICES, LLC",
+                        "AMERIPRISE FINANCIAL SERVICES, INC.",
+                        "AMERICAN EXPRESS FINANCIAL ADVISORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4321,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"707 2ND AVENUE SOUTH\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55402\"}, \"mailingAddress\": {\"street1\": \"5221 AMERIPRISE FINANCIAL CENTER\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55474\"}, \"businessPhoneNumber\": \"612-671-3131\", \"iaFirmName\": \"AMERIPRISE FINANCIAL SERVICES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"707 2ND AVENUE SOUTH\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"United States\", \"postalCode\": \"55402\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 Broadhollow Road",
+                                        "city": "Melville",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31194",
+                    "firm_bd_sec_number": "45411",
+                    "firm_bd_full_sec_number": "8-45411",
+                    "firm_ia_sec_number": "13059",
+                    "firm_ia_full_sec_number": "801-13059",
+                    "firm_name": "RBC CAPITAL MARKETS, LLC",
+                    "ia_firm_name": "RBC CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "DAIN RAUSCHER INC",
+                        "REGIONAL OPERATIONS GROUP, INC.",
+                        "RBC WEALTH MANAGEMENT",
+                        "RBC DAIN RAUSCHER INC.",
+                        "RBC DAIN RAUSCHER",
+                        "RBC CORRESPONDENT SERVICES",
+                        "RBC CLEARING AND CUSTODY",
+                        "RBC CAPITAL MARKETS, LLC",
+                        "RBC CAPITAL MARKETS CORPORATION",
+                        "RBC ADVISOR SERVICES",
+                        "INTERRA CLEARING SERVICES, INC.",
+                        "DAIN RAUSCHER INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 419,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 WORLD FINANCIAL CENTER\", \"street2\": \"200 VESEY ST.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"250 NICOLLET MALL\", \"street2\": \"SUITE 1600\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55401\"}, \"businessPhoneNumber\": \"(612) 371-2811\", \"iaFirmName\": \"RBC CAPITAL MARKETS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"200 VESEY ST.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10281\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 WORLD FINANCIAL CENTER",
+                                        "street2": "200 VESEY ST.",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "13572",
+                    "firm_bd_sec_number": "29577",
+                    "firm_bd_full_sec_number": "8-29577",
+                    "firm_ia_sec_number": "47342",
+                    "firm_ia_full_sec_number": "801-47342",
+                    "firm_name": "CETERA ADVISOR NETWORKS LLC",
+                    "ia_firm_name": "CETERA ADVISOR NETWORKS LLC",
+                    "firm_other_names": [
+                        "CETERA ADVISOR NETWORKS LLC",
+                        "GORDON SIMMERS SECURITY CORPORATION",
+                        "FIRST ASSET MANAGEMENT CORPORATION",
+                        "FINANCIAL NETWORK INVESTMENT CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2202,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2301 ROSECRANS AVE #5100\", \"city\": \"EL SEGUNDO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"90245\"}, \"mailingAddress\": {\"street1\": \"2301 ROSECRANS AVE #5100\", \"city\": \"EL SEGUNDO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"90245\"}, \"businessPhoneNumber\": \"310-326-3100\", \"iaFirmName\": \"CETERA ADVISOR NETWORKS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2301 ROSECRANS AVENUE\", \"street2\": \"SUITE 5100\", \"city\": \"EL SEGUNDO\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"90245-5672\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "20 WEST PARK AVENUE",
+                                        "street2": "SUITE 308",
+                                        "city": "LONG BEACH",
+                                        "state": "NY",
+                                        "zipCode": "11561"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "705",
+                    "firm_bd_sec_number": "10999",
+                    "firm_bd_full_sec_number": "8-10999",
+                    "firm_ia_sec_number": "10418",
+                    "firm_ia_full_sec_number": "801-10418",
+                    "firm_name": "RAYMOND JAMES & ASSOCIATES, INC.",
+                    "ia_firm_name": "RAYMOND JAMES & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "ALEX. BROWN",
+                        "STRATEGIC INVESTMENT MANAGEMENT SERVICES",
+                        "RAYMOND JAMES CONSULTING SERVICES",
+                        "RAYMOND JAMES & ASSOCIATES, INC.",
+                        "PUBLIC FINANCE INVESTMENT STRATEGIES GROUP",
+                        "INVESTMENT ADVISORY SERVICES",
+                        "INSTITUTIONAL FIDUCIARY SOLUTIONS",
+                        "ASSET MANAGEMENT SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1189,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"880 CARILLON PARKWAY\", \"city\": \"ST. PETERSBURG\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33716\"}, \"mailingAddress\": {\"street1\": \"880 CARILLON PARKWAY\", \"city\": \"ST. PETERSBURG\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33716\"}, \"businessPhoneNumber\": \"727-567-1000\", \"iaFirmName\": \"RAYMOND JAMES & ASSOCIATES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"880 CARILLON PARKWAY\", \"city\": \"ST. PETERSBURG\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"33716\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 LIBERTY STREET",
+                                        "street2": "26TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15340",
+                    "firm_bd_sec_number": "31826",
+                    "firm_bd_full_sec_number": "8-31826",
+                    "firm_ia_sec_number": "45573",
+                    "firm_ia_full_sec_number": "801-45573",
+                    "firm_name": "CETERA INVESTMENT SERVICES LLC",
+                    "ia_firm_name": "CETERA INVESTMENT SERVICES LLC",
+                    "firm_other_names": [
+                        "BANKERS SYSTEMS BROKERAGE SERVICES, INC.",
+                        "PRIMEVEST FINANCIAL SERVICES, INC.",
+                        "CETERA INVESTMENT SERVICES LLC",
+                        "CETERA FINANCIAL INSTITUTIONS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1410,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 FIRST ST. S. SUITE 300\", \"city\": \"ST. CLOUD\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"56301\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 283\", \"city\": \"ST. CLOUD\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"56302-0283\"}, \"businessPhoneNumber\": \"320-656-4300\", \"iaFirmName\": \"CETERA INVESTMENT SERVICES LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"400 FIRST ST SOUTH STE 300\", \"city\": \"ST CLOUD\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"56301-3600\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "220 RXR PLAZA",
+                                        "city": "UNIONDALE",
+                                        "state": "NY",
+                                        "zipCode": "11556"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "79",
+                    "firm_bd_sec_number": "35008",
+                    "firm_bd_full_sec_number": "8-35008",
+                    "firm_ia_sec_number": "3702",
+                    "firm_ia_full_sec_number": "801-3702",
+                    "firm_name": "J.P. MORGAN SECURITIES LLC",
+                    "ia_firm_name": "J.P. MORGAN SECURITIES LLC",
+                    "firm_other_names": [
+                        "BEAR, STEARNS & CO.",
+                        "JPMORGAN H&Q",
+                        "JPMORGAN CHASE",
+                        "J.P.MORGAN SECURITIES INC.",
+                        "J.P. MORGAN WEALTH MANAGEMENT",
+                        "J.P. MORGAN SECURITIES LLC",
+                        "J.P. MORGAN SECURITIES INC.",
+                        "J.P. MORGAN SECURITIES",
+                        "J.P. MORGAN PRIVATE WEALTH MANAGEMENT",
+                        "J.P. MORGAN PRIVATE BANK",
+                        "J.P. MORGAN",
+                        "CHASE PRIVATE CLIENT",
+                        "CHASE INVESTMENTS",
+                        "BEAR, STEARNS & CO. INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5826,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"383 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10179\"}, \"mailingAddress\": {\"street1\": \"1111 POLARIS PKWY\", \"street2\": \"FLOOR 3F\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43240\"}, \"businessPhoneNumber\": \"212-272-2000\", \"iaFirmName\": \"J.P. MORGAN SECURITIES LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"383 MADISON AVE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10179\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "277 Park Ave",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10172"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "250",
+                    "firm_bd_sec_number": "759",
+                    "firm_bd_full_sec_number": "8-759",
+                    "firm_ia_sec_number": "3297",
+                    "firm_ia_full_sec_number": "801-3297",
+                    "firm_name": "EDWARD JONES",
+                    "ia_firm_name": "EDWARD JONES",
+                    "firm_other_names": [
+                        "EDWARD D. JONES & CO., L.P.",
+                        "EDWARD JONES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16824,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"12555 MANCHESTER ROAD\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63131-3710\"}, \"mailingAddress\": {\"street1\": \"12555 MANCHESTER ROAD\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63131-3710\"}, \"businessPhoneNumber\": \"314-515-2000\", \"iaFirmName\": \"EDWARD JONES\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"12555 MANCHESTER RD\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"United States\", \"postalCode\": \"63131\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "Smithtown",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

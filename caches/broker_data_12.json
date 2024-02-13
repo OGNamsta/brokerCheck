@@ -1,0 +1,435 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5050",
+                    "firm_bd_sec_number": "15644",
+                    "firm_bd_full_sec_number": "8-15644",
+                    "firm_name": "FEDERATED SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FEDERATED SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"680 PARK AVENUE\", \"city\": \"HUNTINGTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11743\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 2679\", \"city\": \"HUNTINGTON STATION\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11746-0531\"}, \"businessPhoneNumber\": \"631421-4499\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "680 PARK AVENUE",
+                                        "city": "HUNTINGTON",
+                                        "state": "NY",
+                                        "zipCode": "11743"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "314295",
+                    "firm_bd_sec_number": "70698",
+                    "firm_bd_full_sec_number": "8-70698",
+                    "firm_name": "INSURANCE ADVISORY PARTNERS LLC",
+                    "firm_other_names": [
+                        "INSURANCE ADVISORY PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 1803\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 1803\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"(646) 736-2825\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1270 Avenue of the Americas",
+                                        "street2": "Suite 1803",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171910",
+                    "firm_bd_sec_number": "69488",
+                    "firm_bd_full_sec_number": "8-69488",
+                    "firm_name": "OLD CITY SECURITIES LLC",
+                    "firm_other_names": [
+                        "OLD CITY SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"589 FIFTH AVENUE\", \"street2\": \"PH\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"445 CENTRAL AVENUE, SUITE 328\", \"city\": \"CEDARHURST\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11516\"}, \"businessPhoneNumber\": \"212-671-1976\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "589 FIFTH AVENUE, 17th FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "137908",
+                    "firm_bd_sec_number": "67127",
+                    "firm_bd_full_sec_number": "8-67127",
+                    "firm_name": "WATSON MANAGEMENT ASSOCIATES, LLC",
+                    "firm_other_names": [
+                        "WATSON MANAGEMENT ASSOCIATES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"161 GRAND STREET\", \"street2\": \"#2A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10013\"}, \"mailingAddress\": {\"street1\": \"161 GRAND STREET\", \"street2\": \"#2A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10013\"}, \"businessPhoneNumber\": \"212 979-0976\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "161 GRAND STREET",
+                                        "street2": "#2A",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10013"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306101",
+                    "firm_bd_sec_number": "70443",
+                    "firm_bd_full_sec_number": "8-70443",
+                    "firm_name": "REALBLOCKS PRIVATE SECURITIES, INC.",
+                    "firm_other_names": [
+                        "REALBLOCKS PRIVATE SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"43 W 23RD STREET\", \"street2\": \"FOURTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"43 W 23RD STREET\", \"street2\": \"FOURTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"612-460-5924\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "43 West 23rd Street, Fourth Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155643",
+                    "firm_bd_sec_number": "68732",
+                    "firm_bd_full_sec_number": "8-68732",
+                    "firm_name": "SGI SECURITIES LLC",
+                    "firm_other_names": [
+                        "SGI CAMBIUM SECURITIES LLC",
+                        "SGI SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7 PENN PLAZA\", \"street2\": \"SUITE 1400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"7 PENN PLAZA\", \"street2\": \"SUITE 1400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212 582-4210\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "595 MADISON AVE",
+                                        "street2": "19TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35912",
+                    "firm_bd_sec_number": "47052",
+                    "firm_bd_full_sec_number": "8-47052",
+                    "firm_name": "U.S. STERLING SECURITIES, INC.",
+                    "firm_other_names": [
+                        "U.S. STERLING SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1393 VETERANS MEMORIAL HIGHWAY UNIT 412N\", \"city\": \"HAUPPAUGE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11788\"}, \"mailingAddress\": {\"street1\": \"1393 VETERANS MEMORIAL HIGHWAY UNIT 412N\", \"city\": \"HAUPPAUGE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11788\"}, \"businessPhoneNumber\": \"631-360-2829\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1393 VETERANS MEMORIAL HIGHWAY 412N",
+                                        "city": "HAUPPAUGE",
+                                        "state": "NY",
+                                        "zipCode": "11788"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "282139",
+                    "firm_bd_sec_number": "69705",
+                    "firm_bd_full_sec_number": "8-69705",
+                    "firm_name": "GENERAL WELLINGTON CAPITAL LLC",
+                    "firm_other_names": [
+                        "GENERAL WELLINGTON CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"295 MADISON AVENUE, 43RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"295 MADISON AVENUE, 43RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-803-7150\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "295 MADISON AVENUE, 43RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148032",
+                    "firm_bd_sec_number": "67955",
+                    "firm_bd_full_sec_number": "8-67955",
+                    "firm_name": "EAST WIND SECURITIES, LLC",
+                    "firm_other_names": [
+                        "EAST WIND SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"810 SEVENTH AVENUE\", \"street2\": \"35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"810 SEVENTH AVENUE\", \"street2\": \"35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"646-202-1500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "810 SEVENTH AVENUE",
+                                        "street2": "35TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "308543",
+                    "firm_bd_sec_number": "70656",
+                    "firm_bd_full_sec_number": "8-70656",
+                    "firm_name": "CROW HOLDINGS SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "CROW HOLDINGS SECURITIES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3819 MAPLE AVENUE\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75219\"}, \"mailingAddress\": {\"street1\": \"3819 MAPLE AVENUE\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75219\"}, \"businessPhoneNumber\": \"214-661-8000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 Park Avenue",
+                                        "street2": "Squad 0206",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "22455",
+                    "firm_bd_sec_number": "39729",
+                    "firm_bd_full_sec_number": "8-39729",
+                    "firm_name": "ACCESS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ACCESS SECURITIES, INC.",
+                        "ACCESS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 BUXTON FARM ROAD STE 310\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06905\"}, \"mailingAddress\": {\"street1\": \"30 BUXTON FARM ROAD STE 300\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06905\"}, \"businessPhoneNumber\": \"203-322-3377\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "13 Justine Court",
+                                        "city": "Briarcliff Manor",
+                                        "state": "NY",
+                                        "zipCode": "10510"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16763",
+                    "firm_bd_sec_number": "33594",
+                    "firm_bd_full_sec_number": "8-33594",
+                    "firm_name": "EMPIRE INVESTMENT INC.",
+                    "firm_other_names": [
+                        "EMPIRE INVESTMENT INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"136-20 38TH AVE.\", \"street2\": \"SUITE 9E\", \"city\": \"FLUSHING\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11354\"}, \"mailingAddress\": {\"street1\": \"136-20 38TH AVE.\", \"street2\": \"SUITE 9E\", \"city\": \"FLUSHING\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11354\"}, \"businessPhoneNumber\": \"718-445-2313\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "136-20 38TH AVENUE",
+                                        "street2": "SUITE 9E",
+                                        "city": "FLUSHING",
+                                        "state": "NY",
+                                        "zipCode": "11354"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

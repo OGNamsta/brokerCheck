@@ -1,0 +1,495 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "11869",
+                    "firm_bd_sec_number": "25065",
+                    "firm_bd_full_sec_number": "8-25065",
+                    "firm_ia_sec_number": "39177",
+                    "firm_ia_full_sec_number": "801-39177",
+                    "firm_name": "PLANMEMBER SECURITIES CORPORATION",
+                    "ia_firm_name": "PLANMEMBER SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "INVESTORS RETIREMENT & MANAGEMENT CORPORATION",
+                        "PLANMEMBER SECURITIES CORPORATION",
+                        "IRM DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 323,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6187 CARPINTERIA AVENUE\", \"city\": \"CARPINTERIA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"93013-2060\"}, \"mailingAddress\": {\"street1\": \"6187 CARPINTERIA AVENUE\", \"city\": \"CARPINTERIA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"93013-2060\"}, \"businessPhoneNumber\": \"(805) 684-1199\", \"iaFirmName\": \"PLANMEMBER SECURITIES CORPORATION\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"6187 CARPINTERIA AVENUE\", \"city\": \"CARPINTERIA\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"93013\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2410 NORTH OCEAN AVENUE, SUITE 401",
+                                        "city": "FARMINGVILLE",
+                                        "state": "NY",
+                                        "zipCode": "11738"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18192",
+                    "firm_bd_sec_number": "36214",
+                    "firm_bd_full_sec_number": "8-36214",
+                    "firm_name": "ZEUS FINANCIAL, LLC",
+                    "firm_other_names": [
+                        "TRANS-CAP SECURITIES, INC",
+                        "ZEUSFINANCIALLLC.COM",
+                        "ZEUS SECURITIES, INC.",
+                        "ZEUS SECURITIES, INC",
+                        "ZEUS FINANCIAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5002 T-REX AVE\", \"street2\": \"SUITE 235\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33431\"}, \"mailingAddress\": {\"street1\": \"5002 T-REX AVE.\", \"street2\": \"SUITE 235\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33431\"}, \"businessPhoneNumber\": \"5617080700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "12 E 49th St",
+                                        "street2": "11th Floor 16-117",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "291361",
+                    "firm_bd_sec_number": "70054",
+                    "firm_bd_full_sec_number": "8-70054",
+                    "firm_ia_sec_number": "114033",
+                    "firm_ia_full_sec_number": "801-114033",
+                    "firm_name": "ROCKEFELLER FINANCIAL LLC",
+                    "ia_firm_name": "ROCKEFELLER CAPITAL MANAGEMENT",
+                    "firm_other_names": [
+                        "ROCKEFELLER CAPITAL MANAGEMENT",
+                        "ROCKEFELLER GLOBAL FAMILY OFFICE",
+                        "ROCKEFELLER FINANCIAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 114,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA\", \"street2\": \"FLOOR 5\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"mailingAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA\", \"street2\": \"FLOOR 5\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"businessPhoneNumber\": \"212-549-5100\", \"iaFirmName\": \"ROCKEFELLER CAPITAL MANAGEMENT\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA\", \"street2\": \"FLOOR 5\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10111\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "510 MADISON AVE",
+                                        "city": "NY",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "161014",
+                    "firm_bd_sec_number": "69039",
+                    "firm_bd_full_sec_number": "8-69039",
+                    "firm_name": "MAREX CAPITAL MARKETS INC.",
+                    "firm_other_names": [
+                        "E D & F MAN CAPITAL MARKETS INC.",
+                        "MPS",
+                        "MAREX CAPITAL MARKETS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"140 EAST 45TH STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"140 EAST 45TH STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 618-2800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "140 EAST 45TH STREET",
+                                        "street2": "10th FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "25427",
+                    "firm_bd_sec_number": "41727",
+                    "firm_bd_full_sec_number": "8-41727",
+                    "firm_name": "CFD INVESTMENTS, INC.",
+                    "firm_other_names": [
+                        "CFD INVESTMENTS, INC.",
+                        "CFD SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 109,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2704 S GOYER RD\", \"city\": \"KOKOMO\", \"state\": \"IN\", \"country\": \"UNITED STATES\", \"postalCode\": \"46902\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 2244\", \"city\": \"KOKOMO\", \"state\": \"IN\", \"country\": \"UNITED STATES\", \"postalCode\": \"46904-2244\"}, \"businessPhoneNumber\": \"765-453-9600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "369 E Main St",
+                                        "street2": "Suite 13",
+                                        "city": "East Islip",
+                                        "state": "NY",
+                                        "zipCode": "11730"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2882",
+                    "firm_bd_sec_number": "13987",
+                    "firm_bd_full_sec_number": "8-13987",
+                    "firm_ia_sec_number": "46585",
+                    "firm_ia_full_sec_number": "801-46585",
+                    "firm_name": "VOYA FINANCIAL ADVISORS, INC.",
+                    "ia_firm_name": "VOYA FINANCIAL ADVISORS, INC.",
+                    "firm_other_names": [
+                        "ING FINANCIAL PARTNERS, INC",
+                        "WASHINGTON SQUARE SECURITIES, INC.",
+                        "VOYA FINANCIAL ADVISORS, INC.",
+                        "VARIABLE LIFE BROKERAGE DISTRIBUTORS",
+                        "NWNL MANAGEMENT CORPORATION",
+                        "ING FINANCIAL PARTNERS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 347,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE ORANGE WAY\", \"city\": \"WINDSOR\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06095\"}, \"mailingAddress\": {\"street1\": \"ONE ORANGE WAY\", \"city\": \"WINDSOR\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06095\"}, \"businessPhoneNumber\": \"1-800-356-2906\", \"iaFirmName\": \"VOYA FINANCIAL ADVISORS, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"ONE ORANGE WAY\", \"city\": \"WINDSOR\", \"state\": \"CT\", \"country\": \"United States\", \"postalCode\": \"06095\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6225 SHERIDAN DRIVE",
+                                        "street2": "SUITE 212",
+                                        "city": "WILLIAMSVILLE",
+                                        "state": "NY",
+                                        "zipCode": "14221"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42046",
+                    "firm_bd_sec_number": "49672",
+                    "firm_bd_full_sec_number": "8-49672",
+                    "firm_name": "KESTRA INVESTMENT SERVICES, LLC",
+                    "ia_firm_name": "NFP ADVISOR SERVICES, LLC",
+                    "firm_other_names": [
+                        "KESTRA INVESTMENT SERVICES, LLC",
+                        "PARTNERS SECURITIES, INC.",
+                        "NFP SECURITIES, INC.",
+                        "NFP SECIRITIES, INC.",
+                        "NFP ADVISOR SERVICES, LLC",
+                        "NFP ADVISOR SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 667,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5707 SOUTHWEST PARKWAY\", \"street2\": \"BUILDING 2, SUITE 400\", \"city\": \"AUSTIN\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"78735\"}, \"mailingAddress\": {\"street1\": \"5707 SOUTHWEST PARKWAY\", \"street2\": \"BUILDING 2, SUITE 400\", \"city\": \"AUSTIN\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"78735\"}, \"businessPhoneNumber\": \"844-553-7872\", \"iaFirmName\": \"NFP ADVISOR SERVICES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1250 CAPITAL OF TEXAS HIGHWAY S.\", \"street2\": \"2-125\", \"city\": \"AUSTIN\", \"state\": \"TX\", \"country\": \"United States\", \"postalCode\": \"78746\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "51 E. MAIN STREET",
+                                        "city": "SMITHTOWN",
+                                        "state": "NY",
+                                        "zipCode": "11787"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "325235",
+                    "firm_bd_sec_number": "71059",
+                    "firm_bd_full_sec_number": "8-71059",
+                    "firm_name": "ABN AMRO CAPITAL MARKETS (USA) LLC",
+                    "firm_other_names": [
+                        "ABN AMRO CAPITAL MARKETS (USA) LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 PARK AVENUE, 17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"100 PARK AVENUE, 17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(917) 331-4881\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 PARK AVENUE, 17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1254",
+                    "firm_bd_sec_number": "2915",
+                    "firm_bd_full_sec_number": "8-2915",
+                    "firm_ia_sec_number": "67179",
+                    "firm_ia_full_sec_number": "801-67179",
+                    "firm_name": "STEWARD PARTNERS INVESTMENT SOLUTIONS, LLC",
+                    "ia_firm_name": "STEWARD PARTNERS INVESTMENT SOLUTIONS, LLC",
+                    "firm_other_names": [
+                        "BLAKELY, STRAND & WILLIAMS, INC.",
+                        "VALENCIA GROUP",
+                        "UMPQUA WEALTH ADVISORY",
+                        "UMPQUA INVESTMENTS, INC.",
+                        "STRAND, ATKINSON, WILLIAMS & YORK, INC.",
+                        "STRAND, ATKINSON, WILLIAMS & YORK INC.",
+                        "STEWARD PARTNERS INVESTMENT SOLUTIONS, LLC",
+                        "STEWARD PARTNERS GLOBAL ADVISORY, LLC",
+                        "MILLER FORSYTH GROUP",
+                        "LINDSEY GROUP",
+                        "H.L. WIGINTON CAPITAL",
+                        "GERGEN WEALTH MANAGEMENT",
+                        "ENSIGN WEALTH PARTNERS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 68,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"15495 SW SEQUOIA PARKWAY\", \"street2\": \"SUITE 150\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"UNITED STATES\", \"postalCode\": \"97224\"}, \"mailingAddress\": {\"street1\": \"15495 SW SEQUOIA PARKWAY\", \"street2\": \"SUITE 150\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"UNITED STATES\", \"postalCode\": \"97224\"}, \"businessPhoneNumber\": \"(971) 353-7800\", \"iaFirmName\": \"STEWARD PARTNERS INVESTMENT SOLUTIONS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"15495 SW SEQUOIA PARKWAY\", \"street2\": \"SUITE 150\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"United States\", \"postalCode\": \"97224\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "677 BROADWAY",
+                                        "street2": "12TH FLOOR",
+                                        "city": "ALBANY",
+                                        "state": "NY",
+                                        "zipCode": "12207"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133798",
+                    "firm_bd_sec_number": "66772",
+                    "firm_bd_full_sec_number": "8-66772",
+                    "firm_name": "OCEANUS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "OCEANUS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"521 FIFTH AVENUE\", \"street2\": \"37TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10175\"}, \"mailingAddress\": {\"street1\": \"521 FIFTH AVENUE\", \"street2\": \"37TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10175\"}, \"businessPhoneNumber\": \"212 509-5600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "521 FIFTH AVENUE",
+                                        "street2": "37TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10175"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "23682",
+                    "firm_bd_sec_number": "40605",
+                    "firm_bd_full_sec_number": "8-40605",
+                    "firm_name": "RAFFERTY CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "COHANE RAFFERTY CAPITAL MARKETS, INC.",
+                        "RAFFERTY CAPITAL MARKETS, LLC",
+                        "RAFFERTY CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1010 FRANKLIN AVENUE\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11530\"}, \"mailingAddress\": {\"street1\": \"1010 FRANKLIN AVENUE\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11530\"}, \"businessPhoneNumber\": \"516-535-3800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1010 FRANKLIN AVENUE",
+                                        "city": "GARDEN CITY",
+                                        "state": "NY",
+                                        "zipCode": "11530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127724",
+                    "firm_bd_sec_number": "66036",
+                    "firm_bd_full_sec_number": "8-66036",
+                    "firm_name": "INVESTMENT NETWORK, INC.",
+                    "ia_firm_name": "INVESTMENT NETWORK, INC.",
+                    "firm_other_names": [
+                        "INVESTMENT NETWORK, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4639 WHIPPLE AVE NW\", \"city\": \"CANTON\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"44718\"}, \"mailingAddress\": {\"street1\": \"4639 WHIPPLE AVE NW\", \"city\": \"CANTON\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"44718\"}, \"businessPhoneNumber\": \"330-564-0568\", \"iaFirmName\": \"INVESTMENT NETWORK, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"4639 WHIPPLE AVE NW\", \"city\": \"CANTON\", \"state\": \"OH\", \"country\": \"United States\", \"postalCode\": \"44718\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "732 SMITHTOWN BYPASS",
+                                        "street2": "SUITE A50",
+                                        "city": "SMITHTOWN",
+                                        "state": "NY",
+                                        "zipCode": "11787"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

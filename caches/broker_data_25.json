@@ -1,0 +1,447 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39289",
+                    "firm_bd_sec_number": "48629",
+                    "firm_bd_full_sec_number": "8-48629",
+                    "firm_name": "QUATTRO M SECURITIES INC.",
+                    "firm_other_names": [
+                        "QUATTRO M SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"501 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"735 RIDGEFIELD ROAD\", \"city\": \"WILTON\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06897\"}, \"businessPhoneNumber\": \"212-402-1441\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "501 FIFTH AVENUE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2269",
+                    "firm_bd_sec_number": "4618",
+                    "firm_bd_full_sec_number": "8-4618",
+                    "firm_name": "VAN ECK SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "I. I. I. SECURITIES CORPORATION",
+                        "VE",
+                        "VANECK",
+                        "VAN ECK SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"666 THIRD AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-4033\"}, \"mailingAddress\": {\"street1\": \"666 THIRD AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-4033\"}, \"businessPhoneNumber\": \"(212) 293-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "666 THIRD AVENUE",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147794",
+                    "firm_bd_sec_number": "67930",
+                    "firm_bd_full_sec_number": "8-67930",
+                    "firm_name": "GP BULLHOUND INC.",
+                    "firm_other_names": [
+                        "GP BULLHOUND INC.",
+                        "GP BULLHOUND, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE SANSOME STREET\", \"street2\": \"SUITE 3630\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94104\"}, \"mailingAddress\": {\"street1\": \"ONE SANSOME STREET\", \"street2\": \"SUITE 3630\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94104\"}, \"businessPhoneNumber\": \"415 986-0168\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "489 Fifth Ave",
+                                        "street2": "34th PH",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148257",
+                    "firm_bd_sec_number": "67997",
+                    "firm_bd_full_sec_number": "8-67997",
+                    "firm_name": "EM SECURITIES LLC",
+                    "firm_other_names": [
+                        "EM ADVISORS, LLC",
+                        "EM SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"C/O EVOLUTION MEDIA CAPITAL\", \"street2\": \"405 LEXINGTON AVENUE, 19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10174\"}, \"mailingAddress\": {\"street1\": \"C/O EVOLUTION MEDIA CAPITAL\", \"street2\": \"405 LEXINGTON AVENUE, 19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10174\"}, \"businessPhoneNumber\": \"212 277-5261\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "C/O EVOLUTION MEDIA CAPITAL",
+                                        "street2": "405 LEXINGTON AVENUE, 19TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10174"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26576",
+                    "firm_bd_sec_number": "42634",
+                    "firm_bd_full_sec_number": "8-42634",
+                    "firm_name": "DABBAH SECURITIES CORP.",
+                    "firm_other_names": [
+                        "DABBAH SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"167 EAST 63RD STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10065\"}, \"mailingAddress\": {\"street1\": \"167 EAST 63RD STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10065\"}, \"businessPhoneNumber\": \"212-697-9870\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "167 EAST 63RD STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10065"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15768",
+                    "firm_bd_sec_number": "32706",
+                    "firm_bd_full_sec_number": "8-32706",
+                    "firm_name": "NOBLE CAPITAL MARKETS, INC.",
+                    "firm_other_names": [
+                        "NOBLE CAPITAL MANAGEMENT INC",
+                        "NOBLE LIFE SCIENCE PARTNERS",
+                        "NOBLE INTERNATIONAL INVESTMENTS, INC.",
+                        "NOBLE FINANCIAL CAPITAL MARKETS",
+                        "NOBLE CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 EAST PALMETTO PARK ROAD\", \"street2\": \"SUITE 110\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33432\"}, \"mailingAddress\": {\"street1\": \"150 EAST PALMETTO PARK ROAD\", \"street2\": \"SUITE 110\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33432\"}, \"businessPhoneNumber\": \"561-994-1191\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "The Chrysler Building",
+                                        "street2": "405 Lexington Ave., 7th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10174"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41571",
+                    "firm_bd_sec_number": "49496",
+                    "firm_bd_full_sec_number": "8-49496",
+                    "firm_name": "MCM SECURITIES LLC",
+                    "firm_other_names": [
+                        "MCM SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"99 PARK AVENUE\", \"street2\": \"SUITE 1560\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"99 PARK AVENUE\", \"street2\": \"SUITE 1560\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"212-218-4088\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "99 Park Avenue",
+                                        "street2": "Suite 1560",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317624",
+                    "firm_bd_sec_number": "70847",
+                    "firm_bd_full_sec_number": "8-70847",
+                    "firm_name": "WISDOMTREE SECURITIES, INC.",
+                    "firm_other_names": [
+                        "WISDOMTREE SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 WEST 34TH STREET\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"mailingAddress\": {\"street1\": \"250 WEST 34TH STREET\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"businessPhoneNumber\": \"212-801-2080\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 West 34th Street",
+                                        "street2": "3rd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10119"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "145994",
+                    "firm_bd_sec_number": "67773",
+                    "firm_bd_full_sec_number": "8-67773",
+                    "firm_name": "PENSERRA SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PENSERRA SECURITIES",
+                        "PENSERRA SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4 ORINDA WAY\", \"street2\": \"SUITE 100-A\", \"city\": \"ORINDA\", \"state\": \"CA\", \"postalCode\": \"94563\"}, \"mailingAddress\": {\"street1\": \"4 ORINDA WAY\", \"street2\": \"SUITE 100-A\", \"city\": \"ORINDA\", \"state\": \"CA\", \"postalCode\": \"94563\"}, \"businessPhoneNumber\": \"6464590581\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "530 Seventh Ave",
+                                        "street2": "Suite 2802",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46872",
+                    "firm_bd_sec_number": "51573",
+                    "firm_bd_full_sec_number": "8-51573",
+                    "firm_name": "E1 ASSET MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "E1 ASSET MANAGEMENT, INC.",
+                        "EVEREST 1, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"185 HUDSON ST.\", \"street2\": \"SUITE 2500\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07311\"}, \"mailingAddress\": {\"street1\": \"185 HUDSON ST. SUITE 2500\", \"street2\": \"SUITE 2500\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07311\"}, \"businessPhoneNumber\": \"212-4252670\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "95 WATERBURY PARKWAY",
+                                        "city": "Cortlandt Manor",
+                                        "state": "NY",
+                                        "zipCode": "10567"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129837",
+                    "firm_bd_sec_number": "66263",
+                    "firm_bd_full_sec_number": "8-66263",
+                    "firm_name": "CG COMPASS (USA) LLC",
+                    "firm_other_names": [
+                        "CG COMPASS (USA) LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"590 MADISON AVE\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"590 MADISON AVE\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-355-7630\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "590 Madison Ave",
+                                        "street2": "33rd Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114422",
+                    "firm_bd_sec_number": "53420",
+                    "firm_bd_full_sec_number": "8-53420",
+                    "firm_name": "TIME EQUITIES SECURITIES LLC",
+                    "firm_other_names": [
+                        "TIME EQUITIES SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 FIFTH AVENUE, 15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10003\"}, \"mailingAddress\": {\"street1\": \"55 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10003\"}, \"businessPhoneNumber\": \"212.206.6011\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 FIFTH AVENUE, 15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10003"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

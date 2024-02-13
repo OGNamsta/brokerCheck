@@ -1,0 +1,450 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "315151",
+                    "firm_bd_sec_number": "70734",
+                    "firm_bd_full_sec_number": "8-70734",
+                    "firm_name": "CARVER EDISON CAPITAL, LLC",
+                    "firm_other_names": [
+                        "CARVER EDISON CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 VARICK STREET\", \"street2\": \"#508\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"mailingAddress\": {\"street1\": \"200 VARICK STREET\", \"street2\": \"#508\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"businessPhoneNumber\": \"917-716-4562\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 VARICK STREET",
+                                        "street2": "#508",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "287728",
+                    "firm_bd_sec_number": "69908",
+                    "firm_bd_full_sec_number": "8-69908",
+                    "firm_name": "STASH CAPITAL LLC",
+                    "firm_other_names": [
+                        "STASH CAPITAL LLC",
+                        "STASH FINANCIAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"257 PARK AVENUE SOUTH\", \"street2\": \"SUITE 900\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"115 E 34TH ST\", \"street2\": \"P.O. BOX 1922\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"800-205-5164\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "257 PARK AVENUE SOUTH",
+                                        "street2": "SUITE 900",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7031",
+                    "firm_bd_sec_number": "19273",
+                    "firm_bd_full_sec_number": "8-19273",
+                    "firm_name": "STOEVER, GLASS & COMPANY INC.",
+                    "firm_other_names": [
+                        "STOEVER, GLASS & COMPANY INC.",
+                        "STOEVER,GLASS & COMPANY INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 WALL STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"30 WALL STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-952-1930\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 WALL STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30096",
+                    "firm_bd_sec_number": "44742",
+                    "firm_bd_full_sec_number": "8-44742",
+                    "firm_name": "GUGGENHEIM INVESTOR SERVICES, LLC",
+                    "firm_other_names": [
+                        "GUGGENHEIM INVESTMENTS",
+                        "INTER-ATLANTIC SECURITIES CORPORATION",
+                        "GUGGENHEIM SECURITIES, LLC",
+                        "GUGGENHEIM PARTNERS",
+                        "GUGGENHEIM INVESTOR SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"330 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"330 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"2129019405\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 MADISON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "156378",
+                    "firm_bd_sec_number": "68792",
+                    "firm_bd_full_sec_number": "8-68792",
+                    "firm_name": "D/B/A PALAZZO",
+                    "firm_other_names": [
+                        "D/B/A PALAZZO",
+                        "PALAZZO SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"145 WEST 57TH STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"145 WEST 57TH STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"212.402.9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "145 WEST 57TH ST",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157642",
+                    "firm_bd_sec_number": "68859",
+                    "firm_bd_full_sec_number": "8-68859",
+                    "firm_name": "ANUBIS SECURITIES LLC",
+                    "firm_other_names": [
+                        "ANUBIS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"717 FIFTH AVENUE, 18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"717 FIFTH AVENUE, 18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 705-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "717 FIFTH AVENUE",
+                                        "street2": "18TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29258",
+                    "firm_bd_sec_number": "44123",
+                    "firm_bd_full_sec_number": "8-44123",
+                    "firm_name": "COHEN & STEERS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "COHEN & STEERS SECURITIES, INC.",
+                        "COHEN & STEERS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1166 AVENUE OF THE AMERICAS\", \"street2\": \"30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1166 AVENUE OF THE AMERICAS\", \"street2\": \"30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-832-3232\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 PARK AVENUE",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "21821",
+                    "firm_bd_sec_number": "39247",
+                    "firm_bd_full_sec_number": "8-39247",
+                    "firm_name": "CATHAY SECURITIES, INC.",
+                    "firm_other_names": [
+                        "CATHAY SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"SUITE 3600\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"SUITE 3600\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-285-2261\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 WALL STREET",
+                                        "street2": "SUITE 3600",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38485",
+                    "firm_bd_sec_number": "48279",
+                    "firm_bd_full_sec_number": "8-48279",
+                    "firm_name": "HANDELSBANKEN MARKETS SECURITIES, INC.",
+                    "firm_other_names": [
+                        "AFFILIATED COMPANY UNDER COMMON CONTROL:  SVENSKA HANDELSBANKEN AB (PUBL) NY BRANCH",
+                        "HANDELSBANKEN MARKETS SECURITIES, INC.",
+                        "HANDELSBANKEN ASSET MANAGEMENT, USA"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 THIRD AVENUE\", \"street2\": \"17 TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022-4678\"}, \"mailingAddress\": {\"street1\": \"900 THIRD AVENUE\", \"street2\": \"17 TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022-4678\"}, \"businessPhoneNumber\": \"212-326-5153\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "HANDELSBANKEN MARKETS SECURITIES INC",
+                                        "street2": "875 THIRD AVE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "321877",
+                    "firm_bd_sec_number": "70933",
+                    "firm_bd_full_sec_number": "8-70933",
+                    "firm_name": "OCTAURA SECURITIES TRADINGCO LLC",
+                    "firm_other_names": [
+                        "OCTAURA SECURITIES TRADINGCO LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 WEST 34TH STREET, 3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"mailingAddress\": {\"street1\": \"250 WEST 34TH STREET, 3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"businessPhoneNumber\": \"212-397-6133\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 W 34th Street",
+                                        "street2": "306",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10119"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146057",
+                    "firm_bd_sec_number": "67788",
+                    "firm_bd_full_sec_number": "8-67788",
+                    "firm_name": "STARWOOD CAPITAL, L.L.C.",
+                    "firm_other_names": [
+                        "591 CAPITAL SECURITIES, L.L.C.",
+                        "STARWOOD CAPITAL, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"591 WEST PUTNAM AVENUE\", \"city\": \"GREENWICH\", \"state\": \"CT\", \"postalCode\": \"06830\"}, \"mailingAddress\": {\"street1\": \"591 WEST PUTNAM AVENUE\", \"city\": \"GREENWICH\", \"state\": \"CT\", \"postalCode\": \"06830\"}, \"businessPhoneNumber\": \"203-422-7775\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 10th Ave",
+                                        "street2": "8th Fl",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36866",
+                    "firm_bd_sec_number": "47498",
+                    "firm_bd_full_sec_number": "8-47498",
+                    "firm_name": "PLANNER SECURITIES LLC",
+                    "firm_other_names": [
+                        "ALMARC TRADING LLC",
+                        "PLANNER SECURITIES LLC",
+                        "ALMARC TRADING, LP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"405 LEXINGTON AVENUE\", \"street2\": \"7TH FL., SUITE 707\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10174\"}, \"mailingAddress\": {\"street1\": \"801 BRICKELL AVENUE\", \"street2\": \"7TH FLOOR SUITE 713\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"646-381-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "405 LEXINGTON AVENUE",
+                                        "street2": "7TH FL., SUITE 707",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10174"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

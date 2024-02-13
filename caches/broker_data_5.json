@@ -1,0 +1,447 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "168457",
+                    "firm_bd_sec_number": "69309",
+                    "firm_bd_full_sec_number": "8-69309",
+                    "firm_name": "CAMPFIRE CAPITAL",
+                    "firm_other_names": [
+                        "88 FINANCIAL GROUP",
+                        "SWCD LLC",
+                        "CAMPFIRE CAPITAL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"81 CAMPFIRE RD\", \"city\": \"CHAPPAQUA\", \"state\": \"NY\", \"postalCode\": \"10514\"}, \"mailingAddress\": {\"street1\": \"81 CAMPFIRE RD\", \"city\": \"CHAPPAQUA\", \"state\": \"NY\", \"postalCode\": \"10514\"}, \"businessPhoneNumber\": \"917-327-4561\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "81 CAMPFIRE RD",
+                                        "city": "CHAPPAQUA",
+                                        "state": "NY",
+                                        "zipCode": "10514"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47069",
+                    "firm_bd_sec_number": "51649",
+                    "firm_bd_full_sec_number": "8-51649",
+                    "firm_name": "CIC MARKET SOLUTIONS, INC.",
+                    "firm_other_names": [
+                        "CIC EUROSECURITIES, INC.",
+                        "GSN NORTH AMERICA, INC.",
+                        "ESN NORTH AMERICA, INC.",
+                        "CM-CIC MARKET SOLUTIONS INC.",
+                        "CIC MARKET SOLUTIONS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"520 MADISON AVE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"520 MADISON AVE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-659-6292\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "520 MADISON AVENUE, 36TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150022",
+                    "firm_bd_sec_number": "68208",
+                    "firm_bd_full_sec_number": "8-68208",
+                    "firm_name": "IRC SECURITIES LLC",
+                    "firm_other_names": [
+                        "INVESTMENT RESEARCH CONSORTIUM SECURITIES LLC",
+                        "IRC SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"646-355-0940\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "SUITE 300",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17406",
+                    "firm_bd_sec_number": "35184",
+                    "firm_bd_full_sec_number": "8-35184",
+                    "firm_name": "SCOTT-MACON SECURITIES, INC.",
+                    "firm_other_names": [
+                        "SCOTT-MACON SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 THIRD AVE.\", \"street2\": \"16TH FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"800 THIRD AVE.,\", \"street2\": \"16TH FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 755-8200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 THIRD AVE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131226",
+                    "firm_bd_sec_number": "66433",
+                    "firm_bd_full_sec_number": "8-66433",
+                    "firm_name": "STERN CAPITAL LLC",
+                    "firm_other_names": [
+                        "STERN CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"212-832-1200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "SUITE 300",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149687",
+                    "firm_bd_sec_number": "68176",
+                    "firm_bd_full_sec_number": "8-68176",
+                    "firm_name": "ESAE CAPITAL PARTNERS, LLC",
+                    "firm_other_names": [
+                        "ESAE CAPITAL PARTNERS, LLC",
+                        "TONG YANG ESAE CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"980 6TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"8 RIVER TERRACE\", \"street2\": \"#6T\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10282\"}, \"businessPhoneNumber\": \"646 350-3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "980 6TH AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132007",
+                    "firm_bd_sec_number": "66540",
+                    "firm_bd_full_sec_number": "8-66540",
+                    "firm_name": "BAADER HELVEA INC.",
+                    "firm_other_names": [
+                        "BAADER HELVEA INC.",
+                        "HELVEA INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 804\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 804\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"212-935-5150\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "SUITE 804",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "158399",
+                    "firm_bd_sec_number": "68897",
+                    "firm_bd_full_sec_number": "8-68897",
+                    "firm_name": "FGC SECURITIES, LLC",
+                    "firm_other_names": [
+                        "FGC SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 BROADWAY, SUITE 615\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"11 BROADWAY, SUITE 615\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212 931-0746\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 BROADWAY, SUITE 615",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "24129",
+                    "firm_bd_sec_number": "40973",
+                    "firm_bd_full_sec_number": "8-40973",
+                    "firm_name": "SCHRODER FUND ADVISORS LLC",
+                    "firm_other_names": [
+                        "SCHRODER CAPITAL DISTRIBUTORS INC.",
+                        "SCHRODER FUND ADVISORS LLC",
+                        "SCHRODER FUND ADVISORS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7 BRYANT PARK\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018-3706\"}, \"mailingAddress\": {\"street1\": \"7 BRYANT PARK\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018-3706\"}, \"businessPhoneNumber\": \"212-641-3889\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "7 BRYANT PARK",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28683",
+                    "firm_bd_sec_number": "43902",
+                    "firm_bd_full_sec_number": "8-43902",
+                    "firm_name": "WATERMARK SECURITIES, INC.",
+                    "firm_other_names": [
+                        "WATERMARK SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 THIRD AVENUE\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"900 THIRD AVENUE\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-451-1187\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "900 THIRD AVENUE",
+                                        "street2": "31ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35691",
+                    "firm_bd_sec_number": "46837",
+                    "firm_bd_full_sec_number": "8-46837",
+                    "firm_name": "DBS VICKERS SECURITIES (USA) INC.",
+                    "firm_other_names": [
+                        "DBS VICKERS SECURITIES (USA) INC.",
+                        "VICKERS BALLAS (USA) INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"777 THIRD AVE\", \"street2\": \"SUITE 1701\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"777 THIRD AVENUE\", \"street2\": \"SUITE 1701\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(212) 826-1888\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "777 THIRD AVE",
+                                        "street2": "SUITE 1701",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "780",
+                    "firm_bd_sec_number": "13923",
+                    "firm_bd_full_sec_number": "8-13923",
+                    "firm_name": "KINETICS FUNDS DISTRIBUTOR LLC",
+                    "firm_other_names": [
+                        "KINETICS FUNDS DISTRIBUTOR LLC",
+                        "SOUTHWEST FINANCIAL PLANNING INSTITUTE, INC.",
+                        "KINETICS FUNDS DISTRIBUTOR, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"470 PARK AVENUE SOUTH\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"470 PARK AVENUE SOUTH\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"646-495-7333\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "470 PARK AVENUE SOUTH",
+                                        "street2": "8TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

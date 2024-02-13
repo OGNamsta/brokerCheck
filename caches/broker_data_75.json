@@ -1,0 +1,451 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "11363",
+                    "firm_bd_sec_number": "20930",
+                    "firm_bd_full_sec_number": "8-20930",
+                    "firm_name": "TRIAD SECURITIES CORP",
+                    "firm_other_names": [
+                        "TRIAD SECURITIES CORP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"111 BROADWAY 11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006-9401\"}, \"mailingAddress\": {\"street1\": \"111 BROADWAY 11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006-9401\"}, \"businessPhoneNumber\": \"212 349 8060\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "111 BROADWAY 11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "130672",
+                    "firm_bd_sec_number": "66373",
+                    "firm_bd_full_sec_number": "8-66373",
+                    "firm_name": "PICKWICK CAPITAL PARTNERS, LLC",
+                    "firm_other_names": [
+                        "JAVELIN SECURITIES, LLC",
+                        "STRATEGIC FINANCIAL SERVICES GROUP",
+                        "PICKWICK SECURITIES, LLC",
+                        "PICKWICK CAPITAL PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"445 HAMILTON AVENUE\", \"street2\": \"SUITE 1102\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10601\"}, \"mailingAddress\": {\"street1\": \"445 HAMILTON AVENUE\", \"street2\": \"SUITE 1102\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10601\"}, \"businessPhoneNumber\": \"914-358-3269\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "590 MADISON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283508",
+                    "firm_bd_sec_number": "69758",
+                    "firm_bd_full_sec_number": "8-69758",
+                    "firm_name": "MIDDLEMARCH SECURITIES LLC",
+                    "firm_other_names": [
+                        "MIDDLEMARCH SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"700 CANAL ST.\", \"street2\": \"BUILDING 1, FLOOR 1, SUITE 148\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"postalCode\": \"06902\"}, \"mailingAddress\": {\"street1\": \"700 CANAL ST.\", \"street2\": \"BUILDING 1, FLOOR 1, SUITE 148\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"postalCode\": \"06902\"}, \"businessPhoneNumber\": \"212-913-9660\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "125 Park Avenue",
+                                        "street2": "Suite 1700",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35917",
+                    "firm_bd_sec_number": "46961",
+                    "firm_bd_full_sec_number": "8-46961",
+                    "firm_name": "STONINGTON CORPORATION",
+                    "firm_other_names": [
+                        "STONINGTON CORPORATION",
+                        "STONINGTON PARTNERS GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"342 WEST 22ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10011\"}, \"mailingAddress\": {\"street1\": \"342 WEST 22ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10011\"}, \"businessPhoneNumber\": \"6465411134\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "342 WEST 22ND STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10011"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "173523",
+                    "firm_bd_sec_number": "69541",
+                    "firm_bd_full_sec_number": "8-69541",
+                    "firm_name": "CANDEAL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CANDEAL SECURITIES, LLC",
+                        "REWIRE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"396 SCHOOLHOUSE ROAD\", \"city\": \"STUYVESANT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12173\"}, \"mailingAddress\": {\"street1\": \"P O BOX 63245\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"USA\", \"postalCode\": \"19114\"}, \"businessPhoneNumber\": \"2156206250\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "396 Schoolhouse Road",
+                                        "city": "Stuyvesant",
+                                        "state": "NY",
+                                        "zipCode": "12173"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15296",
+                    "firm_bd_sec_number": "31955",
+                    "firm_bd_full_sec_number": "8-31955",
+                    "firm_ia_sec_number": "45152",
+                    "firm_ia_full_sec_number": "801-45152",
+                    "firm_name": "SECURIAN FINANCIAL SERVICES, INC.",
+                    "ia_firm_name": "SECURIAN FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "ASCEND FINANCIAL SERVICES, INC.",
+                        "SECURIAN FINANCIAL SERVICES, INC.",
+                        "MIMLIC SALES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 ROBERT STREET NORTH\", \"city\": \"ST. PAUL\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55101-2098\"}, \"mailingAddress\": {\"street1\": \"400 ROBERT STREET NORTH\", \"city\": \"ST. PAUL\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55101-2098\"}, \"businessPhoneNumber\": \"651-665-3161\", \"iaFirmName\": \"SECURIAN FINANCIAL SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"400 ROBERT STREET NORTH\", \"city\": \"ST PAUL\", \"state\": \"MN\", \"country\": \"United States\", \"postalCode\": \"55101-2098\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 Park Avenue",
+                                        "street2": "38th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151717",
+                    "firm_bd_sec_number": "68389",
+                    "firm_bd_full_sec_number": "8-68389",
+                    "firm_name": "SOFI SECURITIES LLC",
+                    "firm_other_names": [
+                        "BOHICA SECURITIES LLC",
+                        "SOFI SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"234 1ST STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94105\"}, \"mailingAddress\": {\"street1\": \"234 1ST STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94105\"}, \"businessPhoneNumber\": \"855-525-7634\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "860 Washington Street",
+                                        "street2": "2nd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "313116",
+                    "firm_bd_sec_number": "70708",
+                    "firm_bd_full_sec_number": "8-70708",
+                    "firm_name": "BANCTRUST SECURITIES USA",
+                    "firm_other_names": [
+                        "BANCTRUST & CO.",
+                        "BTCO SECURITIES LLC",
+                        "BANCTRUST SECURITIES USA"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 ROCKEFELLER PLAZA\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1 ROCKEFELLER PLAZA\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-466-6510\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 Park Ave",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10177"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122657",
+                    "firm_bd_sec_number": "65525",
+                    "firm_bd_full_sec_number": "8-65525",
+                    "firm_name": "RABO SECURITIES USA, INC.",
+                    "firm_other_names": [
+                        "RABO SECURITIES USA, INC.",
+                        "RABO SECURITIES USA, INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"245 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10167-0062\"}, \"mailingAddress\": {\"street1\": \"245 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10167-0062\"}, \"businessPhoneNumber\": \"212-808-2548\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "245 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10167"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299008",
+                    "firm_bd_sec_number": "70279",
+                    "firm_bd_full_sec_number": "8-70279",
+                    "firm_name": "USQ SECURITIES LLC",
+                    "firm_other_names": [
+                        "USQ SECURITIES LLC",
+                        "USQA CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"403 E. 90TH STREET\", \"street2\": \"#1RW\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10128\"}, \"mailingAddress\": {\"street1\": \"403 E. 90TH STREET\", \"street2\": \"#1RW\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10128\"}, \"businessPhoneNumber\": \"347-334-9813\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "403 E. 90TH STREET",
+                                        "street2": "#1RW",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10128"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "144209",
+                    "firm_bd_sec_number": "67642",
+                    "firm_bd_full_sec_number": "8-67642",
+                    "firm_name": "CARL MARKS SECURITIES LLC",
+                    "firm_other_names": [
+                        "CARL MARKS SECURITIES LLC",
+                        "CARL MARKS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 THIRD AVENUE, 33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"900 THIRD AVENUE\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-909-8400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "900 THIRD AVENUE, 33RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114909",
+                    "firm_bd_sec_number": "53441",
+                    "firm_bd_full_sec_number": "8-53441",
+                    "firm_name": "AQUILO PARTNERS, L.P.",
+                    "firm_other_names": [
+                        "AQUILO PARTNERS, INC.",
+                        "BIOADVISORS, INC.",
+                        "AQUILO PARTNERS, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"601 CALIFORNIA STREET, SUITE 500\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94108\"}, \"mailingAddress\": {\"street1\": \"601 CALIFORNIA STREET, SUITE 500\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94108\"}, \"businessPhoneNumber\": \"415 677-0999\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "430 E 29th St, Suite 940",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

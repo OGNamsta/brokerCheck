@@ -1,0 +1,466 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8348",
+                    "firm_bd_sec_number": "25130",
+                    "firm_bd_full_sec_number": "8-25130",
+                    "firm_name": "T. ROWE PRICE INVESTMENT SERVICES, INC.",
+                    "firm_other_names": [
+                        "ROWE PRICE MARKETING, INC.",
+                        "T. ROWE PRICE MARKETING, INC.",
+                        "T. ROWE PRICE INVESTMENT SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 62,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 E PRATT ST\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21202\"}, \"mailingAddress\": {\"street1\": \"100 E PRATT ST\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21202\"}, \"businessPhoneNumber\": \"(410) 345-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "One Vanderbilt",
+                                        "street2": "16th floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15296",
+                    "firm_bd_sec_number": "31955",
+                    "firm_bd_full_sec_number": "8-31955",
+                    "firm_ia_sec_number": "45152",
+                    "firm_ia_full_sec_number": "801-45152",
+                    "firm_name": "SECURIAN FINANCIAL SERVICES, INC.",
+                    "ia_firm_name": "SECURIAN FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "ASCEND FINANCIAL SERVICES, INC.",
+                        "SECURIAN FINANCIAL SERVICES, INC.",
+                        "MIMLIC SALES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 ROBERT STREET NORTH\", \"city\": \"ST. PAUL\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55101-2098\"}, \"mailingAddress\": {\"street1\": \"400 ROBERT STREET NORTH\", \"city\": \"ST. PAUL\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55101-2098\"}, \"businessPhoneNumber\": \"651-665-3161\", \"iaFirmName\": \"SECURIAN FINANCIAL SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"400 ROBERT STREET NORTH\", \"city\": \"ST PAUL\", \"state\": \"MN\", \"country\": \"United States\", \"postalCode\": \"55101-2098\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 Park Avenue",
+                                        "street2": "38th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151717",
+                    "firm_bd_sec_number": "68389",
+                    "firm_bd_full_sec_number": "8-68389",
+                    "firm_name": "SOFI SECURITIES LLC",
+                    "firm_other_names": [
+                        "BOHICA SECURITIES LLC",
+                        "SOFI SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"234 1ST STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94105\"}, \"mailingAddress\": {\"street1\": \"234 1ST STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94105\"}, \"businessPhoneNumber\": \"855-525-7634\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "860 Washington Street",
+                                        "street2": "2nd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306029",
+                    "firm_bd_sec_number": "70439",
+                    "firm_bd_full_sec_number": "8-70439",
+                    "firm_name": "ARCVIEW CAPITAL, LLC",
+                    "firm_other_names": [
+                        "ARCVIEW CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"159 20TH STREET\", \"street2\": \"SUITE 1B-17\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11232\"}, \"mailingAddress\": {\"street1\": \"159 20TH STREET\", \"street2\": \"SUITE 1B-17\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11232\"}, \"businessPhoneNumber\": \"9144710231\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1411 Broadway",
+                                        "street2": "16th Fl",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122657",
+                    "firm_bd_sec_number": "65525",
+                    "firm_bd_full_sec_number": "8-65525",
+                    "firm_name": "RABO SECURITIES USA, INC.",
+                    "firm_other_names": [
+                        "RABO SECURITIES USA, INC.",
+                        "RABO SECURITIES USA, INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"245 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10167-0062\"}, \"mailingAddress\": {\"street1\": \"245 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10167-0062\"}, \"businessPhoneNumber\": \"212-808-2548\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "245 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10167"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299008",
+                    "firm_bd_sec_number": "70279",
+                    "firm_bd_full_sec_number": "8-70279",
+                    "firm_name": "USQ SECURITIES LLC",
+                    "firm_other_names": [
+                        "USQ SECURITIES LLC",
+                        "USQA CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"403 E. 90TH STREET\", \"street2\": \"#1RW\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10128\"}, \"mailingAddress\": {\"street1\": \"403 E. 90TH STREET\", \"street2\": \"#1RW\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10128\"}, \"businessPhoneNumber\": \"347-334-9813\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "403 E. 90TH STREET",
+                                        "street2": "#1RW",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10128"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "25700",
+                    "firm_bd_sec_number": "41965",
+                    "firm_bd_full_sec_number": "8-41965",
+                    "firm_ia_sec_number": "65811",
+                    "firm_ia_full_sec_number": "801-65811",
+                    "firm_name": "LEVEL FOUR FINANCIAL, LLC",
+                    "ia_firm_name": "LEVEL FOUR FINANCIAL, LLC",
+                    "firm_other_names": [
+                        "BURTON, BUSBY & CO., INC.",
+                        "MID-ATLANTIC SECURITIES, A LEVEL FOUR FINANCIAL & LEVEL FOUR ADV",
+                        "LEVEL FOUR FINANCIAL, LLC",
+                        "LEVEL FOUR FINANCIAL",
+                        "J.ROE BURTON & CO. INC.",
+                        "J. ROE BURTON & CO. INC.",
+                        "HARBOR FINANCIAL SERVICES, LLC",
+                        "HARBOR FINANCIAL SERVICES",
+                        "HARBOR FINANCIAL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 83,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"12400 COIT ROAD\", \"street2\": \"SUITE 700\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75251\"}, \"mailingAddress\": {\"street1\": \"12400 COIT ROAD\", \"street2\": \"SUITE 700\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75251\"}, \"businessPhoneNumber\": \"866-834-1040\", \"iaFirmName\": \"LEVEL FOUR FINANCIAL, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"RSA BATTLEHOUSE TOWER\", \"street2\": \"11 NORTH WATER STREET, STE 21290\", \"city\": \"MOBILE\", \"state\": \"AL\", \"country\": \"United States\", \"postalCode\": \"36602\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "98 CUTTER MILL ROAD",
+                                        "street2": "SUITE 273 S.",
+                                        "city": "GREAT NECK",
+                                        "state": "NY",
+                                        "zipCode": "11021"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "40077",
+                    "firm_bd_sec_number": "48957",
+                    "firm_bd_full_sec_number": "8-48957",
+                    "firm_name": "ALEXANDER CAPITAL, L.P.",
+                    "firm_other_names": [
+                        "ALEXANDER CAPITAL, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 DRS JAMES PARKER BLVD\", \"street2\": \"SUITE 202\", \"city\": \"RED BANK\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07701\"}, \"mailingAddress\": {\"street1\": \"10 DRS JAMES PARKER BLVD\", \"street2\": \"SUITE 201\", \"city\": \"RED BANK\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07701\"}, \"businessPhoneNumber\": \"2126875650\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "5379 ARTHUR KILL ROAD",
+                                        "street2": "2ND FLOOR",
+                                        "city": "STATEN ISLAND",
+                                        "state": "NY",
+                                        "zipCode": "10307"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42405",
+                    "firm_bd_sec_number": "49830",
+                    "firm_bd_full_sec_number": "8-49830",
+                    "firm_name": "EVERCORE GROUP L.L.C.",
+                    "firm_other_names": [
+                        "EVERCORE GROUP INC.",
+                        "EVERCORE PARTNERS INC.",
+                        "EVERCORE ISI",
+                        "EVERCORE INC.",
+                        "EVERCORE GROUP L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 EAST 52ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10055\"}, \"mailingAddress\": {\"street1\": \"55 EAST 52ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10055\"}, \"businessPhoneNumber\": \"212-857-3100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 EAST 52ND STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10055"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "292325",
+                    "firm_bd_sec_number": "70136",
+                    "firm_bd_full_sec_number": "8-70136",
+                    "firm_name": "ROYAL TREASURE SECURITIES LLC",
+                    "firm_other_names": [
+                        "CHEERS SECURITIES LLC",
+                        "ROYAL TREASURE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"132 W 31ST STREET, 9TH FLOOR\", \"street2\": \"#921\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"132 W 31ST STREET, 9TH FLOOR\", \"street2\": \"#921\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"617-816-1957\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "132 W 31ST STREET, 9TH FLOOR, #921",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "135423",
+                    "firm_bd_sec_number": "66925",
+                    "firm_bd_full_sec_number": "8-66925",
+                    "firm_name": "TORA TRADING SERVICES, LLC",
+                    "firm_other_names": [
+                        "TORA TRADING SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"50 CALIFORNIA STREET\", \"street2\": \"SUITE 300\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"28 LIBERTY STREET\", \"street2\": \"FLOOR 56\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"6505136700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "28 Liberty Street",
+                                        "street2": "Floor 57",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154512",
+                    "firm_bd_sec_number": "68646",
+                    "firm_bd_full_sec_number": "8-68646",
+                    "firm_name": "CAIS CAPITAL LLC",
+                    "firm_other_names": [
+                        "CAIS CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"527 MADISON AVENUE\", \"street2\": \"2ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"527 MADISON AVENUE\", \"street2\": \"2ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212.300.9350\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "527 MADISON AVENUE",
+                                        "street2": "2ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

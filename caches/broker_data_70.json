@@ -1,0 +1,529 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17912",
+                    "firm_bd_sec_number": "35930",
+                    "firm_bd_full_sec_number": "8-35930",
+                    "firm_name": "SOGOTRADE, INC.",
+                    "firm_other_names": [
+                        "COASTAL INVESTMENTS ASSOCIATES LTD.",
+                        "WANG INVESTMENTS",
+                        "WANG INVESTMENT ASSOCIATES, INC.",
+                        "SOGOTRADE, INC.",
+                        "SOGOTRADE",
+                        "COASTAL INVESTMENTS ASSOCIATES, LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"14 WALL STREET\", \"street2\": \"20TH FLOOR, SUITE 2092\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"1 MCBRIDE AND SON CENTER DRIVE\", \"street2\": \"SUITE 288\", \"city\": \"CHESTERFIELD\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63005\"}, \"businessPhoneNumber\": \"646 885 6486\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "14 WALL STREET",
+                                        "street2": "20TH FLOOR, SUITE 2092",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "22982",
+                    "firm_bd_sec_number": "40081",
+                    "firm_bd_full_sec_number": "8-40081",
+                    "firm_name": "THE BENCHMARK COMPANY, LLC",
+                    "firm_other_names": [
+                        "BENCHMARK-PELLINORE GROUP, INC.",
+                        "THE BENCHMARK COMPANY, LLC",
+                        "THE BENCHMARK COMPANY, INC.",
+                        "PELLINORE SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 E 58TH STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10155\"}, \"mailingAddress\": {\"street1\": \"150 E 58TH STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10155\"}, \"businessPhoneNumber\": \"(212) 312-6700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 E 58th Street",
+                                        "street2": "17th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10155"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127818",
+                    "firm_bd_sec_number": "66049",
+                    "firm_bd_full_sec_number": "8-66049",
+                    "firm_name": "OPEN TO THE PUBLIC INVESTING, INC.",
+                    "firm_other_names": [
+                        "LIQUID PRIME SERVICES INC.",
+                        "TACONIC CAPITAL GROUP INC.",
+                        "T3 SECURITIES, INC.",
+                        "PUBLIC INVESTING",
+                        "PUBLIC",
+                        "OPEN TO THE PUBLIC INVESTING, INC.",
+                        "LIQUID PRIME SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6 HARRISON ST\", \"street2\": \"5TH FLOOR/SUITE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10013\"}, \"mailingAddress\": {\"street1\": \"228 PARK AVE. S\", \"street2\": \"SUITE 97716\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10003\"}, \"businessPhoneNumber\": \"212-401-6946\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6 HARRISON ST",
+                                        "street2": "5TH FLOOR/SUITE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10013"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "145860",
+                    "firm_bd_sec_number": "67758",
+                    "firm_bd_full_sec_number": "8-67758",
+                    "firm_name": "FIRST AVENUE",
+                    "firm_other_names": [
+                        "FAP USA, L.P.",
+                        "FIRST AVENUE"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"461 FIFTH AVENUE\", \"street2\": \"14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"461 FIFTH AVENUE\", \"street2\": \"14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-582-5777\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "461 FIFTH AVENUE",
+                                        "street2": "14TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "173426",
+                    "firm_bd_sec_number": "69539",
+                    "firm_bd_full_sec_number": "8-69539",
+                    "firm_name": "CROSS CURRENT CAPITAL, INC.",
+                    "firm_other_names": [
+                        "BAGBY FINANCIAL SERVICES",
+                        "CROSS CURRENT CAPITAL, INC.",
+                        "BAGBY FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"14 SCOTT AVENUE\", \"city\": \"SELDEN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11784\"}, \"mailingAddress\": {\"street1\": \"14 SCOTT AVENUE\", \"city\": \"SELDEN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11784\"}, \"businessPhoneNumber\": \"631-595-5336\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "14 SCOTT AVENUE",
+                                        "city": "SELDEN",
+                                        "state": "NY",
+                                        "zipCode": "11784"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "137873",
+                    "firm_bd_sec_number": "67121",
+                    "firm_bd_full_sec_number": "8-67121",
+                    "firm_name": "RAINE SECURITIES LLC",
+                    "firm_other_names": [
+                        "MILLBRAE CAPITAL LLC",
+                        "RAINE SECURITIES LLC",
+                        "OPHIR CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"65 EAST 55TH STREET\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"65 EAST 55TH STREET\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-603-5500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "65 EAST 55TH STREET",
+                                        "street2": "24TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6888",
+                    "firm_bd_sec_number": "26089",
+                    "firm_bd_full_sec_number": "8-26089",
+                    "firm_name": "JONESTRADING",
+                    "firm_other_names": [
+                        "JONES & ASSOCIATES, INC.",
+                        "JONESTRADING INSTITUTIONAL SERVICES LLC",
+                        "JONESTRADING",
+                        "JONES INSTITUTIONAL TRADING SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 21,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"555 SAINT CHARLES DRIVE\", \"street2\": \"SUITE #200\", \"city\": \"THOUSAND OAKS\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"91360\"}, \"mailingAddress\": {\"street1\": \"555 SAINT CHARLES DRIVE\", \"city\": \"THOUSAND OAKS\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"91360\"}, \"businessPhoneNumber\": \"818.991.5500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "16 South Main Street",
+                                        "city": "Pittsford",
+                                        "state": "NY",
+                                        "zipCode": "14534"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149073",
+                    "firm_bd_sec_number": "68100",
+                    "firm_bd_full_sec_number": "8-68100",
+                    "firm_name": "IIFL CAPITAL INC.",
+                    "firm_other_names": [
+                        "IIFL CAPITAL INC.",
+                        "IIFL INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1120 AVENUE OF THE AMERICAS, SUITE # 4030\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1120 AVENUE OF THE AMERICAS, SUITE # 4030\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-221-6800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1120 AVENUE OF THE AMERICAS, SUITE # 4030",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127835",
+                    "firm_bd_sec_number": "66065",
+                    "firm_bd_full_sec_number": "8-66065",
+                    "firm_name": "HOULIHAN LOKEY ADVISORS, LLC",
+                    "firm_other_names": [
+                        "GCA ADVISORS, LLC",
+                        "SILVER CREEK CAPITAL ADVISORS, LLC",
+                        "SAVVIAN ADVISORS, LLC",
+                        "PERSEUS ADVISORS, LLC",
+                        "HOULIHAN LOKEY ADVISORS, LLC",
+                        "GCA SAVVIAN ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"333 BUSH STREET, 31ST FLOOR\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94104\"}, \"mailingAddress\": {\"street1\": \"333 BUSH STREET, 31ST FLOOR\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94104\"}, \"businessPhoneNumber\": \"415 974-5888\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "245 PARK AVENUE, 20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10167"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "141238",
+                    "firm_bd_sec_number": "67469",
+                    "firm_bd_full_sec_number": "8-67469",
+                    "firm_ia_sec_number": "108087",
+                    "firm_ia_full_sec_number": "801-108087",
+                    "firm_name": "DEMPSEY LORD SMITH, LLC",
+                    "ia_firm_name": "DEMPSEY LORD SMITH, LLC",
+                    "firm_other_names": [
+                        "1SOURCE",
+                        "WRS",
+                        "WEST COBB INVESTMENT GROUP",
+                        "WEEKS RETIREMENT SOLUTIONS",
+                        "WEALTH POINT ADVISORS NC",
+                        "TIM COUCH PC CPA",
+                        "THE HANEY COMPANY",
+                        "THE DIAMOND GROUP INC.",
+                        "SOUTHEAST ASSET MANAGEMENT",
+                        "SHALIN FINANCIAL SERVICES, INC.",
+                        "SC RETIREMENT PLANNING",
+                        "S M SHAW",
+                        "ROGER'S RETIREMENT READINESS ALLIANCE, LLC",
+                        "RETIREMENT STRATEGY CONNECTION",
+                        "RETIREMENT SOLUTIONS INC.",
+                        "PREMIER TAX ADVISORS",
+                        "PREFERRED FINANCIAL SOLUTIONS, LLC",
+                        "PLUS POINT ADVISORS",
+                        "PINPOINT FINANCIAL SERVICES, INC",
+                        "PERRY GOSSETT INSURANCE",
+                        "PARPARI ASSET MANAGEMENT INC.",
+                        "NEXSTONE FINANCIAL SOLUTIONS, INC",
+                        "NATIC TAYLOR & CO LLC",
+                        "MORGAN WEALTH MANAGEMENT",
+                        "MICEL FINANCIAL, LLC",
+                        "MARK MADDOX FINANCIAL",
+                        "LYLES WEALTH MANAGEMENT",
+                        "LEIGH FINANCIAL SERVICES",
+                        "JLP INVESTMENTS INC",
+                        "JESSE J GRIFFIN JR",
+                        "INSURANCE WALA",
+                        "ILLUMINATION FINANCIAL ADVISORS",
+                        "HYDEPARK WEALTH ADVISORS",
+                        "HOLLAND WEALTH MANAGEMENT",
+                        "HN FINANCIAL GROUP",
+                        "GRANDVIEW WEALTH MANAGEMENT",
+                        "GIBSON RETIREMENT PLANNING",
+                        "FRONT PAGE FINANCIAL ADVISORS, LLC",
+                        "FRED ADAMS TAX",
+                        "FOOTHILLS FINANCIAL STRATEGIES",
+                        "FINANCIAL INTEGRITY GROUP",
+                        "FALK WEALTH MANAGEMENT",
+                        "EXCLUSIVE FINANCIAL STRATEGIES",
+                        "DEMPSEY, LORD, SMITH, LLC",
+                        "DEMPSEY LORD SMITH, LLC",
+                        "DEANS CONSULTING",
+                        "CRESCENT WEALTH MANAGEMENT",
+                        "CRESCENT WEALTH ADVISORS",
+                        "CORNERSTONE FINANCIAL, LLC",
+                        "CORE CAPITAL MARKETS, LLC",
+                        "COOSA FINANCIAL PLANNING GEORGIA",
+                        "COLABORATIVE  INVESTMENT MANAGEMENT",
+                        "CLAIR LORD JARRETT",
+                        "CHARLES MURPHY INSURANCE",
+                        "BROCK FINANCIAL SERVICES, INC.",
+                        "BREEN FINANCIAL",
+                        "BLANTON FINANCIAL GROUP",
+                        "BENNETT & PORTER WEALTH MANAGEMENT & INSURANCE",
+                        "BELMONT CAPTIAL ADVISORS",
+                        "BAXTER INSURANCE AGENCY",
+                        "AEGEUS FINANCIAL SOLUTIONS, INC.",
+                        "AAPT, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 72,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"901 N BROAD STREET\", \"street2\": \"SUITE 400\", \"city\": \"ROME\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30161\"}, \"mailingAddress\": {\"street1\": \"901 N BROAD STREET\", \"street2\": \"SUITE 400\", \"city\": \"ROME\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30161\"}, \"businessPhoneNumber\": \"706-238-9575\", \"iaFirmName\": \"DEMPSEY LORD SMITH, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"901 N BROAD STREET\", \"street2\": \"SUITE 400\", \"city\": \"ROME\", \"state\": \"GA\", \"country\": \"United States\", \"postalCode\": \"30161\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6900 JERICHO TURNPIKE",
+                                        "street2": "STE 300",
+                                        "city": "SYOSSET",
+                                        "state": "NY",
+                                        "zipCode": "11791"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2910",
+                    "firm_bd_sec_number": "13852",
+                    "firm_bd_full_sec_number": "8-13852",
+                    "firm_name": "ROTHSCHILD & CO US INC.",
+                    "firm_other_names": [
+                        "NEW COURT SECURITIES CORPORATION",
+                        "ROTHSCHILD INC.",
+                        "ROTHSCHILD & CO US INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1251 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1251 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-403-3500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1251 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "156169",
+                    "firm_bd_sec_number": "68784",
+                    "firm_bd_full_sec_number": "8-68784",
+                    "firm_name": "PUNDION LLC",
+                    "firm_other_names": [
+                        "PUNDION LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"230 PARK AVENUE, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10169\"}, \"mailingAddress\": {\"street1\": \"230 PARK AVENUE, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10169\"}, \"businessPhoneNumber\": \"718-618-4929\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 PARK AVENUE, 4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10169"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

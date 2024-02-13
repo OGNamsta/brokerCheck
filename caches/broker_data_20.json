@@ -1,0 +1,441 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126798",
+                    "firm_bd_sec_number": "65914",
+                    "firm_bd_full_sec_number": "8-65914",
+                    "firm_name": "LONGSHIP ALTERNATIVE ASSET MANAGEMENT",
+                    "firm_other_names": [
+                        "LONGSHIP ALTERNATIVE ASSET MANAGEMENT"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"43 OYSTER BAY ROAD\", \"city\": \"LOCUST VALLEY\", \"state\": \"NY\", \"postalCode\": \"11560\"}, \"mailingAddress\": {\"street1\": \"43 OYSTER BAY ROAD\", \"city\": \"LOCUST VALLEY\", \"state\": \"NY\", \"postalCode\": \"11560\"}, \"businessPhoneNumber\": \"516-944-3166\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "43 OYSTER BAY ROAD",
+                                        "city": "LOCUST VALLEY",
+                                        "state": "NY",
+                                        "zipCode": "11560"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7720",
+                    "firm_bd_sec_number": "23135",
+                    "firm_bd_full_sec_number": "8-23135",
+                    "firm_name": "KAHN BROTHERS LLC",
+                    "firm_other_names": [
+                        "KAHN BROTHERS & CO. INC.",
+                        "KAHN BROTHERS LLC",
+                        "KAHN BROTHERS ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"555 MADISON AVENUE\", \"street2\": \"SUITE 1303\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022-3301\"}, \"mailingAddress\": {\"street1\": \"555 MADISON AVENUE\", \"street2\": \"SUITE 1303\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022-3301\"}, \"businessPhoneNumber\": \"(212) 980-5050\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "555 MADISON AVENUE",
+                                        "street2": "SUITE 1303",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "238786",
+                    "firm_bd_sec_number": "69627",
+                    "firm_bd_full_sec_number": "8-69627",
+                    "firm_name": "UNLU SECURITIES INC.",
+                    "firm_other_names": [
+                        "UNLU SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 PARK AVENUE\", \"street2\": \"SUITE 7077\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10177\"}, \"mailingAddress\": {\"street1\": \"250 PARK AVENUE\", \"street2\": \"SUITE 7077\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10177\"}, \"businessPhoneNumber\": \"212-572-6319\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 PARK AVENUE",
+                                        "street2": "SUITE 7077",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10177"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "315771",
+                    "firm_bd_sec_number": "70752",
+                    "firm_bd_full_sec_number": "8-70752",
+                    "firm_name": "CBOE FIXED INCOME MARKETS, LLC",
+                    "firm_other_names": [
+                        "CBOE FIXED INCOME MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"17 STATE STREET\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"17 STATE STREET\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-378-8520\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "17 State Street",
+                                        "street2": "31st Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "310290",
+                    "firm_bd_sec_number": "70617",
+                    "firm_bd_full_sec_number": "8-70617",
+                    "firm_name": "MPA BD SERVICES LLC",
+                    "firm_other_names": [
+                        "MPA BD ADVISOR LLC",
+                        "MPA BD SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"590 MADISON AVENUE\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"590 MADISON AVENUE\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"904-210-5330\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "590 MADISON AVENUE, 41ST FLOOR",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47768",
+                    "firm_bd_sec_number": "51895",
+                    "firm_bd_full_sec_number": "8-51895",
+                    "firm_name": "FERRETTI GROUP, INC.",
+                    "firm_other_names": [
+                        "FERRETTI GROUP, INC.",
+                        "STEPHEN M. FERRETTI, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"C/O ACCOUNTING & COMPLIANCE INTERNATIONAL\", \"street2\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"C/O ACCOUNTING & COMPLIANCE INTERNATIONAL\", \"street2\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-306-8963\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "C/O ACCOUNTING & COMPLIANCE INTERNATIONAL",
+                                        "street2": "77 WATER STREET, SUITE 1604",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155448",
+                    "firm_bd_sec_number": "68719",
+                    "firm_bd_full_sec_number": "8-68719",
+                    "firm_name": "WINTOUR & COMPANY, INC.",
+                    "firm_other_names": [
+                        "WINTOUR & COMPANY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"213 FULTON STREET\", \"city\": \"WESTBURY\", \"state\": \"NY\", \"postalCode\": \"11590\"}, \"mailingAddress\": {\"street1\": \"213 FULTON STREET\", \"city\": \"WESTBURY\", \"state\": \"NY\", \"postalCode\": \"11590\"}, \"businessPhoneNumber\": \"516-535-0020\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "213 Fulton Street",
+                                        "city": "WESTBURY",
+                                        "state": "NY",
+                                        "zipCode": "11590"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304761",
+                    "firm_bd_sec_number": "70369",
+                    "firm_bd_full_sec_number": "8-70369",
+                    "firm_name": "GEMINI GALACTIC MARKETS, LLC",
+                    "firm_other_names": [
+                        "GEMINI GALACTIC MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"315 PARK AVENUE SOUTH\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"315 PARK AVENUE SOUTH\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"646-751-4449\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "315 PARK AVENUE SOUTH",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "160529",
+                    "firm_bd_sec_number": "69037",
+                    "firm_bd_full_sec_number": "8-69037",
+                    "firm_name": "NETREX CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "CADENA SECURITIES SERVICES, LLC.",
+                        "NETREX CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"270 SOUTH SERVICE ROAD\", \"street2\": \"SUITE 45\", \"city\": \"MELVILLE,\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747-2339\"}, \"mailingAddress\": {\"street1\": \"270 SOUTH SERVICE ROAD\", \"street2\": \"SUITE 45\", \"city\": \"MELVILLE,\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747-2339\"}, \"businessPhoneNumber\": \"6316229479\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "270 South Service Road",
+                                        "city": "Melville",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38356",
+                    "firm_bd_sec_number": "48198",
+                    "firm_bd_full_sec_number": "8-48198",
+                    "firm_name": "ATLANTIC - PACIFIC CAPITAL, INC.",
+                    "firm_other_names": [
+                        "ATLANTA - PACIFIC CAPITAL, INC.",
+                        "ATLANTIC - PACIFIC CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE DOCK STREET\", \"street2\": \"SUITE 404\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06902\"}, \"mailingAddress\": {\"street1\": \"ONE DOCK STREET\", \"street2\": \"SUITE 404\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06902\"}, \"businessPhoneNumber\": \"203-862-9182\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444 MADISON AVENUE",
+                                        "street2": "34th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132197",
+                    "firm_bd_sec_number": "66568",
+                    "firm_bd_full_sec_number": "8-66568",
+                    "firm_name": "AGM SECURITIES LLC",
+                    "firm_other_names": [
+                        "AGM SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY\", \"street2\": \"SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY\", \"street2\": \"SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-796-1531\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 Broadway",
+                                        "street2": "Suite 12-129",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122156",
+                    "firm_bd_sec_number": "65467",
+                    "firm_bd_full_sec_number": "8-65467",
+                    "firm_name": "BROCK SECURITIES LLC",
+                    "firm_other_names": [
+                        "BROCK FINANCIAL SERVICES LLC",
+                        "BROCK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"505 PARK AVE\", \"street2\": \"14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"NEW YORK\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"505 PARK AVE\", \"street2\": \"14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"NEW YORK\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-209-3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 PARK AVE",
+                                        "street2": "14TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

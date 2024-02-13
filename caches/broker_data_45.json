@@ -1,0 +1,471 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157384",
+                    "firm_bd_sec_number": "68848",
+                    "firm_bd_full_sec_number": "8-68848",
+                    "firm_name": "MARSHBERRY CAPITAL, LLC.",
+                    "firm_other_names": [
+                        "MARSHBERRY CAPITAL, INC.",
+                        "MARSHBERRY CAPITAL, LLC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"28601 CHAGRIN BOULEVARD\", \"street2\": \"SUITE 400\", \"city\": \"WOODMERE\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"44122\"}, \"mailingAddress\": {\"street1\": \"28601 CHAGRIN BOULEVARD\", \"street2\": \"SUITE 400\", \"city\": \"WOODMERE\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"44122\"}, \"businessPhoneNumber\": \"(440) 354-3230\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "570 Lexington Ave. Suite 4500",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "314544",
+                    "firm_bd_sec_number": "70743",
+                    "firm_bd_full_sec_number": "8-70743",
+                    "firm_name": "VCEXPRESS FINANCIAL LTD",
+                    "firm_other_names": [
+                        "ARKAD CAPITAL GROUP",
+                        "VCEXPRESS FINANCIAL LTD"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"507 N. BICYCLE PATH\", \"street2\": \"SUITE 102\", \"city\": \"PORT JEFFERSON STA\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11776\"}, \"mailingAddress\": {\"street1\": \"507 N. BICYCLE PATH\", \"street2\": \"SUITE 102\", \"city\": \"PORT JEFFERSON STA\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11776\"}, \"businessPhoneNumber\": \"416-567-4076\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "507 N. Bicycle Path",
+                                        "city": "PORT JEFFERSON Sta",
+                                        "state": "NY",
+                                        "zipCode": "11776"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18975",
+                    "firm_bd_sec_number": "37105",
+                    "firm_bd_full_sec_number": "8-37105",
+                    "firm_ia_sec_number": "78295",
+                    "firm_ia_full_sec_number": "801-78295",
+                    "firm_name": "DOMINARI SECURITIES LLC",
+                    "ia_firm_name": "DOMINARI SECURITIES LLC",
+                    "firm_other_names": [
+                        "DOMINARI SECURITIES LLC",
+                        "SPECTRUM FINANCIAL STRATEGIES, INC.",
+                        "NUTMEG SECURITIES, LTD.",
+                        "NUTMEG SECURITIES, LLC",
+                        "METRO PENSION ANALYSTS, LTD.",
+                        "FUTURES BENEFITS",
+                        "FREEDOM FINANCIAL SERVICES, INC",
+                        "FIELDPOINT PRIVATE SECURITIES, LLC",
+                        "FIELDPOINT PRIVATE SECURITIES LLC",
+                        "E-BENEFITS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"725 FIFTH AVENUE, 23RD FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"725 FIFTH AVENUE, 23RD FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-393-4500\", \"iaFirmName\": \"DOMINARI SECURITIES LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"725 FIFTH AVE., 23RD FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10022\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "725 FIFTH AVENUE, 23RD FL.",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39733",
+                    "firm_bd_sec_number": "48942",
+                    "firm_bd_full_sec_number": "8-48942",
+                    "firm_name": "PAYCHEX SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "PAYCHEX SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"220 KENNETH DRIVE\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"mailingAddress\": {\"street1\": \"220 KENNETH DRIVE\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"businessPhoneNumber\": \"585-336-6545\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "220 Kenneth Drive",
+                                        "city": "Rochester",
+                                        "state": "NY",
+                                        "zipCode": "14623"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143570",
+                    "firm_bd_sec_number": "67576",
+                    "firm_bd_full_sec_number": "8-67576",
+                    "firm_name": "DREXEL HAMILTON, LLC",
+                    "firm_other_names": [
+                        "DREXEL HAMILTON, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"110 EAST 42ND STREET\", \"street2\": \"SUITE 1502\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"110 EAST 42ND STREET\", \"street2\": \"SUITE 1502\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(212) 632-0400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "110 East 42nd Street",
+                                        "street2": "SUITE 1502",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "121263",
+                    "firm_bd_sec_number": "65401",
+                    "firm_bd_full_sec_number": "8-65401",
+                    "firm_name": "RBC CMA LLC",
+                    "firm_other_names": [
+                        "RBC CAPITAL MARKETS ARBITRAGE, S.A.",
+                        "RBC CMA LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"RBC ROYAL BANK (BAHAMAS) LIMITED, ROYAL BANK HOUSE\", \"street2\": \"EAST HILL ST, 2ND FL, P O BOX N-7549\", \"city\": \"NASSAU, N.P.\", \"country\": \"BAHAMAS\", \"postalCode\": \"FOREIGN\"}, \"mailingAddress\": {\"street1\": \"3 WORLD FINANCIAL CENTER\", \"street2\": \"200 VESEY STREET - 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-858-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 WORLD FINANCIAL CENTER",
+                                        "street2": "200 VESEY STREET 14TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18466",
+                    "firm_bd_sec_number": "36759",
+                    "firm_bd_full_sec_number": "8-36759",
+                    "firm_name": "CNR SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CNR SECURITIES, LLC",
+                        "ROCHDALE INVESTMENT MANAGEMENT INC.",
+                        "RIM SECURITIES, LLC",
+                        "RIM SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 PARK AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"400 PARK AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-702-3500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "400 PARK AVENUE",
+                                        "street2": "3RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37869",
+                    "firm_bd_sec_number": "47955",
+                    "firm_bd_full_sec_number": "8-47955",
+                    "firm_name": "CEROS FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "ASSET MANAGEMENT SERVICES",
+                        "FORTE CAPITAL GROUP",
+                        "CEROS FINANCIAL SERVICES, INC.",
+                        "CEROS FINANCIAL ADVISORS",
+                        "CEROS CAPITAL MARKETS",
+                        "CEROS BROKER SERVICE, INC.",
+                        "ATLANTIC PARTNERS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 19,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1445 RESEARCH BOULEVARD\", \"street2\": \"SUITE 530\", \"city\": \"ROCKVILLE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"20850\"}, \"mailingAddress\": {\"street1\": \"1445 RESEARCH BOULEVARD\", \"street2\": \"SUITE 530\", \"city\": \"ROCKVILLE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"20850\"}, \"businessPhoneNumber\": \"866-842-3356\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "80 Broad Street 29th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132263",
+                    "firm_bd_sec_number": "66579",
+                    "firm_bd_full_sec_number": "8-66579",
+                    "firm_name": "CIMAS, LLC",
+                    "firm_other_names": [
+                        "CIMAS LLC",
+                        "CURRAN ADVISORY SERVICES",
+                        "CIMAS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 SOUTH PEARL STREET, 9TH FLOOR\", \"city\": \"ALBANY\", \"state\": \"NY\", \"postalCode\": \"12207\"}, \"mailingAddress\": {\"street1\": \"30 SOUTH PEARL STREET, 9TH FLOOR\", \"city\": \"ALBANY\", \"state\": \"NY\", \"postalCode\": \"12207\"}, \"businessPhoneNumber\": \"518-391-4200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 SOUTH PEARL STREET, 9TH FLOOR",
+                                        "city": "ALBANY",
+                                        "state": "NY",
+                                        "zipCode": "12207"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "134284",
+                    "firm_bd_sec_number": "66826",
+                    "firm_bd_full_sec_number": "8-66826",
+                    "firm_name": "RQD* CLEARING, LLC",
+                    "firm_other_names": [
+                        "COMPASS PROFESSIONAL SERVICES, LLC",
+                        "VOLANT SECURITIES, LLC",
+                        "VOLANT EXECUTION, LLC",
+                        "RQD* CLEARING, LLC",
+                        "EQUITEC COMPASS, LLC",
+                        "COMPASS SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE WORLD TRADE CENTER\", \"street2\": \"SUITE 47M\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"ONE WORLD TRADE CENTER\", \"street2\": \"SUITE 47M\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"646-804-7900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE WORLD TRADE CENTER",
+                                        "street2": "SUITE 47M",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149021",
+                    "firm_bd_sec_number": "68098",
+                    "firm_bd_full_sec_number": "8-68098",
+                    "firm_ia_sec_number": "70755",
+                    "firm_ia_full_sec_number": "801-70755",
+                    "firm_name": "WELLINGTON SHIELDS & CO., LLC",
+                    "ia_firm_name": "WELLINGTON SHIELDS & CO., LLC",
+                    "firm_other_names": [
+                        "WELLINGTON SHIELDS & CO., LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"140 BROADWAY\", \"street2\": \"SUITE 4400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"140 BROADWAY\", \"street2\": \"SUITE 4400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212 320-3000\", \"iaFirmName\": \"WELLINGTON SHIELDS & CO., LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"140 BROADWAY\", \"street2\": \"44TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10005\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "140 BROADWAY, SUITE 4400",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47100",
+                    "firm_bd_sec_number": "51671",
+                    "firm_bd_full_sec_number": "8-51671",
+                    "firm_name": "CSCA CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "COHEN & STEERS CAPITAL ADVISORS, LLC",
+                        "CSCA CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 PARK AVENUE\", \"street2\": \"STUDIO SUITE 203\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"300 PARK AVENUE\", \"street2\": \"STUDIO SUITE 203\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-446-9177\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 PARK AVENUE",
+                                        "street2": "STUDIO SUITE 203",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

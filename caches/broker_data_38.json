@@ -1,0 +1,453 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149823",
+                    "firm_bd_sec_number": "68193",
+                    "firm_bd_full_sec_number": "8-68193",
+                    "firm_name": "VIRTU AMERICAS LLC",
+                    "firm_other_names": [
+                        "KCG AMERICAS LLC",
+                        "VIRTU AMERICAS LLC",
+                        "KNIGHT EXECUTION & CLEARING SERVICES LLC",
+                        "KNIGHT CLEARING SERVICES LLC",
+                        "KNIGHT CAPITAL AMERICAS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"41ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"41ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"6466826000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1633 Broadway",
+                                        "street2": "41st Fl",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150662",
+                    "firm_bd_sec_number": "68278",
+                    "firm_bd_full_sec_number": "8-68278",
+                    "firm_name": "BREVAN HOWARD US LLC",
+                    "firm_other_names": [
+                        "BREVAN HOWARD US LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10105\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"212 418 8200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36105",
+                    "firm_bd_sec_number": "47006",
+                    "firm_bd_full_sec_number": "8-47006",
+                    "firm_name": "UNIVEST SECURITIES, LLC",
+                    "ia_firm_name": "UNIVEST SECURITIES",
+                    "firm_other_names": [
+                        "UNIVERSAL FINANCIAL GROUP",
+                        "WINSTRADE",
+                        "UNIVEST SECURITIES, LLC",
+                        "UNIVEST SECURITIES, INC. DBA UNIVERSAL FINANCIAL GROUP",
+                        "UNIVEST SECURITIES, INC.",
+                        "UNIVEST SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"75 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 1838\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"8761 THE ESPLANADE, SUITE 30\", \"city\": \"ORLANDO\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32836\"}, \"businessPhoneNumber\": \"212-343-8888\", \"iaFirmName\": \"UNIVEST SECURITIES\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"75 ROCKEFELLER PLAZA\", \"street2\": \"SUITE18C\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10019\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 Rockefeller Plaza, Suite 1838",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19418",
+                    "firm_bd_sec_number": "37444",
+                    "firm_bd_full_sec_number": "8-37444",
+                    "firm_name": "INTESA SANPAOLO IMI SECURITIES CORP.",
+                    "firm_other_names": [
+                        "BANCA IMI SECURITIES CORP.",
+                        "INTESA SANPAOLO IMI SECURITIES CORP.",
+                        "IMI SECURITIES CORPORATION",
+                        "EURAM SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 WILLIAM STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"1 WILLIAM STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-326-1100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 WILLIAM STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31148",
+                    "firm_bd_sec_number": "46138",
+                    "firm_bd_full_sec_number": "8-46138",
+                    "firm_name": "LONG ISLAND FINANCIAL GROUP, INC.",
+                    "firm_other_names": [
+                        "LONG ISLAND FINANCIAL GROUP, INC",
+                        "LONG ISLAND FINANCIAL GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2 WOODCREST DRIVE\", \"city\": \"ROSLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11576\"}, \"mailingAddress\": {\"street1\": \"2 WOODCREST DR\", \"city\": \"ROSLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11576\"}, \"businessPhoneNumber\": \"(516) 741-1966\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 WOODCREST DRIVE",
+                                        "city": "ROSLYN",
+                                        "state": "NY",
+                                        "zipCode": "11576"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129932",
+                    "firm_bd_sec_number": "66274",
+                    "firm_bd_full_sec_number": "8-66274",
+                    "firm_name": "ENGLAND SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ENGLAND SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1000 LOUISIANA STREET\", \"street2\": \"SUITE 6550\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"USA\", \"postalCode\": \"77002\"}, \"mailingAddress\": {\"street1\": \"1000 LOUISIANA STREET\", \"street2\": \"SUITE 6550\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"USA\", \"postalCode\": \"77002\"}, \"businessPhoneNumber\": \"713-357-9440\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1270 Avenue of  the Americas",
+                                        "street2": "Suite 1202",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139529",
+                    "firm_bd_sec_number": "67229",
+                    "firm_bd_full_sec_number": "8-67229",
+                    "firm_name": "S. GOLDMAN ADVISORS, LLC",
+                    "firm_other_names": [
+                        "S. GOLDMAN ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"599 LEXINGTON AVENUE\", \"street2\": \"35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"599 LEXINGTON AVENUE\", \"street2\": \"35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-404-5740\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "599 LEXINGTON AVENUE",
+                                        "street2": "35TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14593",
+                    "firm_bd_sec_number": "17419",
+                    "firm_bd_full_sec_number": "8-17419",
+                    "firm_name": "STUART FRANKEL & CO., INCORPORATED",
+                    "firm_other_names": [
+                        "STUART FRANKEL & CO",
+                        "STUART FRANKEL & CO., INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60 CUTTER MILL ROAD\", \"street2\": \"SUITE 210\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11021\"}, \"mailingAddress\": {\"street1\": \"60 CUTTER MILL ROAD\", \"street2\": \"SUITE 210\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11021\"}, \"businessPhoneNumber\": \"212-943-8787\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 CUTTER MILL ROAD",
+                                        "street2": "SUITE 210",
+                                        "city": "GREAT NECK",
+                                        "state": "NY",
+                                        "zipCode": "11021"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152920",
+                    "firm_bd_sec_number": "68490",
+                    "firm_bd_full_sec_number": "8-68490",
+                    "firm_name": "ASHMORE INVESTMENT MANAGEMENT (US) CORPORATION",
+                    "firm_other_names": [
+                        "ASHMORE INVESTMENT MANAGEMENT (US) CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"475 5TH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"475 5TH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 661-0061\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "475 5TH AVENUE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "315939",
+                    "firm_bd_sec_number": "70774",
+                    "firm_bd_full_sec_number": "8-70774",
+                    "firm_name": "COLLECTABLE SECURITIES",
+                    "firm_other_names": [
+                        "COLLECTABLE SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"120 BLOOMINGDALE RD\", \"street2\": \"STE 304\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10605\"}, \"mailingAddress\": {\"street1\": \"120 BLOOMINGDALE RD\", \"street2\": \"STE 304\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10605\"}, \"businessPhoneNumber\": \"347-247-9977\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 BLOOMINGDALE RD",
+                                        "street2": "STE 304",
+                                        "city": "WHITE PLAINS",
+                                        "state": "NY",
+                                        "zipCode": "10605"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127434",
+                    "firm_bd_sec_number": "65999",
+                    "firm_bd_full_sec_number": "8-65999",
+                    "firm_name": "DYNAMEX TRADING, LLC",
+                    "firm_other_names": [
+                        "DYNAMEX TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 BROADWAY\", \"street2\": \"SUITE 360\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"11 BROADWAY\", \"street2\": \"SUITE 360\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"646-827-6033\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 BROADWAY",
+                                        "street2": "SUITE 360",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309266",
+                    "firm_bd_sec_number": "70532",
+                    "firm_bd_full_sec_number": "8-70532",
+                    "firm_name": "XTX EXECUTION SERVICES LLC",
+                    "firm_other_names": [
+                        "XTX EXECUTION SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"50 HUDSON YARDS\", \"street2\": \"64TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"50 HUDSON YARDS\", \"street2\": \"64TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-660-9930\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "50 Hudson Yards",
+                                        "street2": "64th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

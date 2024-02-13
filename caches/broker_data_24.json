@@ -1,0 +1,455 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309093",
+                    "firm_bd_sec_number": "70521",
+                    "firm_bd_full_sec_number": "8-70521",
+                    "firm_name": "EGWELE SECURITIES LLC",
+                    "firm_other_names": [
+                        "EGWELE & COMPANY",
+                        "EGWELE SECURITIES LLC",
+                        "EGWELE & COMPANY LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"155 NORTH WACKER DRIVE\", \"street2\": \"SUITE 4250\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"155 NORTH WACKER DRIVE\", \"street2\": \"SUITE 4250\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-803-6936\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1330 6th Avenue, Suite 23A",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "164503",
+                    "firm_bd_sec_number": "69106",
+                    "firm_bd_full_sec_number": "8-69106",
+                    "firm_name": "HEDGEMARK SECURITIES LLC",
+                    "firm_other_names": [
+                        "HEDGEMARK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 PARK AVENUE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"300 PARK AVENUE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-888-1300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 PARK AVENUE",
+                                        "street2": "22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104353",
+                    "firm_bd_sec_number": "52814",
+                    "firm_bd_full_sec_number": "8-52814",
+                    "firm_name": "THE VERTICAL GROUP",
+                    "firm_other_names": [
+                        "ATWOOD, MARKS & COMPANY, INC",
+                        "THE VERTICAL TRADING GROUP, LLC",
+                        "THE VERTICAL GROUP, INC.",
+                        "THE VERTICAL GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"56 LOCUST AVENUE, 2ND FLOOR\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10580\"}, \"mailingAddress\": {\"street1\": \"56 LOCUST AVENUE, 2ND FLOOR\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10580\"}, \"businessPhoneNumber\": \"212-918-1202\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "244 E. 77TH ST., APT. 18",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10075"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127921",
+                    "firm_bd_sec_number": "66069",
+                    "firm_bd_full_sec_number": "8-66069",
+                    "firm_name": "VCS VENTURE SECURITIES",
+                    "firm_other_names": [
+                        "D R F BUSINESS AND FINANCIAL SERVICES, LLC",
+                        "VCS VENTURE SECURITIES",
+                        "PRIMARY CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"29 BROADWAY\", \"street2\": \"SUITE 1502\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10006-3201\"}, \"mailingAddress\": {\"street1\": \"29 BROADWAY\", \"street2\": \"SUITE 1502\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10006-3221\"}, \"businessPhoneNumber\": \"212-404-7696\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "29 BROADWAY",
+                                        "street2": "SUITE 1502",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "144684",
+                    "firm_bd_sec_number": "67669",
+                    "firm_bd_full_sec_number": "8-67669",
+                    "firm_name": "CONSENSUS SECURITIES LLC",
+                    "firm_other_names": [
+                        "CONSENSUS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 RIVER RIDGE DRIVE\", \"street2\": \"SUITE 202\", \"city\": \"NORWOOD\", \"state\": \"MA\", \"postalCode\": \"02062\"}, \"mailingAddress\": {\"street1\": \"100 RIVER RIDGE DRIVE\", \"street2\": \"SUITE 202\", \"city\": \"NORWOOD\", \"state\": \"MA\", \"postalCode\": \"02062\"}, \"businessPhoneNumber\": \"617 437-6500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "600 Madison Ave",
+                                        "street2": "Suite 1800",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283477",
+                    "firm_bd_sec_number": "69756",
+                    "firm_bd_full_sec_number": "8-69756",
+                    "firm_name": "RIALTO MARKETS LLC",
+                    "firm_other_names": [
+                        "RIALTO MARKETS LLC",
+                        "RIALTO TRADING NETWORK LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY\", \"street2\": \"SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY\", \"street2\": \"SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"9175752601\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 Broadway",
+                                        "street2": "Suite 12-129",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "161730",
+                    "firm_bd_sec_number": "69049",
+                    "firm_bd_full_sec_number": "8-69049",
+                    "firm_name": "BDA ADVISORS INC.",
+                    "firm_other_names": [
+                        "BDA ADVISORS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS, SUITE 2901\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS, SUITE 2901\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212 265-5300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1270 AVENUE OF THE AMERICAS, SUITE 2901",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103727",
+                    "firm_bd_sec_number": "52218",
+                    "firm_bd_full_sec_number": "8-52218",
+                    "firm_ia_sec_number": "64836",
+                    "firm_ia_full_sec_number": "801-64836",
+                    "firm_name": "GAGNON SECURITIES, LLC",
+                    "ia_firm_name": "GAGNON SECURITIES, LLC",
+                    "firm_other_names": [
+                        "GAGNON SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1370 AVENUE OF THE AMERICAS\", \"street2\": \"26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1370 AVENUE OF THE AMERICAS\", \"street2\": \"26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-554-5000\", \"iaFirmName\": \"GAGNON SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1370 6TH AVENUE\", \"street2\": \"26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10019\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1370 6TH AVENUE",
+                                        "street2": "26TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126976",
+                    "firm_bd_sec_number": "65939",
+                    "firm_bd_full_sec_number": "8-65939",
+                    "firm_ia_sec_number": "110136",
+                    "firm_ia_full_sec_number": "801-110136",
+                    "firm_name": "BUCKRAM SECURITIES LTD",
+                    "ia_firm_name": "BUCKRAM SECURITIES LTD",
+                    "firm_other_names": [
+                        "BUCKRAM SECURITIES LTD"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"168 FOREST AVENUE\", \"street2\": \"SUITE 202\", \"city\": \"LOCUST VALLEY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11560\"}, \"mailingAddress\": {\"street1\": \"168 FOREST AVENUE\", \"street2\": \"SUITE 202\", \"city\": \"LOCUST VALLEY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11560\"}, \"businessPhoneNumber\": \"516-759-7400\", \"iaFirmName\": \"BUCKRAM SECURITIES LTD\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"168 FOREST AVENUE\", \"street2\": \"SUITE 202\", \"city\": \"LOCUST VALLEY\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"11560\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "168 FOREST AVENUE",
+                                        "street2": "SUITE 202",
+                                        "city": "LOCUST VALLEY",
+                                        "state": "NY",
+                                        "zipCode": "11560"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "168469",
+                    "firm_bd_sec_number": "69312",
+                    "firm_bd_full_sec_number": "8-69312",
+                    "firm_name": "NPM SECURITIES, LLC",
+                    "firm_other_names": [
+                        "NPM SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 EAST 28TH STREET\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"3 EAST 28TH STREET\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"908.323.9659\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 EAST 28TH STREET",
+                                        "street2": "7TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "287761",
+                    "firm_bd_sec_number": "69910",
+                    "firm_bd_full_sec_number": "8-69910",
+                    "firm_name": "ANGEL POND CAPITAL LLC",
+                    "firm_other_names": [
+                        "ANGEL POND CAPITAL LLC",
+                        "PUISSANCE FINANCIAL GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"590 MADISON AVE\", \"street2\": \"SUITE 2122\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"590 MADISON AVE\", \"street2\": \"SUITE 2122\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-878-3702\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "590 MADISON AVE",
+                                        "street2": "SUITE 2122",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39289",
+                    "firm_bd_sec_number": "48629",
+                    "firm_bd_full_sec_number": "8-48629",
+                    "firm_name": "QUATTRO M SECURITIES INC.",
+                    "firm_other_names": [
+                        "QUATTRO M SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"501 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"735 RIDGEFIELD ROAD\", \"city\": \"WILTON\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06897\"}, \"businessPhoneNumber\": \"212-402-1441\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "501 FIFTH AVENUE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,447 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147191",
+                    "firm_bd_sec_number": "67884",
+                    "firm_bd_full_sec_number": "8-67884",
+                    "firm_name": "K CAPITAL LLC",
+                    "firm_other_names": [
+                        "BLACK FOSSIL SECURITIES, LLC",
+                        "K CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"805 THIRD AVENUE\", \"street2\": \"FLOOR 14\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"805 THIRD AVENUE\", \"street2\": \"FLOOR 14\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"917-338-1260\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "805 THIRD AVENUE",
+                                        "street2": "FLOOR 14",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139091",
+                    "firm_bd_sec_number": "67187",
+                    "firm_bd_full_sec_number": "8-67187",
+                    "firm_name": "1964 GLOBAL",
+                    "firm_other_names": [
+                        "1964 GLOBAL",
+                        "BCS PLACEMENTS, LLC",
+                        "1964 GLOBAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"71 MURRAY STREET\", \"street2\": \"NO. 8\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"71 MURRAY STREET\", \"street2\": \"NO. 8\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"212 528-0852\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "71 MURRAY STREET",
+                                        "street2": "NO. 8",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159258",
+                    "firm_bd_sec_number": "68974",
+                    "firm_bd_full_sec_number": "8-68974",
+                    "firm_name": "MYSTIC CAPITAL MARKETS GROUP, LLC",
+                    "firm_other_names": [
+                        "MYSTIC CAPITAL ADVISORS GROUP BD, LLC",
+                        "MYSTIC CAPITAL MARKETS GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"165 MADISON AVENUE, SUITE 402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"165 MADISON AVENUE, SUITE 402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"212-251-0972\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "165 MADISON AVENUE, SUITE 402",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172912",
+                    "firm_bd_sec_number": "69526",
+                    "firm_bd_full_sec_number": "8-69526",
+                    "firm_name": "OCEAN TOMO INVESTMENT GROUP, LLC",
+                    "firm_other_names": [
+                        "OCEAN TOMO INVESTMENT GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-897-1688\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 BROADWAY, SUITE 12-129",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39673",
+                    "firm_bd_sec_number": "48786",
+                    "firm_bd_full_sec_number": "8-48786",
+                    "firm_name": "AUFHAUSER SECURITIES, INC.",
+                    "firm_other_names": [
+                        "ARBITRAGE PARTNERS, INC.",
+                        "AUFHAUSER SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"112 WEST 56TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019-3841\"}, \"mailingAddress\": {\"street1\": \"112 WEST 56TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019-3841\"}, \"businessPhoneNumber\": \"212-757-6824\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "112 WEST 56",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146547",
+                    "firm_bd_sec_number": "67829",
+                    "firm_bd_full_sec_number": "8-67829",
+                    "firm_name": "ALT FUND DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "ALT FUND DISTRIBUTORS LLC",
+                        "CATALYST MUTUALS FUND DISTRIBUTORS LLC",
+                        "CAPITAL REAL ESTATE SECURITIES, LLC",
+                        "ASCENT REAL ESTATE SECURITIES, LLC",
+                        "ASCENT REAL ESTATE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"140 EAST 45TH STREET\", \"street2\": \"SUITE 15 B\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"140 EAST 45TH STREET\", \"street2\": \"SUITE 15 B\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-757-8062\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "140 EAST 45TH STREET",
+                                        "street2": "SUITE 15 B",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "11469",
+                    "firm_bd_sec_number": "24116",
+                    "firm_bd_full_sec_number": "8-24116",
+                    "firm_name": "WESTMORELAND CAPITAL CORPORATION",
+                    "firm_other_names": [
+                        "WESTMORELAND CAPITAL CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1521 N. COOPER STREET\", \"street2\": \"SUITE 400\", \"city\": \"ARLINGTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"76011\"}, \"mailingAddress\": {\"street1\": \"1521 N. COOPER STREET\", \"street2\": \"SUITE 400\", \"city\": \"ARLINGTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"76011\"}, \"businessPhoneNumber\": \"(682) 305-2868\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "591 Delaware Avenue",
+                                        "city": "Buffalo",
+                                        "state": "NY",
+                                        "zipCode": "14202"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "21544",
+                    "firm_bd_sec_number": "39031",
+                    "firm_bd_full_sec_number": "8-39031",
+                    "firm_name": "MIDDLEGATE SECURITIES INC.",
+                    "firm_other_names": [
+                        "MIDDLEGATE SECURITIES INC.",
+                        "MIDDLEGATE SECURITIES LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8 WEST 40TH STREET\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018-3805\"}, \"mailingAddress\": {\"street1\": \"8 WEST 40TH STREET\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018-3805\"}, \"businessPhoneNumber\": \"212-382-9500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "8 WEST 40TH STREET",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136024",
+                    "firm_bd_sec_number": "66964",
+                    "firm_bd_full_sec_number": "8-66964",
+                    "firm_name": "US ARMA PARTNERS LP",
+                    "firm_other_names": [
+                        "LANGSCHIFF PARTNERS, LLC",
+                        "US ARMA PARTNERS LP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"810 SEVENTH AVENUE\", \"street2\": \"SUITE 2005\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"810 SEVENTH AVENUE\", \"street2\": \"SUITE 2005\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"2129139692\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "540 Madison Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283558",
+                    "firm_bd_sec_number": "69761",
+                    "firm_bd_full_sec_number": "8-69761",
+                    "firm_name": "ARDEA PARTNERS LP",
+                    "firm_other_names": [
+                        "ARDEA PARTNERS LLC",
+                        "ARDEA PARTNERS LP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"32 NASSAU STREET\", \"street2\": \"SUITE 300\", \"city\": \"PRINCETON\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"08542\"}, \"mailingAddress\": {\"street1\": \"10 HUDSON YARDS\", \"street2\": \"40TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-430-2300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 Hudson Yards",
+                                        "street2": "40th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "24034",
+                    "firm_bd_sec_number": "40861",
+                    "firm_bd_full_sec_number": "8-40861",
+                    "firm_name": "GORDIAN GROUP, LLC",
+                    "firm_other_names": [
+                        "GORDIAN GROUP, L.P.",
+                        "OWSLEY, LEDERMAN, CALDWELL & PARTNERS, L.P.",
+                        "GORDIAN GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"950 THIRD AVENUE\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"950 THIRD AVENUE\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 486-3600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "950 THIRD AVENUE",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "20744",
+                    "firm_bd_sec_number": "38452",
+                    "firm_bd_full_sec_number": "8-38452",
+                    "firm_name": "WESTCO INVESTMENT CORP.",
+                    "firm_other_names": [
+                        "WESTCO INVESTMENT CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"77 HEMPSTEAD AVE\", \"city\": \"LYNBROOK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11563\"}, \"mailingAddress\": {\"street1\": \"77 HEMPSTEAD AVE\", \"city\": \"LYNBROOK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11563\"}, \"businessPhoneNumber\": \"516-593-5070\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "77 HEMPSTEAD AVE",
+                                        "city": "LYNBROOK",
+                                        "state": "NY",
+                                        "zipCode": "11563"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

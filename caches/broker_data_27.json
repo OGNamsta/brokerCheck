@@ -1,0 +1,467 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139760",
+                    "firm_bd_sec_number": "67246",
+                    "firm_bd_full_sec_number": "8-67246",
+                    "firm_name": "M.D. SASS SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "M.D. SASS SECURITIES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WEST 46TH STREET\", \"street2\": \"SUITE 2801\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036-2699\"}, \"mailingAddress\": {\"street1\": \"55 WEST 46TH STREET\", \"street2\": \"SUITE 2801\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036-2699\"}, \"businessPhoneNumber\": \"212-843-8980\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 WEST 46TH STREET",
+                                        "street2": "SUITE 2801",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26001",
+                    "firm_bd_sec_number": "42223",
+                    "firm_bd_full_sec_number": "8-42223",
+                    "firm_name": "TOCQUEVILLE SECURITIES L.P.",
+                    "firm_other_names": [
+                        "LEPERCQ, DE NEUFLIZE/TOCQUEVILLE SECURITIES, L.P.",
+                        "TOCQUEVILLE SECURITIES L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WEST 57TH STREET, 19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"40 WEST 57TH STREET, 19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"(212) 698-0800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 WEST 57TH STREET, 19TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "144403",
+                    "firm_bd_sec_number": "67653",
+                    "firm_bd_full_sec_number": "8-67653",
+                    "firm_name": "PHX FINANCIAL, INC.",
+                    "firm_other_names": [
+                        "BLACKWALL CAPITAL MARKETS, INC.",
+                        "PHX FINANCIAL, INC.",
+                        "PHOENIX FINANCIAL SERVICES",
+                        "GRANDVIEW CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 WALL STREET\", \"street2\": \"FLOOR 10\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"100 WALL STREET\", \"street2\": \"FLOOR 10\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-776-4187\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 WALL STREET",
+                                        "street2": "FLOOR 10",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42759",
+                    "firm_bd_sec_number": "49994",
+                    "firm_bd_full_sec_number": "8-49994",
+                    "firm_name": "TRADEWEB L.L.C",
+                    "firm_other_names": [
+                        "TRADEWEB L.L.C"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1177 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1177 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"646-430-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1177 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "21946",
+                    "firm_bd_sec_number": "39420",
+                    "firm_bd_full_sec_number": "8-39420",
+                    "firm_name": "TRIVE NEW YORK LLC",
+                    "firm_other_names": [
+                        "BORNHOFT GROUP SECURITIES CORPORATION",
+                        "TRIVE NEW YORK LLC",
+                        "HART-BORNHOFT SECURITIES, INC.",
+                        "GK TRADE NY LLC",
+                        "GK TRADE NEW YORK LLC",
+                        "EQUINOX GROUP DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"85 BROAD STREET\", \"street2\": \"SUITE 17-105\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004-2434\"}, \"mailingAddress\": {\"street1\": \"85 BROAD STREET\", \"street2\": \"SUITE 17-105\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004-2434\"}, \"businessPhoneNumber\": \"929-508-1500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "85 BROAD STREET",
+                                        "street2": "SUITE 17-105",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30996",
+                    "firm_bd_sec_number": "45285",
+                    "firm_bd_full_sec_number": "8-45285",
+                    "firm_name": "HEROLD & LANTERN INVESTMENTS, INC.",
+                    "firm_other_names": [
+                        "HEROLD & LANTERN INVESTMENTS, INC.",
+                        "LANTERN INVESTMENTS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"35 PINELAWN ROAD\", \"street2\": \"SUITE 101E\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"mailingAddress\": {\"street1\": \"35 PINELAWN ROAD\", \"street2\": \"SUITE 101E\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"businessPhoneNumber\": \"(631) 454-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1190 Hylan Blvd",
+                                        "city": "Staten Island",
+                                        "state": "NY",
+                                        "zipCode": "10305"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "27060",
+                    "firm_bd_sec_number": "42857",
+                    "firm_bd_full_sec_number": "8-42857",
+                    "firm_name": "BBVA SECURITIES INC.",
+                    "firm_other_names": [
+                        "BBV LATINVEST SECURITIES INC.",
+                        "LATINVEST SECURITIES INC.",
+                        "INVERMEXICO USA, INC.",
+                        "BBVA SECURITIES INC.",
+                        "BBVA INVESTMENTS, A DIVISION OF BBVA SECURITIES INC.",
+                        "BBV SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS 44TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105-0302\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS 44TH FLOOR\", \"street2\": \"44TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105-0302\"}, \"businessPhoneNumber\": \"212-728-1500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS 44TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19586",
+                    "firm_bd_sec_number": "37788",
+                    "firm_bd_full_sec_number": "8-37788",
+                    "firm_name": "GOLDEN EAGLE SECURITIES, INC.",
+                    "firm_other_names": [
+                        "BECKWITH & CO. INCORPORATED",
+                        "ORTANA SECURITIES, INC.",
+                        "GOLDEN EAGLE SECURITIES, INC.",
+                        "FIRST FLORIDA SECURITIES, INC.",
+                        "BECKWITH SECURITIES, INC.",
+                        "BECKWITH & CO., INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"845 UNITED NATIONS PLAZA\", \"street2\": \"SUITE 19F\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"845 UNITED NATIONS PLAZA\", \"street2\": \"SUITE 19F\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"929-231-0427\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "845 UNITED NATIONS PLAZA",
+                                        "street2": "SUITE 19F",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45936",
+                    "firm_bd_sec_number": "51250",
+                    "firm_bd_full_sec_number": "8-51250",
+                    "firm_name": "ARROW INVESTMENTS, INC.",
+                    "firm_other_names": [
+                        "ARROW INVESTMENTS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"111 SOUTH RIDGE STREET\", \"street2\": \"SUITE 201\", \"city\": \"RYE BROOK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10573\"}, \"mailingAddress\": {\"street1\": \"111 SOUTH RIDGE STREET\", \"street2\": \"SUITE 201\", \"city\": \"RYE BROOK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10573\"}, \"businessPhoneNumber\": \"914-251-1084\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "111 SOUTH RIDGE STREET",
+                                        "street2": "SUITE 201",
+                                        "city": "RYE BROOK",
+                                        "state": "NY",
+                                        "zipCode": "10573"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26249",
+                    "firm_bd_sec_number": "42445",
+                    "firm_bd_full_sec_number": "8-42445",
+                    "firm_name": "PENTEGRA DISTRIBUTORS INC.",
+                    "firm_other_names": [
+                        "PENTEGRA DISTRIBUTORS INC.",
+                        "RETIREMENT SYSTEM DISTRIBUTORS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"701 WESTCHESTER AVENUE\", \"street2\": \"SUITE 320E\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10604\"}, \"mailingAddress\": {\"street1\": \"701 WESTCHESTER AVENUE\", \"street2\": \"SUITE 320E\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10604\"}, \"businessPhoneNumber\": \"914-821-9554\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "701 WESTCHESTER AVENUE",
+                                        "street2": "SUITE 320E",
+                                        "city": "WHITE PLAINS",
+                                        "state": "NY",
+                                        "zipCode": "10604"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133839",
+                    "firm_bd_sec_number": "67149",
+                    "firm_bd_full_sec_number": "8-67149",
+                    "firm_ia_sec_number": "101483",
+                    "firm_ia_full_sec_number": "801-101483",
+                    "firm_name": "WILMINGTON CAPITAL SECURITIES, LLC",
+                    "ia_firm_name": "WILMINGTON CAPITAL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ALLELE CAPITAL PARTNERS",
+                        "WILMINGTON CAPITAL SECURITIES, LLC",
+                        "LIBERTY CROSSING CAPITAL MARKETS, LLC",
+                        "GHS CAPITAL MANAGEMENT, LLC",
+                        "FOREFRONT WEALTH MANAGEMENT",
+                        "DAVID E. ASTORR, INC.",
+                        "DAVID E. ASTORR INC.",
+                        "CLARK CAPITAL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 15,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 OLD COUNTRY ROAD\", \"street2\": \"SUITE 200\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11530\"}, \"mailingAddress\": {\"street1\": \"600 OLD COUNTRY ROAD\", \"street2\": \"SUITE 200\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11530\"}, \"businessPhoneNumber\": \"516-750-6200\", \"iaFirmName\": \"WILMINGTON CAPITAL SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"600 OLD COUNTRY ROAD\", \"street2\": \"SUITE 200\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"11530\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1180 Avenue of the Americas",
+                                        "street2": "Suite 817",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159481",
+                    "firm_bd_sec_number": "68988",
+                    "firm_bd_full_sec_number": "8-68988",
+                    "firm_name": "FENIX SECURITIES, LLC",
+                    "firm_other_names": [
+                        "FENIX SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE WORLD TRADE CENTER, 85TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"ONE WORLD TRADE CENTER, 85TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"212 220-7444\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE WORLD TRADE CENTER, 85TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

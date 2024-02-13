@@ -1,0 +1,476 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "22698",
+                    "firm_bd_sec_number": "39947",
+                    "firm_bd_full_sec_number": "8-39947",
+                    "firm_name": "NATIONAL BANK OF CANADA FINANCIAL INC.",
+                    "firm_other_names": [
+                        "NATIONAL BANC FINANCIAL INC.",
+                        "PUTNAM, LOVELL, DE GUARDIOLA & THORNTON INC.",
+                        "PUTNAM, LOVELL & THORNTON INC.",
+                        "PUTNAM LOVELL SECURITIES INC.",
+                        "PUTNAM LOVELL NBF SECURITIES INC.",
+                        "PUTNAM LOVELL NBF",
+                        "NATIONAL BANK OF CANADA FINANCIAL INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"65 EAST 55TH STREET\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"65 EAST 55TH STREET\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-546-7500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "65 EAST 55TH STREET",
+                                        "street2": "8th FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "123717",
+                    "firm_bd_sec_number": "65606",
+                    "firm_bd_full_sec_number": "8-65606",
+                    "firm_name": "CUSHMAN & WAKEFIELD SECURITIES, INC.",
+                    "firm_other_names": [
+                        "CUSHMAN & WAKEFIELD SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1290 AVENUE OF THE AMERICAS\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10104\"}, \"mailingAddress\": {\"street1\": \"1290 AVENUE OF THE AMERICAS\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10104\"}, \"businessPhoneNumber\": \"(212) 841-7850\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1290 AVENUE OF THE AMERICAS",
+                                        "street2": "7TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127835",
+                    "firm_bd_sec_number": "66065",
+                    "firm_bd_full_sec_number": "8-66065",
+                    "firm_name": "HOULIHAN LOKEY ADVISORS, LLC",
+                    "firm_other_names": [
+                        "GCA ADVISORS, LLC",
+                        "SILVER CREEK CAPITAL ADVISORS, LLC",
+                        "SAVVIAN ADVISORS, LLC",
+                        "PERSEUS ADVISORS, LLC",
+                        "HOULIHAN LOKEY ADVISORS, LLC",
+                        "GCA SAVVIAN ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"333 BUSH STREET, 31ST FLOOR\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94104\"}, \"mailingAddress\": {\"street1\": \"333 BUSH STREET, 31ST FLOOR\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94104\"}, \"businessPhoneNumber\": \"415 974-5888\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "245 PARK AVENUE, 20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10167"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "594",
+                    "firm_bd_sec_number": "23060",
+                    "firm_bd_full_sec_number": "8-23060",
+                    "firm_ia_sec_number": "48726",
+                    "firm_ia_full_sec_number": "801-48726",
+                    "firm_name": "MOORS & CABOT, INC.",
+                    "ia_firm_name": "MOORS & CABOT, INC",
+                    "firm_other_names": [
+                        "MOORS & CABOT FINANCIAL ADVISORS",
+                        "MOORS & CABOT, INC.",
+                        "MOORS & CABOT, INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 31,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FEDERAL STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02110\"}, \"mailingAddress\": {\"street1\": \"ONE FEDERAL STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02110\"}, \"businessPhoneNumber\": \"617-426-0500\", \"iaFirmName\": \"MOORS & CABOT, INC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"ONE FEDERAL STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"United States\", \"postalCode\": \"02110\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "Northport",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "759",
+                    "firm_bd_sec_number": "12745",
+                    "firm_bd_full_sec_number": "8-12745",
+                    "firm_name": "SECURITIES MANAGEMENT & RESEARCH, INC.",
+                    "firm_other_names": [
+                        "SECURITIES MANAGEMENT & RESEARCH, INC.",
+                        "SOUTH SHORE ADVISORS, INC.",
+                        "SM&R",
+                        "SECURITIES MANAGEMENT AND RESEARCH, INC. (\"SM&R\")",
+                        "SECURITIES MANAGEMENT AND RESEARCH, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 83,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4201 42ND STREET NE\", \"street2\": \"SUITE 100\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52402\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 11606\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52410-1606\"}, \"businessPhoneNumber\": \"855-767-5700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "91 CHESTNUT ST",
+                                        "city": "ONEONTA",
+                                        "state": "NY",
+                                        "zipCode": "13820"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139515",
+                    "firm_bd_sec_number": "67217",
+                    "firm_bd_full_sec_number": "8-67217",
+                    "firm_name": "MCAP LLC",
+                    "firm_other_names": [
+                        "EQUISEARCH SECURITIES, INC.",
+                        "MCAP LLC",
+                        "MADISON CAPITAL MARKETS, LLC",
+                        "MADISON CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-750-1056\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1633 BROADWAY",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122062",
+                    "firm_bd_sec_number": "65464",
+                    "firm_bd_full_sec_number": "8-65464",
+                    "firm_name": "COLCHESTER PARTNERS LLC",
+                    "firm_other_names": [
+                        "COLCHESTER PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"53 STATE STREET\", \"street2\": \"SUITE 1304\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02109\"}, \"mailingAddress\": {\"street1\": \"53 STATE STREET\", \"street2\": \"SUITE 1304\", \"city\": \"BOSTON\", \"state\": \"MA\", \"postalCode\": \"02109\"}, \"businessPhoneNumber\": \"617-542-4100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 Rockefeller Plaza",
+                                        "street2": "Suite 2140",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10002"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17912",
+                    "firm_bd_sec_number": "35930",
+                    "firm_bd_full_sec_number": "8-35930",
+                    "firm_name": "SOGOTRADE, INC.",
+                    "firm_other_names": [
+                        "COASTAL INVESTMENTS ASSOCIATES LTD.",
+                        "WANG INVESTMENTS",
+                        "WANG INVESTMENT ASSOCIATES, INC.",
+                        "SOGOTRADE, INC.",
+                        "SOGOTRADE",
+                        "COASTAL INVESTMENTS ASSOCIATES, LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"14 WALL STREET\", \"street2\": \"20TH FLOOR, SUITE 2092\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"1 MCBRIDE AND SON CENTER DRIVE\", \"street2\": \"SUITE 288\", \"city\": \"CHESTERFIELD\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63005\"}, \"businessPhoneNumber\": \"646 885 6486\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "14 WALL STREET",
+                                        "street2": "20TH FLOOR, SUITE 2092",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "22982",
+                    "firm_bd_sec_number": "40081",
+                    "firm_bd_full_sec_number": "8-40081",
+                    "firm_name": "THE BENCHMARK COMPANY, LLC",
+                    "firm_other_names": [
+                        "BENCHMARK-PELLINORE GROUP, INC.",
+                        "THE BENCHMARK COMPANY, LLC",
+                        "THE BENCHMARK COMPANY, INC.",
+                        "PELLINORE SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 E 58TH STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10155\"}, \"mailingAddress\": {\"street1\": \"150 E 58TH STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10155\"}, \"businessPhoneNumber\": \"(212) 312-6700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 E 58th Street",
+                                        "street2": "17th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10155"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127818",
+                    "firm_bd_sec_number": "66049",
+                    "firm_bd_full_sec_number": "8-66049",
+                    "firm_name": "OPEN TO THE PUBLIC INVESTING, INC.",
+                    "firm_other_names": [
+                        "LIQUID PRIME SERVICES INC.",
+                        "TACONIC CAPITAL GROUP INC.",
+                        "T3 SECURITIES, INC.",
+                        "PUBLIC INVESTING",
+                        "PUBLIC",
+                        "OPEN TO THE PUBLIC INVESTING, INC.",
+                        "LIQUID PRIME SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6 HARRISON ST\", \"street2\": \"5TH FLOOR/SUITE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10013\"}, \"mailingAddress\": {\"street1\": \"228 PARK AVE. S\", \"street2\": \"SUITE 97716\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10003\"}, \"businessPhoneNumber\": \"212-401-6946\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6 HARRISON ST",
+                                        "street2": "5TH FLOOR/SUITE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10013"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149073",
+                    "firm_bd_sec_number": "68100",
+                    "firm_bd_full_sec_number": "8-68100",
+                    "firm_name": "IIFL CAPITAL INC.",
+                    "firm_other_names": [
+                        "IIFL CAPITAL INC.",
+                        "IIFL INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1120 AVENUE OF THE AMERICAS, SUITE # 4030\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1120 AVENUE OF THE AMERICAS, SUITE # 4030\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-221-6800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1120 AVENUE OF THE AMERICAS, SUITE # 4030",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18312",
+                    "firm_bd_sec_number": "36439",
+                    "firm_bd_full_sec_number": "8-36439",
+                    "firm_name": "TRUSTMONT FINANCIAL GROUP, INC.",
+                    "firm_other_names": [
+                        "THE CODRICK FINANCIAL GROUP, INC.",
+                        "TRUSTMONT FINANCIAL GROUP, INC. DBA TFG",
+                        "TRUSTMONT FINANCIAL GROUP, INC.",
+                        "TRUSTMARK FINANCIAL GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 49,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"SCENIC DRIVE PROFESSIONAL CENTER\", \"street2\": \"200 BRUSH RUN ROAD, SUITE A\", \"city\": \"GREENSBURG\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"15601\"}, \"mailingAddress\": {\"street1\": \"SCENIC DRIVE PROFESSIONAL CENTER\", \"street2\": \"200 BRUSH RUN ROAD, SUITE A\", \"city\": \"GREENSBURG\", \"state\": \"PA\", \"country\": \"USA\", \"postalCode\": \"15601\"}, \"businessPhoneNumber\": \"724-468-5665\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "67-38 108th STREET",
+                                        "street2": "APT A-41",
+                                        "city": "FOREST HILLS",
+                                        "state": "NY",
+                                        "zipCode": "11375"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

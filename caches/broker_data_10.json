@@ -1,0 +1,435 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169950",
+                    "firm_bd_sec_number": "69400",
+                    "firm_bd_full_sec_number": "8-69400",
+                    "firm_name": "MANOR PARK SECURITIES LLC",
+                    "firm_other_names": [
+                        "MANOR PARK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"17 MAYHEW AVENUE\", \"city\": \"LARCHMONT\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10538\"}, \"mailingAddress\": {\"street1\": \"17 MAYHEW AVE\", \"city\": \"LARCHMONT\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10538\"}, \"businessPhoneNumber\": \"914-772-2337\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "17 MAYHEW AVENUE",
+                                        "city": "LARCHMONT",
+                                        "state": "NY",
+                                        "zipCode": "10538"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5864",
+                    "firm_bd_sec_number": "16560",
+                    "firm_bd_full_sec_number": "8-16560",
+                    "firm_name": "DARWOOD ASSOCIATES INCORPORATED",
+                    "firm_other_names": [
+                        "DARWOOD ASSOCIATES INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"284 U.S. HIGHWAY 206\", \"street2\": \"UNIT D3\", \"city\": \"HILLSBOROUGH\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"08844\"}, \"mailingAddress\": {\"street1\": \"284 U.S. HIGHWAY 206\", \"street2\": \"UNIT D3\", \"city\": \"HILLSBOROUGH\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"08844\"}, \"businessPhoneNumber\": \"908-874-3600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "125 BRIDGE STREET",
+                                        "city": "PLATTSBURGH",
+                                        "state": "NY",
+                                        "zipCode": "12901"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "145875",
+                    "firm_bd_sec_number": "67759",
+                    "firm_bd_full_sec_number": "8-67759",
+                    "firm_name": "ALPHASOURCE CAPITAL SECURITIES LLC",
+                    "firm_other_names": [
+                        "ALPHASOURCE CAPITAL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"35 WALKER AVENUE\", \"city\": \"EAST QUOGUE\", \"state\": \"NY\", \"country\": \"SUFFOLK\", \"postalCode\": \"11942\"}, \"mailingAddress\": {\"street1\": \"35 WALKER AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"SUFFOLK\", \"postalCode\": \"11942\"}, \"businessPhoneNumber\": \"(212)308-4500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "35 Walker Ave",
+                                        "city": "East Quogue",
+                                        "state": "NY",
+                                        "zipCode": "11942"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131453",
+                    "firm_bd_sec_number": "66463",
+                    "firm_bd_full_sec_number": "8-66463",
+                    "firm_name": "HENLEY & COMPANY LLC",
+                    "firm_other_names": [
+                        "HENLEY & COMPANY LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"506 RXR PLAZA\", \"city\": \"UNIONDALE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11556\"}, \"mailingAddress\": {\"street1\": \"506 RXR PLAZA\", \"city\": \"UNIONDALE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11556\"}, \"businessPhoneNumber\": \"(516) 794-5520\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "506 RXR PLAZA",
+                                        "city": "UNIONDALE",
+                                        "state": "NY",
+                                        "zipCode": "11556"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154665",
+                    "firm_bd_sec_number": "68661",
+                    "firm_bd_full_sec_number": "8-68661",
+                    "firm_name": "BOWNE PARK CAPITAL, INC.",
+                    "firm_other_names": [
+                        "BOWNE PARK CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"189-14 CROCHERON AVE\", \"street2\": \"#305\", \"city\": \"FLUSHING\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11358-2338\"}, \"mailingAddress\": {\"street1\": \"189-14 CROCHERON AVE\", \"street2\": \"#305\", \"city\": \"FLUSHING\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11358-2338\"}, \"businessPhoneNumber\": \"917-563-7951\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "189-14 CROCHERON AVE",
+                                        "street2": "#305",
+                                        "city": "FLUSHING",
+                                        "state": "NY",
+                                        "zipCode": "11358"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "293066",
+                    "firm_bd_sec_number": "70086",
+                    "firm_bd_full_sec_number": "8-70086",
+                    "firm_name": "TIGERBRIDGE CAPITAL",
+                    "firm_other_names": [
+                        "TIGERBRIDGE CAPITAL",
+                        "TIGERBRIDGE CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"187 WOLF ROAD, SUITE 300\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12205\"}, \"mailingAddress\": {\"street1\": \"187 WOLF ROAD, SUITE 300\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12205\"}, \"businessPhoneNumber\": \"917-714-0452\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "187 WOLF ROAD, SUITE 300",
+                                        "city": "Albany",
+                                        "state": "NY",
+                                        "zipCode": "12205"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45887",
+                    "firm_bd_sec_number": "51213",
+                    "firm_bd_full_sec_number": "8-51213",
+                    "firm_name": "WESTCHESTER CAPITAL PLANNING, INC.",
+                    "firm_other_names": [
+                        "WESTCHESTER CAPITAL PLANNING, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"21 MILLBROOK LANE\", \"city\": \"KERHONKSON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12446\"}, \"mailingAddress\": {\"street1\": \"21 MILLBROOK LANE\", \"city\": \"KERHONKSON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12446\"}, \"businessPhoneNumber\": \"1-800-343-3687\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "21 MILLBROOK LANE",
+                                        "city": "KERHONKSON",
+                                        "state": "NY",
+                                        "zipCode": "12446"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "3526",
+                    "firm_bd_sec_number": "4342",
+                    "firm_bd_full_sec_number": "8-4342",
+                    "firm_name": "J. STREICHER & CO. L.L.C.",
+                    "firm_other_names": [
+                        "J. STREICHER & CO.",
+                        "J. STREICHER & CO. L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"28 LIBERTY STREET 6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"28 LIBERTY STREET 6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"646-688-0411\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "28 LIBERTY STREET 6TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41258",
+                    "firm_bd_sec_number": "49342",
+                    "firm_bd_full_sec_number": "8-49342",
+                    "firm_name": "TRIDENT PARTNERS LTD.",
+                    "firm_other_names": [
+                        "THE KOENIGSBERG ORGANIZATION",
+                        "TRIDENT PARTNERS, LTD.",
+                        "TRIDENT PARTNERS LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"181 CROSSWAYS PARK DRIVE\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11797\"}, \"mailingAddress\": {\"street1\": \"181 CROSSWAYS PARK DRIVE\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11797\"}, \"businessPhoneNumber\": \"516-681-9100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "181 CROSSWAYS PARK DRIVE",
+                                        "city": "WOODBURY",
+                                        "state": "NY",
+                                        "zipCode": "11797"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "282755",
+                    "firm_bd_sec_number": "69734",
+                    "firm_bd_full_sec_number": "8-69734",
+                    "firm_name": "ACCEPTUS CAPITAL CORP.",
+                    "firm_other_names": [
+                        "ACCEPTUS CAPITAL CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"22 COUNTRY CLUB DRIVE\", \"city\": \"PORT WASHINGTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11050\"}, \"mailingAddress\": {\"street1\": \"22 COUNTRY CLUB DRIVE\", \"city\": \"PORT WASHINGTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11050\"}, \"businessPhoneNumber\": \"516 236 0074\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "22 Country Club Drive",
+                                        "city": "Port Washington",
+                                        "state": "NY",
+                                        "zipCode": "11050"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285420",
+                    "firm_bd_sec_number": "69847",
+                    "firm_bd_full_sec_number": "8-69847",
+                    "firm_name": "PALMER CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "GNU SECURITIES LLC",
+                        "PALMER CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"street2\": \"ROOM 11C\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-897-1686\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 BROADWAY, SUITE 12-129",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46472",
+                    "firm_bd_sec_number": "51430",
+                    "firm_bd_full_sec_number": "8-51430",
+                    "firm_name": "THE KLEIN GROUP, LLC",
+                    "firm_other_names": [
+                        "CAPITALINK, L.C.",
+                        "THE KLEIN GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"640 5TH AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"640 5TH AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-409-2412\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "640 Fifth Avenue",
+                                        "street2": "12th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

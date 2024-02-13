@@ -1,0 +1,460 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132598",
+                    "firm_bd_sec_number": "66607",
+                    "firm_bd_full_sec_number": "8-66607",
+                    "firm_name": "OBERON SECURITIES, LLC",
+                    "firm_other_names": [
+                        "OBERON SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"445 PARK AVENUE, SUITE 4B\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"445 PARK AVENUE, SUITE 4B\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"2123867080\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "445 PARK AVENUE, SUITE 4B,",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "138348",
+                    "firm_bd_sec_number": "67160",
+                    "firm_bd_full_sec_number": "8-67160",
+                    "firm_name": "GRV SECURITIES LLC",
+                    "firm_other_names": [
+                        "GROSVENOR SECURITIES LLC",
+                        "GRV SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 NORTH MICHIGAN AVENUE\", \"street2\": \"SUITE 1100\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60611-6541\"}, \"mailingAddress\": {\"street1\": \"900 NORTH MICHIGAN AVENUE\", \"street2\": \"SUITE 1100\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60611-6541\"}, \"businessPhoneNumber\": \"312 506-6500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "767 5TH AVENUE",
+                                        "street2": "FLOOR 14",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10153"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26266",
+                    "firm_bd_sec_number": "42468",
+                    "firm_bd_full_sec_number": "8-42468",
+                    "firm_name": "MANNING & NAPIER INVESTOR SERVICES, INC.",
+                    "firm_other_names": [
+                        "FIDUCIARY BROKER SERVICES, INC.",
+                        "MANNING & NAPIER INVESTOR SERVICES, INC.",
+                        "MANNING & NAPIER CAPITAL ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"290 WOODCLIFF DRIVE\", \"city\": \"FAIRPORT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14450\"}, \"mailingAddress\": {\"street1\": \"290 WOODCLIFF DRIVE\", \"city\": \"FAIRPORT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14450\"}, \"businessPhoneNumber\": \"(585) 325-6880\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "290 WOODCLIFF DRIVE",
+                                        "city": "FAIRPORT",
+                                        "state": "NY",
+                                        "zipCode": "14450"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18353",
+                    "firm_bd_sec_number": "36540",
+                    "firm_bd_full_sec_number": "8-36540",
+                    "firm_name": "PRUDENTIAL INVESTMENT MANAGEMENT SERVICES LLC",
+                    "firm_other_names": [
+                        "PAMCO SECURITIES CORPORATION",
+                        "PRUDENTIAL INVESTMENT MANAGEMENT SERVICES LLC",
+                        "PRUDENTIAL ASSET MANAGEMENT COMPANY SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 40,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"655 BROAD STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"NEWARK\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07102\"}, \"mailingAddress\": {\"street1\": \"655 BROAD STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"NEWARK\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07102\"}, \"businessPhoneNumber\": \"973 802-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "466 LEXINGTON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2762",
+                    "firm_bd_sec_number": "12726",
+                    "firm_bd_full_sec_number": "8-12726",
+                    "firm_name": "TP ICAP GLOBAL MARKETS AMERICAS LLC",
+                    "firm_other_names": [
+                        "GARBAN CORPORATES GP",
+                        "TP ICAP GLOBAL MARKETS AMERICAS LLC",
+                        "MKI SECURITIES CORP.",
+                        "ICAP CORPORATES LLC",
+                        "GARBAN CORPORATES, INC.",
+                        "GARBAN CORPORATES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 VESEY STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10285\"}, \"mailingAddress\": {\"street1\": \"200 VESEY STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10285\"}, \"businessPhoneNumber\": \"201-984-6889\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 VESEY STREET",
+                                        "street2": "6TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10285"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41795",
+                    "firm_bd_sec_number": "49575",
+                    "firm_bd_full_sec_number": "8-49575",
+                    "firm_name": "LOOMIS SAYLES DISTRIBUTORS, L.P.",
+                    "firm_other_names": [
+                        "LOOMIS SAYLES DISTRIBUTORS, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FINANCIAL CENTER\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02111\"}, \"mailingAddress\": {\"street1\": \"ONE FINANCIAL CENTER\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02111-2620\"}, \"businessPhoneNumber\": \"617-482-2450\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "667 MADISON AVENUE, 5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10065"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103782",
+                    "firm_bd_sec_number": "52275",
+                    "firm_bd_full_sec_number": "8-52275",
+                    "firm_name": "JANE STREET CAPITAL, LLC",
+                    "firm_other_names": [
+                        "JANE STREET CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 VESEY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"250 VESEY STREET\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"646-759-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 VESEY STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103987",
+                    "firm_bd_sec_number": "52461",
+                    "firm_bd_full_sec_number": "8-52461",
+                    "firm_name": "LIQUIDNET, INC.",
+                    "firm_other_names": [
+                        "LIQUIDNET, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 VESEY STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"200 VESEY STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-208-7061\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 Vesey Street",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46346",
+                    "firm_bd_sec_number": "51393",
+                    "firm_bd_full_sec_number": "8-51393",
+                    "firm_name": "FHN FINANCIAL SECURITIES CORP.",
+                    "firm_other_names": [
+                        "FHN FINANCIAL SECURITIES CORP.",
+                        "MIDWEST RESEARCH FIRST TENNESSEE SECURITIES CORP.",
+                        "FTN FINANCIAL SECURITIES CORP",
+                        "FIRST TENNESSEE SECURITIES CORPORATION",
+                        "FIRST TENNESSEE SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 30,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1000 RIDGEWAY LOOP ROAD SUITE 200\", \"city\": \"MEMPHIS\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"38120\"}, \"mailingAddress\": {\"street1\": \"1000 RIDGEWAY LOOP ROAD\", \"street2\": \"SUITE 200\", \"city\": \"MEMPHIS\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"38120\"}, \"businessPhoneNumber\": \"9014358080\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 E Hartsdale Ave",
+                                        "street2": "Suite 25",
+                                        "city": "Hartsdale",
+                                        "state": "NY",
+                                        "zipCode": "10530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "24332",
+                    "firm_bd_sec_number": "40745",
+                    "firm_bd_full_sec_number": "8-40745",
+                    "firm_name": "D.E. SHAW SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "D. E. SHAW SECURITIES, L.P.",
+                        "EASTBORNE PARTNERS, L.P.",
+                        "D.E. SHAW SECURITIES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1166 AVENUE OF THE AMERICAS\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1166 AVENUE OF THE AMERICAS\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"(212) 478-0000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1166 AVENUE OF THE AMERICAS",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172595",
+                    "firm_bd_sec_number": "69513",
+                    "firm_bd_full_sec_number": "8-69513",
+                    "firm_name": "AVIOR CAPITAL MARKETS US, LLC",
+                    "firm_other_names": [
+                        "AVIOR CAPITAL MARKETS (PROPRIETARY) LIMITED",
+                        "AVIOR CAPITAL MARKETS US, LLC",
+                        "AVIOR CAPITAL MARKETS (PTY) LTD"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"140 WEST STREET SANDTON\", \"street2\": \"11TH FLOOR\", \"city\": \"JOHANNESBURG\", \"country\": \"SOUTH AFRICA\", \"postalCode\": \"2196\"}, \"mailingAddress\": {\"street1\": \"630 FIFTH AVENUE\", \"street2\": \"45 ROCKEFELLER PLAZA SUITE 2335\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10111\"}, \"businessPhoneNumber\": \"347-735-9908\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "733 Third Avenue",
+                                        "street2": "16h Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "116270",
+                    "firm_bd_sec_number": "53535",
+                    "firm_bd_full_sec_number": "8-53535",
+                    "firm_name": "SEAPORT GLOBAL SECURITIES LLC",
+                    "firm_other_names": [
+                        "GLOBAL HUNTER SECURITIES",
+                        "THE SEAPORT GROUP",
+                        "SP CREDIT DIRECT LLC",
+                        "SEAPORT RESEARCH PARTNERS",
+                        "SEAPORT PERICLES",
+                        "SEAPORT GLOBAL SECURITIES LLC",
+                        "SEAPORT GLOBAL",
+                        "SEA PORT GROUP SECURITIES, LLC",
+                        "SEA PORT GROUP SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 21,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"360 MADISON AVE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"360 MADISON AVE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-616-7700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "360 MADISON AVE",
+                                        "street2": "22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

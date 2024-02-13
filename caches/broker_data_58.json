@@ -1,0 +1,461 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28041",
+                    "firm_bd_sec_number": "43369",
+                    "firm_bd_full_sec_number": "8-43369",
+                    "firm_name": "SOLOMON PARTNERS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PETER J. SOLOMON SECURITIES COMPANY LIMITED",
+                        "SOLOMON PARTNERS SECURITIES, LLC",
+                        "PJ SOLOMON SECURITIES, LLC",
+                        "PETER J. SOLOMON SECURITIES COMPANY, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"212-508-1600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS",
+                                        "street2": "31ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "158539",
+                    "firm_bd_sec_number": "68904",
+                    "firm_bd_full_sec_number": "8-68904",
+                    "firm_name": "CANAM INVESTOR SERVICES, LLC",
+                    "firm_other_names": [
+                        "CANAM BROKER, LLC",
+                        "CANAM INVESTOR SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"48 WALL STREET\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"48 WALL STREET\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"(646) 825-8710\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "48 WALL STREET",
+                                        "street2": "24TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "319197",
+                    "firm_bd_sec_number": "70910",
+                    "firm_bd_full_sec_number": "8-70910",
+                    "firm_name": "HPS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "HPS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WEST 57TH STREET\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"40 WEST 57TH STREET\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-287-6767\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 WEST 57TH STREET",
+                                        "street2": "33RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2288",
+                    "firm_bd_sec_number": "1865",
+                    "firm_bd_full_sec_number": "8-1865",
+                    "firm_ia_sec_number": "5016",
+                    "firm_ia_full_sec_number": "801-5016",
+                    "firm_name": "INGALLS & SNYDER, LLC",
+                    "ia_firm_name": "INGALLS & SNYDER LLC",
+                    "firm_other_names": [
+                        "2X WEALTH GROUP",
+                        "NOBSKA CAPITAL MANAGEMENT",
+                        "INGALLS & SNYDER, LLC",
+                        "INGALLS & SNYDER LLC",
+                        "INGALLS & SNYDER",
+                        "FUNDAMENTAL EQUITY ADVISORS",
+                        "BRIDGEHAMPTON GROUP",
+                        "6TH AVENUE TEAM"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1325 AVENUE OF THE AMERICAS\", \"street2\": \"18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019-6066\"}, \"mailingAddress\": {\"street1\": \"1325 AVENUE OF THE AMERICAS\", \"street2\": \"18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019-6066\"}, \"businessPhoneNumber\": \"(212) 269-7800\", \"iaFirmName\": \"INGALLS & SNYDER LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1325 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10019-6066\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1325 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5967",
+                    "firm_bd_sec_number": "16586",
+                    "firm_bd_full_sec_number": "8-16586",
+                    "firm_name": "PINEBRIDGE SECURITIES LLC",
+                    "firm_other_names": [
+                        "AIG EQUITY SALES CORP.",
+                        "PINEBRIDGE SECURITIES LLC",
+                        "AMERICAN INTERNATIONAL FUND DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"65 EAST 55TH STREET\", \"street2\": \"PARK AVENUE TOWER\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"65 EAST 55TH STREET\", \"street2\": \"PARK AVENUE TOWER\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(646) 857-8132\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "65 EAST 55TH STREET",
+                                        "street2": "PARK AVENUE TOWER",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "321877",
+                    "firm_bd_sec_number": "70933",
+                    "firm_bd_full_sec_number": "8-70933",
+                    "firm_name": "OCTAURA SECURITIES TRADINGCO LLC",
+                    "firm_other_names": [
+                        "OCTAURA SECURITIES TRADINGCO LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 WEST 34TH STREET, 3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"mailingAddress\": {\"street1\": \"250 WEST 34TH STREET, 3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"businessPhoneNumber\": \"212-397-6133\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 W 34th Street",
+                                        "street2": "306",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10119"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44734",
+                    "firm_bd_sec_number": "50796",
+                    "firm_bd_full_sec_number": "8-50796",
+                    "firm_name": "PARETO SECURITIES INC.",
+                    "firm_other_names": [
+                        "NORDIC PARTNERS INC.",
+                        "PARETO SECURITIES, INC.",
+                        "PARETO SECURITIES USA",
+                        "PARETO SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-829-4200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 EAST 52ND STREET",
+                                        "street2": "29TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19647",
+                    "firm_bd_sec_number": "37710",
+                    "firm_bd_full_sec_number": "8-37710",
+                    "firm_name": "MIZUHO SECURITIES USA LLC",
+                    "firm_other_names": [
+                        "FUJI SECURITIES INC.",
+                        "MIZUHO SECURITIES USA LLC",
+                        "MIZUHO SECURITIES USA INC.",
+                        "KLEINWORT BENSON GOVERNMENT SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1271 AVENUE OF THE AMERICAS\", \"street2\": \"FLOORS - 2,3,4,18,19\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1271 AVENUE OF THE AMERICAS\", \"street2\": \"FLOORS - 2,3,4,18,19\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-209-9300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1251 AVENUE OF THE AMERICAS",
+                                        "street2": "FLOORS - 29,30,31",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "32205",
+                    "firm_bd_sec_number": "45671",
+                    "firm_bd_full_sec_number": "8-45671",
+                    "firm_name": "TRANSAMERICA INVESTORS SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "DIVERSIFIED INVESTORS SECURITIES CORP.",
+                        "TRANSAMERICA INVESTORS SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 22,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"440 MAMARONECK AVENUE\", \"city\": \"HARRISON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10528\"}, \"mailingAddress\": {\"street1\": \"440 MAMARONECK AVENUE\", \"city\": \"HARRISON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10528\"}, \"businessPhoneNumber\": \"914-627-3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "440 MAMARONECK AVENUE",
+                                        "city": "HARRISON",
+                                        "state": "NY",
+                                        "zipCode": "10528"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150887",
+                    "firm_bd_sec_number": "68304",
+                    "firm_bd_full_sec_number": "8-68304",
+                    "firm_name": "LATOUR TRADING LLC",
+                    "firm_other_names": [
+                        "LATOUR TRADING LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"148 LAFAYETTE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10013\"}, \"mailingAddress\": {\"street1\": \"148 LAFAYETTE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10013\"}, \"businessPhoneNumber\": \"917-388-8000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "148 Lafayette",
+                                        "street2": "10th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10013"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154801",
+                    "firm_bd_sec_number": "68674",
+                    "firm_bd_full_sec_number": "8-68674",
+                    "firm_name": "INTREPID INVESTMENT BANKERS LLC",
+                    "firm_other_names": [
+                        "INTREPID INVESTMENT BANKERS LLC",
+                        "INTREPID MERCHANT BANKERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11755 WILSHIRE BLVD., SUITE 2200\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"postalCode\": \"90025\"}, \"mailingAddress\": {\"street1\": \"11755 WILSHIRE BLVD., SUITE 2200\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"postalCode\": \"90025\"}, \"businessPhoneNumber\": \"310-478-9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1221 Avenue of the Americas",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "316331",
+                    "firm_bd_sec_number": "70788",
+                    "firm_bd_full_sec_number": "8-70788",
+                    "firm_name": "BOFA SECURITIES PRIME, INC.",
+                    "firm_other_names": [
+                        "BOFA SECURITIES PRIME, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE BRYANT PARK\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"100 N TRYON STREET\", \"street2\": \"NC1-007-14-30\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"UNITED STATES\", \"postalCode\": \"28255\"}, \"businessPhoneNumber\": \"646-743-2734\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE BRYANT PARK",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,450 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39999",
+                    "firm_bd_sec_number": "48926",
+                    "firm_bd_full_sec_number": "8-48926",
+                    "firm_name": "M&A SECURITIES GROUP, INC.",
+                    "firm_other_names": [
+                        "M&A SECURITIES GROUP, INC.",
+                        "TOWER BROKERAGE SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4151 N. MULBERRY DRIVE\", \"street2\": \"SUITE 252\", \"city\": \"KANSAS CITY\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"64116\"}, \"mailingAddress\": {\"street1\": \"4151 N. MULBERRY DRIVE\", \"street2\": \"SUITE 252\", \"city\": \"KANSAS CITY\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"64116\"}, \"businessPhoneNumber\": \"816-888-7920\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 Sixth Avenue, 33rd Floor",
+                                        "street2": "Suite 33015",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "105791",
+                    "firm_bd_sec_number": "52985",
+                    "firm_bd_full_sec_number": "8-52985",
+                    "firm_name": "REVA CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "NEWTEK SECURITIES, LLC",
+                        "REVA CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 COLUMBUS CIRCLE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"3 COLUMBUS CIRCLE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212 464-7363\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 COLUMBUS CIRCLE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "140076",
+                    "firm_bd_sec_number": "67275",
+                    "firm_bd_full_sec_number": "8-67275",
+                    "firm_name": "GALILEO GLOBAL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "GALILEO GLOBAL SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1230 AVENUE OF THE AMERICAS\", \"street2\": \"16F\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1230 AVENUE OF THE AMERICAS\", \"street2\": \"16F\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"6465912258\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1230 AVENUE OF THE AMERICAS",
+                                        "street2": "16F",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "174952",
+                    "firm_bd_sec_number": "69583",
+                    "firm_bd_full_sec_number": "8-69583",
+                    "firm_name": "ICR CAPITAL LLC",
+                    "firm_other_names": [
+                        "ICR CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"761 MAIN AVENUE\", \"city\": \"NORWALK\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06851-1080\"}, \"mailingAddress\": {\"street1\": \"761 MAIN AVENUE\", \"city\": \"NORWALK\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06851-1080\"}, \"businessPhoneNumber\": \"203-682-8200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "685 THIRD AVENUE",
+                                        "street2": "2ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7793",
+                    "firm_bd_sec_number": "23280",
+                    "firm_bd_full_sec_number": "8-23280",
+                    "firm_name": "FMSBONDS, INC.",
+                    "firm_other_names": [
+                        "FIRST MIAMI SECURITIES, INC.",
+                        "TAX-FREE BONDS.COM",
+                        "TAX-FREE BONDS",
+                        "FMSBONDS.COM",
+                        "FMSBONDS, INC.",
+                        "FMS,INC.",
+                        "FMS, INC.",
+                        "FMS BONDS, INC.",
+                        "FMS BONDS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4775 TECHNOLOGY WAY\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33431\"}, \"mailingAddress\": {\"street1\": \"4775 TECHNOLOGY WAY\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33431\"}, \"businessPhoneNumber\": \"800-741-1103\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 Kisco Avenue",
+                                        "street2": "Suite D",
+                                        "city": "Mount Kisco",
+                                        "state": "NY",
+                                        "zipCode": "10549"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "298343",
+                    "firm_bd_sec_number": "70193",
+                    "firm_bd_full_sec_number": "8-70193",
+                    "firm_name": "SAND CAPITAL LLC",
+                    "firm_other_names": [
+                        "SAND CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 HUDSON YARDS\", \"street2\": \"83RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"30 HUDSON YARDS\", \"street2\": \"83RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"646-582-2219\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 Hudson Yards",
+                                        "street2": "83rd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36193",
+                    "firm_bd_sec_number": "47069",
+                    "firm_bd_full_sec_number": "8-47069",
+                    "firm_name": "BEEKMAN SECURITIES, INC.",
+                    "firm_other_names": [
+                        "BEEKMAN SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"177 WEST PUTNAM AVENUE\", \"city\": \"GREENWICH\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06831\"}, \"mailingAddress\": {\"street1\": \"177 WEST PUTNAM AVENUE\", \"city\": \"GREENWICH\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06831\"}, \"businessPhoneNumber\": \"2035422814\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "750 THIRD AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31741",
+                    "firm_bd_sec_number": "45529",
+                    "firm_bd_full_sec_number": "8-45529",
+                    "firm_name": "HALLIDAY FINANCIAL, LLC",
+                    "firm_other_names": [
+                        "HALLIDAY FINANCIAL, LLC",
+                        "HRC SERVICES, INC.",
+                        "HRC INVESTMENT SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"725 GLEN COVE AVENUE\", \"city\": \"GLEN HEAD\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11545\"}, \"mailingAddress\": {\"street1\": \"725 GLEN COVE ANUENE\", \"city\": \"GLEN HEAD\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11545\"}, \"businessPhoneNumber\": \"(516) 671-1099\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "725 GLEN COVE AVE.",
+                                        "city": "GLEN HEAD",
+                                        "state": "NY",
+                                        "zipCode": "11545"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "293368",
+                    "firm_bd_sec_number": "70083",
+                    "firm_bd_full_sec_number": "8-70083",
+                    "firm_name": "AXIS CAPITAL USA, LLC",
+                    "firm_other_names": [
+                        "AXIS CAPITAL USA, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"405 LEXINGTON AVENUE\", \"street2\": \"SUITE 714\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10174\"}, \"mailingAddress\": {\"street1\": \"405 LEXINGTON AVENUE\", \"street2\": \"SUITE 714\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10174\"}, \"businessPhoneNumber\": \"636-675-3746\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "405 LEXINGTON AVENUE",
+                                        "street2": "SUITE 714",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10174"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "281709",
+                    "firm_bd_sec_number": "69682",
+                    "firm_bd_full_sec_number": "8-69682",
+                    "firm_name": "ARENA FINANCIAL SERVICES, LLC",
+                    "firm_other_names": [
+                        "ARENA FINANCIAL SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"405 LEXINGTON AVENUE, 59TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10174\"}, \"mailingAddress\": {\"street1\": \"405 LEXINGTON AVENUE, 59TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10174\"}, \"businessPhoneNumber\": \"212-612-3203\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "405 LEXINGTON AVENUE, 59TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10174"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104197",
+                    "firm_bd_sec_number": "52663",
+                    "firm_bd_full_sec_number": "8-52663",
+                    "firm_name": "IVP CAPITAL, LLC",
+                    "firm_other_names": [
+                        "INTERNATIONAL VENTURE PARTNERS, LLC",
+                        "IVP SECURITIES, LLC",
+                        "IVP CAPITAL, LLC",
+                        "IVP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"337 NOYAC PATH\", \"city\": \"WATER MILL\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11976\"}, \"mailingAddress\": {\"street1\": \"337 NOYAC PATH\", \"city\": \"WATER MILL\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11976\"}, \"businessPhoneNumber\": \"(212) 308-0940\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "54 West 40th Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "308433",
+                    "firm_bd_sec_number": "70530",
+                    "firm_bd_full_sec_number": "8-70530",
+                    "firm_name": "SAFENED US, INC.",
+                    "firm_other_names": [
+                        "SAFENED US, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"104 WEST 40TH STREET\", \"street2\": \"OFFICE 432\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"104 WEST 40TH STREET\", \"street2\": \"OFFICE 432\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"646-522-8432\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "104 West 40th Street",
+                                        "street2": "Office 432",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

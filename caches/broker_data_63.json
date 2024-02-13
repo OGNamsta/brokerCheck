@@ -1,0 +1,448 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37081",
+                    "firm_bd_sec_number": "47616",
+                    "firm_bd_full_sec_number": "8-47616",
+                    "firm_name": "MAY CAPITAL GROUP, L.L.C.",
+                    "firm_other_names": [
+                        "MAY CAPITAL GROUP, L.L.C.",
+                        "MAY, LAWRENCE E., SOLE PROPRIETOR",
+                        "MAY TURNER CAPITAL GROUP, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1776 BROADWAY\", \"street2\": \"SUITE 1900\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1776 BROADWAY\", \"street2\": \"SUITE 1900\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-489-0100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1776 BROADWAY",
+                                        "street2": "SUITE 1900",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6845",
+                    "firm_bd_sec_number": "18248",
+                    "firm_bd_full_sec_number": "8-18248",
+                    "firm_name": "TIMECAPITAL SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "TIMECAPITAL SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE ROOSEVELT AVENUE\", \"city\": \"PORT JEFFERSON STATION\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11776-3336\"}, \"mailingAddress\": {\"street1\": \"ONE ROOSEVELT AVENUE\", \"city\": \"PORT JEFFERSON STATION\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11776-3336\"}, \"businessPhoneNumber\": \"631-331-1400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE ROOSEVELT AVENUE",
+                                        "city": "PORT JEFFERSON STATION",
+                                        "state": "NY",
+                                        "zipCode": "11776"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "32754",
+                    "firm_bd_sec_number": "41221",
+                    "firm_bd_full_sec_number": "8-41221",
+                    "firm_name": "MARK J. MULLER EQUITIES, INC.",
+                    "firm_other_names": [
+                        "MARK J. MULLER EQUITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"18 PHEASANT DRIVE\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10580\"}, \"mailingAddress\": {\"street1\": \"18 PHEASANT DRIVE\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10580\"}, \"businessPhoneNumber\": \"(212) 480-2640\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "18 PHEASANT DRIVE",
+                                        "city": "RYE",
+                                        "state": "NY",
+                                        "zipCode": "10580"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122481",
+                    "firm_bd_sec_number": "65500",
+                    "firm_bd_full_sec_number": "8-65500",
+                    "firm_name": "ETICO PARTNERS, LLC",
+                    "firm_other_names": [
+                        "ETICO PARTNERS, LLC",
+                        "M.J. WHITMAN LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19 RAILROAD PL, STE 202\", \"city\": \"SARATOGA SPRINGS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"12866\"}, \"mailingAddress\": {\"street1\": \"19 RAILROAD PL, STE 202\", \"city\": \"SARATOGA SPRINGS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"12866\"}, \"businessPhoneNumber\": \"518-348-0060\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "258 GENESEE ST",
+                                        "street2": "SUITE #506",
+                                        "city": "UTICA",
+                                        "state": "NY",
+                                        "zipCode": "13502"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "207515",
+                    "firm_bd_sec_number": "69616",
+                    "firm_bd_full_sec_number": "8-69616",
+                    "firm_name": "SIGMA AMERICAS SECURITIES LLC",
+                    "firm_other_names": [
+                        "BENEXIS SECURITIES, LLC",
+                        "SIGMA AMERICAS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"125 PARK AVENUE\", \"street2\": \"25TH FLOOR, SUITE 2602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"125 PARK AVENUE\", \"street2\": \"25TH FLOOR, SUITE 2525\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"2125201676\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "125 PARK AVENUE",
+                                        "street2": "25TH FLOOR, SUITE 2602",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1576",
+                    "firm_bd_sec_number": "12242",
+                    "firm_bd_full_sec_number": "8-12242",
+                    "firm_name": "DAIWA CAPITAL MARKETS AMERICA INC.",
+                    "firm_other_names": [
+                        "DAIWA CAPITAL MARKETS AMERICA INC.",
+                        "DAIWA SECURITIES AMERICA INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"FINANCIAL SQUARE\", \"street2\": \"32 OLD SLIP\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005-3538\"}, \"mailingAddress\": {\"street1\": \"FINANCIAL SQUARE\", \"street2\": \"32 OLD SLIP\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005-3538\"}, \"businessPhoneNumber\": \"212-612-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "FINANCIAL SQUARE",
+                                        "street2": "32 OLD SLIP",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120574",
+                    "firm_bd_sec_number": "65317",
+                    "firm_bd_full_sec_number": "8-65317",
+                    "firm_name": "ARDOUR CAPITAL INVESTMENTS, LLC",
+                    "firm_other_names": [
+                        "ARDOUR CAPITAL INVESTMENTS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"26 BROADWAY\", \"street2\": \"SUITE 1107\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"26 BROADWAY\", \"street2\": \"SUITE 1107\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-375-2957\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "350 5TH AVENUE",
+                                        "street2": "SUITE 4812",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10118"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7110",
+                    "firm_bd_sec_number": "20254",
+                    "firm_bd_full_sec_number": "8-20254",
+                    "firm_name": "NATIONWIDE INVESTMENT SERVICES CORPORATION",
+                    "firm_other_names": [
+                        "NATIONWIDE INVESTMENT ADVISORS, LLC",
+                        "PEBSCO SECURITIES CORP.",
+                        "NATIONWIDE RETIREMENT INSTITUTE, A DIVISION OF NISC",
+                        "NATIONWIDE INVESTMENT SVCS. CORPORATION",
+                        "NATIONWIDE INVESTMENT SERVICES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 72,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE NATIONWIDE PLAZA\", \"street2\": \"1-33-401\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43215\"}, \"mailingAddress\": {\"street1\": \"ONE NATIONWIDE PLAZA\", \"street2\": \"1-33-401\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43215\"}, \"businessPhoneNumber\": \"1-800-882-2822\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "385 JORDAN ROAD",
+                                        "city": "TROY",
+                                        "state": "NY",
+                                        "zipCode": "12180"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139148",
+                    "firm_bd_sec_number": "67194",
+                    "firm_bd_full_sec_number": "8-67194",
+                    "firm_name": "KEPLER CAPITAL MARKETS, INC.",
+                    "firm_other_names": [
+                        "KEPLER CAPITAL MARKETS, INC.",
+                        "LANDSBANKI KEPLER, INC.",
+                        "KEPLER EQUITIES, INC.",
+                        "KEPLER CHEUVREUX NORTH AMERICA"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"12 EAST 49TH STREET\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"12 EAST 49TH STREET\", \"street2\": \"SUITE 3107\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-710-7600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "12 EAST 49TH STREET",
+                                        "street2": "31ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285684",
+                    "firm_bd_sec_number": "69857",
+                    "firm_bd_full_sec_number": "8-69857",
+                    "firm_name": "METLIFE INVESTMENTS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "METLIFE INVESTMENTS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE METLIFE WAY\", \"city\": \"WHIPPANY\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07981-1449\"}, \"mailingAddress\": {\"street1\": \"ONE METLIFE WAY\", \"city\": \"WHIPPANY\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07981-1449\"}, \"businessPhoneNumber\": \"973 355-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 Spring Street, 6th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10012"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35878",
+                    "firm_bd_sec_number": "47039",
+                    "firm_bd_full_sec_number": "8-47039",
+                    "firm_name": "SPROTT GLOBAL RESOURCE INVESTMENTS LTD",
+                    "firm_other_names": [
+                        "GLOBAL RESOURCE INVESTMENTS, LTD.",
+                        "SPROTT GLOBAL RESOURCE INVESTMENTS LTD"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1910 PALOMAR POINT WAY\", \"street2\": \"SUITE 200\", \"city\": \"CARLSBAD\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92008\"}, \"mailingAddress\": {\"street1\": \"1910 PALOMAR POINT WAY\", \"street2\": \"SUITE 200\", \"city\": \"CARLSBAD\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92008\"}, \"businessPhoneNumber\": \"800-477-7853\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "500 Fifth Avenue",
+                                        "street2": "Suite 3020",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10110"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38449",
+                    "firm_bd_sec_number": "48204",
+                    "firm_bd_full_sec_number": "8-48204",
+                    "firm_name": "WESTPORT FINANCIAL SERVICES, L.L.C.",
+                    "firm_other_names": [
+                        "WESTPORT FINANCIAL SERVICES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4651 SALISBURY ROAD\", \"street2\": \"SUITE 410\", \"city\": \"JACKSONVILLE\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32256-6129\"}, \"mailingAddress\": {\"street1\": \"4651 SALISBURY ROAD\", \"street2\": \"SUITE 410\", \"city\": \"JACKSONVILLE\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32256-6129\"}, \"businessPhoneNumber\": \"203-653-2430\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "515  MADISON AVENUE",
+                                        "street2": "17TH FLOOR SUITE 1720",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

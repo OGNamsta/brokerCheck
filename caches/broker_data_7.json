@@ -1,0 +1,445 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "25759",
+                    "firm_bd_sec_number": "41879",
+                    "firm_bd_full_sec_number": "8-41879",
+                    "firm_name": "BENTLEY SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "BENTLEY SECURITIES CORPORATION",
+                        "CHARTERHOUSE MEDIA GROUP SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"437 MADISON AVENUE\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"437 MADISON AVENUE\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-972-8700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "437 MADISON AVENUE",
+                                        "street2": "24TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "166318",
+                    "firm_bd_sec_number": "69197",
+                    "firm_bd_full_sec_number": "8-69197",
+                    "firm_name": "CHINA RENAISSANCE SECURITIES (US) INC.",
+                    "firm_other_names": [
+                        "CHINA RENAISSANCE SECURITIES (US) INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 FIFTH AVENUE\", \"street2\": \"21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"600 FIFTH AVENUE\", \"street2\": \"21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-554-2960\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "600 FIFTH AVENUE",
+                                        "street2": "21ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "291933",
+                    "firm_bd_sec_number": "70063",
+                    "firm_bd_full_sec_number": "8-70063",
+                    "firm_name": "AMERICAN VETERANS GROUP, PBC",
+                    "firm_other_names": [
+                        "AMERICAN VETERANS GROUP, PBC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"324 S. SERVICE ROAD\", \"street2\": \"SUITE 107\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"mailingAddress\": {\"street1\": \"324 S. SERVICE ROAD\", \"street2\": \"SUITE 107\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"businessPhoneNumber\": \"646-933-8387\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "324 S. SERVICE ROAD",
+                                        "street2": "SUITE 107",
+                                        "city": "MELVILLE",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "269966",
+                    "firm_bd_sec_number": "69642",
+                    "firm_bd_full_sec_number": "8-69642",
+                    "firm_name": "TORNADO",
+                    "firm_other_names": [
+                        "NVSTR FINANCIAL LLC",
+                        "TORNADO"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"135 MADISON AVE\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"135 MADISON AVE\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"844-466-8787\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "135 MADISON AVE",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306089",
+                    "firm_bd_sec_number": "70433",
+                    "firm_bd_full_sec_number": "8-70433",
+                    "firm_name": "STRATHMORE GROUP LLC",
+                    "firm_other_names": [
+                        "STRATHMORE GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"263 LITTLE PLAINS ROAD\", \"city\": \"SOUTHAMPTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11968-4946\"}, \"mailingAddress\": {\"street1\": \"263 LITTLE PLAINS ROAD\", \"city\": \"SOUTHAMPTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11968-4946\"}, \"businessPhoneNumber\": \"(516) 455-5028\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "263 LITTLE PLAINS ROAD",
+                                        "city": "SOUTHAMPTON",
+                                        "state": "NY",
+                                        "zipCode": "11968"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10963",
+                    "firm_bd_sec_number": "29033",
+                    "firm_bd_full_sec_number": "8-29033",
+                    "firm_name": "PAPAMARKOU WELLNER & CO., INC.",
+                    "firm_other_names": [
+                        "A. P. PAPAMARKOU & COMPANY, INC.",
+                        "PAPAMARKOU, PETRA & CO., INC.",
+                        "PAPAMARKOU WELLNER & CO., INC.",
+                        "PAPAMARKOU & COMPANY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"430 PARK AVENUE, 17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"430 PARK AVENUE, 17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-223-2020\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "430 PARK AVENUE, 17th FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "102740",
+                    "firm_bd_sec_number": "52139",
+                    "firm_bd_full_sec_number": "8-52139",
+                    "firm_name": "YORK STOCKBROKERS, INC.",
+                    "firm_other_names": [
+                        "YORK STOCKBROKERS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 MADISON AVENUE\", \"street2\": \"SUITE 1006\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 MADISON AVENUE\", \"street2\": \"SUITE 1006\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-218-8880\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 MADISON AVENUE",
+                                        "street2": "SUITE 1006",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "296912",
+                    "firm_bd_sec_number": "70207",
+                    "firm_bd_full_sec_number": "8-70207",
+                    "firm_name": "ARBUTUS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ARBUTUS SECURITIES, LLC",
+                        "MVB SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 PARK AVENUE, 58TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10166\"}, \"mailingAddress\": {\"street1\": \"200 PARK AVENUE, 58TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10166\"}, \"businessPhoneNumber\": \"212-355-5515\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 PARK AVENUE, 58TH FL",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10166"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "167872",
+                    "firm_bd_sec_number": "69280",
+                    "firm_bd_full_sec_number": "8-69280",
+                    "firm_name": "IEX SERVICES LLC",
+                    "firm_other_names": [
+                        "IEX SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 WORLD TRADE CTR, 175 GREENWICH STREET\", \"street2\": \"58TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"3 WORLD TRADE CTR, 175 GREENWICH STREET\", \"street2\": \"58TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"646-343-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 WORLD TRADE CENTER, 175 GREENWICH STREET",
+                                        "street2": "58TH FLOOR",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18488",
+                    "firm_bd_sec_number": "36769",
+                    "firm_bd_full_sec_number": "8-36769",
+                    "firm_name": "WELLFLEET INVESTMENTS LLC",
+                    "firm_other_names": [
+                        "WELLFLEET CAPITAL & INVESTMENT MANAGEMENT COMPANY",
+                        "WELLFLEET INVESTMENTS LLC",
+                        "WELLFLEET CAPITAL COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"85-87 COVERT AVENUE\", \"street2\": \"2ND FLOOR REAR LEFT\", \"city\": \"FLORAL PARK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11001\"}, \"mailingAddress\": {\"street1\": \"PO BOX 222142\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11022-2142\"}, \"businessPhoneNumber\": \"(516) 487-7450\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "85-87 COVERT AVENUE",
+                                        "street2": "2ND FLOOR REAR LEFT",
+                                        "city": "FLORAL PARK",
+                                        "state": "NY",
+                                        "zipCode": "11001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148002",
+                    "firm_bd_sec_number": "67948",
+                    "firm_bd_full_sec_number": "8-67948",
+                    "firm_name": "PHARUS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PHARUS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"535 FIFTH AVENUE\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"535 FIFTH AVENUE\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 904-0100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "110 EAST 25TH STREET",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309026",
+                    "firm_bd_sec_number": "70523",
+                    "firm_bd_full_sec_number": "8-70523",
+                    "firm_name": "AVIDITI FINANCIAL, LLC",
+                    "firm_other_names": [
+                        "AVIDITI ADVISORS",
+                        "AVIDITI FINANCIAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8117 PRESTON ROAD\", \"street2\": \"SUITE 450\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75225\"}, \"mailingAddress\": {\"street1\": \"8117 PRESTON ROAD\", \"street2\": \"SUITE 450\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75225\"}, \"businessPhoneNumber\": \"713-775-2464\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "285 Madison Avenue",
+                                        "street2": "18th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

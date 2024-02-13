@@ -1,0 +1,481 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14840",
+                    "firm_bd_sec_number": "31175",
+                    "firm_bd_full_sec_number": "8-31175",
+                    "firm_name": "LUMENT SECURITIES, LLC",
+                    "firm_other_names": [
+                        "LUMENT SECURITIES",
+                        "RED CAPITAL MARKETS, LLC",
+                        "RED CAPITAL MARKETS, INC.",
+                        "PROVIDENT SECURITIES & INVESTMENT COMPANY",
+                        "OREC SECURITIES, LLC",
+                        "LUMENT SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 WEST BROAD STREET\", \"street2\": \"8TH FLOOR\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43215\"}, \"mailingAddress\": {\"street1\": \"10 WEST BROAD STREET\", \"street2\": \"8TH FLOOR\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43215\"}, \"businessPhoneNumber\": \"614-857-1600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 Park Avenue",
+                                        "street2": "19th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10169"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44181",
+                    "firm_bd_sec_number": "50588",
+                    "firm_bd_full_sec_number": "8-50588",
+                    "firm_ia_sec_number": "57407",
+                    "firm_ia_full_sec_number": "801-57407",
+                    "firm_name": "NATIONS FINANCIAL GROUP, INC.",
+                    "ia_firm_name": "NATIONS FINANCIAL GROUP, INC.",
+                    "firm_other_names": [
+                        "FRONTIER INVESTMENT SERVICES",
+                        "NATIONS FINANCIAL GROUP, INC.",
+                        "NATIONAL BROKERAGE SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 43,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3925 FOUNTAINS BLVD NE\", \"street2\": \"SUITE 200\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52411\"}, \"mailingAddress\": {\"street1\": \"3925 FOUNTAINS BLVD NE\", \"street2\": \"SUITE 200\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52411\"}, \"businessPhoneNumber\": \"319-393-9541\", \"iaFirmName\": \"NATIONS FINANCIAL GROUP, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"3925 FOUNTAINS BLVD NE\", \"street2\": \"SUITE 200\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"United States\", \"postalCode\": \"52411\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "445 Broad Hollow Rd.",
+                                        "street2": "Suite 25",
+                                        "city": "Melville",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16204",
+                    "firm_bd_sec_number": "33478",
+                    "firm_bd_full_sec_number": "8-33478",
+                    "firm_ia_sec_number": "68438",
+                    "firm_ia_full_sec_number": "801-68438",
+                    "firm_name": "LIFEMARK SECURITIES CORP.",
+                    "ia_firm_name": "LIFEMARK SECURITIES CORP.",
+                    "firm_other_names": [
+                        "LIFEMARK SECURITIES",
+                        "PROCORP SECURITIES INCORPORATED",
+                        "LIFEMARK SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 185,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 WEST METRO PARK\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"mailingAddress\": {\"street1\": \"400 WEST METRO PARK\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"businessPhoneNumber\": \"585-424-5672\", \"iaFirmName\": \"LIFEMARK SECURITIES CORP.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"400 WEST METRO PARK\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"14623\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "8365 Seneca Turnpike",
+                                        "city": "New Hartford",
+                                        "state": "NY",
+                                        "zipCode": "13413"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26586",
+                    "firm_bd_sec_number": "42649",
+                    "firm_bd_full_sec_number": "8-42649",
+                    "firm_ia_sec_number": "128990",
+                    "firm_ia_full_sec_number": "801-128990",
+                    "firm_name": "QUINT CAPITAL CORPORATION",
+                    "ia_firm_name": "QUINT CAPITAL MANAGEMENT",
+                    "firm_other_names": [
+                        "CHAMPION CAPITAL CORPORATION",
+                        "SUNSHINE SECURITIES CORPORATION",
+                        "QUINT CAPITAL MANAGEMENT LLC",
+                        "QUINT CAPITAL MANAGEMENT",
+                        "QUINT CAPITAL CORPORATION",
+                        "QUINT CAPITAL",
+                        "QUINT CAP",
+                        "QCAP HOLDINGS LLC (NAME CHANGE OF PARENT FROM QUINT CAPITAL LLC)",
+                        "QCAP",
+                        "LEGACY TRUST ADVISORS",
+                        "ENTERPRISE SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"230 PARK AVE STE 908\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10169\"}, \"mailingAddress\": {\"street1\": \"230 PARK AVE STE 908\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10169\"}, \"businessPhoneNumber\": \"212-682-5090\", \"iaFirmName\": \"QUINT CAPITAL MANAGEMENT\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"230 PARK AVE STE 908\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10169\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 PARK AVE STE 908",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10169"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317903",
+                    "firm_bd_sec_number": "70837",
+                    "firm_bd_full_sec_number": "8-70837",
+                    "firm_name": "AC SUNSHINE SECURITIES LLC",
+                    "firm_other_names": [
+                        "AC SUNSHINE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7380 W. SAND LAKE ROAD\", \"street2\": \"SUITE 500\", \"city\": \"ORLANDO\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32819\"}, \"mailingAddress\": {\"street1\": \"7380 W. SAND LAKE ROAD\", \"street2\": \"SUITE 500\", \"city\": \"ORLANDO\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32819\"}, \"businessPhoneNumber\": \"689-689-9686\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 Rockefeller Plaza",
+                                        "street2": "STE 1838",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "282710",
+                    "firm_bd_sec_number": "69729",
+                    "firm_bd_full_sec_number": "8-69729",
+                    "firm_name": "ARKADIOS CAPITAL",
+                    "firm_other_names": [
+                        "ARKADIOS CAPITAL",
+                        "MSY SECURITIES, LLC",
+                        "ARKADIOS CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 61,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"309 EAST PACES FERRY ROAD\", \"street2\": \"SUITE 1000\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30305\"}, \"mailingAddress\": {\"street1\": \"309 EAST PACES FERRY ROAD\", \"street2\": \"SUITE 1000\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30305\"}, \"businessPhoneNumber\": \"404-445-0035\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2525 Route 332     ",
+                                        "city": "Canandaigua",
+                                        "state": "NY",
+                                        "zipCode": "14424"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "300285",
+                    "firm_bd_sec_number": "70298",
+                    "firm_bd_full_sec_number": "8-70298",
+                    "firm_name": "AEL FINANCIAL SERVICES, LLC",
+                    "firm_other_names": [
+                        "AEL FINANCIAL SERVICES, LLC",
+                        "LOCKTON CAPITAL, LLC",
+                        "LOCKTON CAPITAL MARKETS",
+                        "LOCKTON CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2101 REXFORD ROAD\", \"street2\": \"SUITE 310\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28211\"}, \"mailingAddress\": {\"street1\": \"2101 REXFORD ROAD\", \"street2\": \"SUITE 310\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28211\"}, \"businessPhoneNumber\": \"515-443-3527\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "712 Fifth Ave.,",
+                                        "street2": "Suite 11th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2091",
+                    "firm_bd_sec_number": "22371",
+                    "firm_bd_full_sec_number": "8-22371",
+                    "firm_name": "OSCAR GRUSS & SON INCORPORATED",
+                    "firm_other_names": [
+                        "OSCAR GRUSS & SON INCORPORATED",
+                        "OSCAR GRUSS & SON, INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 EAST 53RD STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"10 EAST 53RD STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-419-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 EAST 53RD STREET",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114203",
+                    "firm_bd_sec_number": "53402",
+                    "firm_bd_full_sec_number": "8-53402",
+                    "firm_name": "GREAT POINT CAPITAL LLC",
+                    "firm_other_names": [
+                        "GREAT POINT CAPITAL LLC",
+                        "MAVERICK BROKERAGE LLC",
+                        "GREAT POINT TRADING LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 WEST JACKSON BLVD.\", \"street2\": \"SUITE 1000\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"200 WEST JACKSON BLVD.\", \"street2\": \"SUITE 1000\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-356-4405\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 Westchester Avenue",
+                                        "street2": "Suite 700",
+                                        "city": "Rye Brook",
+                                        "state": "NY",
+                                        "zipCode": "10573"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30395",
+                    "firm_bd_sec_number": "44903",
+                    "firm_bd_full_sec_number": "8-44903",
+                    "firm_name": "TFS DERIVATIVES LLC",
+                    "firm_other_names": [
+                        "ELIXIUM NA",
+                        "TRADITION EQUITIES",
+                        "TFS DERIVATIVES LLC",
+                        "TFS DERIVATIVES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"32 OLD SLIP 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"32 OLD SLIP 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-943-4567\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "32 OLD SLIP 28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38784",
+                    "firm_bd_sec_number": "48402",
+                    "firm_bd_full_sec_number": "8-48402",
+                    "firm_name": "THOMASLLOYD CAPITAL LLC",
+                    "firm_other_names": [
+                        "ILLINGTON CAPITAL, INC.",
+                        "THOMASLLOYD CAPITAL LLC",
+                        "PROACTIVE FINANCIAL SERVICES, INC.",
+                        "PROACTIVE FINANCIAL SERVICES,  INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"427 BEDFORD ROAD\", \"city\": \"PLEASANTVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10570\"}, \"mailingAddress\": {\"street1\": \"427 BEDFORD ROAD\", \"city\": \"PLEASANTVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10570\"}, \"businessPhoneNumber\": \"914-495-3630\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "427 BEDFORD ROAD",
+                                        "city": "PLEASANTVILLE",
+                                        "state": "NY",
+                                        "zipCode": "10570"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139512",
+                    "firm_bd_sec_number": "67220",
+                    "firm_bd_full_sec_number": "8-67220",
+                    "firm_name": "SYMPHONIC SECURITIES LLC",
+                    "firm_other_names": [
+                        "SYMPHONIC SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"400 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 702-3500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "400 Park Avenue",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

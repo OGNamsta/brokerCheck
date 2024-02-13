@@ -1,0 +1,472 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29249",
+                    "firm_bd_sec_number": "44166",
+                    "firm_bd_full_sec_number": "8-44166",
+                    "firm_name": "INSIGNEO SECURITIES, LLC",
+                    "firm_other_names": [
+                        "GLOBAL INVESTOR SERVICES, L.C.",
+                        "INSIGNEO SECURITIES, LLC",
+                        "HENCORP, INC. AND THE BECSTONE GROUP, INC.",
+                        "HENCORP, BECSTONE & CO.",
+                        "HENCORP BECSTONE SECURITIES, LC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1221 BRICKELL AVE\", \"street2\": \"27TH FLOOR\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"1221 BRICKELL AVE\", \"street2\": \"27TH FLOOR\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"305-373-9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "275 Madison Avenue 38th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143752",
+                    "firm_bd_sec_number": "67600",
+                    "firm_bd_full_sec_number": "8-67600",
+                    "firm_name": "KEMA PARTNERS LLC",
+                    "firm_other_names": [
+                        "360 ADVISORY GROUP",
+                        "WESTCAPE ADVISORS",
+                        "VARANDUS PARTNERS",
+                        "RIVER CORPORATE ADVISORS",
+                        "PRESSER AND CO, USA",
+                        "KEMA PARTNERS LLC",
+                        "INVERNESS ADVISORS",
+                        "ESW ADVISORS",
+                        "ESC ADVISORS",
+                        "ELECTA CAPITAL PARTNERS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"309 LAVERNE AVE.\", \"city\": \"MILL VALLEY\", \"state\": \"CA\", \"postalCode\": \"94941\"}, \"mailingAddress\": {\"street1\": \"309 LAVERNE AVE.\", \"city\": \"MILL VALLEY\", \"state\": \"CA\", \"postalCode\": \"94941\"}, \"businessPhoneNumber\": \"415 383-4743\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "15 West 67th St. 1FE",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10023"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151850",
+                    "firm_bd_sec_number": "68406",
+                    "firm_bd_full_sec_number": "8-68406",
+                    "firm_name": "WOLFE RESEARCH SECURITIES",
+                    "firm_other_names": [
+                        "WOLFE CAPITAL MARKETS AND ADVISORY",
+                        "WR SECURITIES, LLC",
+                        "WOLFE TRAHAN SECURITIES",
+                        "WOLFE RESEARCH SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"757 THIRD AVENUE\", \"street2\": \"SIXTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-2013\"}, \"mailingAddress\": {\"street1\": \"757 THIRD AVENUE\", \"street2\": \"SIXTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-2013\"}, \"businessPhoneNumber\": \"646 845-0700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "757 THIRD AVENUE",
+                                        "street2": "SIXTH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29037",
+                    "firm_bd_sec_number": "44162",
+                    "firm_bd_full_sec_number": "8-44162",
+                    "firm_ia_sec_number": "129421",
+                    "firm_ia_full_sec_number": "801-129421",
+                    "firm_name": "SYNDICATED CAPITAL, INC.",
+                    "ia_firm_name": "SYNDICATED CAPITAL, INC.",
+                    "firm_other_names": [
+                        "SYNDICATED CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 17,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"21671 GATEWAY CENTER DRIVE\", \"street2\": \"SUITE 111\", \"city\": \"DIAMOND BAR\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"91765\"}, \"mailingAddress\": {\"street1\": \"P. O. BOX 274\", \"city\": \"BREA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92822\"}, \"businessPhoneNumber\": \"(310)751-7098\", \"iaFirmName\": \"SYNDICATED CAPITAL, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"21671 GATEWAY CENTER DRIVE\", \"street2\": \"SUITE 111\", \"city\": \"DIAMOND BAR\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"91765\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "133-10 39th Avenue",
+                                        "city": "Flushing",
+                                        "state": "NY",
+                                        "zipCode": "11354"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "301273",
+                    "firm_bd_sec_number": "70343",
+                    "firm_bd_full_sec_number": "8-70343",
+                    "firm_name": "IMC EXECUTION SERVICES",
+                    "firm_other_names": [
+                        "IMC EXECUTION SERVICES",
+                        "IMC EXECUTION SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"233 S WACKER DRIVE\", \"street2\": \"#4300\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"233 S WACKER DRIVE\", \"street2\": \"#4300\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-244-3369\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 Park Ave",
+                                        "street2": "Suite 3215",
+                                        "city": "New York City",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29931",
+                    "firm_bd_sec_number": "44659",
+                    "firm_bd_full_sec_number": "8-44659",
+                    "firm_ia_sec_number": "71581",
+                    "firm_ia_full_sec_number": "801-71581",
+                    "firm_name": "ANDREW GARRETT INC.",
+                    "ia_firm_name": "ANDREW GARRETT, INC.",
+                    "firm_other_names": [
+                        "ANDREW GARRET, INC",
+                        "MIDWEST DISCOUNT BROKERS INC.",
+                        "MIDWEST DISCOUNT BROKERS",
+                        "ANDREW GARRETT, INC.",
+                        "ANDREW GARRETT INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 19,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"52 VANDERBILT AVE\", \"street2\": \"STE  403\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"52 VANDERBILT AVE\", \"street2\": \"STE 1510\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-682-8833\", \"iaFirmName\": \"ANDREW GARRETT, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"52 VANDERBILT  AVE\", \"street2\": \"SUITE 403\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10017\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "52 vanderbilt ave",
+                                        "street2": "ste 403",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157909",
+                    "firm_bd_sec_number": "68869",
+                    "firm_bd_full_sec_number": "8-68869",
+                    "firm_name": "BENTALLGREENOAK REAL ESTATE US LLC",
+                    "firm_other_names": [
+                        "BENTALLGREENOAK REAL ESTATE US LLC",
+                        "GREENOAK REAL ESTATE US LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"399 PARK AVENUE, 18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"399 PARK AVENUE, 18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 359-7800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "399 PARK AVENUE, 18TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "40881",
+                    "firm_bd_sec_number": "49219",
+                    "firm_bd_full_sec_number": "8-49219",
+                    "firm_name": "BLOOMBERG TRADEBOOK LLC",
+                    "firm_other_names": [
+                        "BLOOMBERG TRADEBOOK",
+                        "BLOOMBERG TRADEBROOK LLC",
+                        "BLOOMBERG TRADEBOOK LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"731 LEXINGTON AVE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"731 LEXINGTON AVE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-617-4865\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "731 Lexington Ave",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304600",
+                    "firm_bd_sec_number": "70365",
+                    "firm_bd_full_sec_number": "8-70365",
+                    "firm_name": "REVOLUT SECURITIES INC.",
+                    "firm_other_names": [
+                        "REVOLUT SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"107 GREENWICH STREET\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006\"}, \"mailingAddress\": {\"street1\": \"107 GREENWICH STREET\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006\"}, \"businessPhoneNumber\": \"917-397-6533\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "107 Greenwich Street",
+                                        "street2": "20th floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43541",
+                    "firm_bd_sec_number": "50337",
+                    "firm_bd_full_sec_number": "8-50337",
+                    "firm_name": "COMMONFUND SECURITIES, INC.",
+                    "firm_other_names": [
+                        "COMMONFUND SECURITIES, INC.",
+                        "ENDOWMENT SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"15 OLD DANBURY ROAD\", \"city\": \"WILTON\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06897\"}, \"mailingAddress\": {\"street1\": \"15 OLD DANBURY ROAD\", \"city\": \"WILTON\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06897\"}, \"businessPhoneNumber\": \"203-563-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 Park Ave",
+                                        "street2": "14 Floor, Suite 1403W",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45500",
+                    "firm_bd_sec_number": "51062",
+                    "firm_bd_full_sec_number": "8-51062",
+                    "firm_name": "TRITAURIAN CAPITAL, INCORPORATED",
+                    "firm_other_names": [
+                        "OCTAGON TRADING GROUP, LLC",
+                        "VAN BUREN FINANCIAL SERVICES, LLC",
+                        "TRITAURIAN CAPITAL, LLC",
+                        "TRITAURIAN CAPITAL, INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"430 PARK AVENUE\", \"street2\": \"19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"430 PARK AVENUE\", \"street2\": \"19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-249-1827\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "430 PARK AVENUE",
+                                        "street2": "19TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "288269",
+                    "firm_bd_sec_number": "69931",
+                    "firm_bd_full_sec_number": "8-69931",
+                    "firm_name": "DOEREN MAYHEW CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "DOEREN MAYHEW CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2600 NORTH LOOP WEST, SUITE 600\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"postalCode\": \"77092\"}, \"mailingAddress\": {\"street1\": \"2600 NORTH LOOP WEST, SUITE 600\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"postalCode\": \"77092\"}, \"businessPhoneNumber\": \"713 789-7077\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "245 Park Avenue",
+                                        "street2": "39th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10167"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

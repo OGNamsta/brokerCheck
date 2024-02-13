@@ -1,0 +1,473 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38784",
+                    "firm_bd_sec_number": "48402",
+                    "firm_bd_full_sec_number": "8-48402",
+                    "firm_name": "THOMASLLOYD CAPITAL LLC",
+                    "firm_other_names": [
+                        "ILLINGTON CAPITAL, INC.",
+                        "THOMASLLOYD CAPITAL LLC",
+                        "PROACTIVE FINANCIAL SERVICES, INC.",
+                        "PROACTIVE FINANCIAL SERVICES,  INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"427 BEDFORD ROAD\", \"city\": \"PLEASANTVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10570\"}, \"mailingAddress\": {\"street1\": \"427 BEDFORD ROAD\", \"city\": \"PLEASANTVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10570\"}, \"businessPhoneNumber\": \"914-495-3630\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "427 BEDFORD ROAD",
+                                        "city": "PLEASANTVILLE",
+                                        "state": "NY",
+                                        "zipCode": "10570"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30395",
+                    "firm_bd_sec_number": "44903",
+                    "firm_bd_full_sec_number": "8-44903",
+                    "firm_name": "TFS DERIVATIVES LLC",
+                    "firm_other_names": [
+                        "ELIXIUM NA",
+                        "TRADITION EQUITIES",
+                        "TFS DERIVATIVES LLC",
+                        "TFS DERIVATIVES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"32 OLD SLIP 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"32 OLD SLIP 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-943-4567\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "32 OLD SLIP 28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6906",
+                    "firm_bd_sec_number": "18428",
+                    "firm_bd_full_sec_number": "8-18428",
+                    "firm_name": "CAVU SECURITIES LLC",
+                    "firm_other_names": [
+                        "CAVU SECURITIES LLC",
+                        "POINT CAPITAL MARKETS, LLC",
+                        "POINT CAPITAL MARKETS, INC.",
+                        "JOHN M. CUNNINGHAM INC.",
+                        "JOHN M, CUNNINGHAM, INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"777 THIRD AVENUE\", \"street2\": \"SUITE 2102\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"777 THIRD AVENUE\", \"street2\": \"SUITE 2102\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-916-3840\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "777 THIRD AVENUE",
+                                        "street2": "SUITE 2102",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30660",
+                    "firm_bd_sec_number": "45081",
+                    "firm_bd_full_sec_number": "8-45081",
+                    "firm_name": "NH INVESTMENT & SECURITIES AMERICA, INC.",
+                    "firm_other_names": [
+                        "LG SECURITIES AMERICA, INC.",
+                        "WOORI INVESTMENT & SECURITIES AMERICA, INC.",
+                        "NH INVESTMENT & SECURITIES AMERICA, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"120 WEST 45TH STREET\", \"street2\": \"SUITE 2402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"120 WEST 45TH STREET\", \"street2\": \"SUITE 2402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-391-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 WEST 45TH STREET",
+                                        "street2": "SUITE 2402",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150631",
+                    "firm_bd_sec_number": "68275",
+                    "firm_bd_full_sec_number": "8-68275",
+                    "firm_name": "REGULUS FINANCIAL GROUP, LLC",
+                    "firm_other_names": [
+                        "REGULUS ADVISORS, LLC",
+                        "REGULUS, LLC",
+                        "REGULUS FINANCIAL GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 72,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2687 44TH STREET, SE, SUITE 101\", \"city\": \"KENTWOOD\", \"state\": \"MI\", \"postalCode\": \"49512\"}, \"mailingAddress\": {\"street1\": \"2687 44TH STREET, SE, SUITE 101\", \"city\": \"KENTWOOD\", \"state\": \"MI\", \"postalCode\": \"49512\"}, \"businessPhoneNumber\": \"616 224-2204\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "766 Lafayette Ave",
+                                        "city": "Brooklyn",
+                                        "state": "NY",
+                                        "zipCode": "11221"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "13071",
+                    "firm_bd_sec_number": "23522",
+                    "firm_bd_full_sec_number": "8-23522",
+                    "firm_name": "APEX CLEARING CORPORATION",
+                    "firm_other_names": [
+                        "ADP CLEARING & OUTSOURCING SERVICES, INC.",
+                        "U.S. CLEARING CORP.",
+                        "RIDGE CLEARING & OUTSOURCING SOLUTIONS, INC.",
+                        "Q & R CLEARING CORPORATION",
+                        "FLEET SECURITIES, INC.",
+                        "APEX CLEARING CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE DALLAS CENTER\", \"street2\": \"350 N. ST. PAUL, SUITE 1300\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75201\"}, \"mailingAddress\": {\"street1\": \"ONE DALLAS CENTER\", \"street2\": \"350 N. ST. PAUL, SUITE 1300\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75201\"}, \"businessPhoneNumber\": \"214-765-1100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "888 7th Avenue",
+                                        "street2": "32nd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10106"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45097",
+                    "firm_bd_sec_number": "50973",
+                    "firm_bd_full_sec_number": "8-50973",
+                    "firm_name": "TERRANOVA CAPITAL EQUITIES, INC",
+                    "firm_other_names": [
+                        "EUROPEAN AMERICAN EQUITIES, INC.",
+                        "TN CAPITAL EQUITIES, LTD",
+                        "TERRANOVA CAPITAL EQUITIES, INC.",
+                        "TERRANOVA CAPITAL EQUITIES, INC",
+                        "HORNBLOWER CAPITAL SECURITIES, INC.",
+                        "GROWVEST CAPITAL SECURITIES, INC.",
+                        "EUROPEAN AMERICAN EQUITIES, LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"212-381-7391\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "Suite 1402",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19982",
+                    "firm_bd_sec_number": "43548",
+                    "firm_bd_full_sec_number": "8-43548",
+                    "firm_name": "GFI SECURITIES LLC",
+                    "firm_other_names": [
+                        "12TH STREET CAPITAL, A DIVISION OF GFI SECURITIES LLC",
+                        "SUNRISE A DIVISION OF GFI SECURITIES",
+                        "LATIUM, A DIVISION OF GFI SECURITIES LLC",
+                        "GFI SECURITIES LLC",
+                        "GFI GROUP, INC.",
+                        "G.F.I. GROUP, INC.",
+                        "FENICS-PM, A DIVISION OF GFI SECURITIES LLC",
+                        "CAVENTOR CAPITAL, A DIVISION OF GFI SECURITIES LLC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WATER STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10041\"}, \"mailingAddress\": {\"street1\": \"55 WATER STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10041\"}, \"businessPhoneNumber\": \"212-968-2032\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 WATER STREET",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10041"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "305908",
+                    "firm_bd_sec_number": "70425",
+                    "firm_bd_full_sec_number": "8-70425",
+                    "firm_name": "FINALIS SECURITIES LLC",
+                    "firm_other_names": [
+                        "DEALSYTE SECURITIES LLC",
+                        "FINALIS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"228 PARK AVE SOUTH\", \"street2\": \"SUITE 85550\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10003\"}, \"mailingAddress\": {\"street1\": \"228 PARK AVE SOUTH\", \"street2\": \"SUITE 85550\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10003\"}, \"businessPhoneNumber\": \"800 965-3605\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "228 Park Ave South",
+                                        "street2": "Suite 85550",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10003"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "134596",
+                    "firm_bd_sec_number": "66846",
+                    "firm_bd_full_sec_number": "8-66846",
+                    "firm_name": "FORGE SECURITIES LLC",
+                    "firm_other_names": [
+                        "FORGE SECURITIES LLC",
+                        "SHARESPOST FINANCIAL CORPORATION",
+                        "PERLINSKI & ASSOCIATES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4 EMBARCADERO CENTER\", \"street2\": \"SUITE 1500\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"4 EMBARCADERO CENTER\", \"street2\": \"SUITE 1500\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94111\"}, \"businessPhoneNumber\": \"800.279.7754\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 West 45th Street",
+                                        "street2": "Suite 2702",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152514",
+                    "firm_bd_sec_number": "68461",
+                    "firm_bd_full_sec_number": "8-68461",
+                    "firm_name": "ERNST & YOUNG CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "ERNST & YOUNG CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE MANHATTAN WEST\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"ONE MANHATTAN WEST\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-773-3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "One Jericho Plaza",
+                                        "street2": "Suite 105",
+                                        "city": "Jericho",
+                                        "state": "NY",
+                                        "zipCode": "11753"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151592",
+                    "firm_bd_sec_number": "68382",
+                    "firm_bd_full_sec_number": "8-68382",
+                    "firm_name": "CBRE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CBRE SECURITIES, LLC",
+                        "UNION GAMING SECURITIES LLC",
+                        "UNION GAMING ADVISORS, LLC",
+                        "UNION GAMING ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8548 ROZITA LEE AVE.\", \"street2\": \"SUITE 200\", \"city\": \"LAS VEGAS\", \"state\": \"NV\", \"postalCode\": \"89113\"}, \"mailingAddress\": {\"street1\": \"8548 ROZITA LEE AVE.\", \"street2\": \"SUITE 200\", \"city\": \"LAS VEGAS\", \"state\": \"NV\", \"postalCode\": \"89113\"}, \"businessPhoneNumber\": \"646 696-9254\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1276 SURREY LANE",
+                                        "city": "ROCKVILLE CENTRE",
+                                        "state": "NY",
+                                        "zipCode": "11570"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,497 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147798",
+                    "firm_bd_sec_number": "67928",
+                    "firm_bd_full_sec_number": "8-67928",
+                    "firm_name": "ARKONIS CAPITAL LLC",
+                    "firm_other_names": [
+                        "ARKONIS CAPITAL LLC",
+                        "SPREADZERO LLC",
+                        "SPREAD ZERO, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7600 JERICHO TURNPIKE\", \"street2\": \"SUITE 304\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11797\"}, \"mailingAddress\": {\"street1\": \"7600 JERICHO TURNPIKE\", \"street2\": \"SUITE 304\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11797\"}, \"businessPhoneNumber\": \"917-716-3542\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "7600 JERICHO TURNPIKE",
+                                        "street2": "SUITE 304",
+                                        "city": "WOODBURY",
+                                        "state": "NY",
+                                        "zipCode": "11797"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "134910",
+                    "firm_bd_sec_number": "66870",
+                    "firm_bd_full_sec_number": "8-66870",
+                    "firm_name": "ICD SECURITIES INC.",
+                    "firm_other_names": [
+                        "ICD SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7301 SW 57TH COURT\", \"street2\": \"SUITE 400\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33143\"}, \"mailingAddress\": {\"street1\": \"7301 SW 57TH COURT\", \"street2\": \"SUITE 400\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33143\"}, \"businessPhoneNumber\": \"(305) 669-5168\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "50 Terry Street",
+                                        "city": "Patchogue",
+                                        "state": "NY",
+                                        "zipCode": "11772"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17858",
+                    "firm_bd_sec_number": "35565",
+                    "firm_bd_full_sec_number": "8-35565",
+                    "firm_ia_sec_number": "62761",
+                    "firm_ia_full_sec_number": "801-62761",
+                    "firm_name": "RAPHAEL ARYEH AND ASSOCIATES",
+                    "ia_firm_name": "RAPHAEL ARYEH AND ASSOCIATES",
+                    "firm_other_names": [
+                        "RAPHAEL ARYEH",
+                        "RAPHAEL ARYEH AND ASSOCIATES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"141-51 72ND CRESCENT\", \"city\": \"FLUSHING\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11367\"}, \"mailingAddress\": {\"street1\": \"141-51 72ND CRESCENT\", \"city\": \"FLUSHING\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11367\"}, \"businessPhoneNumber\": \"718-263-4852\", \"iaFirmName\": \"RAPHAEL ARYEH AND ASSOCIATES\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"FLUSHING\", \"state\": \"NY\", \"country\": \"United States\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "141-51 72ND CRESCENT",
+                                        "city": "FLUSHING",
+                                        "state": "NY",
+                                        "zipCode": "11367"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154801",
+                    "firm_bd_sec_number": "68674",
+                    "firm_bd_full_sec_number": "8-68674",
+                    "firm_name": "INTREPID INVESTMENT BANKERS LLC",
+                    "firm_other_names": [
+                        "INTREPID INVESTMENT BANKERS LLC",
+                        "INTREPID MERCHANT BANKERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11755 WILSHIRE BLVD., SUITE 2200\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"postalCode\": \"90025\"}, \"mailingAddress\": {\"street1\": \"11755 WILSHIRE BLVD., SUITE 2200\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"postalCode\": \"90025\"}, \"businessPhoneNumber\": \"310-478-9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1221 Avenue of the Americas",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35490",
+                    "firm_bd_sec_number": "46802",
+                    "firm_bd_full_sec_number": "8-46802",
+                    "firm_name": "INVESTMENT DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "INVESTMENT DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 14,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2801 HIGHWAY 280 SOUTH\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"UNITED STATES\", \"postalCode\": \"35223\"}, \"mailingAddress\": {\"street1\": \"2801 HIGHWAY 280 SOUTH\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"UNITED STATES\", \"postalCode\": \"35223\"}, \"businessPhoneNumber\": \"(205)868-3073\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "5409 Raintree Court",
+                                        "city": "Williamsville",
+                                        "state": "NY",
+                                        "zipCode": "14221"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317602",
+                    "firm_bd_sec_number": "70858",
+                    "firm_bd_full_sec_number": "8-70858",
+                    "firm_name": "WILLIS TOWERS WATSON SECURITIES, LLC",
+                    "ia_firm_name": "WILLIS TOWERS WATSON SECURITIES, LLC",
+                    "firm_other_names": [
+                        "WILLIS TOWERS WATSON SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 LIBERTY STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"200 LIBERTY STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"516-375-0126\", \"iaFirmName\": \"WILLIS TOWERS WATSON SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"200 LIBERTY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10281\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 LIBERTY STREET",
+                                        "street2": "6th FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43753",
+                    "firm_bd_sec_number": "50400",
+                    "firm_bd_full_sec_number": "8-50400",
+                    "firm_name": "CU INVESTMENT SOLUTIONS LLC",
+                    "ia_firm_name": "CU INVESTMENT SOLUTIONS LLC",
+                    "firm_other_names": [
+                        "CU INVESTMENT SOLUTION INC",
+                        "U.S. CENTRAL CAPITAL MARKETS, INC.",
+                        "CU INVESTMENT SOLUTIONS, INC.",
+                        "CU INVESTMENT SOLUTIONS LLC",
+                        "CU INVESTMENT SOLUTIONS INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8500 W. 110TH STREET\", \"street2\": \"SUITE 650\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"UNITED STATES\", \"postalCode\": \"66210\"}, \"mailingAddress\": {\"street1\": \"8500 W. 110TH STREET\", \"street2\": \"SUITE 650\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"UNITED STATES\", \"postalCode\": \"66210\"}, \"businessPhoneNumber\": \"913-912-5240\", \"iaFirmName\": \"CU INVESTMENT SOLUTIONS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"8500 W. 110TH STREET\", \"street2\": \"SUITE 650\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"United States\", \"postalCode\": \"66210\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4 Tower Place, Suite 501",
+                                        "city": "ALBANY",
+                                        "state": "NY",
+                                        "zipCode": "12203"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143800",
+                    "firm_bd_sec_number": "68081",
+                    "firm_bd_full_sec_number": "8-68081",
+                    "firm_name": "CIRRUS RESEARCH, LLC",
+                    "ia_firm_name": "CIRRUS RESEARCH, LLC",
+                    "firm_other_names": [
+                        "CIRRUS RESEARCH, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"303 SOUTH BROADWAY\", \"street2\": \"SUITE 212\", \"city\": \"TARRYTOWN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10591\"}, \"mailingAddress\": {\"street1\": \"303 SOUTH BROADWAY\", \"street2\": \"SUITE 212\", \"city\": \"TARRYTOWN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10591\"}, \"businessPhoneNumber\": \"914-289-1411\", \"iaFirmName\": \"CIRRUS RESEARCH, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"303 SOUTH BROADWAY\", \"street2\": \"SUITE 212\", \"city\": \"TARRYTOWN\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10591\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "303 SOUTH BROADWAY",
+                                        "street2": "SUITE 212",
+                                        "city": "TARRYTOWN",
+                                        "state": "NY",
+                                        "zipCode": "10591"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "20291",
+                    "firm_bd_sec_number": "38158",
+                    "firm_bd_full_sec_number": "8-38158",
+                    "firm_name": "INSTITUTIONAL SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "INSTITUTIONAL SECURITIES CORPORATION",
+                        "ISC GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 19,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3500 OAK LAWN AVE\", \"street2\": \"SUITE 400\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75219\"}, \"mailingAddress\": {\"street1\": \"3500 OAK LAWN AVE\", \"street2\": \"SUITE 400\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75219\"}, \"businessPhoneNumber\": \"214-520-1115\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "241 Buttonwood Ave",
+                                        "city": "Cortlandt",
+                                        "state": "NY",
+                                        "zipCode": "10567"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17486",
+                    "firm_bd_sec_number": "35315",
+                    "firm_bd_full_sec_number": "8-35315",
+                    "firm_ia_sec_number": "63426",
+                    "firm_ia_full_sec_number": "801-63426",
+                    "firm_name": "G. A. REPPLE & COMPANY",
+                    "ia_firm_name": "G. A. REPPLE & COMPANY",
+                    "firm_other_names": [
+                        "123-INVESTING",
+                        "WOLFE FINANCIAL GROUP",
+                        "WITTHAUER FINANCIAL GROUP",
+                        "WALKER FINANCIAL",
+                        "TRINITY WEALTH MANAGEMENT",
+                        "THOMAS STROBHAR FINANCIAL",
+                        "TELEIOS FINANCIAL PARTNERS",
+                        "REPPLE WEALTH MANAGEMENT",
+                        "REPPLE WEALTH GROUP",
+                        "MANGROVE FINANCIAL GROUP",
+                        "KINGDOM FINANCIAL SERVICES",
+                        "HORIZON FINANCIAL SOLUTIONS",
+                        "HARVEST FINANCIAL",
+                        "GVC INVESTMENTS",
+                        "G. A. REPPLE & COMPANY",
+                        "EXODUS FINANCIAL SERVICES",
+                        "ENGWALL CLARK AND ASSOCIATES",
+                        "ENGEDI FINANCIAL",
+                        "DAN HARDT FINANCIAL SERVICES",
+                        "COVENANT FINANCIAL MANAGEMENT",
+                        "CHRISTIAN FAMILY FINANCIAL",
+                        "BOB HOLBROOK INVESTMENT SERVICES",
+                        "AVANTI WEALTH MANAGEMENT",
+                        "ANSEVIN ASSET MANAGEMENT",
+                        "ALICEA SERVICES",
+                        "ALAN SIEGEL FINANCIAL SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 44,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"101 NORMANDY RD\", \"city\": \"CASSELBERRY\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32707\"}, \"mailingAddress\": {\"street1\": \"101 NORMANDY RD\", \"city\": \"CASSELBERRY\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32707\"}, \"businessPhoneNumber\": \"407-339-9090\", \"iaFirmName\": \"G. A. REPPLE & COMPANY\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"101 NORMANDY ROAD\", \"city\": \"CASSELBERRY\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"32707\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "92 East Genesee Street",
+                                        "city": "Skaneateles",
+                                        "state": "NY",
+                                        "zipCode": "13152"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "113795",
+                    "firm_bd_sec_number": "53406",
+                    "firm_bd_full_sec_number": "8-53406",
+                    "firm_name": "CAPFI PARTNERS LLC",
+                    "ia_firm_name": "CAPFI PARTNERS, LLC",
+                    "firm_other_names": [
+                        "CAPFI PARTNERS LLC",
+                        "K&Z PARTNERS, LLC",
+                        "DAEDALUS MEDIA PARTNERS, LLC",
+                        "CAPFI PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"230 EAST 50TH STREET\", \"street2\": \"APT. 8D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"230 EAST 50TH STREET\", \"street2\": \"APT. 8D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(917) 734-3925\", \"iaFirmName\": \"CAPFI PARTNERS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 EAST 50TH STREET",
+                                        "street2": "APT. 8D",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38751",
+                    "firm_bd_sec_number": "48385",
+                    "firm_bd_full_sec_number": "8-48385",
+                    "firm_ia_sec_number": "69290",
+                    "firm_ia_full_sec_number": "801-69290",
+                    "firm_name": "LEIGH BALDWIN & CO., LLC",
+                    "ia_firm_name": "LEIGH BALDWIN & CO., LLC",
+                    "firm_other_names": [
+                        "DOLLAR INVESTMENT CLUB (\"DINC\")",
+                        "SWAN SECURITIES, L.L.C.",
+                        "LEIGH BALDWIN & CO., LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 44,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"112 ALBANY STREET\", \"city\": \"CAZENOVIA\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13035-0660\"}, \"mailingAddress\": {\"street1\": \"112 ALBANY STREET\", \"city\": \"CAZENOVIA\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13035-0660\"}, \"businessPhoneNumber\": \"315-655-2964\", \"iaFirmName\": \"LEIGH BALDWIN & CO., LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"112 ALBANY STREET\", \"city\": \"CAZENOVIA\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"13035\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "160 Linden Oaks",
+                                        "city": "Rochester",
+                                        "state": "NY",
+                                        "zipCode": "14625"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

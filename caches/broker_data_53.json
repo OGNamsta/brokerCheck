@@ -1,0 +1,461 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146744",
+                    "firm_bd_sec_number": "67849",
+                    "firm_bd_full_sec_number": "8-67849",
+                    "firm_name": "PUMA CAPITAL, LLC",
+                    "firm_other_names": [
+                        "PUMA CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"555 THEODORE FREMD AVENUE\", \"street2\": \"SUITE C204\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10580\"}, \"mailingAddress\": {\"street1\": \"555 THEODORE FREMD AVENUE\", \"street2\": \"SUITE C204\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10580\"}, \"businessPhoneNumber\": \"212-269-4100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "555 THEODORE FREMD AVENUE",
+                                        "street2": "SUITE C204",
+                                        "city": "RYE",
+                                        "state": "NY",
+                                        "zipCode": "10580"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "310913",
+                    "firm_bd_sec_number": "70627",
+                    "firm_bd_full_sec_number": "8-70627",
+                    "firm_name": "MCKENZIE SECURITIES LLC",
+                    "firm_other_names": [
+                        "MCKENZIE INVESTMENT BANK LLC",
+                        "MCKENZIE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"T-MOBILE CENTER - B7 CALLE TABONUCO\", \"street2\": \"SUITE 1605\", \"city\": \"GUAYNABO\", \"state\": \"PR\", \"country\": \"UNITED STATES\", \"postalCode\": \"00968-3343\"}, \"mailingAddress\": {\"street1\": \"T-MOBILE CENTER - B7 CALLE TABONUCO\", \"street2\": \"SUITE 1605\", \"city\": \"GUAYNABO\", \"state\": \"PR\", \"country\": \"UNITED STATES\", \"postalCode\": \"00968-3343\"}, \"businessPhoneNumber\": \"787-671-4763\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "One Grand Central Place",
+                                        "street2": "60 East 42nd Street, Suite 1030",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132847",
+                    "firm_bd_sec_number": "66643",
+                    "firm_bd_full_sec_number": "8-66643",
+                    "firm_name": "XTON FINANCIAL LLC",
+                    "ia_firm_name": "XTON FINANCIAL",
+                    "firm_other_names": [
+                        "E&E FINANCIAL SERVICES",
+                        "ZETEO CAPITAL SERVICES, LLC",
+                        "XTON FINANCIAL LLC",
+                        "XTON FINANCIAL",
+                        "TESSERA CAPITAL SERVICES LLC",
+                        "TESSERA CAPITAL PARTNERS, LLC",
+                        "IMMS",
+                        "HUSTON ASSOCIATES",
+                        "GOAL CONSULTING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL ST.\", \"street2\": \"28TH FLOOR #2839\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"40 WALL ST.\", \"street2\": \"28TH FLOOR #2839\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"9173452461\", \"iaFirmName\": \"XTON FINANCIAL\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"80 BROAD STREET, 5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10004\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 Wall Street",
+                                        "street2": "28th Floor, #2839",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "375",
+                    "firm_bd_sec_number": "43115",
+                    "firm_bd_full_sec_number": "8-43115",
+                    "firm_name": "H.C.WAINWRIGHT & CO., LLC",
+                    "firm_other_names": [
+                        "H. C. WAINWRIGHT & CO.",
+                        "WAINWRIGHT H C & CO INC",
+                        "RODMAN & RENSHAW",
+                        "H.C.WAINWRIGHT & CO., LLC",
+                        "H.C. WAINWRIGHT & CO., INC.",
+                        "H.C WAINWRIGHT & CO., LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"430 PARK AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"430 PARK AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-356-0500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "430 PARK AVENUE",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28602",
+                    "firm_bd_sec_number": "43852",
+                    "firm_bd_full_sec_number": "8-43852",
+                    "firm_name": "SMBC NIKKO SECURITIES AMERICA, INC.",
+                    "firm_other_names": [
+                        "SMBC NIKKO SECURITIES AMERICA, INC.",
+                        "SUMITOMO BANK SECURITIES, INC.",
+                        "SMBC SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"277 PARK AVENUE FIFTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172\"}, \"mailingAddress\": {\"street1\": \"277 PARK AVENUE FIFTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172\"}, \"businessPhoneNumber\": \"212-224-5300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "277 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10172"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "167190",
+                    "firm_bd_sec_number": "69247",
+                    "firm_bd_full_sec_number": "8-69247",
+                    "firm_name": "ABG, LLC",
+                    "firm_other_names": [
+                        "ABG SECURITIES, LLC",
+                        "ABG, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"725 FIFTH AVENUE\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"725 FIFTH AVENUE\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"310-531-3093\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "725 Fifth Avenue, 24th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46300",
+                    "firm_bd_sec_number": "51370",
+                    "firm_bd_full_sec_number": "8-51370",
+                    "firm_name": "TJM INVESTMENTS, LLC",
+                    "firm_other_names": [
+                        "MND PARTNERS",
+                        "TJM SECURITIES, LLC",
+                        "TJM INVESTMENTS, LLC",
+                        "SMC GROUP, A DIVISION OF TJM INVESTMENTS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"318 W. ADAMS STREET\", \"street2\": \"SUITE 900\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"318 W. ADAMS STREET 9TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-432-5100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "192 Lexington Avenue",
+                                        "street2": "Suite 1203",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148938",
+                    "firm_bd_sec_number": "68088",
+                    "firm_bd_full_sec_number": "8-68088",
+                    "firm_name": "PACIFIC ALLIANCE ASSOCIATES LLC",
+                    "firm_other_names": [
+                        "GREY BASSETT LLC",
+                        "PACIFIC ALLIANCE ASSOCIATES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 VESEY STREET\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10080\"}, \"mailingAddress\": {\"street1\": \"200 VESEY STREET\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10080\"}, \"businessPhoneNumber\": \"6469528650\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 VESEY STREET",
+                                        "street2": "24TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10080"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146230",
+                    "firm_bd_sec_number": "67799",
+                    "firm_bd_full_sec_number": "8-67799",
+                    "firm_name": "ABERDEEN FUND DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "ABERDEEN FUND DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1900 MARKET STREET\", \"street2\": \"SUITE 200\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"postalCode\": \"19103\"}, \"mailingAddress\": {\"street1\": \"1900 MARKET STREET\", \"street2\": \"SUITE 200\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"postalCode\": \"19103\"}, \"businessPhoneNumber\": \"215-405-5700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "875 Third Ave",
+                                        "street2": "4th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2048",
+                    "firm_bd_sec_number": "13942",
+                    "firm_bd_full_sec_number": "8-13942",
+                    "firm_name": "HAZARD & SIEGEL, INC.",
+                    "firm_other_names": [
+                        "HAZARD & SIEGEL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 19,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5793 WIDEWATERS PARKWAY\", \"city\": \"DEWITT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13214\"}, \"mailingAddress\": {\"street1\": \"PO BOX 157\", \"city\": \"SYRACUSE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13214\"}, \"businessPhoneNumber\": \"(315) 414-0722\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "7076 CEDAR BAY RD",
+                                        "city": "FAYETTEVILLE",
+                                        "state": "NY",
+                                        "zipCode": "13066"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322438",
+                    "firm_bd_sec_number": "70947",
+                    "firm_bd_full_sec_number": "8-70947",
+                    "firm_name": "HULL PARTNERS LLC",
+                    "firm_other_names": [
+                        "HULL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"141 WEST JACKSON BLVD\", \"street2\": \"SUITE 1650\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60604-2992\"}, \"mailingAddress\": {\"street1\": \"141 WEST JACKSON BLVD\", \"street2\": \"SUITE 1650\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60604-2992\"}, \"businessPhoneNumber\": \"312-356-3131\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "One World Trade Center",
+                                        "street2": "Suite 47M",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "145037",
+                    "firm_bd_sec_number": "67695",
+                    "firm_bd_full_sec_number": "8-67695",
+                    "firm_name": "NAVIAN CAPITAL SECURITIES LLC",
+                    "firm_other_names": [
+                        "CD FUNDING SECURITIES, LLC",
+                        "NAVIAN CAPITAL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"425 WALNUT STREET\", \"street2\": \"SUITE 2410\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"postalCode\": \"45202\"}, \"mailingAddress\": {\"street1\": \"425 WALNUT STREET\", \"street2\": \"SUITE 2410\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"45202\"}, \"businessPhoneNumber\": \"513-272-0759\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "19 West 44th Street",
+                                        "street2": "Suite 1000",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

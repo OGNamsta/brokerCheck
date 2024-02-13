@@ -1,0 +1,492 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43875",
+                    "firm_bd_sec_number": "50451",
+                    "firm_bd_full_sec_number": "8-50451",
+                    "firm_name": "BONDS.COM LLC",
+                    "firm_other_names": [
+                        "BONDS.COM LLC",
+                        "PEDESTAL CAPITAL, INC.",
+                        "PEDESTAL CAPITAL MARKETS, INC.",
+                        "MTS MARKETS INTERNATIONAL, INC.",
+                        "BONDS.COM, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"32 OLD SLIP\", \"street2\": \"34TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"32 OLD SLIP\", \"street2\": \"34TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-257-4062\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "32 Old Slip",
+                                        "street2": "34th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44131",
+                    "firm_bd_sec_number": "50550",
+                    "firm_bd_full_sec_number": "8-50550",
+                    "firm_name": "CASTLE HILL CAPITAL PARTNERS, INC.",
+                    "firm_other_names": [
+                        "BOUCHEY & ASSOCIATES, INC.",
+                        "CASTLE HILL CAPITAL PARTNERS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"216 EAST 45TH STREET, SUITE 1301\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"216 EAST 45TH STREET, SUITE 1301\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-784-6104\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "216 EAST 45TH STREET, SUITE 1301",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127302",
+                    "firm_bd_sec_number": "65979",
+                    "firm_bd_full_sec_number": "8-65979",
+                    "firm_name": "STOUT CAPITAL, LLC",
+                    "firm_other_names": [
+                        "STOUT CAPITAL, LLC",
+                        "STOUT RISIUS ROSS ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 WEST SECOND STREET\", \"street2\": \"SUITE 400\", \"city\": \"ROYAL OAK\", \"state\": \"MI\", \"country\": \"UNITED STATES\", \"postalCode\": \"48067\"}, \"mailingAddress\": {\"street1\": \"150 WEST SECOND STREET\", \"street2\": \"SUITE 400\", \"city\": \"ROYAL OAK\", \"state\": \"MI\", \"country\": \"UNITED STATES\", \"postalCode\": \"48067\"}, \"businessPhoneNumber\": \"248.208.8800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 West 45th Street",
+                                        "street2": "Suite 2900",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "300285",
+                    "firm_bd_sec_number": "70298",
+                    "firm_bd_full_sec_number": "8-70298",
+                    "firm_name": "AEL FINANCIAL SERVICES, LLC",
+                    "firm_other_names": [
+                        "AEL FINANCIAL SERVICES, LLC",
+                        "LOCKTON CAPITAL, LLC",
+                        "LOCKTON CAPITAL MARKETS",
+                        "LOCKTON CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2101 REXFORD ROAD\", \"street2\": \"SUITE 310\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28211\"}, \"mailingAddress\": {\"street1\": \"2101 REXFORD ROAD\", \"street2\": \"SUITE 310\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28211\"}, \"businessPhoneNumber\": \"515-443-3527\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "712 Fifth Ave.,",
+                                        "street2": "Suite 11th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28269",
+                    "firm_bd_sec_number": "43559",
+                    "firm_bd_full_sec_number": "8-43559",
+                    "firm_name": "TRADITION SECURITIES AND DERIVATIVES LLC",
+                    "firm_other_names": [
+                        "BRIDGEVIEW EXECUTION SERVICES",
+                        "TSF",
+                        "TRADITION SECURITIES AND FUTURES",
+                        "TRADITION SECURITIES AND DERIVATIVES, INC.",
+                        "TRADITION SECURITIES AND DERIVATIVES LLC",
+                        "TRADITION SECURITIES AND DERIVATIVES INC.",
+                        "TRADITION PRIVATE MARKETS",
+                        "TRADITION ASIEL SECURITIES INC.",
+                        "TRADITION ASIEL SECURITIES",
+                        "TRADITION (GOVERNMENT SECURITIES) INC.",
+                        "TFSD",
+                        "TFS DERIVATIVES",
+                        "NOVA EXECUTION SERVICES",
+                        "NAUTILUS SECURITIES",
+                        "HIGH POINT SECURITIES",
+                        "ELIX DERIVATIVES",
+                        "DEEPWELL LIQUIDITY MANAGEMENT"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"32 OLD SLIP\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"32 OLD SLIP\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-791-4500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "32 OLD SLIP",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36538",
+                    "firm_bd_sec_number": "47288",
+                    "firm_bd_full_sec_number": "8-47288",
+                    "firm_name": "CELADON FINANCIAL GROUP LLC",
+                    "firm_other_names": [
+                        "CELADON FINANCIAL GROUP LLC",
+                        "SECURITIES & INVESTMENT PLANNING CO.",
+                        "CELADONFINANCIAL.COM"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 15,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 NORTH PARK PLACE\", \"street2\": \"SUITE 420\", \"city\": \"MORRISTOWN\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07960\"}, \"mailingAddress\": {\"street1\": \"10 NORTH PARK PLACE\", \"street2\": \"SUITE 420\", \"city\": \"MORRISTOWN\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07960\"}, \"businessPhoneNumber\": \"973-701-8033\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "65 Griswold Ct.",
+                                        "city": "Staten Island",
+                                        "state": "NY",
+                                        "zipCode": "10301"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43098",
+                    "firm_bd_sec_number": "50140",
+                    "firm_bd_full_sec_number": "8-50140",
+                    "firm_name": "LOOP CAPITAL MARKETS LLC",
+                    "ia_firm_name": "LOOP CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "LOOP CAPITAL MARKETS L.L.C.",
+                        "LOOP CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 25,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"425 S. FINANCIAL PLACE\", \"street2\": \"STE 2700\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60605\"}, \"mailingAddress\": {\"street1\": \"425 S. FINANCIAL PLACE\", \"street2\": \"STE 2700\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60605\"}, \"businessPhoneNumber\": \"312-913-4900\", \"iaFirmName\": \"LOOP CAPITAL MARKETS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"425 S. FINANCIAL PLACE\", \"street2\": \"STE 2700\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60605\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "88 PINE STREET",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159384",
+                    "firm_bd_sec_number": "68982",
+                    "firm_bd_full_sec_number": "8-68982",
+                    "firm_name": "BRASIL PLURAL SECURITIES LLC",
+                    "firm_other_names": [
+                        "B PLURAL SECURITIES LLC",
+                        "PLURAL SECURITIES LLC",
+                        "PLURAL",
+                        "PKBR SECURITIES LLC",
+                        "BRASIL PLURAL SECURITIES LLC",
+                        "BPS",
+                        "BPLURAL",
+                        "BP",
+                        "B. PLURAL SECURITIES LLC",
+                        "B. PLURAL SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"950 THIRD AVENUE\", \"street2\": \"SUITE 1702\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"950 THIRD AVENUE\", \"street2\": \"SUITE 1702\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-388-5600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "950 THIRD AVENUE",
+                                        "street2": "SUITE 1702",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283952",
+                    "firm_bd_sec_number": "69773",
+                    "firm_bd_full_sec_number": "8-69773",
+                    "firm_name": "PENSIONMARK SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PENSIONMARK SECURITIES, LLC",
+                        "PFG SECURITIES, LLC.",
+                        "PENSIONMARK SECURITIES, LLC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 45,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"24 EAST COTA STREET\", \"street2\": \"SUITE 200\", \"city\": \"SANTA BARBARA\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"93101\"}, \"mailingAddress\": {\"street1\": \"24 EAST COTA STREET\", \"street2\": \"SUITE 200\", \"city\": \"SANTA BARBARA\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"93101\"}, \"businessPhoneNumber\": \"888-201-5488\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "158 W 27th St. 5TH Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "20626",
+                    "firm_bd_sec_number": "38377",
+                    "firm_bd_full_sec_number": "8-38377",
+                    "firm_ia_sec_number": "56426",
+                    "firm_ia_full_sec_number": "801-56426",
+                    "firm_name": "TFS SECURITIES, INC.",
+                    "ia_firm_name": "TFS ADVISORY SERVICES",
+                    "firm_other_names": [
+                        "COLTS NECK WHY T&T SECURITIES, INC.",
+                        "TFS WEALTH MANAGEMENT",
+                        "TFS SECURITIES, INC.",
+                        "TFS POTFOLIO ADVISORY SERVICES",
+                        "TFS PORTFOLIO ADVISORY SERVICES,DIVISION OF TFS SECURITIES, INC.",
+                        "TFS PORTFOLIO ADVISORY SERVICES, A DIVISION OF TFS SECURITIES, INC.",
+                        "TFS PORTFOLIO ADVISORY SERVICES",
+                        "TFS ADVISORY SERVICES",
+                        "NASD SPELLING ERROR - POTFOLIO SHOULD BE PORTFOLIO",
+                        "INNOVATIVE MARKET TRENDS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 105,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"437 NEWMAN SPRINGS ROAD\", \"city\": \"LINCROFT\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07738\"}, \"mailingAddress\": {\"street1\": \"437 NEWMAN SPRINGS ROAD\", \"city\": \"LINCROFT\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07738\"}, \"businessPhoneNumber\": \"732-758-9300\", \"iaFirmName\": \"TFS ADVISORY SERVICES\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"437 NEWMAN SPRINGS RD\", \"city\": \"LINCROFT\", \"state\": \"NJ\", \"country\": \"United States\", \"postalCode\": \"07738\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "900 SOUTH AVENUE",
+                                        "street2": "3RD FLOOR",
+                                        "city": "STATEN ISLAND",
+                                        "state": "NY",
+                                        "zipCode": "10314"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "158741",
+                    "firm_bd_sec_number": "68917",
+                    "firm_bd_full_sec_number": "8-68917",
+                    "firm_name": "M2O PRIVATE FUND ADVISORS LLC",
+                    "firm_other_names": [
+                        "M2O PRIVATE FUND ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 NORTH LEXINGTON AVE\", \"street2\": \"SUITE 500\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10601\"}, \"mailingAddress\": {\"street1\": \"1 NORTH LEXINGTON AVE\", \"street2\": \"SUITE 500\", \"city\": \"WHITE PLAINS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10601\"}, \"businessPhoneNumber\": \"914-368-9795\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 NORTH LEXINGTON AVE",
+                                        "street2": "SUITE 500",
+                                        "city": "WHITE PLAINS",
+                                        "state": "NY",
+                                        "zipCode": "10601"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309706",
+                    "firm_bd_sec_number": "70553",
+                    "firm_bd_full_sec_number": "8-70553",
+                    "firm_name": "MONTEC SECURITIES LLC",
+                    "firm_other_names": [
+                        "MONTEC SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"510 MADISON AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"510 MADISON AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-874-5471\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "510 MADISON AVENUE",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

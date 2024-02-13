@@ -1,0 +1,492 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45097",
+                    "firm_bd_sec_number": "50973",
+                    "firm_bd_full_sec_number": "8-50973",
+                    "firm_name": "TERRANOVA CAPITAL EQUITIES, INC",
+                    "firm_other_names": [
+                        "EUROPEAN AMERICAN EQUITIES, INC.",
+                        "TN CAPITAL EQUITIES, LTD",
+                        "TERRANOVA CAPITAL EQUITIES, INC.",
+                        "TERRANOVA CAPITAL EQUITIES, INC",
+                        "HORNBLOWER CAPITAL SECURITIES, INC.",
+                        "GROWVEST CAPITAL SECURITIES, INC.",
+                        "EUROPEAN AMERICAN EQUITIES, LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"212-381-7391\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "Suite 1402",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19982",
+                    "firm_bd_sec_number": "43548",
+                    "firm_bd_full_sec_number": "8-43548",
+                    "firm_name": "GFI SECURITIES LLC",
+                    "firm_other_names": [
+                        "12TH STREET CAPITAL, A DIVISION OF GFI SECURITIES LLC",
+                        "SUNRISE A DIVISION OF GFI SECURITIES",
+                        "LATIUM, A DIVISION OF GFI SECURITIES LLC",
+                        "GFI SECURITIES LLC",
+                        "GFI GROUP, INC.",
+                        "G.F.I. GROUP, INC.",
+                        "FENICS-PM, A DIVISION OF GFI SECURITIES LLC",
+                        "CAVENTOR CAPITAL, A DIVISION OF GFI SECURITIES LLC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WATER STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10041\"}, \"mailingAddress\": {\"street1\": \"55 WATER STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10041\"}, \"businessPhoneNumber\": \"212-968-2032\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 WATER STREET",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10041"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28352",
+                    "firm_bd_sec_number": "43645",
+                    "firm_bd_full_sec_number": "8-43645",
+                    "firm_name": "LANDOLT SECURITIES, INC.",
+                    "ia_firm_name": "LANDOLT SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FISN",
+                        "WEALTHHOUSE ADVISORS INC.",
+                        "TORII ASSET MANAGEMENT",
+                        "TK CHEN FINANCIAL SERVICES LLC",
+                        "THE WEALTH PROTECTION GROUP LLC",
+                        "THE WEALTH PROTECTION GROUP",
+                        "LESLIE FINANCIAL LLC",
+                        "LANDOLT SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"41412 N. HWY 83\", \"city\": \"ANTIOCH\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60002\"}, \"mailingAddress\": {\"street1\": \"41412 N. HWY 83\", \"city\": \"ANTIOCH\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60002\"}, \"businessPhoneNumber\": \"847-838-5151\", \"iaFirmName\": \"LANDOLT SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"41412 N. HWY 83\", \"city\": \"ANTIOCH\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60002\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 Old Country Road",
+                                        "street2": "suite 250",
+                                        "city": "Carle Place",
+                                        "state": "NY",
+                                        "zipCode": "11514"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322944",
+                    "firm_bd_sec_number": "71007",
+                    "firm_bd_full_sec_number": "8-71007",
+                    "firm_name": "WEMATCH.LIVE LLC",
+                    "firm_other_names": [
+                        "WEMATCH.LIVE LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"450 LEXINGTON AVENUE\", \"street2\": \"ROOM 4.146\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"450 LEXINGTON AVENUE\", \"street2\": \"ROOM 4.146\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-389-8197\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "450 LEXINGTON AVENUE",
+                                        "street2": "ROOM 4.146",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26153",
+                    "firm_bd_sec_number": "42399",
+                    "firm_bd_full_sec_number": "8-42399",
+                    "firm_name": "THE ROCKWELL FINANCIAL GROUP, INC.",
+                    "firm_other_names": [
+                        "MULLINS & COMPANY, INC.",
+                        "THE ROCKWELL FINANCIAL GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"240 W. OLD COUNTRY ROAD . SUITE 3\", \"city\": \"HICKSVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11801\"}, \"mailingAddress\": {\"street1\": \"240 W. OLD COUNTRY ROAD . SUITE 3\", \"city\": \"HICKSVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11801\"}, \"businessPhoneNumber\": \"5164999453\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 WILLIAM STREET, SUITE # 403",
+                                        "city": "WHITE PLAINS",
+                                        "state": "NY",
+                                        "zipCode": "10601"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30660",
+                    "firm_bd_sec_number": "45081",
+                    "firm_bd_full_sec_number": "8-45081",
+                    "firm_name": "NH INVESTMENT & SECURITIES AMERICA, INC.",
+                    "firm_other_names": [
+                        "LG SECURITIES AMERICA, INC.",
+                        "WOORI INVESTMENT & SECURITIES AMERICA, INC.",
+                        "NH INVESTMENT & SECURITIES AMERICA, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"120 WEST 45TH STREET\", \"street2\": \"SUITE 2402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"120 WEST 45TH STREET\", \"street2\": \"SUITE 2402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-391-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 WEST 45TH STREET",
+                                        "street2": "SUITE 2402",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "284307",
+                    "firm_bd_sec_number": "69797",
+                    "firm_bd_full_sec_number": "8-69797",
+                    "firm_name": "LEONIS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "LEONIS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"330 MADISON AVENUE\", \"street2\": \"SUITE 2400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"330 MADISON AVENUE\", \"street2\": \"SUITE 2400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-804-8816\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 Madison Avenue",
+                                        "street2": "Suite 2400",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8361",
+                    "firm_bd_sec_number": "25132",
+                    "firm_bd_full_sec_number": "8-25132",
+                    "firm_ia_sec_number": "70276",
+                    "firm_ia_full_sec_number": "801-70276",
+                    "firm_name": "A.G.P. / ALLIANCE GLOBAL PARTNERS",
+                    "ia_firm_name": "A.G.P / ALLIANCE GLOBAL PARTNERS",
+                    "firm_other_names": [
+                        "A.G.P / ALLIANCE GLOBAL PARTNERS",
+                        "THE A.I.D. GROUP",
+                        "SHILLIN WEALTH MANAGEMENT",
+                        "SES GROUP",
+                        "LUNDBLADE FINANCIAL GROUP",
+                        "INTUIT WEALTH MANAGEMENT",
+                        "EURO PACIFIC CAPITAL, INC.",
+                        "EPC ADVISORS GROUP, A DIV. OF A.G.P. / ALLIANCE GLOBAL PARTNERS",
+                        "EPC ADVISORS GROUP",
+                        "BOATMAN FINANCIAL MANAGEMENT, PLLC",
+                        "ALLIANCE GLOBAL PLANNING",
+                        "AGP FINANCIAL DISTRICT",
+                        "ABC WEALTH MANAGEMENT",
+                        "A.G.P. / ALLIANCE GLOBAL PARTNERS, LLC",
+                        "A.G.P. / ALLIANCE GLOBAL PARTNERS CORP.",
+                        "A.G.P. / ALLIANCE GLOBAL PARTNERS",
+                        "A.G.P. / ALLIANCE GLOBAL",
+                        "A.G.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 33,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"88 POST ROAD WEST\", \"street2\": \"2ND FLOOR\", \"city\": \"WESTPORT\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06880\"}, \"mailingAddress\": {\"street1\": \"88 POST ROAD WEST\", \"street2\": \"2ND FLOOR\", \"city\": \"WESTPORT\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06880\"}, \"businessPhoneNumber\": \"203-662-9700\", \"iaFirmName\": \"A.G.P / ALLIANCE GLOBAL PARTNERS\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"88 POST ROAD WEST\", \"street2\": \"2ND FLOOR\", \"city\": \"WESTPORT\", \"state\": \"CT\", \"country\": \"United States\", \"postalCode\": \"06880\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "17 State Street",
+                                        "street2": "#320",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148135",
+                    "firm_bd_sec_number": "67976",
+                    "firm_bd_full_sec_number": "8-67976",
+                    "firm_name": "LIBERUM",
+                    "firm_other_names": [
+                        "LIBERUM",
+                        "LIBERUM CAPITAL INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 FIFTH AVENUE\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"575 FIFTH AVENUE\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 596-4800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 FIFTH AVENUE",
+                                        "street2": "20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "318171",
+                    "firm_bd_sec_number": "70853",
+                    "firm_bd_full_sec_number": "8-70853",
+                    "firm_name": "INDEPENDENCE POINT SECURITIES LLC",
+                    "firm_other_names": [
+                        "INDEPENDENCE POINT SECURITIES LLC",
+                        "INDEPENDENCE POINT SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 5TH AVENUE, 8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"600 5TH AVENUE, 8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-468-5850\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "600 5TH AVENUE, 8TH FLOOR",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172125",
+                    "firm_bd_sec_number": "69498",
+                    "firm_bd_full_sec_number": "8-69498",
+                    "firm_name": "THALES CAPITAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "THALES CAPITAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"540 MADISON AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"540 MADISON AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-664-0650\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "540 Madison Avenue",
+                                        "street2": "4th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16330",
+                    "firm_bd_sec_number": "33719",
+                    "firm_bd_full_sec_number": "8-33719",
+                    "firm_name": "FIRST DOMINION CAPITAL CORP.",
+                    "firm_other_names": [
+                        "FIRST DOMINION CAPITAL CORP",
+                        "VONTOBEL FUND DISTRIBUTORS, INC.",
+                        "TYNDALL-NEWPORT DISTRIBUTORS, INC.",
+                        "TYNDALL DISTRIBUTORS, INC.",
+                        "NEWPORT DISTRIBUTORS, INC.",
+                        "FIRST DOMINION CAPITAL CORPORATION",
+                        "FIRST DOMINION CAPITAL CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8730 STONY POINT PARKWAY\", \"street2\": \"BUILDING III, SUITE 205\", \"city\": \"RICHMOND\", \"state\": \"VA\", \"country\": \"UNITED STATES\", \"postalCode\": \"23235\"}, \"mailingAddress\": {\"street1\": \"8730 STONY POINT PARKWAY\", \"street2\": \"SUITE 205\", \"city\": \"RICHMOND\", \"state\": \"VA\", \"country\": \"UNITED STATES\", \"postalCode\": \"23235\"}, \"businessPhoneNumber\": \"804-304-1689\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "242 East 72nd Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10021"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

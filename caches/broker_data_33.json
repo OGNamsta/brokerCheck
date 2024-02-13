@@ -1,0 +1,456 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147364",
+                    "firm_bd_sec_number": "67901",
+                    "firm_bd_full_sec_number": "8-67901",
+                    "firm_name": "LIVINGSTON SECURITIES, LLC",
+                    "firm_other_names": [
+                        "LIVINGSTON SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"626 REXCORP PLAZA\", \"street2\": \"SUITE 603, WEST TOWER\", \"city\": \"UNIONDALE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11556\"}, \"mailingAddress\": {\"street1\": \"626 REXCORP PLAZA\", \"street2\": \"SUITE 603, WEST TOWER\", \"city\": \"UNIONDALE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11556\"}, \"businessPhoneNumber\": \"212.520.8478\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "626 Rexcorp Plaza",
+                                        "street2": "Suite 603. West Tower",
+                                        "city": "Uniondale",
+                                        "state": "NY",
+                                        "zipCode": "11556"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "142174",
+                    "firm_bd_sec_number": "67435",
+                    "firm_bd_full_sec_number": "8-67435",
+                    "firm_name": "JAVCAP SECURITIES LLC",
+                    "firm_other_names": [
+                        "ALTERNATIVE INVESTMENT SERVICES, LLC",
+                        "JAVCAP SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 1810\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 1810\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"646-693-9449\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "SUITE 1810",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290948",
+                    "firm_bd_sec_number": "70042",
+                    "firm_bd_full_sec_number": "8-70042",
+                    "firm_name": "PRIME DECISION CONSULTING LLC",
+                    "firm_other_names": [
+                        "PRIME DECISION CONSULTING LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"151 WEST 17TH STREET\", \"street2\": \"2D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10011-5414\"}, \"mailingAddress\": {\"street1\": \"151 WEST 17TH STREET\", \"street2\": \"2D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10011-5414\"}, \"businessPhoneNumber\": \"6463347896\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "151 WEST 17TH STREET, 2D",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304434",
+                    "firm_bd_sec_number": "70367",
+                    "firm_bd_full_sec_number": "8-70367",
+                    "firm_name": "EASTDIL SECURED ADVISORS LLC",
+                    "firm_other_names": [
+                        "EASTDIL SECURED ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 WILSHIRE BLVD\", \"street2\": \"SUITE 1500\", \"city\": \"SANTA MONICA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"90401\"}, \"mailingAddress\": {\"street1\": \"100 WILSHIRE BLVD\", \"street2\": \"SUITE 1500\", \"city\": \"SANTA MONICA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"90401\"}, \"businessPhoneNumber\": \"310-526-9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 West 57th street",
+                                        "street2": "23rd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133371",
+                    "firm_bd_sec_number": "66717",
+                    "firm_bd_full_sec_number": "8-66717",
+                    "firm_name": "VALIDATE CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "VALIDATE CAPITAL MARKETS, LLC",
+                        "VISCOGLIOSI & COMPANY, LLC",
+                        "VISCOGLIOSI & COMPANY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"505 PARK AVENUE, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"505 PARK AVENUE, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-213-3703\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 PARK AVENUE, 14TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129291",
+                    "firm_bd_sec_number": "66211",
+                    "firm_bd_full_sec_number": "8-66211",
+                    "firm_name": "WALTER GREENBLATT & ASSOCIATES, LLC",
+                    "firm_other_names": [
+                        "WALTER GREENBLATT & ASSOCIATES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"325 ST. MARKS AVENUE\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11238\"}, \"mailingAddress\": {\"street1\": \"325 ST. MARKS AVENUE\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11238\"}, \"businessPhoneNumber\": \"609-497-1282\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "325 ST. MARKS AVENUE",
+                                        "city": "BROOKLYN",
+                                        "state": "NY",
+                                        "zipCode": "11238"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15960",
+                    "firm_bd_sec_number": "32983",
+                    "firm_bd_full_sec_number": "8-32983",
+                    "firm_name": "PALICO LLC",
+                    "firm_other_names": [
+                        "G. A. MICHELE",
+                        "PALICO LLC",
+                        "OXBRIDGE, LLC",
+                        "OXBRIDGE PARTNERS, L.P.",
+                        "OXBRIDGE INCORPORATED",
+                        "G. A. MICHELE, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"499 PARK AVENUE\", \"street2\": \"SUITE 2501\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"499 PARK AVENUE\", \"street2\": \"SUITE 2501\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"2125934994\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "499 PARK AVENUE",
+                                        "street2": "SUITE 2501",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143189",
+                    "firm_bd_sec_number": "67538",
+                    "firm_bd_full_sec_number": "8-67538",
+                    "firm_name": "MEDIOBANCA SECURITIES USA LLC",
+                    "firm_other_names": [
+                        "MEDIOBANCA SECURITIES USA",
+                        "MEDIOBANCA SECURITIES USA LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1450 BROADWAY\", \"street2\": \"37TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"1450 BROADWAY\", \"street2\": \"37TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"(212) 991-4744\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1450 BROADWAY",
+                                        "street2": "37TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42045",
+                    "firm_bd_sec_number": "49671",
+                    "firm_bd_full_sec_number": "8-49671",
+                    "firm_name": "LINCOLN INTERNATIONAL LLC",
+                    "firm_other_names": [
+                        "LINCOLN INTERNATIONAL I LLC",
+                        "LINCOLN PARTNERS L.L.C",
+                        "LINCOLN INTERNATIONAL LLC",
+                        "LINCOLN INTERNATIONAL L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"110 NORTH WACKER DRIVE-51ST FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"110 NORTH WACKER DRIVE-51ST FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-580-8339\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "299 Park Ave.",
+                                        "street2": "7th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10171"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309193",
+                    "firm_bd_sec_number": "70554",
+                    "firm_bd_full_sec_number": "8-70554",
+                    "firm_name": "NEWMARK SECURITIES, LLC",
+                    "firm_other_names": [
+                        "NEWMARK SECURITIES LLC",
+                        "NEWMARK SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"125 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"125 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-372-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "125 PARK AVE, 6TH AND 9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "530",
+                    "firm_bd_sec_number": "216",
+                    "firm_bd_full_sec_number": "8-216",
+                    "firm_name": "LORD ABBETT DISTRIBUTOR LLC",
+                    "firm_other_names": [
+                        "LORD ABBETT DISTRIBUTOR LLC",
+                        "LORD, ABBETT & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"90 HUDSON STREET\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07302-3973\"}, \"mailingAddress\": {\"street1\": \"90 HUDSON STREET\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07302-3973\"}, \"businessPhoneNumber\": \"201-827-2136\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "72 Brewster Road",
+                                        "city": "Scarsdale",
+                                        "state": "NY",
+                                        "zipCode": "10583"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2998",
+                    "firm_bd_sec_number": "15648",
+                    "firm_bd_full_sec_number": "8-15648",
+                    "firm_name": "BOSTON PARTNERS SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "BOSTON PARTNERS SECURITIES, L.L.C.",
+                        "WEISS, PECK & GREER, L.L.C.",
+                        "WEISS, PECK & GREER INVESTMENTS",
+                        "WEISS PECK & GREER LLC",
+                        "WEISS PECK & GREER",
+                        "ROBECO USA, L.L.C.",
+                        "ROBECO USA BROKERAGE SERVICES",
+                        "ROBECO SECURITIES, L.L.C.",
+                        "ROBECO INVESTMENT MANAGEMENT"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE BEACON STREET- 30TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02108\"}, \"mailingAddress\": {\"street1\": \"ONE BEACON STREET- 30TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02108\"}, \"businessPhoneNumber\": \"617-832-8200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "One Grand Central Place",
+                                        "street2": "60 E 42nd St - Suite 1550",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,512 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103863",
+                    "firm_bd_sec_number": "52361",
+                    "firm_bd_full_sec_number": "8-52361",
+                    "firm_ia_sec_number": "108217",
+                    "firm_ia_full_sec_number": "801-108217",
+                    "firm_name": "FARMERS FINANCIAL SOLUTIONS, LLC",
+                    "ia_firm_name": "FARMERS FINANCIAL SOLUTIONS, LLC",
+                    "firm_other_names": [
+                        "FARMERS FINANCIAL SOLUTIONS",
+                        "FARMERS FINANCIAL SOLUTIONS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2870,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"31051 AGOURA RD.\", \"city\": \"WESTLAKE VILLAGE\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"91361\"}, \"mailingAddress\": {\"street1\": \"31051 AGOURA RD.\", \"city\": \"WESTLAKE VILLAGE\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"91361\"}, \"businessPhoneNumber\": \"(818) 584-0200\", \"iaFirmName\": \"FARMERS FINANCIAL SOLUTIONS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"31051 AGOURA RD.\", \"city\": \"WESTLAKE VILLAGE\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"91361\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4720 ST HWY 30 STE 1",
+                                        "city": "AMSTERDAM",
+                                        "state": "NY",
+                                        "zipCode": "12010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30882",
+                    "firm_bd_sec_number": "45221",
+                    "firm_bd_full_sec_number": "8-45221",
+                    "firm_name": "CLARKSONS SECURITIES, INC",
+                    "firm_other_names": [
+                        "CLARKSONS PLATOU SECURITIES, INC.",
+                        "RS PLATOU MARKETS, INC.",
+                        "RS PLATOU MARKETS INC.",
+                        "R & R PLANNING GROUP LTD",
+                        "DJF DISCOUNT BROKERS, INC.",
+                        "DJF DISCOUNT BROKERS, INC",
+                        "CLARKSONS SECURITIES, INC.",
+                        "CLARKSONS SECURITIES, INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1230 AVENUE OF THE AMERICAS\", \"street2\": \"#1603\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"21ST FLOOR EAST\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-317-7080\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1230 Avenue of the Americas, #1603",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35682",
+                    "firm_bd_sec_number": "46960",
+                    "firm_bd_full_sec_number": "8-46960",
+                    "firm_name": "MGI FUNDS DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "MGI FUNDS DISTRIBUTORS, INC.",
+                        "OFFIT FUNDS DISTRIBUTOR, INC.",
+                        "MGI FUNDS DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 49,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"THREE CANAL PLAZA\", \"street2\": \"SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"UNITED STATES\", \"postalCode\": \"04101\"}, \"mailingAddress\": {\"street1\": \"THREE CANAL PLAZA\", \"street2\": \"SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"UNITED STATES\", \"postalCode\": \"04101\"}, \"businessPhoneNumber\": \"866-251-6920\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1166 Avenue of Americas",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10504"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36026",
+                    "firm_bd_sec_number": "46981",
+                    "firm_bd_full_sec_number": "8-46981",
+                    "firm_ia_sec_number": "67370",
+                    "firm_ia_full_sec_number": "801-67370",
+                    "firm_name": "HEALTHCARE COMMUNITY SECURITIES CORP.",
+                    "ia_firm_name": "HANYS BENEFIT SERVICES",
+                    "firm_other_names": [
+                        "HANYS BENEFIT SERVICES",
+                        "TRUEPLAN BENEFIT AND RETIREMENT ADVISORS",
+                        "STRATEGIC BENEFIT SERVICES",
+                        "HEALTHCARE COMMUNITY SECURITIES CORPORATION",
+                        "HEALTHCARE COMMUNITY SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE EMPIRE DRIVE\", \"city\": \"RENSSELAER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12144\"}, \"mailingAddress\": {\"street1\": \"ONE EMPIRE DRIVE\", \"city\": \"RENSSELAER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12144\"}, \"businessPhoneNumber\": \"518-431-7600\", \"iaFirmName\": \"HANYS BENEFIT SERVICES\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"ONE EMPIRE DRIVE\", \"city\": \"RENSSELAER\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"12144\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "Rochester",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2764",
+                    "firm_bd_sec_number": "28816",
+                    "firm_bd_full_sec_number": "8-28816",
+                    "firm_name": "MESIROW FINANCIAL, INC.",
+                    "firm_other_names": [
+                        "MESIROW & COMPANY",
+                        "PEMBROKE CLEARING CORPORATION",
+                        "MESIROW FINANCIAL, INC.",
+                        "MESIROW CAPITAL, INC.",
+                        "MESIROW & COMPANY, INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 18,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"353 N. CLARK STREET\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60654\"}, \"mailingAddress\": {\"street1\": \"353 N. CLARK STREET\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60654\"}, \"businessPhoneNumber\": \"312-595-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "140 East 45 Street",
+                                        "street2": "30th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "12963",
+                    "firm_bd_sec_number": "29671",
+                    "firm_bd_full_sec_number": "8-29671",
+                    "firm_ia_sec_number": "39736",
+                    "firm_ia_full_sec_number": "801-39736",
+                    "firm_name": "MONEY CONCEPTS CAPITAL CORP",
+                    "ia_firm_name": "MONEY CONCEPTS ADVISORY SERVICE",
+                    "firm_other_names": [
+                        "INTERNATIONAL FINANCIAL SERVICES CAPITAL CORPORATION",
+                        "MONEY CONCEPTS CAPITAL CORP",
+                        "MONEY CONCEPTS ADVISORY SERVICE"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 388,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11440 NORTH JOG ROAD\", \"city\": \"PALM BEACH GARDENS\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33418\"}, \"mailingAddress\": {\"street1\": \"11440 NORTH JOG ROAD\", \"city\": \"PALM BEACH GARDENS\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33418-3764\"}, \"businessPhoneNumber\": \"561-472-2000\", \"iaFirmName\": \"MONEY CONCEPTS ADVISORY SERVICE\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"11440 NORTH JOG ROAD\", \"city\": \"PALM BEACH GARDENS\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"33418-3764\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "497 Route 304 Ste 2",
+                                        "city": "New City",
+                                        "state": "NY",
+                                        "zipCode": "10956"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133366",
+                    "firm_bd_sec_number": "66716",
+                    "firm_bd_full_sec_number": "8-66716",
+                    "firm_name": "ALLSPRING FUNDS DISTRIBUTOR, LLC",
+                    "firm_other_names": [
+                        "ALLSPRING FUNDS DISTRIBUTOR, LLC",
+                        "WELLS FARGO FUNDS DISTRIBUTOR, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1415 VANTAGE PARK DRIVE\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28203\"}, \"mailingAddress\": {\"street1\": \"100 HERITAGE RESERVE\", \"street2\": \"FLOOR 1\", \"city\": \"MENOMONEE FALLS\", \"state\": \"WI\", \"country\": \"USA\", \"postalCode\": \"53051-4400\"}, \"businessPhoneNumber\": \"888-877-9275\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 Madison Avenue",
+                                        "street2": "35th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10641",
+                    "firm_bd_sec_number": "27844",
+                    "firm_bd_full_sec_number": "8-27844",
+                    "firm_ia_sec_number": "42709",
+                    "firm_ia_full_sec_number": "801-42709",
+                    "firm_name": "CADARET, GRANT & CO., INC.",
+                    "ia_firm_name": "CADARET GRANT & CO INC",
+                    "firm_other_names": [
+                        "ADAMS LAVENTURA & ASSOCIATES",
+                        "THE RETIREMENT OPTIMIZATION GROUP",
+                        "SYRACUSE WEALTH MANAGEMENT",
+                        "SPARTAN WEALTH MANAGEMENT",
+                        "SC PARKER LLC",
+                        "SC FINANCIAL GROUP LLC",
+                        "ROBERT F. FAHEY JR. & ASSOCIATES",
+                        "PROFESSIONAL FINANCIAL CONSULTANTS LLC",
+                        "POMBO WEALTH MANAGEMENT",
+                        "PETERSEN ADVISORS",
+                        "MARATHON FINANCIAL ADVISORS, INC.",
+                        "MARASCO WEALTH",
+                        "LAWSON WINCHESTER WEALTH MANAGEMENT",
+                        "INSIGHT FINANCIAL",
+                        "EMS WEALTH MANAGEMENT",
+                        "CYPRESS PRIVATE WEALTH",
+                        "CAPITAL MANAGEMENT STRATEGIES LLC",
+                        "CAPITAL MANAGEMENT GROUP OF NIAGARA",
+                        "CADARET, GRANT & CO., INC.",
+                        "CADARET GRANT & CO INC",
+                        "BRIARWOOD WEALTH MANAGEMENT, LLC",
+                        "BNL SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 372,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 MADISON STREET\", \"street2\": \"SUITE 1300\", \"city\": \"SYRACUSE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13202\"}, \"mailingAddress\": {\"street1\": \"100 MADISON STREET\", \"street2\": \"SUITE 1300\", \"city\": \"SYRACUSE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13202\"}, \"businessPhoneNumber\": \"800-288-8601\", \"iaFirmName\": \"CADARET GRANT & CO INC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"100 MADISON STREET\", \"street2\": \"SUITE 1300\", \"city\": \"SYRACUSE\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"13202\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "295 Madison Ave.",
+                                        "street2": "Ste. 1407",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "566",
+                    "firm_bd_sec_number": "30177",
+                    "firm_bd_full_sec_number": "8-30177",
+                    "firm_name": "KEYBANC CAPITAL MARKETS INC.",
+                    "firm_other_names": [
+                        "GRADISON ASSET MANAGEMENT",
+                        "MCDONALD INVESTMENTS INC.",
+                        "MCDONALD & COMPANY SECURITIES, INC.",
+                        "MCDONALD & COMPANY",
+                        "KEYBANC CAPITAL MARKETS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 20,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"127 PUBLIC SQUARE\", \"city\": \"CLEVELAND\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"44114\"}, \"mailingAddress\": {\"street1\": \"127 PUBLIC SQUARE\", \"city\": \"CLEVELAND\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"44114\"}, \"businessPhoneNumber\": \"216-689-0803\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1301 Avenue of Americas",
+                                        "street2": "Suite 3700",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14143",
+                    "firm_bd_sec_number": "30302",
+                    "firm_bd_full_sec_number": "8-30302",
+                    "firm_ia_sec_number": "62788",
+                    "firm_ia_full_sec_number": "801-62788",
+                    "firm_name": "SYCAMORE FINANCIAL GROUP",
+                    "ia_firm_name": "SYCAMORE FINANCIAL GROUP",
+                    "firm_other_names": [
+                        "SMITH, GAYLOR, INC.",
+                        "SYCAMORE FINANCIAL GROUP, INC.",
+                        "SYCAMORE FINANCIAL GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2713 ROCKFORD LANE\", \"city\": \"KOKOMO\", \"state\": \"IN\", \"country\": \"UNITED STATES\", \"postalCode\": \"46902-4058\"}, \"mailingAddress\": {\"street1\": \"2713 ROCKFORD LANE\", \"city\": \"KOKOMO\", \"state\": \"IN\", \"country\": \"UNITED STATES\", \"postalCode\": \"46902\"}, \"businessPhoneNumber\": \"765-455-1554\", \"iaFirmName\": \"SYCAMORE FINANCIAL GROUP\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2713 ROCKFORD LANE\", \"city\": \"KOKOMO\", \"state\": \"IN\", \"country\": \"United States\", \"postalCode\": \"46902\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4416 Winding Creek Road",
+                                        "city": "Manlius",
+                                        "state": "NY",
+                                        "zipCode": "13104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17839",
+                    "firm_bd_sec_number": "35826",
+                    "firm_bd_full_sec_number": "8-35826",
+                    "firm_name": "THE INVESTMENT CENTER, INC.",
+                    "firm_other_names": [
+                        "THE INVESTMENT CENTER, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 208,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1420 ROUTE 206 NORTH SUITE 210\", \"city\": \"BEDMINSTER\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07921\"}, \"mailingAddress\": {\"street1\": \"1420 ROUTE 206 NORTH\", \"street2\": \"BOX 770\", \"city\": \"BEDMINSTER\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07921\"}, \"businessPhoneNumber\": \"908-707-4422\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "86 CARLETON AVENUE",
+                                        "city": "EAST ISLIP",
+                                        "state": "NY",
+                                        "zipCode": "11730"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46727",
+                    "firm_bd_sec_number": "51509",
+                    "firm_bd_full_sec_number": "8-51509",
+                    "firm_ia_sec_number": "62731",
+                    "firm_ia_full_sec_number": "801-62731",
+                    "firm_name": "ADVISORS ASSET MANAGEMENT, INC.",
+                    "ia_firm_name": "ADVISORS ASSET MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "ADVISOR'S ASSET MANAGEMENT",
+                        "STERLING BROKERAGE SERVICES, LLC",
+                        "FIXED INCOME SECURITIES, LP",
+                        "FIXED INCOME SECURITIES, LLC",
+                        "FIXED INCOME SECURITIES, INC.",
+                        "ADVISORS ASSET MANAGEMENT, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 81,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"18925 BASE CAMP ROAD\", \"city\": \"MONUMENT\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80132-0000\"}, \"mailingAddress\": {\"street1\": \"18925 BASE CAMP ROAD\", \"city\": \"MONUMENT\", \"state\": \"CO\", \"country\": \"USA\", \"postalCode\": \"80132\"}, \"businessPhoneNumber\": \"719.488.9956\", \"iaFirmName\": \"ADVISORS ASSET MANAGEMENT, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"18925 BASE CAMP ROAD\", \"street2\": \"SUITE 203\", \"city\": \"MONUMENT\", \"state\": \"CO\", \"country\": \"United States\", \"postalCode\": \"80132\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "162 Garrison Ave",
+                                        "city": "Staten Island",
+                                        "state": "NY",
+                                        "zipCode": "10314"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

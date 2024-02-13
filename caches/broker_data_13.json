@@ -1,0 +1,443 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "27041",
+                    "firm_bd_sec_number": "42833",
+                    "firm_bd_full_sec_number": "8-42833",
+                    "firm_name": "A. P. SECURITIES, INC.",
+                    "firm_other_names": [
+                        "A. P. SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"15 WATERVIEW DR\", \"city\": \"CENTERPORT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11721\"}, \"mailingAddress\": {\"street1\": \"P. O. BOX 434\", \"city\": \"CENTERPORT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11721\"}, \"businessPhoneNumber\": \"(631)757-3200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "15 WATERVIEW DR",
+                                        "city": "CENTERPORT",
+                                        "state": "NY",
+                                        "zipCode": "11721"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169781",
+                    "firm_bd_sec_number": "69389",
+                    "firm_bd_full_sec_number": "8-69389",
+                    "firm_name": "REDTAIL CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "RED TAIL CAPITAL MARKETS LLC",
+                        "REDTAIL CAPITAL MARKETS, LLC",
+                        "REDTAIL CAPITAL ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6983 HAWK WOODS COURT\", \"city\": \"BLOOMFIELD\", \"state\": \"MI\", \"country\": \"USA\", \"postalCode\": \"48323\"}, \"mailingAddress\": {\"street1\": \"6983 HAWK WOODS COURT\", \"city\": \"BLOOMFIELD\", \"state\": \"MI\", \"country\": \"USA\", \"postalCode\": \"48323\"}, \"businessPhoneNumber\": \"212-859-5002\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 Wall Street",
+                                        "street2": "8th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "25878",
+                    "firm_bd_sec_number": "42116",
+                    "firm_bd_full_sec_number": "8-42116",
+                    "firm_name": "MARINER GROUP CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "EAST HAMPTON SECURITIES, INC.",
+                        "MARINER GROUP CAPITAL MARKETS, LLC",
+                        "MARINER GROUP CAPITAL MARKETS, INC.",
+                        "EAST HAMPTON SECURITIES, LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"500 MAMARONECK AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"HARRISON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10528\"}, \"mailingAddress\": {\"street1\": \"500 MAMARONECK AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"HARRISON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10528\"}, \"businessPhoneNumber\": \"914-670-2897\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "299 Park Avenue, 12th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10171"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "106342",
+                    "firm_bd_sec_number": "53003",
+                    "firm_bd_full_sec_number": "8-53003",
+                    "firm_name": "RHONE GROUP ADVISORS LLC",
+                    "firm_other_names": [
+                        "RHONE GROUP ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"630 FIFTH AVENUE\", \"street2\": \"SUITE 3110\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"mailingAddress\": {\"street1\": \"630 FIFTH AVENUE\", \"street2\": \"SUITE 3110\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"businessPhoneNumber\": \"212-218-6700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "630 FIFTH AVENUE",
+                                        "street2": "SUITE 3110",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10111"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "119004",
+                    "firm_bd_sec_number": "53711",
+                    "firm_bd_full_sec_number": "8-53711",
+                    "firm_name": "GRIFFIN FINANCIAL GROUP, LLC",
+                    "firm_other_names": [
+                        "GRIFFIN FINANCIAL",
+                        "GRIFFIN FINANCIAL GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"607 WASHINGTON STREET\", \"city\": \"READING\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19603\"}, \"mailingAddress\": {\"street1\": \"607 WASHINGTON STREET\", \"city\": \"READING\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19603\"}, \"businessPhoneNumber\": \"610-478-2105\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "485 MADISON AVENUE",
+                                        "street2": "20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "142873",
+                    "firm_bd_sec_number": "67501",
+                    "firm_bd_full_sec_number": "8-67501",
+                    "firm_name": "CLEARVIEW TRADING ADVISORS, INC.",
+                    "firm_other_names": [
+                        "CLEARVIEW TRADING ADVISORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 GLENWOOD ROAD\", \"street2\": \"SUITE 904\", \"city\": \"TENAFLY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07670\"}, \"mailingAddress\": {\"street1\": \"10 GLENWOOD ROAD\", \"city\": \"TENAFLY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07670\"}, \"businessPhoneNumber\": \"201-803-3125\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "32 scotch mist lane",
+                                        "city": "southampton",
+                                        "state": "NY",
+                                        "zipCode": "11968"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "11238",
+                    "firm_bd_sec_number": "18118",
+                    "firm_bd_full_sec_number": "8-18118",
+                    "firm_name": "U.S. SECURITIES, INTL. CORP.",
+                    "firm_other_names": [
+                        "U.S. OPTION INTERNATIONAL INC",
+                        "U.S. SECURITIES, INTL. CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"120 BROADWAY\", \"street2\": \"SUITE 1017\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10271\"}, \"mailingAddress\": {\"street1\": \"120 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10271\"}, \"businessPhoneNumber\": \"212-227-0800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 BROADWAY",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10271"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "286380",
+                    "firm_bd_sec_number": "69883",
+                    "firm_bd_full_sec_number": "8-69883",
+                    "firm_name": "QUILVEST CAPITAL PARTNERS SECURITIES LLC",
+                    "firm_other_names": [
+                        "QUILVEST CAPITAL PARTNERS SECURITIES LLC",
+                        "QUILVEST SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"65 EAST 55TH STREET, 25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"65 EAST 55TH STREET, 25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-920-3800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "527 MADISON AVENUE, 11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155071",
+                    "firm_bd_sec_number": "68697",
+                    "firm_bd_full_sec_number": "8-68697",
+                    "firm_name": "G.DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "G.DISTRIBUTORS, LLC",
+                        "GABELLI FUNDS DISTRIBUTOR, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE CORPORATE CENTER\", \"city\": \"RYE\", \"state\": \"NY\", \"postalCode\": \"10580-1435\"}, \"mailingAddress\": {\"street1\": \"ONE CORPORATE CENTER\", \"city\": \"RYE\", \"state\": \"NY\", \"postalCode\": \"10580-1435\"}, \"businessPhoneNumber\": \"914 921-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE CORPORATE CENTER",
+                                        "city": "RYE",
+                                        "state": "NY",
+                                        "zipCode": "10580"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45104",
+                    "firm_bd_sec_number": "50975",
+                    "firm_bd_full_sec_number": "8-50975",
+                    "firm_name": "ODDO BHF NEW YORK CORPORATION",
+                    "firm_other_names": [
+                        "ODDO BHF NEW YORK CORPORATION",
+                        "ODDO SECURITIES CORPORATION",
+                        "ODDO NEW YORK CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-723-7405\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 EAST 52ND STREET",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31184",
+                    "firm_bd_sec_number": "45389",
+                    "firm_bd_full_sec_number": "8-45389",
+                    "firm_name": "CARNEGIE, INC.",
+                    "firm_other_names": [
+                        "CARNEGIE, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"20 WEST 55TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019-5373\"}, \"mailingAddress\": {\"street1\": \"20 WEST 55TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019-5373\"}, \"businessPhoneNumber\": \"(212) 262-5800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "20 WEST 55TH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36654",
+                    "firm_bd_sec_number": "47390",
+                    "firm_bd_full_sec_number": "8-47390",
+                    "firm_name": "ANZ SECURITIES, INC.",
+                    "firm_other_names": [
+                        "ANZ SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"277 PARK AVENUE\", \"street2\": \"FLOOR 31\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172-0003\"}, \"mailingAddress\": {\"street1\": \"277 PARK AVENUE\", \"street2\": \"FLOOR 31\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172-0003\"}, \"businessPhoneNumber\": \"212-801-9160\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "277 PARK AVENUE",
+                                        "street2": "FLOOR 31",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10172"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

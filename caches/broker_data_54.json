@@ -1,0 +1,453 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2048",
+                    "firm_bd_sec_number": "13942",
+                    "firm_bd_full_sec_number": "8-13942",
+                    "firm_name": "HAZARD & SIEGEL, INC.",
+                    "firm_other_names": [
+                        "HAZARD & SIEGEL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 19,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5793 WIDEWATERS PARKWAY\", \"city\": \"DEWITT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13214\"}, \"mailingAddress\": {\"street1\": \"PO BOX 157\", \"city\": \"SYRACUSE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13214\"}, \"businessPhoneNumber\": \"(315) 414-0722\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "7076 CEDAR BAY RD",
+                                        "city": "FAYETTEVILLE",
+                                        "state": "NY",
+                                        "zipCode": "13066"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19299",
+                    "firm_bd_sec_number": "37440",
+                    "firm_bd_full_sec_number": "8-37440",
+                    "firm_ia_sec_number": "61971",
+                    "firm_ia_full_sec_number": "801-61971",
+                    "firm_name": "ESTRADA HINOJOSA & COMPANY, INC.",
+                    "ia_firm_name": "ESTRADA HINOJOSA & COMPANY, INC.",
+                    "firm_other_names": [
+                        "ESTRADA HINOJOSA",
+                        "TWENTY-FIRST CENTURY SECURITIES AND INVESTMENTS, INC.",
+                        "NAVARRO-ESTRADA SECURITIES, INC.",
+                        "ESTRADA SECURITIES, INC.",
+                        "ESTRADA HINOJOSA & COMPANY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"PLAZA OF THE AMERICAS, SOUTH TOWER\", \"street2\": \"600 NORTH PEARL STREET, SUITE 2100\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75201\"}, \"mailingAddress\": {\"street1\": \"PLAZA OF THE AMERICAS\", \"street2\": \"600 NORTH PEARL STREET, SUITE 2100\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75201-7361\"}, \"businessPhoneNumber\": \"214-658-1670\", \"iaFirmName\": \"ESTRADA HINOJOSA & COMPANY, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1717 MAIN STREET\", \"street2\": \"SUITE 4700\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75201-7361\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "112 West 34th Street",
+                                        "street2": "18th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10120"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "153563",
+                    "firm_bd_sec_number": "68549",
+                    "firm_bd_full_sec_number": "8-68549",
+                    "firm_name": "INDEPENDENT BROKERAGE SOLUTIONS LLC",
+                    "firm_other_names": [
+                        "INDEPENDENT BROKERAGE SOLUTIONS LLC",
+                        "SDDCO BROKERAGE ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"485 MADISON AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"485 MADISON AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-751-4424\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "485 MADISON AVENUE",
+                                        "street2": "2ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322233",
+                    "firm_bd_sec_number": "70940",
+                    "firm_bd_full_sec_number": "8-70940",
+                    "firm_name": "FUNDAMENTAL INTERACTIONS NEUTRON DIRECT, LLC",
+                    "firm_other_names": [
+                        "FUNDAMENTAL INTERACTIONS NEUTRON DIRECT, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"115 WEST 30TH STREET\", \"street2\": \"FOURTH FLOOR  UNIT 401\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"115 WEST 30TH STREET\", \"street2\": \"FOURTH FLOOR. UNIT 401\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-845-9077\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "115 WEST 30TH STREET",
+                                        "street2": "FOURTH FLOOR  UNIT 401",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "315151",
+                    "firm_bd_sec_number": "70734",
+                    "firm_bd_full_sec_number": "8-70734",
+                    "firm_name": "CARVER EDISON CAPITAL, LLC",
+                    "firm_other_names": [
+                        "CARVER EDISON CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 VARICK STREET\", \"street2\": \"#508\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"mailingAddress\": {\"street1\": \"200 VARICK STREET\", \"street2\": \"#508\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"businessPhoneNumber\": \"917-716-4562\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 VARICK STREET",
+                                        "street2": "#508",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127653",
+                    "firm_bd_sec_number": "66025",
+                    "firm_bd_full_sec_number": "8-66025",
+                    "firm_name": "HAMILTON EXECUTIONS L.L.C.",
+                    "firm_other_names": [
+                        "HAMILTON EXECUTIONS L.L.C.",
+                        "R.A.P. EXECUTIONS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 WALL STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"11 WALL STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-306-2101\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 WALL STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14232",
+                    "firm_bd_sec_number": "29755",
+                    "firm_bd_full_sec_number": "8-29755",
+                    "firm_name": "DELAWARE DISTRIBUTORS, L.P.",
+                    "firm_other_names": [
+                        "DELAWARE DISTRIBUTORS, L.P.",
+                        "DELAWARE DISTRIBUTORS,INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 INDEPENDENCE\", \"street2\": \"610 MARKET STREET\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19106-2354\"}, \"mailingAddress\": {\"street1\": \"100 INDEPENDENCE\", \"street2\": \"610 MARKET STREET\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19106-2354\"}, \"businessPhoneNumber\": \"215-255-1200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "125 W. 55th",
+                                        "street2": "L15",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44319",
+                    "firm_bd_sec_number": "50618",
+                    "firm_bd_full_sec_number": "8-50618",
+                    "firm_name": "FAMILY MANAGEMENT SECURITIES, LLC",
+                    "firm_other_names": [
+                        "FAMILY MANAGEMENT SECURITIES CORPORATION",
+                        "FAMILY MANAGEMENT SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 GRAND CENTRAL\", \"street2\": \"155 EAST 44TH STREET - 21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"10 GRAND CENTRAL\", \"street2\": \"155 EAST 44TH STREET - 21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-872-9600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 GRAND CENTRAL",
+                                        "street2": "155 EAST 44TH STREET - 21ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127605",
+                    "firm_bd_sec_number": "66024",
+                    "firm_bd_full_sec_number": "8-66024",
+                    "firm_name": "DNB MARKETS, INC.",
+                    "firm_other_names": [
+                        "DNB MARKETS, INC.",
+                        "DNB NOR MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 HUDSON YARDS, 81ST FLOOR\", \"street2\": \"500 WEST 33RD STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"30 HUDSON YARDS, 81ST FLOOR\", \"street2\": \"500 WEST 33RD STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-681-3800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 HUDSON YARDS, 81ST FLOOR",
+                                        "street2": "500 WEST 33RD STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "113892",
+                    "firm_bd_sec_number": "53382",
+                    "firm_bd_full_sec_number": "8-53382",
+                    "firm_name": "BLUEFIN CAPITAL MANAGEMENT, LLC",
+                    "firm_other_names": [
+                        "BLUEFIN CAPITAL MANAGEMENT, LLC",
+                        "BLUEFIN TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"41 MADISON AVENUE\", \"street2\": \"36TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"41 MADISON AVENUE\", \"street2\": \"36TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"212-457-9150\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "41 MADISON AVENUE",
+                                        "street2": "36TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104457",
+                    "firm_bd_sec_number": "52911",
+                    "firm_bd_full_sec_number": "8-52911",
+                    "firm_name": "CCM SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CCM SECURITIES, LLC",
+                        "TURNING POINT SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"440 S. LASALLE STREET\", \"street2\": \"SUITE 900\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60605\"}, \"mailingAddress\": {\"street1\": \"440 S. LASALLE STREET\", \"street2\": \"SUITE 900\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60605\"}, \"businessPhoneNumber\": \"312-577-5602\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "41 Madison Avenue",
+                                        "street2": "36th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47275",
+                    "firm_bd_sec_number": "51760",
+                    "firm_bd_full_sec_number": "8-51760",
+                    "firm_name": "SCF SECURITIES, INC.",
+                    "firm_other_names": [
+                        "SCF SECURITIES, INC.",
+                        "SECURITY CONSULTANTS FINANCIAL SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 63,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10150 MEANLEY DRIVE, FIRST FLOOR\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92131\"}, \"mailingAddress\": {\"street1\": \"10150 MEANLEY DRIVE, FIRST FLOOR\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92131\"}, \"businessPhoneNumber\": \"559-456-6100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "58 PATTON BLVD",
+                                        "city": "NEW HYDE PARK",
+                                        "state": "NY",
+                                        "zipCode": "11040"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

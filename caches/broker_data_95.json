@@ -1,0 +1,481 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "313267",
+                    "firm_bd_sec_number": "70683",
+                    "firm_bd_full_sec_number": "8-70683",
+                    "firm_name": "BLOOMBERG TRADEBOOK CANADA COMPANY",
+                    "firm_other_names": [
+                        "BLOOMBERG TRADEBOOK CANADA COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"BROOKFIELD PLACE,TD CANADA TRUST TOWER,161 BAY ST.\", \"street2\": \"SUITE 4300\", \"city\": \"TORONTO, ONTARIO\", \"country\": \"CANADA\", \"postalCode\": \"M5J 2S1\"}, \"mailingAddress\": {\"street1\": \"BROOKFIELD PLACE,TD CANADA TRUST TOWER,161 BAY ST.\", \"street2\": \"SUITE 4300\", \"city\": \"TORONTO, ONTARIO\", \"country\": \"CANADA\", \"postalCode\": \"M5J 2S1\"}, \"businessPhoneNumber\": \"212-617-4865\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "731 Lexington Ave",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38383",
+                    "firm_bd_sec_number": "48416",
+                    "firm_bd_full_sec_number": "8-48416",
+                    "firm_name": "AXCELUS FINANCIAL DISTRIBUTION COMPANY",
+                    "firm_other_names": [
+                        "AXCELUS FINANCIAL DISTRIBUTION COMPANY",
+                        "PHOENIX EQUITY PLANNING CORPORATION",
+                        "PHILADELPHIA FINANCIAL DISTRIBUTION COMPANY",
+                        "PFG DISTRIBUTION COMPANY",
+                        "LOMBARD INTERNATIONAL DISTRIBUTION COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1650 MARKET STREET\", \"street2\": \"8TH FLOOR\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19103\"}, \"mailingAddress\": {\"street1\": \"1650 MARKET STREET\", \"street2\": \"8TH FLOOR\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19103\"}, \"businessPhoneNumber\": \"484 530-4800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "400 Park Avenue, 20th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47873",
+                    "firm_bd_sec_number": "51935",
+                    "firm_bd_full_sec_number": "8-51935",
+                    "firm_name": "SAFRA SECURITIES LLC",
+                    "firm_other_names": [
+                        "SAFRA SECURITIES CORPORATION",
+                        "SAFRA SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"546 FIFTH AVE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"546 FIFTH AVE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-704-5500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "546 FIFTH AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322213",
+                    "firm_bd_sec_number": "70978",
+                    "firm_bd_full_sec_number": "8-70978",
+                    "firm_name": "ORTEX SECURITIES LLC",
+                    "firm_other_names": [
+                        "ORTEX SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 PARK PLACE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"720 LUCERNE AVENUE\", \"street2\": \"# 901\", \"city\": \"LAKE WORTH BEACH\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33460\"}, \"businessPhoneNumber\": \"1(212) 686-1630\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 PARK PLACE",
+                                        "city": "NEW YORK ",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309048",
+                    "firm_bd_sec_number": "70519",
+                    "firm_bd_full_sec_number": "8-70519",
+                    "firm_name": "ADELPHI STOCK BROKERS",
+                    "firm_other_names": [
+                        "ADELPHI STOCK BROKERS",
+                        "ADELPHI STOCK BROKERS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 CORNWALL LANE\", \"city\": \"SANDS POINT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11050\"}, \"mailingAddress\": {\"street1\": \"40 CORNWALL LANE\", \"city\": \"SANDS POINT\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11050\"}, \"businessPhoneNumber\": \"646-479-1146\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 Cornwall Ln",
+                                        "city": "Sands Point",
+                                        "state": "NY",
+                                        "zipCode": "11050"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43261",
+                    "firm_bd_sec_number": "50200",
+                    "firm_bd_full_sec_number": "8-50200",
+                    "firm_name": "PRINCIPAL FUNDS DISTRIBUTOR, INC.",
+                    "firm_other_names": [
+                        "COMPOSITE DISTRIBUTORS INC.",
+                        "WM FUNDS DISTRIBUTOR, INC.",
+                        "PRINCIPAL FUNDS DISTRUBUTOR, INC.",
+                        "PRINCIPAL FUNDS DISTRIBUTOR, INC.",
+                        "COMPOSITE FUNDS DISTRIBUTOR, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 17,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"711 HIGH STREET\", \"city\": \"DES MOINES\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"50392\"}, \"mailingAddress\": {\"street1\": \"711 HIGH STREET\", \"city\": \"DES MOINES\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"50392\"}, \"businessPhoneNumber\": \"800-222-5852\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "888 7TH AVENUE",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "13609",
+                    "firm_bd_sec_number": "29426",
+                    "firm_bd_full_sec_number": "8-29426",
+                    "firm_ia_sec_number": "62277",
+                    "firm_ia_full_sec_number": "801-62277",
+                    "firm_name": "BERTHEL, FISHER & COMPANY FINANCIAL SERVICES, INC.",
+                    "ia_firm_name": "BERTHEL FISHER & COMPANY FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "BERTHEL FISHER & COMPANY",
+                        "MORAMERICA FINANCIAL SERVICES, INC.",
+                        "BERTHEL, FISHER & FLEISCHMAN FINANCIAL SERVICES, INC.",
+                        "BERTHEL, FISHER & COMPANY FINANCIAL SERVICES, INC.",
+                        "BERTHEL FISHER & COMPANY INC.",
+                        "BERTHEL FISHER & COMPANY FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 165,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4201 42ND STREET NE\", \"street2\": \"SUITE 100\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52402\"}, \"mailingAddress\": {\"street1\": \"P. O. BOX 11340\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52410-1340\"}, \"businessPhoneNumber\": \"319-447-5700\", \"iaFirmName\": \"BERTHEL FISHER & COMPANY FINANCIAL SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"4201 42ND STREET NE\", \"street2\": \"SUITE 100\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"United States\", \"postalCode\": \"52402\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 North Main Street",
+                                        "street2": "Suite 301",
+                                        "city": "Cortland",
+                                        "state": "NY",
+                                        "zipCode": "13045"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37157",
+                    "firm_bd_sec_number": "47639",
+                    "firm_bd_full_sec_number": "8-47639",
+                    "firm_name": "THE LEADERS GROUP, INC.",
+                    "firm_other_names": [
+                        "THE LEADERS GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 57,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"26 W. DRY CREEK CIRCLE\", \"street2\": \"SUITE 800\", \"city\": \"LITTLETON\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80120-4475\"}, \"mailingAddress\": {\"street1\": \"26 W. DRY CREEK CIRCLE\", \"street2\": \"SUITE 800\", \"city\": \"LITTLETON\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80120-4475\"}, \"businessPhoneNumber\": \"303-797-9080\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "550 5th Avenue, 11th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36155",
+                    "firm_bd_sec_number": "47035",
+                    "firm_bd_full_sec_number": "8-47035",
+                    "firm_ia_sec_number": "72427",
+                    "firm_ia_full_sec_number": "801-72427",
+                    "firm_name": "PERFORMANCE TRUST CAPITAL PARTNERS, LLC",
+                    "ia_firm_name": "PERFORMANCE TRUST CAPITAL PARTNERS, LLC",
+                    "firm_other_names": [
+                        "BETZOLD RESEARCH AND TRADING, INC.",
+                        "PT CAPITAL PARTNERS, LLC",
+                        "PERFORMANCE TRUST CAPITAL PARTNERS, LLC",
+                        "PERFORMANCE TRUST CAPITAL PARTNERS, INC.",
+                        "BETZOLD, BERG, NUSSBAUM & HEITMAN, INC.",
+                        "BETZOLD, BERG & NUSSBAUM, INC.",
+                        "BETZOLD, BERG & ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 14,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"500 W. MADISON\", \"street2\": \"SUITE 450\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60661\"}, \"mailingAddress\": {\"street1\": \"500 W. MADISON\", \"street2\": \"SUITE 450\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60661\"}, \"businessPhoneNumber\": \"312-521-1452\", \"iaFirmName\": \"PERFORMANCE TRUST CAPITAL PARTNERS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"500 W. MADISON\", \"street2\": \"SUITE 450\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60661\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "261 Fifth Avenue",
+                                        "street2": "Suite 1509",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "249",
+                    "firm_bd_sec_number": "4077",
+                    "firm_bd_full_sec_number": "8-4077",
+                    "firm_ia_sec_number": "887",
+                    "firm_ia_full_sec_number": "801-887",
+                    "firm_name": "OPPENHEIMER & CO. INC.",
+                    "ia_firm_name": "OPPENHEIMER & CO. INC.",
+                    "firm_other_names": [
+                        "CAROLAN DIVISION OF OPPENHEIMER & CO. INC.",
+                        "REPARIAN PARTNERS, DIVISION OF OPPENHEIMER & CO. INC.",
+                        "PEARL STREET INVESTMENT MANAGEMENT , DIVISION OF OPPENHEIMER & C",
+                        "OPPENHEIMER & CO. INC.",
+                        "OMEGA SERVICES PROGRAM",
+                        "NEWBOLD'S INVESTMENT ADVISORS",
+                        "FIRST OF MICHIGAN DIVISION",
+                        "FAHNESTOCK DIVISION OF OPPENHEIMER & CO. INC.",
+                        "FAHNESTOCK ASSET MANAGEMENT DIVISION OF OPPENHEIMER & CO. INC.",
+                        "FAHNESTOCK ASSET MANAGEMENT",
+                        "FAHNESTOCK & CO., INC.",
+                        "FAHNESTOCK & CO. INC.",
+                        "EDWARD A. VINER & CO., INC.",
+                        "CRANBROOK CAPITAL MANAGEMENT, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 219,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"85 BROAD STREET\", \"street2\": \"22ND,24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"85 BROAD STREET\", \"street2\": \"22ND FLOOR\", \"city\": \"NY\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212 668-8000\", \"iaFirmName\": \"OPPENHEIMER & CO. INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"85 BROAD STREET\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10004\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "MT. KISCO",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "189511",
+                    "firm_bd_sec_number": "69612",
+                    "firm_bd_full_sec_number": "8-69612",
+                    "firm_name": "CASTLE PLACEMENT, LLC",
+                    "firm_other_names": [
+                        "CASTLE PLACEMENT, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 15,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1460 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1460 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-418-1180\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1460 BROADWAY",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149102",
+                    "firm_bd_sec_number": "68111",
+                    "firm_bd_full_sec_number": "8-68111",
+                    "firm_name": "DCF, LLC",
+                    "firm_other_names": [
+                        "DCF",
+                        "DECOSIMO CORPORATE FINANCE, LLC",
+                        "DECOSIMO CORPORATE FINANCE",
+                        "DCF, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"629 MARKET STREET\", \"street2\": \"SUITE 120\", \"city\": \"CHATTANOOGA\", \"state\": \"TN\", \"postalCode\": \"37402\"}, \"mailingAddress\": {\"street1\": \"629 MARKET STREET\", \"street2\": \"SUITE 120\", \"city\": \"CHATTANOOGA\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"37402\"}, \"businessPhoneNumber\": \"4239913680\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "488 Madison Avenue",
+                                        "street2": "21 Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

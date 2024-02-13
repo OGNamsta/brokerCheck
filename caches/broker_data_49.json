@@ -1,0 +1,454 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129919",
+                    "firm_bd_sec_number": "66273",
+                    "firm_bd_full_sec_number": "8-66273",
+                    "firm_name": "DC ADVISORY",
+                    "firm_other_names": [
+                        "DAIWA CORPORATE ADVISORY LLC",
+                        "SAGENT ADVISORS, LLC",
+                        "SAGENT ADVISORS, INC.",
+                        "SAGENT ADVISORS INC.",
+                        "DCS ADVISORY LLC",
+                        "DC ADVISORY US",
+                        "DC ADVISORY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"605 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10158\"}, \"mailingAddress\": {\"street1\": \"605 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10158\"}, \"businessPhoneNumber\": \"212-904-9400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "605 THIRD AVENUE",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10158"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154957",
+                    "firm_bd_sec_number": "68686",
+                    "firm_bd_full_sec_number": "8-68686",
+                    "firm_name": "PIMCO INVESTMENTS LLC",
+                    "firm_other_names": [
+                        "PIMCO INVESTMENTS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"45TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"45TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212.739.3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1633 BROADWAY",
+                                        "street2": "45TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "165758",
+                    "firm_bd_sec_number": "69181",
+                    "firm_bd_full_sec_number": "8-69181",
+                    "firm_name": "PRIVATE BROKERS, LLC",
+                    "firm_other_names": [
+                        "CEDARBRIDGE SECURITIES, LLC",
+                        "PUBLIC BROKERS, LLC",
+                        "PRIVATE BROKERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"745 5TH AVENUE\", \"street2\": \"SUITE 500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10151\"}, \"mailingAddress\": {\"street1\": \"745 5TH AVENUE\", \"street2\": \"SUITE 500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10151\"}, \"businessPhoneNumber\": \"(212) 210-6324\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "745 5TH AVENUE",
+                                        "street2": "SUITE 500",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10151"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "288891",
+                    "firm_bd_sec_number": "69966",
+                    "firm_bd_full_sec_number": "8-69966",
+                    "firm_name": "CURRENT CAPITAL SECURITIES LLC",
+                    "firm_other_names": [
+                        "CURRENT CAPITAL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"950 THIRD AVE - 26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"950 THIRD AVE - 26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-737-3671\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "950 THIRD AVE - 26TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47107",
+                    "firm_bd_sec_number": "51667",
+                    "firm_bd_full_sec_number": "8-51667",
+                    "firm_name": "INTE SECURITIES LLC",
+                    "firm_other_names": [
+                        "EQUINOX SECURITIES, LLC",
+                        "TRUMP SECURITIES, LLC",
+                        "INTE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7000 W PALMETTO PARK ROAD\", \"street2\": \"SUITE 503\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33433\"}, \"mailingAddress\": {\"street1\": \"7000 W PALMETTO PARK ROAD\", \"street2\": \"SUITE 503\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33433\"}, \"businessPhoneNumber\": \"212-897-1694\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 Avenue of the Americas - 11th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104063",
+                    "firm_bd_sec_number": "52532",
+                    "firm_bd_full_sec_number": "8-52532",
+                    "firm_name": "NEWOAK CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "GIORDANO - DELLA CAMERA SECURITIES LLC",
+                        "NEWOAK CAPITAL MARKETS LLC",
+                        "J. GIORDANO SECURITIES LLC",
+                        "J. GIORDANO SECURITIES",
+                        "J GIORDANO SECURITIES LLC",
+                        "J GIORDANO SECURITIES GROUP",
+                        "J GIORDANO SECURITIES",
+                        "GIORDANO DELLACAMERA SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 COLUMBUS CIRCLE, 15TH FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"3 COLUMBUS CIRCLE, 15TH FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-209-0850\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 COLUMBUS CIRCLE, 15TH FL.",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154075",
+                    "firm_bd_sec_number": "68606",
+                    "firm_bd_full_sec_number": "8-68606",
+                    "firm_name": "FENICS EXECUTION, LLC",
+                    "firm_other_names": [
+                        "FENICS EXECUTION, LLC",
+                        "MODENA SECURITIES LLC",
+                        "KYTE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WATER STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10041\"}, \"mailingAddress\": {\"street1\": \"55 WATER STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10041\"}, \"businessPhoneNumber\": \"212 968-4122\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 WATER STREET",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10041"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157625",
+                    "firm_bd_sec_number": "68856",
+                    "firm_bd_full_sec_number": "8-68856",
+                    "firm_name": "LASALLE INVESTMENT MANAGEMENT DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "LASALLE INVESTMENT MANAGEMENT DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"333 WEST WACKER DRIVE\", \"street2\": \"SUITE 2300\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"333 WEST WACKER DRIVE\", \"street2\": \"SUITE 2300\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-897-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 Madison Avenue",
+                                        "street2": "4th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37731",
+                    "firm_bd_sec_number": "47939",
+                    "firm_bd_full_sec_number": "8-47939",
+                    "firm_name": "EATON VANCE DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "EATON VANCE DISTRIBUTORS,  INC.",
+                        "EV DISTRIBUTORS, INC.",
+                        "EATON VANCE DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"TWO INTERNATIONAL PLACE\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02110\"}, \"mailingAddress\": {\"street1\": \"TWO INTERNATIONAL PLACE\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02110\"}, \"businessPhoneNumber\": \"617-482-8260\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1585 Broadway",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "174423",
+                    "firm_bd_sec_number": "69571",
+                    "firm_bd_full_sec_number": "8-69571",
+                    "firm_name": "ARCTIC SECURITIES LLC",
+                    "firm_other_names": [
+                        "ARCTIC SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 1960\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10124\"}, \"mailingAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 1960\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10111\"}, \"businessPhoneNumber\": \"212-597-5555\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "45 ROCKEFELLER PLAZA",
+                                        "street2": "SUITE 1960",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10111"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "297706",
+                    "firm_bd_sec_number": "70176",
+                    "firm_bd_full_sec_number": "8-70176",
+                    "firm_name": "SMBC NIKKO SECURITIES CANADA, LTD.",
+                    "firm_other_names": [
+                        "SMBC NIKKO SECURITIES CANADA, LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"277 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172\"}, \"mailingAddress\": {\"street1\": \"277 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172\"}, \"businessPhoneNumber\": \"212-224-5300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "277 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10172"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150443",
+                    "firm_bd_sec_number": "68260",
+                    "firm_bd_full_sec_number": "8-68260",
+                    "firm_name": "YOUNG AMERICA CAPITAL, LLC",
+                    "firm_other_names": [
+                        "YOUNG AMERICA CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"141 EAST BOSTON POST ROAD\", \"city\": \"MAMARONECK\", \"state\": \"NY\", \"postalCode\": \"10543\"}, \"mailingAddress\": {\"street1\": \"141 EAST BOSTON POST ROAD\", \"city\": \"MAMARONECK\", \"state\": \"NY\", \"postalCode\": \"10543\"}, \"businessPhoneNumber\": \"914-777-0100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "141 EAST BOSTON POST ROAD",
+                                        "city": "MAMARONECK",
+                                        "state": "NY",
+                                        "zipCode": "10543"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

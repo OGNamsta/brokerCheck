@@ -1,0 +1,451 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42820",
+                    "firm_bd_sec_number": "50015",
+                    "firm_bd_full_sec_number": "8-50015",
+                    "firm_name": "TRIPLETREE, LLC",
+                    "firm_other_names": [
+                        "CHERRY TREE & CO., LLC",
+                        "TRIPLETREE, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8200 NORMANDALE LAKE BLVD\", \"street2\": \"7TH FLOOR\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55437\"}, \"mailingAddress\": {\"street1\": \"8200 NORMANDALE LAKE BLVD\", \"street2\": \"7TH FLOOR\", \"city\": \"MINNEAPOLIS\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55437\"}, \"businessPhoneNumber\": \"952-223-8400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "299 Park Avenue",
+                                        "street2": "14th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10171"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151615",
+                    "firm_bd_sec_number": "68386",
+                    "firm_bd_full_sec_number": "8-68386",
+                    "firm_name": "NORTHERN EDGE CAPITAL ADVISORS LLC",
+                    "firm_other_names": [
+                        "BCMS CAPITAL ADVISORS LLC",
+                        "NORTHERN EDGE CAPITAL ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"747 THIRD AVE. 27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"747 THIRD AVE. 27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(212) 520-8290\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "747 THIRD AVE. 27TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39978",
+                    "firm_bd_sec_number": "48914",
+                    "firm_bd_full_sec_number": "8-48914",
+                    "firm_name": "SWISS RE CAPITAL MARKETS CORPORATION",
+                    "firm_other_names": [
+                        "SWISS RE CAPITAL MARKETS CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1301 AVENUE OF THE AMERICAS\", \"street2\": \"43RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1301 AVENUE OF THE AMERICAS\", \"street2\": \"43RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-317-5400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1301 AVENUE OF THE AMERICAS",
+                                        "street2": "43RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1612",
+                    "firm_bd_sec_number": "20392",
+                    "firm_bd_full_sec_number": "8-20392",
+                    "firm_name": "WORLD FIRST FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "MARQUETTE DE BARY CO., INC.",
+                        "WORLD FIRST FINANCIAL SERVICES, INC.",
+                        "WORLD FIRST FINANCIAL SERVICES INC",
+                        "MARQUETTE DE BARY CO., INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19 BANGOR STREET\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10314\"}, \"mailingAddress\": {\"street1\": \"19 BANGOR STREET\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10314\"}, \"businessPhoneNumber\": \"212-584-4139\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "19 BANGOR STREET",
+                                        "city": "STATEN ISLAND",
+                                        "state": "NY",
+                                        "zipCode": "10314"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "308",
+                    "firm_bd_sec_number": "11700",
+                    "firm_bd_full_sec_number": "8-11700",
+                    "firm_name": "COOMBE FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "COOMBE FINANCIAL SERVICES, INC.",
+                        "FIRST MONTICELLO SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"129 SOUTH MAIN ST\", \"city\": \"ELLENVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12428\"}, \"mailingAddress\": {\"street1\": \"129 SOUTH MAIN ST\", \"city\": \"ELLENVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12428\"}, \"businessPhoneNumber\": \"845-647-4800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "129 S Main St",
+                                        "city": "Ellenville",
+                                        "state": "NY",
+                                        "zipCode": "12428"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6963",
+                    "firm_bd_sec_number": "19014",
+                    "firm_bd_full_sec_number": "8-19014",
+                    "firm_name": "SAMUEL A. RAMIREZ & COMPANY, INC.",
+                    "firm_other_names": [
+                        "RAMIREZ",
+                        "SAMUEL A. RAMIREZ & COMPANY, INC.",
+                        "SAMUEL A. RAMIREZ & CO., INC.",
+                        "SAMUEL A RAMIREZ & CO., INC.",
+                        "RAMIREZ & CO., INC.",
+                        "RAMIREZ & CO., INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 14,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"61 BROADWAY 29 TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006\"}, \"mailingAddress\": {\"street1\": \"61 BROADWAY 29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006\"}, \"businessPhoneNumber\": \"212-248-0500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "61 BROADWAY 29 TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "301726",
+                    "firm_bd_sec_number": "70333",
+                    "firm_bd_full_sec_number": "8-70333",
+                    "firm_name": "FINAMEX INTERNATIONAL, LLC",
+                    "firm_other_names": [
+                        "FINAMEX INTERNATIONAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2700 POST OAK BLVD.\", \"street2\": \"20TH FLOOR, SUITE 20-126\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77056\"}, \"mailingAddress\": {\"street1\": \"2700 POST OAK BLVD.\", \"street2\": \"20TH FLOOR, SUITE 20-126\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77056\"}, \"businessPhoneNumber\": \"713-589-7121\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 5TH AVENUE",
+                                        "street2": "16TH FLOOR, SUITE 143",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43871",
+                    "firm_bd_sec_number": "50450",
+                    "firm_bd_full_sec_number": "8-50450",
+                    "firm_name": "WESTROCK CAPITAL MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "WESTROCK CAPITAL MANAGEMENT, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"754 CHESTNUT RIDGE RD.\", \"city\": \"CHESTNUT RIDGE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10977\"}, \"mailingAddress\": {\"street1\": \"754 CHESTNUT RIDGE RD.\", \"city\": \"CHESTNUT RIDGE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10977\"}, \"businessPhoneNumber\": \"845-371-8800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "754 CHESTNUT RIDGE RD.",
+                                        "city": "CHESTNUT RIDGE",
+                                        "state": "NY",
+                                        "zipCode": "10977"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30397",
+                    "firm_bd_sec_number": "44905",
+                    "firm_bd_full_sec_number": "8-44905",
+                    "firm_name": "PMA SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ENGLISH CONCEPTS, INC.",
+                        "PMA SECURITIES, LLC",
+                        "PMA SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2135 CITYGATE LANE\", \"street2\": \"7TH FLOOR\", \"city\": \"NAPERVILLE\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60563\"}, \"mailingAddress\": {\"street1\": \"2135 CITYGATE LANE\", \"street2\": \"7TH FLOOR\", \"city\": \"NAPERVILLE\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60563\"}, \"businessPhoneNumber\": \"630-657-6400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 Westgate Business Center Drive",
+                                        "street2": "Suite 405",
+                                        "city": "Fishkill",
+                                        "state": "NY",
+                                        "zipCode": "12524"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154945",
+                    "firm_bd_sec_number": "68685",
+                    "firm_bd_full_sec_number": "8-68685",
+                    "firm_name": "DAM CAPITAL (USA) INC.",
+                    "firm_other_names": [
+                        "DAM CAPITAL (USA) INC.",
+                        "IDFC CAPITAL (USA), INC.",
+                        "IDFC CAPITAL (USA) INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY\", \"street2\": \"SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY\", \"street2\": \"SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-897-1694\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 Broadway",
+                                        "street2": "Suite 12-129",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114212",
+                    "firm_bd_sec_number": "53412",
+                    "firm_bd_full_sec_number": "8-53412",
+                    "firm_name": "BROADRIDGE BUSINESS PROCESS OUTSOURCING, LLC",
+                    "firm_other_names": [
+                        "BROADRIDGE BUSINESS PROCESS OUTSOURCING, LLC",
+                        "MSCS FINANCIAL SERVICES, LLC",
+                        "MSCS FINANCIAL SERVICES",
+                        "LTX"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 EXECUTIVE DRIVE\", \"street2\": \"SUITE 1\", \"city\": \"EDGEWOOD\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11717-8382\"}, \"mailingAddress\": {\"street1\": \"300 EXECUTIVE DRIVE\", \"street2\": \"SUITE 1\", \"city\": \"EDGEWOOD\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11717-8382\"}, \"businessPhoneNumber\": \"201-793-9304\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 Executive Drive",
+                                        "city": "Edgewood",
+                                        "state": "NY",
+                                        "zipCode": "11717"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306750",
+                    "firm_bd_sec_number": "70472",
+                    "firm_bd_full_sec_number": "8-70472",
+                    "firm_name": "PURESTREAM, LLC",
+                    "firm_other_names": [
+                        "PURESTREAM, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"712 FIFTH AVENUE\", \"street2\": \"21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"712 FIFTH AVENUE\", \"street2\": \"21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"201-694-6421\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "712 Fifth Avenue",
+                                        "street2": "21ST Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

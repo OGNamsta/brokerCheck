@@ -1,0 +1,457 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "167601",
+                    "firm_bd_sec_number": "69269",
+                    "firm_bd_full_sec_number": "8-69269",
+                    "firm_name": "BREAKWATER GROUP DISTRIBUTION SERVICES, LLC",
+                    "firm_other_names": [
+                        "BREAKWATER GROUP DISTRIBUTION SERVICES, LLC",
+                        "BREAKWATER GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"350 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"350 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 716-6570\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "350 MADISON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146344",
+                    "firm_bd_sec_number": "67812",
+                    "firm_bd_full_sec_number": "8-67812",
+                    "firm_ia_sec_number": "78702",
+                    "firm_ia_full_sec_number": "801-78702",
+                    "firm_name": "INNOVATION PARTNERS LLC",
+                    "ia_firm_name": "INNOVATION PARTNERS LLC",
+                    "firm_other_names": [
+                        "DEEMER WEALTH MANAGEMENT",
+                        "INNOVATION PARTNERS LLC.",
+                        "INNOVATION PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 50,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5950 FAIRVIEW ROAD\", \"street2\": \"SUITE 140\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"postalCode\": \"28210\"}, \"mailingAddress\": {\"street1\": \"5950 FAIRVIEW ROAD\", \"street2\": \"SUITE 140\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"postalCode\": \"28210\"}, \"businessPhoneNumber\": \"704-708-5461\", \"iaFirmName\": \"INNOVATION PARTNERS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5950 FAIRVIEW ROAD\", \"street2\": \"SUITE 140\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"United States\", \"postalCode\": \"28210\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1384 Broadway, Suite 1602",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38485",
+                    "firm_bd_sec_number": "48279",
+                    "firm_bd_full_sec_number": "8-48279",
+                    "firm_name": "HANDELSBANKEN MARKETS SECURITIES, INC.",
+                    "firm_other_names": [
+                        "AFFILIATED COMPANY UNDER COMMON CONTROL:  SVENSKA HANDELSBANKEN AB (PUBL) NY BRANCH",
+                        "HANDELSBANKEN MARKETS SECURITIES, INC.",
+                        "HANDELSBANKEN ASSET MANAGEMENT, USA"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 THIRD AVENUE\", \"street2\": \"17 TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022-4678\"}, \"mailingAddress\": {\"street1\": \"900 THIRD AVENUE\", \"street2\": \"17 TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022-4678\"}, \"businessPhoneNumber\": \"212-326-5153\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "HANDELSBANKEN MARKETS SECURITIES INC",
+                                        "street2": "875 THIRD AVE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "3036",
+                    "firm_bd_sec_number": "14100",
+                    "firm_bd_full_sec_number": "8-14100",
+                    "firm_name": "VP DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "PHOENIX EQUITY PLANNING CORPORATION",
+                        "VP DISTRIBUTORS LLC",
+                        "VP DISTRIBUTORS INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FINANCIAL PLAZA\", \"city\": \"HARTFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06103\"}, \"mailingAddress\": {\"street1\": \"ONE FINANCIAL PLAZA\", \"city\": \"HARTFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06103\"}, \"businessPhoneNumber\": \"860-263-4736\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "31 WEST 52ND STREET",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17073",
+                    "firm_bd_sec_number": "34999",
+                    "firm_bd_full_sec_number": "8-34999",
+                    "firm_ia_sec_number": "62967",
+                    "firm_ia_full_sec_number": "801-62967",
+                    "firm_name": "UMB FINANCIAL SERVICES, INC.",
+                    "ia_firm_name": "UMB FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "SCOUT BROKERAGE SERVICES, INC.",
+                        "UNITED MISSOURI BROKERAGE SERVICES, INC.",
+                        "UMB SCOUT BROKERAGE SERVICES, INC.",
+                        "UMB FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 31,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"928 GRAND AVENUE\", \"city\": \"KANSAS CITY\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"64106\"}, \"mailingAddress\": {\"street1\": \"928 GRAND AVENUE\", \"city\": \"KANSAS CITY\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"64106\"}, \"businessPhoneNumber\": \"816 842-2222\", \"iaFirmName\": \"UMB FINANCIAL SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"928 GRAND BLVD\", \"city\": \"KANSAS CITY\", \"state\": \"MO\", \"country\": \"United States\", \"postalCode\": \"64106\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 William Street",
+                                        "street2": "Suite 1850",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "314554",
+                    "firm_bd_sec_number": "70715",
+                    "firm_bd_full_sec_number": "8-70715",
+                    "firm_name": "SUNTHAY GRX LLC",
+                    "firm_other_names": [
+                        "SUNTHAY GRX LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"ROOM 2001\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"ROOM 2001\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-939-4072\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "ROOM 2001",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "277056",
+                    "firm_bd_sec_number": "69650",
+                    "firm_bd_full_sec_number": "8-69650",
+                    "firm_name": "CVC FUNDING, LLC",
+                    "firm_other_names": [
+                        "CVC CREDIT PARTNERS 712, LLC",
+                        "CVC FUNDING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"712 FIFTH AVENUE\", \"street2\": \"SUITE 45B2\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"712 FIFTH AVENUE\", \"street2\": \"SUITE 45B2\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-506-3858\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "712 FIFTH AVENUE",
+                                        "street2": "SUITE 45B2",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "164763",
+                    "firm_bd_sec_number": "69113",
+                    "firm_bd_full_sec_number": "8-69113",
+                    "firm_name": "WESTPAC CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "WESTPAC CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 FIFTH AVE, FLOOR 39\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"575 FIFTH AVE, FLOOR 39\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-551-1800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 FIFTH AVE, FLOOR 39",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103957",
+                    "firm_bd_sec_number": "52424",
+                    "firm_bd_full_sec_number": "8-52424",
+                    "firm_name": "STARLIGHT FUNDING INVESTMENTS, LLC",
+                    "firm_other_names": [
+                        "STARLIGHT FUNDING INVESTMENTS, LLC",
+                        "STARLIGHT INVESTMENTS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1307 BONITA AVE\", \"city\": \"BERKELEY\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94709\"}, \"mailingAddress\": {\"street1\": \"1307 BONITA AVE\", \"city\": \"BERKELEY\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94709\"}, \"businessPhoneNumber\": \"510-527-6954\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "235 E. 50TH",
+                                        "street2": "Ste.57",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "311317",
+                    "firm_bd_sec_number": "70612",
+                    "firm_bd_full_sec_number": "8-70612",
+                    "firm_name": "THOMA BRAVO CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "THOMA BRAVO CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"110 NORTH WACKER DRIVE\", \"street2\": \"32ND FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606-1511\"}, \"mailingAddress\": {\"street1\": \"110 NORTH WACKER DRIVE\", \"street2\": \"32ND FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606-1511\"}, \"businessPhoneNumber\": \"(312) 254-3300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "375 Park Avenue ",
+                                        "street2": "Suite 1504 ",
+                                        "city": "New York ",
+                                        "state": "NY",
+                                        "zipCode": "10152"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136941",
+                    "firm_bd_sec_number": "67051",
+                    "firm_bd_full_sec_number": "8-67051",
+                    "firm_name": "CSP SECURITIES, LP",
+                    "firm_other_names": [
+                        "CSP SECURITIES, LP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"13355 NOEL ROAD\", \"street2\": \"SUITE 1600\", \"city\": \"DALLAS\", \"state\": \"TX\", \"postalCode\": \"75240\"}, \"mailingAddress\": {\"street1\": \"13355 NOEL ROAD\", \"street2\": \"SUITE 1600\", \"city\": \"DALLAS\", \"state\": \"TX\", \"postalCode\": \"75240\"}, \"businessPhoneNumber\": \"972 980-5800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1271 Avenue of the Americas",
+                                        "street2": "3rd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "40290",
+                    "firm_bd_sec_number": "49000",
+                    "firm_bd_full_sec_number": "8-49000",
+                    "firm_name": "GREENHILL & CO., LLC",
+                    "firm_other_names": [
+                        "GREENHILL & CO., LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1271 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1271 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-389-1500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1271 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

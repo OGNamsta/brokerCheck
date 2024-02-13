@@ -1,0 +1,469 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "145082",
+                    "firm_bd_sec_number": "67699",
+                    "firm_bd_full_sec_number": "8-67699",
+                    "firm_name": "NGC FINANCIAL, LLC",
+                    "firm_other_names": [
+                        "NGC FINANCIAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"36-01 208TH STREET\", \"city\": \"BAYSIDE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11361\"}, \"mailingAddress\": {\"street1\": \"36-01 208TH STREET\", \"city\": \"BAYSIDE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11361\"}, \"businessPhoneNumber\": \"718 423-1100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "201-09 Northern Blvd",
+                                        "city": "Bayside",
+                                        "state": "NY",
+                                        "zipCode": "11361"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155246",
+                    "firm_bd_sec_number": "68706",
+                    "firm_bd_full_sec_number": "8-68706",
+                    "firm_name": "LPS CAPITAL LLC",
+                    "firm_other_names": [
+                        "DISCOUNT MUNICIPAL BOND CORP.",
+                        "TORREY PINES WEALTH MANAGEMENT, INC.",
+                        "LPS PARTNERS INC.",
+                        "LPS CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"SUITE 5001\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"SUITE 5001\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-441-3810\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 EAST 52ND STREET",
+                                        "street2": "SUITE 5001",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28056",
+                    "firm_bd_sec_number": "43418",
+                    "firm_bd_full_sec_number": "8-43418",
+                    "firm_name": "WYSER-PRATTE & CO., INC.",
+                    "firm_other_names": [
+                        "WYSER-PRATTE & CO., INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 S. BEDFORD ROAD, SUITE 312\", \"city\": \"MT. KISCO\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10549\"}, \"mailingAddress\": {\"street1\": \"100 S. BEDFORD ROAD, SUITE 312\", \"city\": \"MT. KISCO\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10549\"}, \"businessPhoneNumber\": \"843-819-1792\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 S. BEDFORD ROAD, SUITE 312",
+                                        "city": "MT. KISCO",
+                                        "state": "NY",
+                                        "zipCode": "10549"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17917",
+                    "firm_bd_sec_number": "35941",
+                    "firm_bd_full_sec_number": "8-35941",
+                    "firm_name": "BLACKSTONE SECURITIES PARTNERS L.P.",
+                    "firm_other_names": [
+                        "BLACKSTONE ADVISORY PARTNERS L.P.",
+                        "THE BLACKSTONE GROUP L.P.",
+                        "THE BLACKSTONE GROUP",
+                        "BLACKSTONE SECURITIES PARTNERS L.P.",
+                        "BLACKSTONE CAPITAL MARKETS",
+                        "BLACKSTONE ADVISORY SERVICES L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 17,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"345 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10154-0191\"}, \"mailingAddress\": {\"street1\": \"601 LEXINGTON AVENUE\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 583-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "345 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10154"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149111",
+                    "firm_bd_sec_number": "68107",
+                    "firm_bd_full_sec_number": "8-68107",
+                    "firm_name": "HCFP/CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "HCFP/CAPITAL MARKETS LLC",
+                        "XZERTA TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"733 THIRD AVENUE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"PO BOX 4557\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10163-4557\"}, \"businessPhoneNumber\": \"917-267-9833\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "733 THIRD AVENUE",
+                                        "street2": "16TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "323110",
+                    "firm_bd_sec_number": "70988",
+                    "firm_bd_full_sec_number": "8-70988",
+                    "firm_name": "LOCKTON RE CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "LOCKTON RE CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"48 WEST 25TH STREET, 7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"48 WEST 25TH STREET, 7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"332-262-4833\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "48 WEST 25TH STREET, 7TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "134284",
+                    "firm_bd_sec_number": "66826",
+                    "firm_bd_full_sec_number": "8-66826",
+                    "firm_name": "RQD* CLEARING, LLC",
+                    "firm_other_names": [
+                        "COMPASS PROFESSIONAL SERVICES, LLC",
+                        "VOLANT SECURITIES, LLC",
+                        "VOLANT EXECUTION, LLC",
+                        "RQD* CLEARING, LLC",
+                        "EQUITEC COMPASS, LLC",
+                        "COMPASS SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE WORLD TRADE CENTER\", \"street2\": \"SUITE 47M\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"ONE WORLD TRADE CENTER\", \"street2\": \"SUITE 47M\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"646-804-7900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE WORLD TRADE CENTER",
+                                        "street2": "SUITE 47M",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129841",
+                    "firm_bd_sec_number": "66262",
+                    "firm_bd_full_sec_number": "8-66262",
+                    "firm_name": "OPES BESPOKE SECURITIES LLC",
+                    "firm_other_names": [
+                        "CORPORATE DEVELOPMENT CAPITAL, LLC",
+                        "OPES BESPOKE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"SUITE 2540\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10165\"}, \"mailingAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"SUITE 2540\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"646-701-7036\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 EAST 42ND STREET",
+                                        "street2": "SUITE 2540",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149021",
+                    "firm_bd_sec_number": "68098",
+                    "firm_bd_full_sec_number": "8-68098",
+                    "firm_ia_sec_number": "70755",
+                    "firm_ia_full_sec_number": "801-70755",
+                    "firm_name": "WELLINGTON SHIELDS & CO., LLC",
+                    "ia_firm_name": "WELLINGTON SHIELDS & CO., LLC",
+                    "firm_other_names": [
+                        "WELLINGTON SHIELDS & CO., LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"140 BROADWAY\", \"street2\": \"SUITE 4400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"140 BROADWAY\", \"street2\": \"SUITE 4400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212 320-3000\", \"iaFirmName\": \"WELLINGTON SHIELDS & CO., LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"140 BROADWAY\", \"street2\": \"44TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10005\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "140 BROADWAY, SUITE 4400",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172295",
+                    "firm_bd_sec_number": "69506",
+                    "firm_bd_full_sec_number": "8-69506",
+                    "firm_name": "REALCADRE LLC",
+                    "firm_other_names": [
+                        "CADRE",
+                        "REALCADRE LLC (LEGAL NAME)",
+                        "REALCADRE LLC",
+                        "REALCADRE COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"315 PARK AVENUE SOUTH\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"315 PARK AVENUE SOUTH\", \"street2\": \"7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"646-661-7677 X 218\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "315 PARK AVENUE SOUTH",
+                                        "street2": "7TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152550",
+                    "firm_bd_sec_number": "68464",
+                    "firm_bd_full_sec_number": "8-68464",
+                    "firm_name": "WEALTHFORGE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "WEALTHFORGE",
+                        "WEALTHFORGE, LLC",
+                        "WEALTHFORGE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3015 W MOORE ST\", \"street2\": \"SUITE 102\", \"city\": \"RICHMOND\", \"state\": \"VA\", \"country\": \"USA\", \"postalCode\": \"23230\"}, \"mailingAddress\": {\"street1\": \"3015 W MOORE ST\", \"street2\": \"SUITE 102\", \"city\": \"RICHMOND\", \"state\": \"VA\", \"country\": \"USA\", \"postalCode\": \"23230\"}, \"businessPhoneNumber\": \"804-308-0431\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 Park Avenue",
+                                        "street2": "Suite 1560",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10169"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "105387",
+                    "firm_bd_sec_number": "52993",
+                    "firm_bd_full_sec_number": "8-52993",
+                    "firm_ia_sec_number": "113685",
+                    "firm_ia_full_sec_number": "801-113685",
+                    "firm_name": "VALLEY FINANCIAL MANAGEMENT, INC.",
+                    "ia_firm_name": "VALLEY FINANCIAL MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "LEUMI INVESTMENT SERVICES",
+                        "VFM",
+                        "VALLEY FINANCIAL MANAGEMENT, INC.",
+                        "VALLEY F.M.",
+                        "LISI",
+                        "LEUMI INVESTMENT SERVICES INC.",
+                        "LEUMI INVESTMENT SERVICES INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"350 MADISON AVE.\", \"street2\": \"4TH FLOOR, COMPLIANCE DEPARTMENT\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"350 MADISON AVE.\", \"street2\": \"4TH FLOOR, COMPLIANCE DEPARTMENT\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 407-4362\", \"iaFirmName\": \"VALLEY FINANCIAL MANAGEMENT, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"350 MADISON AVE.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10017\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "350 MADISON AVE.",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

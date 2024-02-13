@@ -1,0 +1,463 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151604",
+                    "firm_bd_sec_number": "68388",
+                    "firm_bd_full_sec_number": "8-68388",
+                    "firm_name": "CONCORDE INVESTMENT SERVICES, LLC",
+                    "firm_other_names": [
+                        "CONCORDE INVESTMENT SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 55,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19500 VICTOR PARKWAY\", \"street2\": \"SUITE 550\", \"city\": \"LIVONIA\", \"state\": \"MI\", \"country\": \"USA\", \"postalCode\": \"48152\"}, \"mailingAddress\": {\"street1\": \"19500 VICTOR PARKWAY\", \"street2\": \"SUITE 550\", \"city\": \"LIVONIA\", \"state\": \"MI\", \"country\": \"USA\", \"postalCode\": \"48152\"}, \"businessPhoneNumber\": \"(248) 824-6710\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "445 Broad Hollow Rd",
+                                        "street2": "Suite 25",
+                                        "city": "Melville",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "112630",
+                    "firm_bd_sec_number": "53255",
+                    "firm_bd_full_sec_number": "8-53255",
+                    "firm_ia_sec_number": "107091",
+                    "firm_ia_full_sec_number": "801-107091",
+                    "firm_name": "MWA FINANCIAL SERVICES INC.",
+                    "ia_firm_name": "MWA FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "MWA FINANCIAL SERVICES INC.",
+                        "MWA FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 395,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1701 1ST AVENUE\", \"city\": \"ROCK ISLAND\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"61201\"}, \"mailingAddress\": {\"street1\": \"1701 1ST AVENUE\", \"city\": \"ROCK ISLAND\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"61201\"}, \"businessPhoneNumber\": \"309-558-3100\", \"iaFirmName\": \"MWA FINANCIAL SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1701 1ST AVENUE\", \"city\": \"ROCK ISLAND\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"61201\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1602 W. HIGH TERRACE",
+                                        "city": "SYRACUSE",
+                                        "state": "NY",
+                                        "zipCode": "13219"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "140564",
+                    "firm_bd_sec_number": "67320",
+                    "firm_bd_full_sec_number": "8-67320",
+                    "firm_name": "REDBURN ATLANTIC",
+                    "firm_other_names": [
+                        "REDBURN (USA) LLC",
+                        "REDBURN PARTNERS (USA) LP",
+                        "REDBURN ATLANTIC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"461 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"461 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-803-7300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "461 FIFTH AVENUE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45908",
+                    "firm_bd_sec_number": "51241",
+                    "firm_bd_full_sec_number": "8-51241",
+                    "firm_name": "DRW SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "DRW SECURITIES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"540 WEST MADISON STREET\", \"street2\": \"SUITE 2500\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60661\"}, \"mailingAddress\": {\"street1\": \"540 WEST MADISON STREET\", \"street2\": \"SUITE 2500\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60661\"}, \"businessPhoneNumber\": \"312-542-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 Liberty Street",
+                                        "street2": "Suite 4201",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "107622",
+                    "firm_bd_sec_number": "53064",
+                    "firm_bd_full_sec_number": "8-53064",
+                    "firm_name": "METLIFE INVESTORS DISTRIBUTION COMPANY",
+                    "firm_other_names": [
+                        "AMERICAN DISTRIBUTORS, INC.",
+                        "METLIFE INVESTORS DISTRIBUTION COMPANY",
+                        "GENERAL AMERICAN DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 57,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 PARK AVENUE 4TH FLOOR\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10166\"}, \"mailingAddress\": {\"street1\": \"200 PARK AVENUE 4TH FLOOR\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10166\"}, \"businessPhoneNumber\": \"630-978-5956\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 Park Ave",
+                                        "street2": "5th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10166"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44856",
+                    "firm_bd_sec_number": "50854",
+                    "firm_bd_full_sec_number": "8-50854",
+                    "firm_name": "ARETE WEALTH MANAGEMENT, LLC",
+                    "firm_other_names": [
+                        "ARETE WEALTH MANAGEMENT, LLC",
+                        "KEYSTONE SECURITIES, LLC.",
+                        "KEYSTONE SECURITIES, LLC",
+                        "KEYSTONE INVESTMENT ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 52,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1115 W FULTON MARKET\", \"street2\": \"3RD FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60607\"}, \"mailingAddress\": {\"street1\": \"1115 W FULTON MARKET\", \"street2\": \"3RD FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60607\"}, \"businessPhoneNumber\": \"312-940-3684\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "95 Gleneida Ave",
+                                        "city": "Carmel",
+                                        "state": "NY",
+                                        "zipCode": "10512"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171272",
+                    "firm_bd_sec_number": "69454",
+                    "firm_bd_full_sec_number": "8-69454",
+                    "firm_name": "TRC MARKETS LLC",
+                    "firm_other_names": [
+                        "TRC MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"111 COLEMAN BLVD\", \"street2\": \"SUITE 404\", \"city\": \"MOUNT PLEASANT\", \"state\": \"SC\", \"country\": \"USA\", \"postalCode\": \"29464\"}, \"mailingAddress\": {\"street1\": \"111 COLEMAN BLVD\", \"street2\": \"SUITE 404\", \"city\": \"MOUNT PLEASANT\", \"state\": \"SC\", \"country\": \"USA\", \"postalCode\": \"29464\"}, \"businessPhoneNumber\": \"843-352-8000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "148 Lafayette",
+                                        "street2": "11TH FL.",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10013"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "61",
+                    "firm_bd_sec_number": "94",
+                    "firm_bd_full_sec_number": "8-94",
+                    "firm_ia_sec_number": "19699",
+                    "firm_ia_full_sec_number": "801-19699",
+                    "firm_name": "B. C. ZIEGLER AND COMPANY",
+                    "ia_firm_name": "B. C. ZIEGLER AND COMPANY",
+                    "firm_other_names": [
+                        "B. C. ZIEGLER AND COMPANY",
+                        "ZIEGLER WEALTH MANAGEMENT",
+                        "ZIEGLER PRIVATE EQUITY",
+                        "ZIEGLER INVESTMENT SERVICES GROUP",
+                        "ZIEGLER CONSULTING SERVICE",
+                        "ZIEGLER CAPITAL MARKETS",
+                        "ZIEGLER",
+                        "REACT GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 22,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE NORTH WACKER DRIVE, SUITE 2000\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"ONE NORTH WACKER DRIVE, SUITE 2000\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312/263-0110\", \"iaFirmName\": \"B. C. ZIEGLER AND COMPANY\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1 N. WACKER DRIVE\", \"street2\": \"SUITE 2000\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60606\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 Grand Central Tower",
+                                        "street2": "140 East 45th Street, Ste. 2200",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "21368",
+                    "firm_bd_sec_number": "38977",
+                    "firm_bd_full_sec_number": "8-38977",
+                    "firm_name": "VONTOBEL SECURITIES LTD.",
+                    "firm_other_names": [
+                        "VONTOBEL SECURITIES LIMITED",
+                        "VONTOBEL SECURITIES LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"GOTTHARDSTRASSE 44\", \"city\": \"ZURICH\", \"country\": \"SWITZERLAND\", \"postalCode\": \"8002\"}, \"mailingAddress\": {\"street1\": \"66 HUDSON BOULEVARD\", \"street2\": \"34TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"1141 58 283 71 11\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1540 BROADWAY",
+                                        "street2": "40TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "298367",
+                    "firm_bd_sec_number": "70190",
+                    "firm_bd_full_sec_number": "8-70190",
+                    "firm_name": "RONDOUT PARTNERS, LLC",
+                    "firm_other_names": [
+                        "DALKEITH GROUP, LLC",
+                        "RONDOUT PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"617 BERME ROAD\", \"city\": \"HIGH FALLS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12440\"}, \"mailingAddress\": {\"street1\": \"617 BERME ROAD\", \"city\": \"HIGH FALLS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12440\"}, \"businessPhoneNumber\": \"917-251-8190\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "617 BERME ROAD",
+                                        "city": "HIGH FALLS",
+                                        "state": "NY",
+                                        "zipCode": "12440"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5300",
+                    "firm_bd_sec_number": "15900",
+                    "firm_bd_full_sec_number": "8-15900",
+                    "firm_name": "FRED ALGER & COMPANY, LLC",
+                    "firm_other_names": [
+                        "FRED ALGER & COMPANY, INCORPORATED",
+                        "FRED ALGER & COMPANY, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 PEARL STREET, 27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"100 PEARL STREET, 27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"(212) 806-8800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 PEARL STREET, 27TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "311852",
+                    "firm_bd_sec_number": "70631",
+                    "firm_bd_full_sec_number": "8-70631",
+                    "firm_name": "VIENNA CAPITAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "VIENNA CAPITAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"17TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"17TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"856-319-2784\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 WALL STREET, 17TH FL, NEW YORK, NEW YORK, 10005",
+                                        "street2": "17TH FL",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

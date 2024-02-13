@@ -1,0 +1,483 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150459",
+                    "firm_bd_sec_number": "68263",
+                    "firm_bd_full_sec_number": "8-68263",
+                    "firm_name": "BDT & MSD PARTNERS, LLC",
+                    "firm_other_names": [
+                        "BDT & COMPANY, LLC",
+                        "BDT & MSD PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"401 N. MICHIGAN AVE. SUITE 3100\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60611-4250\"}, \"mailingAddress\": {\"street1\": \"401 N. MICHIGAN AVE. SUITE 3100\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60611-4250\"}, \"businessPhoneNumber\": \"312 660-7300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "450 Park Avenue",
+                                        "street2": "Suite 2200",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "13041",
+                    "firm_bd_sec_number": "26740",
+                    "firm_bd_full_sec_number": "8-26740",
+                    "firm_ia_sec_number": "50706",
+                    "firm_ia_full_sec_number": "801-50706",
+                    "firm_name": "NATIONAL FINANCIAL SERVICES LLC",
+                    "ia_firm_name": "NATIONAL FINANCIAL SERVICES, LLC",
+                    "firm_other_names": [
+                        "NATIONAL FINANCIAL SERVICES CORPORATION",
+                        "NATIONAL FINANCIAL SERVICES, LLC",
+                        "NATIONAL FINANCIAL SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 18,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"245 SUMMER STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02210\"}, \"mailingAddress\": {\"street1\": \"TWO DESTINY WAY\", \"street2\": \"MAIL ZONE: WG3D\", \"city\": \"WESTLAKE\", \"state\": \"TX\", \"country\": \"UNITED STATES OF AMERICA\", \"postalCode\": \"76262\"}, \"businessPhoneNumber\": \"617-563-7000\", \"iaFirmName\": \"NATIONAL FINANCIAL SERVICES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"245 SUMMER STREET\", \"street2\": \"MAIL ZONE Z2H\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"United States\", \"postalCode\": \"02210\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "640 FIFTH AVENUE",
+                                        "city": "NEW YORK CITY",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309048",
+                    "firm_bd_sec_number": "70519",
+                    "firm_bd_full_sec_number": "8-70519",
+                    "firm_name": "ADELPHI STOCK BROKERS",
+                    "firm_other_names": [
+                        "ADELPHI STOCK BROKERS",
+                        "ADELPHI STOCK BROKERS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 CORNWALL LANE\", \"city\": \"SANDS POINT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11050\"}, \"mailingAddress\": {\"street1\": \"40 CORNWALL LANE\", \"city\": \"SANDS POINT\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11050\"}, \"businessPhoneNumber\": \"646-479-1146\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 Cornwall Ln",
+                                        "city": "Sands Point",
+                                        "state": "NY",
+                                        "zipCode": "11050"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43261",
+                    "firm_bd_sec_number": "50200",
+                    "firm_bd_full_sec_number": "8-50200",
+                    "firm_name": "PRINCIPAL FUNDS DISTRIBUTOR, INC.",
+                    "firm_other_names": [
+                        "COMPOSITE DISTRIBUTORS INC.",
+                        "WM FUNDS DISTRIBUTOR, INC.",
+                        "PRINCIPAL FUNDS DISTRUBUTOR, INC.",
+                        "PRINCIPAL FUNDS DISTRIBUTOR, INC.",
+                        "COMPOSITE FUNDS DISTRIBUTOR, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 17,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"711 HIGH STREET\", \"city\": \"DES MOINES\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"50392\"}, \"mailingAddress\": {\"street1\": \"711 HIGH STREET\", \"city\": \"DES MOINES\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"50392\"}, \"businessPhoneNumber\": \"800-222-5852\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "888 7TH AVENUE",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "124180",
+                    "firm_bd_sec_number": "65641",
+                    "firm_bd_full_sec_number": "8-65641",
+                    "firm_name": "BERKSHIRE GLOBAL ADVISORS LP",
+                    "firm_other_names": [
+                        "BERKSHIRE CAPITAL CORPORATION",
+                        "BERKSHIRE GLOBAL ADVISORS LP",
+                        "BERKSHIRE CAPITAL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"527 MADISON AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022-4212\"}, \"mailingAddress\": {\"street1\": \"527 MADISON AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022-4212\"}, \"businessPhoneNumber\": \"212-207-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "527 Madison Avenue",
+                                        "street2": "3rd Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "109761",
+                    "firm_bd_sec_number": "53105",
+                    "firm_bd_full_sec_number": "8-53105",
+                    "firm_name": "COVA CAPITAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "ALERE FINANCIAL",
+                        "VENTURE CAPITAL CROSS",
+                        "GREGORY O'CONNOR AND ASSOCIATES, LLC",
+                        "COVA CAPITAL PARTNERS LLC",
+                        "BANNOCKBURN PARTNERS, LLC",
+                        "APEX MILLENNIUM GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6851 JERICHO TPKE\", \"street2\": \"SUITE 205\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11791\"}, \"mailingAddress\": {\"street1\": \"6851 JERICHO TPKE\", \"street2\": \"SUITE 205\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11791\"}, \"businessPhoneNumber\": \"917-398-3033\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6851 Jericho TPKE",
+                                        "street2": "Suite 205",
+                                        "city": "Syosset",
+                                        "state": "NY",
+                                        "zipCode": "11791"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19585",
+                    "firm_bd_sec_number": "41562",
+                    "firm_bd_full_sec_number": "8-41562",
+                    "firm_ia_sec_number": "64563",
+                    "firm_ia_full_sec_number": "801-64563",
+                    "firm_name": "HSBC SECURITIES (USA) INC.",
+                    "ia_firm_name": "HSBC SECURITIES (USA) INC.",
+                    "firm_other_names": [
+                        "CARROLL MCENTEE & MCGINLEY INCORPORATED",
+                        "INVESTDIRECT",
+                        "HSBC SECURITIES, INC.",
+                        "HSBC SECURITIES (USA) INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 84,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"452 FIFTH AVENUE\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"227 WEST MONROE\", \"street2\": \"SUITE 1810\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"224-880-8555\", \"iaFirmName\": \"HSBC SECURITIES (USA) INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"452 FIFTH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10018\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "454 5th Ave",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5657",
+                    "firm_bd_sec_number": "16309",
+                    "firm_bd_full_sec_number": "8-16309",
+                    "firm_name": "EMPIRE STATE FINANCIAL, INC.",
+                    "firm_other_names": [
+                        "EMPIRE STATE FINANCIAL, INC.",
+                        "HAVKIT CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"20 W. PARK AVE.\", \"street2\": \"SUITE 207\", \"city\": \"LONG BEACH\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11561\"}, \"mailingAddress\": {\"street1\": \"20 W. PARK AVE.\", \"street2\": \"SUITE 207\", \"city\": \"LONG BEACH\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11561\"}, \"businessPhoneNumber\": \"516 442 1883\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "20 W. PARK AVE.",
+                                        "street2": "SUITE 207",
+                                        "city": "LONG BEACH",
+                                        "state": "NY",
+                                        "zipCode": "11561"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "116270",
+                    "firm_bd_sec_number": "53535",
+                    "firm_bd_full_sec_number": "8-53535",
+                    "firm_name": "SEAPORT GLOBAL SECURITIES LLC",
+                    "firm_other_names": [
+                        "GLOBAL HUNTER SECURITIES",
+                        "THE SEAPORT GROUP",
+                        "SP CREDIT DIRECT LLC",
+                        "SEAPORT RESEARCH PARTNERS",
+                        "SEAPORT PERICLES",
+                        "SEAPORT GLOBAL SECURITIES LLC",
+                        "SEAPORT GLOBAL",
+                        "SEA PORT GROUP SECURITIES, LLC",
+                        "SEA PORT GROUP SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 21,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"360 MADISON AVE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"360 MADISON AVE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-616-7700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "360 MADISON AVE",
+                                        "street2": "22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171810",
+                    "firm_bd_sec_number": "69479",
+                    "firm_bd_full_sec_number": "8-69479",
+                    "firm_name": "VELOCITY CAPITAL, LLC",
+                    "firm_other_names": [
+                        "CNPT HOLDINGS, LLC",
+                        "VELOCITY CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"199 WATER STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"199 WATER STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"6468370056\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "199 Water Street",
+                                        "street2": "17th floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149102",
+                    "firm_bd_sec_number": "68111",
+                    "firm_bd_full_sec_number": "8-68111",
+                    "firm_name": "DCF, LLC",
+                    "firm_other_names": [
+                        "DCF",
+                        "DECOSIMO CORPORATE FINANCE, LLC",
+                        "DECOSIMO CORPORATE FINANCE",
+                        "DCF, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"629 MARKET STREET\", \"street2\": \"SUITE 120\", \"city\": \"CHATTANOOGA\", \"state\": \"TN\", \"postalCode\": \"37402\"}, \"mailingAddress\": {\"street1\": \"629 MARKET STREET\", \"street2\": \"SUITE 120\", \"city\": \"CHATTANOOGA\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"37402\"}, \"businessPhoneNumber\": \"4239913680\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "488 Madison Avenue",
+                                        "street2": "21 Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10645",
+                    "firm_bd_sec_number": "27736",
+                    "firm_bd_full_sec_number": "8-27736",
+                    "firm_ia_sec_number": "119029",
+                    "firm_ia_full_sec_number": "801-119029",
+                    "firm_name": "INTERNATIONAL ASSETS ADVISORY, LLC",
+                    "ia_firm_name": "INTERNATIONAL ASSETS ADVISORY, LLC",
+                    "firm_other_names": [
+                        "INTERNATIONAL ASSETS ADVISORY CORPORATION",
+                        "JANSEN WEALTH MANAGEMENT, LLC",
+                        "INTERNATIONAL ASSETS ADVISORY, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 109,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"111 NORTH ORANGE AVENUE\", \"street2\": \"SUITE 1000\", \"city\": \"ORLANDO\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32801\"}, \"mailingAddress\": {\"street1\": \"111 NORTH ORANGE AVENUE\", \"street2\": \"SUITE 1000\", \"city\": \"ORLANDO\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32801\"}, \"businessPhoneNumber\": \"407-254-1500\", \"iaFirmName\": \"INTERNATIONAL ASSETS ADVISORY, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"111 N. ORANGE AVENUE\", \"street2\": \"SUITE 1000\", \"city\": \"ORLANDO\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"32801\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "54 SOUTH OHIOVILLE ROAD",
+                                        "city": "NEW PALTZ",
+                                        "state": "NY",
+                                        "zipCode": "12561"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

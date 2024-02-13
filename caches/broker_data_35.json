@@ -1,0 +1,450 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151864",
+                    "firm_bd_sec_number": "68404",
+                    "firm_bd_full_sec_number": "8-68404",
+                    "firm_name": "HOLD BROTHERS CAPITAL LLC",
+                    "firm_other_names": [
+                        "HOLD BROTHERS CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE PENNSYLVANIA PLAZA\", \"street2\": \"SUITE 1510\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10119-1510\"}, \"mailingAddress\": {\"street1\": \"ONE PENNSYLVANIA PLAZA\", \"street2\": \"SUITE 1510\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10119-1510\"}, \"businessPhoneNumber\": \"212-792-0900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE PENNSYLVANIA PLAZA",
+                                        "street2": "SUITE 1510",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10119"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103460",
+                    "firm_bd_sec_number": "52179",
+                    "firm_bd_full_sec_number": "8-52179",
+                    "firm_name": "HAMERSHLAG SULZBERGER BORG CAPITAL MARKETS, INC.",
+                    "firm_other_names": [
+                        "HAMERSHLAG SULZBERGER BORG CAPITAL MARKETS, INC.",
+                        "STEVEN J. PERCIBALLI, INC.",
+                        "PERCIBALLI, STEPHEN JOHN"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1180 AVENUE OF THE AMERICAS ROCKEFELLER CENTER\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1180 AVENUE OF THE AMERICAS ROCKEFELLER CENTER\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"832-908-1438\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1180 AVENUE OF THE AMERICAS ROCKEFELLER CENTER",
+                                        "street2": "8TH FLOOR",
+                                        "city": "NEW YORK CITY",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "134162",
+                    "firm_bd_sec_number": "66812",
+                    "firm_bd_full_sec_number": "8-66812",
+                    "firm_name": "N.A. INVESTCORP LLC",
+                    "firm_other_names": [
+                        "N.A. INVESTCORP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"280 PARK AVENUE, 39TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"280 PARK AVENUE, 39TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-599-4700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 PARK AVENUE, 39TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16325",
+                    "firm_bd_sec_number": "33724",
+                    "firm_bd_full_sec_number": "8-33724",
+                    "firm_name": "STERN BROTHERS & CO.",
+                    "firm_other_names": [
+                        "BINGHAM & COMPANY CAPITAL MARKETS, INC.",
+                        "STERN BROTHERS & CO. PUBLIC FINANCE",
+                        "STERN BROTHERS & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8000 MARYLAND AVE.\", \"street2\": \"SUITE 800\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63105-3911\"}, \"mailingAddress\": {\"street1\": \"8000 MARYLAND AVE.\", \"street2\": \"SUITE 800\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63105-3911\"}, \"businessPhoneNumber\": \"314-727-5519\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1270 Avenue of the Americas",
+                                        "street2": "Suite 724",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146283",
+                    "firm_bd_sec_number": "67807",
+                    "firm_bd_full_sec_number": "8-67807",
+                    "firm_name": "TS IMAGINE BROKERAGE SERVICES, LLC",
+                    "firm_other_names": [
+                        "TRADINGSCREEN BROKERAGE SERVICES LLC",
+                        "TS IMAGINE BROKERAGE SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE PENN PLAZA\", \"street2\": \"49TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"ONE PENN PLAZA\", \"street2\": \"49TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212.359.4100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE PENN PLAZA",
+                                        "street2": "49TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "173725",
+                    "firm_bd_sec_number": "69552",
+                    "firm_bd_full_sec_number": "8-69552",
+                    "firm_name": "STANDARD NEW YORK, INC.",
+                    "firm_other_names": [
+                        "STANDARD NEW YORK, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"520 MADISON AVENUE, 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"520 MADISON AVENUE, 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-407-3800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "520 Madison Avnenue",
+                                        "street2": "28 Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2908",
+                    "firm_bd_sec_number": "1068",
+                    "firm_bd_full_sec_number": "8-1068",
+                    "firm_ia_sec_number": "3908",
+                    "firm_ia_full_sec_number": "801-3908",
+                    "firm_name": "NEUBERGER BERMAN BD LLC",
+                    "ia_firm_name": "NEUBERGER BERMAN BD LLC",
+                    "firm_other_names": [
+                        "NEUBERGER & BERMAN",
+                        "NEUBERGER BERMAN, LLC",
+                        "NEUBERGER BERMAN LLC",
+                        "NEUBERGER BERMAN BD LLC",
+                        "NEUBERGER & BERMAN, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 79,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1290 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10104\"}, \"mailingAddress\": {\"street1\": \"1290 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10104\"}, \"businessPhoneNumber\": \"212-476-9000\", \"iaFirmName\": \"NEUBERGER BERMAN BD LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1290 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10104\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1290 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171843",
+                    "firm_bd_sec_number": "69486",
+                    "firm_bd_full_sec_number": "8-69486",
+                    "firm_name": "REVERE MERCHANT SECURITIES, LLC",
+                    "firm_other_names": [
+                        "REVERE MERCHANT SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"650 5TH AVE 35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"650 5TH AVE 35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"646-521-6260\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "650 5TH AVE 35TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136352",
+                    "firm_bd_sec_number": "67002",
+                    "firm_bd_full_sec_number": "8-67002",
+                    "firm_name": "DALMORE GROUP LLC",
+                    "firm_other_names": [
+                        "DALMORE GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"525 GREEN PLACE\", \"city\": \"WOODMERE\", \"state\": \"NY\", \"postalCode\": \"11598\"}, \"mailingAddress\": {\"street1\": \"525 GREEN PLACE\", \"city\": \"WOODMERE\", \"state\": \"NY\", \"postalCode\": \"11598\"}, \"businessPhoneNumber\": \"917-887-1948\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "525 GREEN PLACE",
+                                        "city": "WOODMERE",
+                                        "state": "NY",
+                                        "zipCode": "11598"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10538",
+                    "firm_bd_sec_number": "27533",
+                    "firm_bd_full_sec_number": "8-27533",
+                    "firm_name": "BARON CAPITAL, INC.",
+                    "firm_other_names": [
+                        "BARON CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"767 FIFTH AVENUE\", \"street2\": \"49TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10153\"}, \"mailingAddress\": {\"street1\": \"767 FIFTH AVENUE\", \"street2\": \"49TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10153\"}, \"businessPhoneNumber\": \"212 583-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "767 FIFTH AVENUE",
+                                        "street2": "49TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10153"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152338",
+                    "firm_bd_sec_number": "68442",
+                    "firm_bd_full_sec_number": "8-68442",
+                    "firm_name": "MERCURY CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "MERCURY CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"36TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"36TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-786-8100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 PARK AVENUE",
+                                        "street2": "36TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "140016",
+                    "firm_bd_sec_number": "67270",
+                    "firm_bd_full_sec_number": "8-67270",
+                    "firm_name": "PARK MADISON PARTNERS LLC",
+                    "firm_other_names": [
+                        "PARK MADISON PARTNERS LLC",
+                        "PARTNERS AT PARK MADISON LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 HARBOR RD.\", \"city\": \"PORT WASHINGTON\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11050\"}, \"mailingAddress\": {\"street1\": \"200 HARBOR RD.\", \"city\": \"PORT WASHINGTON\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11050\"}, \"businessPhoneNumber\": \"212-448-7350\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "299 Park Avenue",
+                                        "street2": "Suite 4100",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10171"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

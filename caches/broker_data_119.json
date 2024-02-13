@@ -1,0 +1,460 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "311650",
+                    "firm_bd_sec_number": "70654",
+                    "firm_bd_full_sec_number": "8-70654",
+                    "firm_name": "ELEQUIN SECURITIES LLC",
+                    "firm_other_names": [
+                        "ELEQUIN SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1333 BROADWAY\", \"street2\": \"SUITE 500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"1333 BROADWAY\", \"street2\": \"SUITE 500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"929-346-7126\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1333 BROADWAY",
+                                        "street2": "SUITE 500",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133300",
+                    "firm_bd_sec_number": "66709",
+                    "firm_bd_full_sec_number": "8-66709",
+                    "firm_name": "NORTH POINT MERGERS AND ACQUISITIONS, INC.",
+                    "firm_other_names": [
+                        "NORTH POINT ADVISORS, INC.",
+                        "NORTH POINT MERGERS AND ACQUISITIONS, INC.",
+                        "NORTH POINT ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"580 CALIFORNIA STREET, SUITE 2000\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94104\"}, \"mailingAddress\": {\"street1\": \"580 CALIFORNIA STREET, SUITE 2000\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94104\"}, \"businessPhoneNumber\": \"415 358-3500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "76 8th Avenue, 8th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10011"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171355",
+                    "firm_bd_sec_number": "69460",
+                    "firm_bd_full_sec_number": "8-69460",
+                    "firm_name": "GX2 SPREAD MARKETS, LLC",
+                    "firm_other_names": [
+                        "GX2 SPREAD MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"190 S. LASALLE STREET, SUITE 1950\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60603\"}, \"mailingAddress\": {\"street1\": \"190 S. LASALLE STREET, SUITE 1950\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60603\"}, \"businessPhoneNumber\": \"312-471-6300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1155 Avenue of the Americas",
+                                        "street2": "14th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104100",
+                    "firm_bd_sec_number": "52558",
+                    "firm_bd_full_sec_number": "8-52558",
+                    "firm_name": "M. S. HOWELLS & CO.",
+                    "firm_other_names": [
+                        "M. S. HOWELLS & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 50,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"23350 N. PIMA RD.\", \"city\": \"SCOTTSDALE\", \"state\": \"AZ\", \"country\": \"USA\", \"postalCode\": \"85255\"}, \"mailingAddress\": {\"street1\": \"23350 N. PIMA RD.\", \"city\": \"SCOTTSDALE\", \"state\": \"AZ\", \"country\": \"UNITED STATES\", \"postalCode\": \"85255\"}, \"businessPhoneNumber\": \"480-563-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1120 AVENUE OF THE AMERICAS",
+                                        "street2": "4TH FL.,OFFICE 4026",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7191",
+                    "firm_bd_sec_number": "18860",
+                    "firm_bd_full_sec_number": "8-18860",
+                    "firm_name": "LASALLE ST SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "LA SALLE ST. SECURITIES, INC.",
+                        "LASALLE ST SECURITIES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 118,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"940 N. INDUSTRIAL DR.\", \"city\": \"ELMHURST\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60126-1131\"}, \"mailingAddress\": {\"street1\": \"940 N. INDUSTRIAL DR.\", \"city\": \"ELMHURST\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60126-1131\"}, \"businessPhoneNumber\": \"630-600-0500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "634 MAIN STREET",
+                                        "street2": "SUITE 200",
+                                        "city": "EAST AURORA",
+                                        "state": "NY",
+                                        "zipCode": "14052"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "153489",
+                    "firm_bd_sec_number": "68545",
+                    "firm_bd_full_sec_number": "8-68545",
+                    "firm_name": "BA SECURITIES, LLC",
+                    "firm_other_names": [
+                        "BA SECURITIES, LLC",
+                        "BLACKWOLF ADVISORS, LLC",
+                        "BLACKWOLF ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"FOUR TOWER BRIDGE\", \"street2\": \"200 BARR HARBOR DRIVE, SUITE 400\", \"city\": \"W. CONSHOHOCKEN\", \"state\": \"PA\", \"country\": \"USA\", \"postalCode\": \"19428\"}, \"mailingAddress\": {\"street1\": \"FOUR TOWER BRIDGE\", \"street2\": \"200 BARR HARBOR DRIVE, SUITE 400\", \"city\": \"W. CONSHOHOCKEN\", \"state\": \"PA\", \"country\": \"USA\", \"postalCode\": \"19428\"}, \"businessPhoneNumber\": \"877-738-5841\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 PARK AVENUE, 16TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43036",
+                    "firm_bd_sec_number": "50128",
+                    "firm_bd_full_sec_number": "8-50128",
+                    "firm_name": "STATE FARM VP MANAGEMENT CORP.",
+                    "firm_other_names": [
+                        "STATE FARM VP MANAGEMENT CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4125,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE STATE FARM PLAZA\", \"city\": \"BLOOMINGTON\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"61710-0001\"}, \"mailingAddress\": {\"street1\": \"ONE STATE FARM PLAZA\", \"city\": \"BLOOMINGTON\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"61710-0001\"}, \"businessPhoneNumber\": \"833-430-8518\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "299 N Comrie Ave",
+                                        "street2": "Ste B",
+                                        "city": "Johnstown",
+                                        "state": "NY",
+                                        "zipCode": "12095"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17868",
+                    "firm_bd_sec_number": "35359",
+                    "firm_bd_full_sec_number": "8-35359",
+                    "firm_ia_sec_number": "68122",
+                    "firm_ia_full_sec_number": "801-68122",
+                    "firm_name": "U.S. BANCORP INVESTMENTS, INC.",
+                    "ia_firm_name": "U.S. BANCORP INVESTMENTS, INC.",
+                    "firm_other_names": [
+                        "CENTRAL INVESTMENT SERVICES, INC.",
+                        "US BANCORP",
+                        "U.S. BANCORP INVESTMENTS, INC.",
+                        "U.S. BANCORP INVESTMENTS",
+                        "FBS INVESTMENT SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1865,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60 LIVINGSTON AVENUE\", \"street2\": \"EP-MN-WN3C\", \"city\": \"SAINT PAUL\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"55107\"}, \"mailingAddress\": {\"street1\": \"60 LIVINGSTON AVENUE\", \"street2\": \"EP-MN-WN3C\", \"city\": \"SAINT PAUL\", \"state\": \"MN\", \"country\": \"USA\", \"postalCode\": \"55107\"}, \"businessPhoneNumber\": \"800-888-4700\", \"iaFirmName\": \"U.S. BANCORP INVESTMENTS, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"60 LIVINGSTON AVENUE\", \"street2\": \"EP-MN-WN3C\", \"city\": \"SAINT PAUL\", \"state\": \"MN\", \"country\": \"United States\", \"postalCode\": \"55107\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 Bryant Park",
+                                        "street2": "1095 Avenue of the Americas",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31334",
+                    "firm_bd_sec_number": "45467",
+                    "firm_bd_full_sec_number": "8-45467",
+                    "firm_name": "FORESIDE FUNDS DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "440 FINANCIAL DISTRIBUTORS, INC.",
+                        "PFPC DISTRIBUTORS, INC.",
+                        "FORESIDE FUNDS DISTRIBUTORS LLC",
+                        "FIRST DATA DISTRIBUTORS, INC.",
+                        "BNY MELLON DISTRIBUTORS LLC",
+                        "BNY MELLON DISTRIBUTORS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 49,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"THREE CANAL PLAZA\", \"street2\": \"SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"UNITED STATES\", \"postalCode\": \"04101\"}, \"mailingAddress\": {\"street1\": \"THREE CANAL PLAZA\", \"street2\": \"SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"UNITED STATES\", \"postalCode\": \"04101\"}, \"businessPhoneNumber\": \"866-251-6920\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "12 East 49th Street",
+                                        "street2": "Suite 4203",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114474",
+                    "firm_bd_sec_number": "53496",
+                    "firm_bd_full_sec_number": "8-53496",
+                    "firm_name": "PFM FUND DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "PFM FUND DISTRIBUTORS, INC.",
+                        "PFMAM, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 22,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"213 MARKET STREET\", \"city\": \"HARRISBURG\", \"state\": \"PA\", \"country\": \"USA\", \"postalCode\": \"17101\"}, \"mailingAddress\": {\"street1\": \"213 MARKET STREET\", \"city\": \"HARRISBRUG\", \"state\": \"PA\", \"country\": \"USA\", \"postalCode\": \"17101\"}, \"businessPhoneNumber\": \"717 232-2723\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 WALL STREET, 16TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154670",
+                    "firm_bd_sec_number": "68658",
+                    "firm_bd_full_sec_number": "8-68658",
+                    "firm_name": "BMI CAPITAL INTERNATIONAL LLC",
+                    "firm_other_names": [
+                        "BMI CAPITAL INTERNATIONAL LLC",
+                        "PRETIOSA METALLA LLC",
+                        "MORRIS ENERGY ADVISORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"535 5TH AVENUE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"535 5TH AVENUE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-390-1725\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "535 5TH AVENUE",
+                                        "street2": "22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10674",
+                    "firm_bd_sec_number": "27663",
+                    "firm_bd_full_sec_number": "8-27663",
+                    "firm_name": "NEWEDGE SECURITIES, INC.",
+                    "firm_other_names": [
+                        "MID ATLANTIC CAPITAL CORPORATION",
+                        "NEWEDGE SECURITIES, INC.",
+                        "MID ATLANTIC SECURITIES CORPORATION",
+                        "MID ATLANTIC CAPITAL SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 95,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1251 WATERFRONT PLACE\", \"street2\": \"SUITE 510\", \"city\": \"PITTSBURGH\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"15222-6368\"}, \"mailingAddress\": {\"street1\": \"1251 WATERFRONT PLACE\", \"street2\": \"SUITE 510\", \"city\": \"PITTSBURGH\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"15222-6368\"}, \"businessPhoneNumber\": \"412-391-7077\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "9 EAST MAIN STREET",
+                                        "city": "FREDONIA",
+                                        "state": "NY",
+                                        "zipCode": "14063"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

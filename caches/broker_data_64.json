@@ -1,0 +1,452 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6845",
+                    "firm_bd_sec_number": "18248",
+                    "firm_bd_full_sec_number": "8-18248",
+                    "firm_name": "TIMECAPITAL SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "TIMECAPITAL SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE ROOSEVELT AVENUE\", \"city\": \"PORT JEFFERSON STATION\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11776-3336\"}, \"mailingAddress\": {\"street1\": \"ONE ROOSEVELT AVENUE\", \"city\": \"PORT JEFFERSON STATION\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11776-3336\"}, \"businessPhoneNumber\": \"631-331-1400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE ROOSEVELT AVENUE",
+                                        "city": "PORT JEFFERSON STATION",
+                                        "state": "NY",
+                                        "zipCode": "11776"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "32754",
+                    "firm_bd_sec_number": "41221",
+                    "firm_bd_full_sec_number": "8-41221",
+                    "firm_name": "MARK J. MULLER EQUITIES, INC.",
+                    "firm_other_names": [
+                        "MARK J. MULLER EQUITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"18 PHEASANT DRIVE\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10580\"}, \"mailingAddress\": {\"street1\": \"18 PHEASANT DRIVE\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10580\"}, \"businessPhoneNumber\": \"(212) 480-2640\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "18 PHEASANT DRIVE",
+                                        "city": "RYE",
+                                        "state": "NY",
+                                        "zipCode": "10580"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139049",
+                    "firm_bd_sec_number": "67185",
+                    "firm_bd_full_sec_number": "8-67185",
+                    "firm_name": "ACP SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ACP SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1450 BRICKELL AVENUE\", \"street2\": \"SUITE 1690\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"1450 BRICKELL AVENUE\", \"street2\": \"SUITE 1690\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"305-670-4180\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 Avenue of the Americas",
+                                        "street2": "33 Floor Office 126",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "141296",
+                    "firm_bd_sec_number": "67376",
+                    "firm_bd_full_sec_number": "8-67376",
+                    "firm_name": "BIDS TRADING L.P.",
+                    "firm_other_names": [
+                        "BIDS TRADING L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE LIBERTY PLAZA, 165 BROADWAY\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10006\"}, \"mailingAddress\": {\"street1\": \"ONE LIBERTY PLAZA, 165 BROADWAY\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10006\"}, \"businessPhoneNumber\": \"212-618-2060\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "One Liberty Plaza, 165 Broadway",
+                                        "street2": "23rd Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317571",
+                    "firm_bd_sec_number": "70835",
+                    "firm_bd_full_sec_number": "8-70835",
+                    "firm_name": "SECONDRE MARKETS LLC",
+                    "firm_other_names": [
+                        "SECONDRE MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"157 13TH STREET\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11215\"}, \"mailingAddress\": {\"street1\": \"157 13TH STREET\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11215\"}, \"businessPhoneNumber\": \"917-444-9083\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "157 13th Street",
+                                        "city": "Brooklyn",
+                                        "state": "NY",
+                                        "zipCode": "11215"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14762",
+                    "firm_bd_sec_number": "31173",
+                    "firm_bd_full_sec_number": "8-31173",
+                    "firm_ia_sec_number": "111070",
+                    "firm_ia_full_sec_number": "801-111070",
+                    "firm_name": "COORDINATED CAPITAL SECURITIES, INC.",
+                    "ia_firm_name": "COORDINATED CAPITAL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "CCS OF WI",
+                        "COORDINATED CAPITAL SECURITIES,INC.",
+                        "COORDINATED CAPITAL SECURITIES, INC.",
+                        "COORDINATED CAPITAL SECURITIES OF WISCONSIN, INC.",
+                        "COORDINATED CAPITAL SECURITIES OF WI INC.",
+                        "COORDINATED CAPITAL ADVISORY, A DIVISION OF COORDINATED CAPITAL SECURITIES, INC.",
+                        "COLTRANE SECURITIES, A DIVISION OF COORDINATED CAPITAL SECURITI"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 35,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"229 S MAIN STREET\", \"city\": \"FORT ATKINSON\", \"state\": \"WI\", \"country\": \"UNITED STATES\", \"postalCode\": \"53538\"}, \"mailingAddress\": {\"street1\": \"229 S MAIN STREET\", \"city\": \"FORT ATKINSON\", \"state\": \"WI\", \"country\": \"UNITED STATES\", \"postalCode\": \"53538\"}, \"businessPhoneNumber\": \"608-221-4545\", \"iaFirmName\": \"COORDINATED CAPITAL SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"229 S MAIN STREET\", \"city\": \"FORT ATKINSON\", \"state\": \"WI\", \"country\": \"United States\", \"postalCode\": \"53538\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "257 ORIOLE DR",
+                                        "city": "HORSEHEADS",
+                                        "state": "NY",
+                                        "zipCode": "14845"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152669",
+                    "firm_bd_sec_number": "68473",
+                    "firm_bd_full_sec_number": "8-68473",
+                    "firm_name": "MCP SECURITIES, LLC",
+                    "firm_other_names": [
+                        "COGNIENT SECURITIES, LLC",
+                        "VALOREM ESTATE INVESTMENTS, LLC",
+                        "MCP SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"757 THIRD AVENUE, 20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"757 THIRD AVENUE, 20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-380-4473\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "757 THIRD AVENUE, 20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "116797",
+                    "firm_bd_sec_number": "53574",
+                    "firm_bd_full_sec_number": "8-53574",
+                    "firm_name": "CITADEL SECURITIES LLC",
+                    "firm_other_names": [
+                        "CITADEL DERIVATIVES GROUP LLC",
+                        "CITADEL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"33RD FLOOR\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"33RD FLOOR\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"305-929-6851\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "425 Park Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "321600",
+                    "firm_bd_sec_number": "70948",
+                    "firm_bd_full_sec_number": "8-70948",
+                    "firm_name": "BELZBERG CAPITAL",
+                    "firm_other_names": [
+                        "BELZBERG CAPITAL",
+                        "EVERBERG CAPITAL COMPANY",
+                        "BELZBERG CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"589 FIFTH AVENUE\", \"street2\": \"SUITE 1602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"589 FIFTH AVENUE\", \"street2\": \"SUITE 1602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-390-9591\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "589 Fifth Avenue",
+                                        "street2": "Suite 1602",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114242",
+                    "firm_bd_sec_number": "53413",
+                    "firm_bd_full_sec_number": "8-53413",
+                    "firm_name": "BUTLER CAPITAL PARTNERS",
+                    "firm_other_names": [
+                        "BUTLER CAPITAL INVESTMENTS, LLC",
+                        "NORTH CREEK BUTLER",
+                        "BUTLER CAPITAL PARTNERS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"151 POST ROAD - TITUS HOUSE\", \"city\": \"OLD WESTBURY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11568\"}, \"mailingAddress\": {\"street1\": \"151 POST ROAD - TITUS HOUSE\", \"city\": \"OLD WESTBURY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11568\"}, \"businessPhoneNumber\": \"516.333.2100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 Park Avenue",
+                                        "street2": "4th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290605",
+                    "firm_bd_sec_number": "70036",
+                    "firm_bd_full_sec_number": "8-70036",
+                    "firm_name": "SAN BLAS SECURITIES LLC",
+                    "firm_other_names": [
+                        "IFS CAPITAL MARKETS, LLC",
+                        "SAN BLAS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3424 PEACHTREE RD. NE\", \"street2\": \"SUITE 2200\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"postalCode\": \"30326-1184\"}, \"mailingAddress\": {\"street1\": \"3424 PEACHTREE RD. NE\", \"street2\": \"SUITE 2200\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"postalCode\": \"30326-1184\"}, \"businessPhoneNumber\": \"(404) 704-0406\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "360 Delaware Avenue",
+                                        "street2": "suite 110",
+                                        "city": "Buffalo",
+                                        "state": "NY",
+                                        "zipCode": "14202"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133994",
+                    "firm_bd_sec_number": "66804",
+                    "firm_bd_full_sec_number": "8-66804",
+                    "firm_name": "SEACAP SECURITIES LLC",
+                    "firm_other_names": [
+                        "FIRST PRINCIPLE SECURITIES, LLC",
+                        "SEACAP SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"152 W 57TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"152 W 57TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-284-1150\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "152 W 57TH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

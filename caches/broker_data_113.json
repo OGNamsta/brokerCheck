@@ -1,0 +1,485 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122225",
+                    "firm_bd_sec_number": "65473",
+                    "firm_bd_full_sec_number": "8-65473",
+                    "firm_name": "BTIG, LLC",
+                    "firm_other_names": [
+                        "BASS TRADING, LLC",
+                        "BTIG, LLC",
+                        "BTIG ELECTRONIC TRADING",
+                        "BAYPOINT TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 MONTGOMERY STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"600 MONTGOMERY STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"businessPhoneNumber\": \"415-248-2200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2397 Montauk Hwy",
+                                        "street2": "2nd Floor",
+                                        "city": "Bridgehampton",
+                                        "state": "NY",
+                                        "zipCode": "11932"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103705",
+                    "firm_bd_sec_number": "52265",
+                    "firm_bd_full_sec_number": "8-52265",
+                    "firm_ia_sec_number": "71181",
+                    "firm_ia_full_sec_number": "801-71181",
+                    "firm_name": "CITY NATIONAL SECURITIES, INC.",
+                    "ia_firm_name": "CITY NATIONAL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "CITY NATIONAL SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 40,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"555 SOUTH FLOWER STREET\", \"street2\": \"11TH FLOOR\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"90071\"}, \"mailingAddress\": {\"street1\": \"555 SOUTH FLOWER STREET\", \"street2\": \"11TH FLOOR\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"90071\"}, \"businessPhoneNumber\": \"310-888-6400\", \"iaFirmName\": \"CITY NATIONAL SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"555 SOUTH FLOWER STREET\", \"street2\": \"11TH FLOOR\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"90071\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "400 Park Avenue",
+                                        "street2": "Seventh Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "321750",
+                    "firm_bd_sec_number": "70977",
+                    "firm_bd_full_sec_number": "8-70977",
+                    "firm_name": "FENCHURCH PARTNERS, LP",
+                    "firm_other_names": [
+                        "FENCHURCH PARTNERS, LP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"917-603-2932\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 PARK AVENUE",
+                                        "street2": "3RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1914",
+                    "firm_bd_sec_number": "3337",
+                    "firm_bd_full_sec_number": "8-3337",
+                    "firm_name": "TD PRIME SERVICES LLC",
+                    "firm_other_names": [
+                        "ALBERT FRIED & COMPANY, LLC",
+                        "TD PRIME SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE VANDERBILT AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"ONE VANDERBILT AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-827-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE VANDERBILT AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "21313",
+                    "firm_bd_sec_number": "38818",
+                    "firm_bd_full_sec_number": "8-38818",
+                    "firm_name": "ARBOR RESEARCH & TRADING, LLC",
+                    "firm_other_names": [
+                        "ARBOR RESEARCH & TRADING,",
+                        "HART CAPITAL MANAGEMENT",
+                        "FIXED INCOME PARTNERS, INC.",
+                        "ARBOR TRADING GROUP, INC.",
+                        "ARBOR RESEARCH & TRADING, LLC",
+                        "ARBOR RESEARCH & TRADING, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"22333 CLASSIC COURT\", \"city\": \"LAKE BARRINGTON\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60010\"}, \"mailingAddress\": {\"street1\": \"22333 CLASSIC COURT\", \"city\": \"LAKE BARRINGTON\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60010\"}, \"businessPhoneNumber\": \"847-304-1550\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "477 Madison Avenue",
+                                        "street2": "6th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18487",
+                    "firm_bd_sec_number": "37085",
+                    "firm_bd_full_sec_number": "8-37085",
+                    "firm_name": "AMERICAN PORTFOLIOS FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "AMERICAN PORTFOLIOS FINANCIAL SERVICES, INC.",
+                        "TRIAD FINANCIAL INC.",
+                        "TRIAD FINANCIAL GROUP",
+                        "TRIAD FINANCIAL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 365,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4250 VETERANS MEMORIAL HIGHWAY\", \"street2\": \"4TH FLOOR EAST\", \"city\": \"HOLBROOK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11741\"}, \"mailingAddress\": {\"street1\": \"4250 VETERANS MEMORIAL HWY\", \"street2\": \"4TH FLOOR EAST\", \"city\": \"HOLBROOK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11741\"}, \"businessPhoneNumber\": \"631-439-4600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "350 LINDEN OAKS",
+                                        "street2": "SUITE 140",
+                                        "city": "ROCHESTER",
+                                        "state": "NY",
+                                        "zipCode": "14625"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136300",
+                    "firm_bd_sec_number": "66999",
+                    "firm_bd_full_sec_number": "8-66999",
+                    "firm_ia_sec_number": "65060",
+                    "firm_ia_full_sec_number": "801-65060",
+                    "firm_name": "KEY INVESTMENT SERVICES LLC",
+                    "ia_firm_name": "KEY INVESTMENT SERVICES LLC",
+                    "firm_other_names": [
+                        "KEY INVESTMENT SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 640,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4900 TIEDEMAN ROAD\", \"street2\": \"OH-01-49-0215\", \"city\": \"BROOKLYN\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"44144\"}, \"mailingAddress\": {\"street1\": \"4900 TIEDEMAN ROAD\", \"street2\": \"OH-01-49-0215\", \"city\": \"BROOKLYN\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"44144\"}, \"businessPhoneNumber\": \"888-547-2968\", \"iaFirmName\": \"KEY INVESTMENT SERVICES LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"4900 TIEDEMAN ROAD\", \"street2\": \"OH-01-49-0215\", \"city\": \"BROOKLYN\", \"state\": \"OH\", \"country\": \"United States\", \"postalCode\": \"44144\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3016 ROUTE 50",
+                                        "city": "SARATOGA SPRINGS",
+                                        "state": "NY",
+                                        "zipCode": "12866"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122529",
+                    "firm_bd_sec_number": "65509",
+                    "firm_bd_full_sec_number": "8-65509",
+                    "firm_name": "ATM EXECUTION LLC",
+                    "firm_other_names": [
+                        "ATM EXECUTION LLC",
+                        "LABRANCHE STRUCTURED PRODUCTS LLC",
+                        "LABRANCHE CAPITAL, LLC",
+                        "COWEN ELECTRONIC",
+                        "COWEN CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"599 LEXINGTON AVE\", \"street2\": \"21 FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"599 LEXINGTON AVE\", \"street2\": \"21 FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-562-1010\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "599 LEXINGTON AVE",
+                                        "street2": "21 FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133672",
+                    "firm_bd_sec_number": "66756",
+                    "firm_bd_full_sec_number": "8-66756",
+                    "firm_name": "TUOHY BROTHERS INVESTMENT RESEARCH, INC.",
+                    "firm_other_names": [
+                        "LINKS EDGE, INC.",
+                        "TUOHY BROTHERS INVESTMENT RESEARCH, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-605-0450\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 MADISON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16629",
+                    "firm_bd_sec_number": "34261",
+                    "firm_bd_full_sec_number": "8-34261",
+                    "firm_ia_sec_number": "69225",
+                    "firm_ia_full_sec_number": "801-69225",
+                    "firm_name": "EXCEL SECURITIES & ASSOCIATES, INC.",
+                    "ia_firm_name": "ASHTON THOMAS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ASHTON THOMAS SECURITIES, LLC",
+                        "LANZISERA, JOSEPH ANTHONY",
+                        "EXCEL SECURITIES & ASSOCIATES,INC.",
+                        "EXCEL SECURITIES & ASSOCIATES, INC.",
+                        "EXCEL SECURITIES & ASSOCIATES",
+                        "EXCEL SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 CANAL VIEW BLVD.\", \"street2\": \"STE. 204\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"mailingAddress\": {\"street1\": \"200 CANAL VIEW BLVD.\", \"street2\": \"STE. 204\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"businessPhoneNumber\": \"585-424-1234\", \"iaFirmName\": \"ASHTON THOMAS SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"200 CANAL VIEW BLVD.\", \"street2\": \"SUITE 204\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"14623\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "178 CLIZBE AVE",
+                                        "city": "AMSTERDAM",
+                                        "state": "NY",
+                                        "zipCode": "12010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28218",
+                    "firm_bd_sec_number": "43514",
+                    "firm_bd_full_sec_number": "8-43514",
+                    "firm_ia_sec_number": "43561",
+                    "firm_ia_full_sec_number": "801-43561",
+                    "firm_name": "STIFEL INDEPENDENT ADVISORS, LLC",
+                    "ia_firm_name": "STIFEL INDEPENDENT ADVISORS, LLC",
+                    "firm_other_names": [
+                        "CENTURY SECURITIES ASSOCIATES INC",
+                        "STIFEL INDEPENDENT ADVISORS, LLC",
+                        "CENTURY SECURITIES ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 83,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FINANCIAL PLAZA 501 NORTH BROADWAY\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63102\"}, \"mailingAddress\": {\"street1\": \"ONE FINANCIAL PLAZA 501 NORTH BROADWAY\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63102\"}, \"businessPhoneNumber\": \"(314) 342-4051\", \"iaFirmName\": \"STIFEL INDEPENDENT ADVISORS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"501 N BROADWAY\", \"city\": \"ST LOUIS\", \"state\": \"MO\", \"country\": \"United States\", \"postalCode\": \"63102\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1095 AVENUE OF THE AMERICAS",
+                                        "street2": "3 BRYANT PARK  - 3RD AND 4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10166"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35371",
+                    "firm_bd_sec_number": "46661",
+                    "firm_bd_full_sec_number": "8-46661",
+                    "firm_ia_sec_number": "67242",
+                    "firm_ia_full_sec_number": "801-67242",
+                    "firm_name": "OSAIC INSTITUTIONS, INC.",
+                    "ia_firm_name": "OSAIC INSTITUTIONS, INC.",
+                    "firm_other_names": [
+                        "CONNECTICUT ASSOCIATION SECURITIES, INC.",
+                        "OSAIC INSTITUTIONS, INC.",
+                        "INFINEX INVESTMENTS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1074,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"538 PRESTON AVENUE\", \"city\": \"MERIDEN\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06450-4858\"}, \"mailingAddress\": {\"street1\": \"538 PRESTON AVENUE\", \"city\": \"MERIDEN\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06450-4858\"}, \"businessPhoneNumber\": \"203-599-6000\", \"iaFirmName\": \"OSAIC INSTITUTIONS, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"538 PRESTON AVENUE\", \"city\": \"MERIDEN\", \"state\": \"CT\", \"country\": \"United States\", \"postalCode\": \"06450-4858\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6176 MAIN STREET",
+                                        "city": "TANNERSVILLE",
+                                        "state": "NY",
+                                        "zipCode": "12485"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

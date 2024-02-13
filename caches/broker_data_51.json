@@ -1,0 +1,467 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129376",
+                    "firm_bd_sec_number": "68187",
+                    "firm_bd_full_sec_number": "8-68187",
+                    "firm_ia_sec_number": "66962",
+                    "firm_ia_full_sec_number": "801-66962",
+                    "firm_name": "BOLTON SECURITIES CORPORATION",
+                    "ia_firm_name": "BOLTON GLOBAL ASSET MANAGEMENT",
+                    "firm_other_names": [
+                        "BOLTON GLOBAL ASSET MANAGEMENT",
+                        "DELTA GLOBAL ASSET MANAGEMENT",
+                        "BOLTON SECURITIES CORPORATION",
+                        "BOLTON SECURITIES CORP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 148,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"579 MAIN STREET\", \"city\": \"BOLTON\", \"state\": \"MA\", \"postalCode\": \"01740\"}, \"mailingAddress\": {\"street1\": \"579 MAIN STREET\", \"city\": \"BOLTON\", \"state\": \"MA\", \"postalCode\": \"01740\"}, \"businessPhoneNumber\": \"978-779-6947\", \"iaFirmName\": \"BOLTON GLOBAL ASSET MANAGEMENT\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"579 MAIN STREET\", \"city\": \"BOLTON\", \"state\": \"MA\", \"country\": \"United States\", \"postalCode\": \"01740\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "489 5th Avenue",
+                                        "street2": "21st Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14470",
+                    "firm_bd_sec_number": "28663",
+                    "firm_bd_full_sec_number": "8-28663",
+                    "firm_name": "ROYCE FUND SERVICES, LLC",
+                    "firm_other_names": [
+                        "QUEST DISTRIBUTORS, INC.",
+                        "ROYCE FUND SERVICES, LLC",
+                        "ROYCE FUND SERVICES, INC.",
+                        "QUEST SECURITIES,INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"745 5TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10151\"}, \"mailingAddress\": {\"street1\": \"745 5TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10151\"}, \"businessPhoneNumber\": \"212-508-4500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "745 5TH AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10151"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "312209",
+                    "firm_bd_sec_number": "70684",
+                    "firm_bd_full_sec_number": "8-70684",
+                    "firm_name": "DORSET PEAK SECURITIES LLC",
+                    "firm_other_names": [
+                        "DORSET PEAK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"416 WEST 13TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"mailingAddress\": {\"street1\": \"416 WEST 13TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"businessPhoneNumber\": \"646-661-3588\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "416 West 13th Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "630",
+                    "firm_bd_sec_number": "18333",
+                    "firm_bd_full_sec_number": "8-18333",
+                    "firm_name": "CIBC WORLD MARKETS CORP.",
+                    "firm_other_names": [
+                        "CIBC OPPENHEIMER",
+                        "OPPENHEIMER & CO., INC.",
+                        "CIBC WORLD MARKETS CORP.",
+                        "CIBC WORLD MARKETS",
+                        "CIBC OPPENHEIMER CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 MADISON AVENUE\", \"street2\": \"SIXTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"300 MADISON AVENUE\", \"street2\": \"SIXTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-856-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 MADISON AVENUE",
+                                        "street2": "SIXTH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "153792",
+                    "firm_bd_sec_number": "68572",
+                    "firm_bd_full_sec_number": "8-68572",
+                    "firm_name": "BELMONT CAPITAL",
+                    "firm_other_names": [
+                        "BELMONT CAPITAL",
+                        "CILLIAN HOLDINGS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"535 FIFTH AVENUE, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"535 FIFTH AVENUE, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 406-3610\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "535 FIFTH AVENUE, 4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42404",
+                    "firm_bd_sec_number": "49829",
+                    "firm_bd_full_sec_number": "8-49829",
+                    "firm_name": "SECOND STREET SECURITIES, INC.",
+                    "firm_other_names": [
+                        "SECOND STREET SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"340 NORTH WESTLAKE BLVD.,\", \"street2\": \"SUITE 160\", \"city\": \"WESTLAKE VILLAGE\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"91362\"}, \"mailingAddress\": {\"street1\": \"340 NORTH WESTLAKE BLVD.,\", \"street2\": \"SUITE 160\", \"city\": \"WESTLAKE VILLAGE\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"91362\"}, \"businessPhoneNumber\": \"818-657-0288\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4 Times Square",
+                                        "street2": "6th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143571",
+                    "firm_bd_sec_number": "67578",
+                    "firm_bd_full_sec_number": "8-67578",
+                    "firm_name": "KKR CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "KKR CAPITAL MARKETS LLC",
+                        "KKR GLOBAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 HUDSON YARDS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"30 HUDSON YARDS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212 750-8300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 Hudson Yards",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317568",
+                    "firm_bd_sec_number": "70836",
+                    "firm_bd_full_sec_number": "8-70836",
+                    "firm_name": "TULIPSHARE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "TULIPSHARE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"115 SEACORD RD\", \"city\": \"NEW ROCHELLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10804\"}, \"mailingAddress\": {\"street1\": \"115 SEACORD RD\", \"city\": \"NEW ROCHELLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10804\"}, \"businessPhoneNumber\": \"(636) 675-3746\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "115 SEACORD RD",
+                                        "city": "NEW ROCHELLE",
+                                        "state": "NY",
+                                        "zipCode": "10804"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1845",
+                    "firm_bd_sec_number": "10438",
+                    "firm_bd_full_sec_number": "8-10438",
+                    "firm_name": "FIRST MANHATTAN SECURITIES LLC",
+                    "ia_firm_name": "FIRST MANHATTAN CO",
+                    "firm_other_names": [
+                        "FIRST MANHATTAN CO",
+                        "FIRST MANHATTAN SECURITIES LLC",
+                        "FIRST MANHATTAN CO. LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"399 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"399 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 756-3300\", \"iaFirmName\": \"FIRST MANHATTAN CO\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"399 PARK AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10022\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "399 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "141254",
+                    "firm_bd_sec_number": "67371",
+                    "firm_bd_full_sec_number": "8-67371",
+                    "firm_ia_sec_number": "119325",
+                    "firm_ia_full_sec_number": "802-119325",
+                    "firm_name": "UNION SQUARE ADVISORS LLC",
+                    "ia_firm_name": "UNION SQUARE ADVISORS LLC",
+                    "firm_other_names": [
+                        "SEACLIFF GROUP LLC",
+                        "UNION SQUARE ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 EMBARCADERO CENTER\", \"street2\": \"SUITE 950\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"1 EMBARCADERO CENTER\", \"street2\": \"SUITE 950\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"businessPhoneNumber\": \"415-501-8000\", \"iaFirmName\": \"UNION SQUARE ADVISORS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1 EMBARCADERO CENTER\", \"street2\": \"SUITE 950\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"94111\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1350 Avenue of the Americas, Suite 700",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151423",
+                    "firm_bd_sec_number": "68370",
+                    "firm_bd_full_sec_number": "8-68370",
+                    "firm_name": "BROOKFIELD PRIVATE ADVISORS LLC",
+                    "firm_other_names": [
+                        "BROOKFIELD FINANCIAL",
+                        "PRIVATE FUNDS GROUP",
+                        "BROOKFIELD PRIVATE ADVISORS LLC",
+                        "BROOKFIELD FINANCIAL US, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"BROOKFIELD PLACE\", \"street2\": \"250 VESEY STREET, 15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10281-1021\"}, \"mailingAddress\": {\"street1\": \"BROOKFIELD PLACE\", \"street2\": \"250 VESEY STREET, 15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10281-1021\"}, \"businessPhoneNumber\": \"212 417-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "BROOKFIELD PLACE",
+                                        "street2": "250 VESEY STREET, 15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2509",
+                    "firm_bd_sec_number": "11988",
+                    "firm_bd_full_sec_number": "8-11988",
+                    "firm_name": "MM GLOBAL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FEIL DAILY INVESTMENT CO.",
+                        "WHITEWOOD GROUP, INC",
+                        "MM IGLOBAL INC.",
+                        "MM GLOBAL SECURITIES, INC.",
+                        "LANGILL & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 LEXINGTON AVENUE\", \"street2\": \"UNIT 12-111\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 LEXINGTON AVENUE\", \"street2\": \"FL 14\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"6468680966\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 LEXINGTON AVENUE",
+                                        "street2": "UNIT 12-111",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

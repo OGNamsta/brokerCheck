@@ -1,0 +1,449 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "135113",
+                    "firm_bd_sec_number": "66892",
+                    "firm_bd_full_sec_number": "8-66892",
+                    "firm_name": "MERGER & ACQUISITION CAPITAL SERVICES, LLC",
+                    "firm_other_names": [
+                        "BROADWAY FINANCIAL GROUP, INC.",
+                        "MERGER & ACQUISITION CAPITAL SERVICES, LLC",
+                        "MERGER & ACQUISITION CAPITAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"320 EAST 53RD STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"320 EAST 53RD STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-750-0630\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "320 EAST 53RD STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "20576",
+                    "firm_bd_sec_number": "38327",
+                    "firm_bd_full_sec_number": "8-38327",
+                    "firm_name": "HUNNICUTT & CO. LLC",
+                    "firm_other_names": [
+                        "HUNNICUTT & CO. LLC",
+                        "WILLIAM M. HUNNICUTT BROKER/DEALER",
+                        "HUNNICUTT & CO., INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"110 E. 59TH STREET\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"110 E. 59TH STREET\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 752 0200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "110 E.59TH STREET",
+                                        "street2": "32 FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "32968",
+                    "firm_bd_sec_number": "45248",
+                    "firm_bd_full_sec_number": "8-45248",
+                    "firm_name": "LIVERMORE TRADING GROUP, INC.",
+                    "firm_other_names": [
+                        "LIVERMORE TRADING GROUP, INC.",
+                        "MALBIN SECURITIES CORP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 WALL STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"C/O ACCOUNTING & COMPLIANCE INTERNATIONAL\", \"street2\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-742-0460\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 WALL STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "281264",
+                    "firm_bd_sec_number": "69671",
+                    "firm_bd_full_sec_number": "8-69671",
+                    "firm_name": "RODMAN & RENSHAW, LLC",
+                    "firm_other_names": [
+                        "RODMAN & RENSHAW, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 LEXINGTON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"600 LEXINGTON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-356-0500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "600 LEXINGTON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126750",
+                    "firm_bd_sec_number": "65905",
+                    "firm_bd_full_sec_number": "8-65905",
+                    "firm_name": "MID-MARKET SECURITIES, LLC",
+                    "firm_other_names": [
+                        "MID-MARKET SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"24 JAMES ROAD\", \"city\": \"MOUNT KISCO\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10549\"}, \"mailingAddress\": {\"street1\": \"24 JAMES ROAD\", \"city\": \"MOUNT KISCO\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10549\"}, \"businessPhoneNumber\": \"212-400-4048\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "24 JAMES ROAD",
+                                        "city": "MOUNT KISCO",
+                                        "state": "NY",
+                                        "zipCode": "10549"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "123380",
+                    "firm_bd_sec_number": "65582",
+                    "firm_bd_full_sec_number": "8-65582",
+                    "firm_name": "ACHELOUS PARTNERS, LLC",
+                    "firm_other_names": [
+                        "ACHELOUS PARTNERS, LLC",
+                        "GMCG, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 THIRD AVENUE FLOOR 21\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"ACHELOUS PARTNERS, LLC\", \"street2\": \"800 THIRD AVENUE FLOOR 21\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"9543259624\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 THIRD AVENUE FLOOR 21",
+                                        "city": "NEW YORK CITY",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43884",
+                    "firm_bd_sec_number": "50460",
+                    "firm_bd_full_sec_number": "8-50460",
+                    "firm_name": "BROWNSTONE INVESTMENT GROUP, LLC",
+                    "firm_other_names": [
+                        "BROWNSTONE INVESTMENT GROUP, LLC",
+                        "THE WORLDVEST GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"505 FIFTH AVENUE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"505 FIFTH AVENUE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-905-0550\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 FIFTH AVENUE",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "33496",
+                    "firm_bd_sec_number": "41526",
+                    "firm_bd_full_sec_number": "8-41526",
+                    "firm_name": "BRENDAN E. CRYAN AND COMPANY, L.L.C.",
+                    "firm_other_names": [
+                        "BRENDAN E. CRYAN AND COMPANY, L.L.C.",
+                        "CRYAN, BRENDAN EMMETT"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"14 WALL STREET\", \"street2\": \"SUITE 2094\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"14 WALL STREET\", \"street2\": \"SUITE 2028\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-618-1960\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "14 WALL STREET",
+                                        "street2": "SUITE 2094",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133796",
+                    "firm_bd_sec_number": "66774",
+                    "firm_bd_full_sec_number": "8-66774",
+                    "firm_name": "CENTERVIEW PARTNERS LLC",
+                    "firm_other_names": [
+                        "CENTERVIEW PARTNERS LLC",
+                        "PRUZAN & CO., LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"31 WEST 52ND STREET\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"31 WEST 52ND STREET\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212 380-2650\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "31 WEST 52ND STREET, 22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151026",
+                    "firm_bd_sec_number": "68328",
+                    "firm_bd_full_sec_number": "8-68328",
+                    "firm_name": "GREENSLEDGE CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "CENTERLEDGE CAPITAL MARKETS LLC",
+                        "GREENSLEDGE CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 LEXINGTON AVENUE\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 LEXINGTON AVENUE\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-792-5274\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 LEXINGTON AVENUE",
+                                        "street2": "32ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44357",
+                    "firm_bd_sec_number": "50648",
+                    "firm_bd_full_sec_number": "8-50648",
+                    "firm_ia_sec_number": "64064",
+                    "firm_ia_full_sec_number": "801-64064",
+                    "firm_name": "HUDSON HERITAGE CAPITAL MANAGEMENT, INC.",
+                    "ia_firm_name": "HUDSON HERITAGE CAPITAL MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "HUDSON HERITAGE CAPITAL MANAGEMENT, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"20 BALTIC PLACE SUITE 2\", \"city\": \"CROTON-ON-HUDSON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10520\"}, \"mailingAddress\": {\"street1\": \"20 BALTIC PLACE SUITE 2\", \"city\": \"CROTON-ON-HUDSON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10520\"}, \"businessPhoneNumber\": \"914-271-8102\", \"iaFirmName\": \"HUDSON HERITAGE CAPITAL MANAGEMENT, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"20 BALTIC PLACE\", \"street2\": \"SUITE 2\", \"city\": \"CROTON-ON-HUDSON\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10520\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "20 BALTIC PLACE",
+                                        "street2": "SUITE 2",
+                                        "city": "CROTON-ON-HUDSON",
+                                        "state": "NY",
+                                        "zipCode": "10520"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "314893",
+                    "firm_bd_sec_number": "70761",
+                    "firm_bd_full_sec_number": "8-70761",
+                    "firm_name": "RPP SECURITIES",
+                    "firm_other_names": [
+                        "RPP SECURITIES",
+                        "RPP SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 PARK AVENUE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"100 PARK AVENUE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-729-1324\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 PARK AVENUE",
+                                        "street2": "16TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

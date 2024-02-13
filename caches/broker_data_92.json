@@ -1,0 +1,480 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "128929",
+                    "firm_bd_sec_number": "66185",
+                    "firm_bd_full_sec_number": "8-66185",
+                    "firm_ia_sec_number": "62547",
+                    "firm_ia_full_sec_number": "801-62547",
+                    "firm_name": "GWN SECURITIES INC.",
+                    "ia_firm_name": "GWN SECURITIES INC.",
+                    "firm_other_names": [
+                        "GLOBAL WORLD NETWORK SECURITIES",
+                        "GWN SECURITIES INC.",
+                        "GLOBAL WORLD NETWORK SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 444,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11440 NORTH JOG ROAD\", \"city\": \"PALM BEACH GARDENS\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33418-3764\"}, \"mailingAddress\": {\"street1\": \"11440 NORTH JOG ROAD\", \"city\": \"PALM BEACH GARDENS\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33418-3764\"}, \"businessPhoneNumber\": \"561-472-2700\", \"iaFirmName\": \"GWN SECURITIES INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"11440 NORTH JOG ROAD\", \"city\": \"PALM BEACH GARDENS\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"33418-3764\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "WARWICK",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133068",
+                    "firm_bd_sec_number": "66677",
+                    "firm_bd_full_sec_number": "8-66677",
+                    "firm_name": "WELLS FARGO PRIME SERVICES, LLC",
+                    "firm_other_names": [
+                        "MERLIN SECURITIES, LLC",
+                        "WELLS FARGO PRIME SERVICES, LLC",
+                        "WELLS FARGO CORPORATE AND/& INVESTMENT BANKING"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"333 MARKET STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94105\"}, \"mailingAddress\": {\"street1\": \"333 MARKET STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94105\"}, \"businessPhoneNumber\": \"212-822-4800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "500 W 33rd St",
+                                        "street2": "30 Hudson Yards",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35350",
+                    "firm_bd_sec_number": "46655",
+                    "firm_bd_full_sec_number": "8-46655",
+                    "firm_name": "NYLIFE DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "MACKAY SHIELDS LLC",
+                        "NYLIFE DISTRIBUTORS LLC",
+                        "NYLIFE DISTRIBUTORS INC.",
+                        "NEW YORK LIFE INVESTMENT MANAGEMENT LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 35,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 HUDSON STREET\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07302\"}, \"mailingAddress\": {\"street1\": \"30 HUDSON STREET\", \"street2\": \"22ND FLOOR\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07302\"}, \"businessPhoneNumber\": \"201-685-6220\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "124A Ingersoll Rd",
+                                        "city": "Saratoga Springs",
+                                        "state": "NY",
+                                        "zipCode": "12866"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "288898",
+                    "firm_bd_sec_number": "69967",
+                    "firm_bd_full_sec_number": "8-69967",
+                    "firm_name": "KINGSWOOD CAPITAL PARTNERS, LLC",
+                    "firm_other_names": [
+                        "CHALICE CAPITAL PARTNERS, LLC",
+                        "KINGSWOOD INVESTMENTS",
+                        "KINGSWOOD CAPITAL PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 69,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11440 W. BERNARDO CT.\", \"street2\": \"SUITE 300\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92127\"}, \"mailingAddress\": {\"street1\": \"175 COUNTRY CLUB DRIVE BLDG 400\", \"street2\": \"SUITE D\", \"city\": \"STOCKBRIDGE\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30281\"}, \"businessPhoneNumber\": \"800-535-6981\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 Overhill Rd",
+                                        "street2": "Ste 400",
+                                        "city": "Scarsdale",
+                                        "state": "NY",
+                                        "zipCode": "10583"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "48015",
+                    "firm_bd_sec_number": "52009",
+                    "firm_bd_full_sec_number": "8-52009",
+                    "firm_name": "GOLDMAN SACHS CUSTODY SOLUTIONS",
+                    "firm_other_names": [
+                        "DIRECTINDEXER",
+                        "VIA FOLIO",
+                        "GOLDMAN SACHS CUSTODY SOLUTIONS",
+                        "FOLIO[FN] INVESTMENTS, INC.",
+                        "FOLIOTRADE BROKERAGE LLC",
+                        "FOLIOFN INVESTMENTS, INC.",
+                        "FOLIOFIRST",
+                        "FOLIO RESEARCH, LLC",
+                        "FOLIO RESEARCH",
+                        "FOLIO INVESTMENTS, INC.",
+                        "FOLIO INVESTING",
+                        "FOLIO INSTITUTIONAL",
+                        "FOLIO CLIENT"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8180 GREENSBORO DR\", \"street2\": \"8TH FLOOR\", \"city\": \"MCLEAN\", \"state\": \"VA\", \"country\": \"UNITED STATES\", \"postalCode\": \"22102\"}, \"mailingAddress\": {\"street1\": \"8180 GREENSBORO DR\", \"street2\": \"8TH FLOOR\", \"city\": \"MCLEAN\", \"state\": \"VA\", \"country\": \"UNITED STATES\", \"postalCode\": \"22102\"}, \"businessPhoneNumber\": \"703-245-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 West Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10282"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "190",
+                    "firm_bd_sec_number": "13753",
+                    "firm_bd_full_sec_number": "8-13753",
+                    "firm_name": "CREDIT AGRICOLE SECURITIES (USA) INC.",
+                    "firm_other_names": [
+                        "CALYON SECURITIES (USA) INC",
+                        "EURO PARTNERS SECURITIES CORPORATION",
+                        "CREDIT LYONNAIS SECURITIES (USA), INC.",
+                        "CREDIT AGRICOLE SECURITIES (USA) INC.",
+                        "CL GLOBALPARTNERS SECURITIES CORPORATION",
+                        "CALYON SECURITIS (USA) INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1301 AVENUE OF THE AMERICAS - 9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1301 AVENUE OF THE AMERICAS - 9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-261-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1301 AVENUE OF THE AMERICAS",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "109064",
+                    "firm_bd_sec_number": "53089",
+                    "firm_bd_full_sec_number": "8-53089",
+                    "firm_name": "FRANKLIN DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "FRANKLIN DISTRIBUTORS, LLC",
+                        "UNIFIED DISTRIBUTORS LLC",
+                        "LEGG MASON INVESTORS SERVICES, LLC",
+                        "LEGG MASON INVESTOR SERVICES, LLC",
+                        "LATINVALLEY SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 44,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FRANKLIN PARKWAY\", \"city\": \"SAN MATEO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94403\"}, \"mailingAddress\": {\"street1\": \"100 INTERNATIONAL DRIVE\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"USA\", \"postalCode\": \"21202\"}, \"businessPhoneNumber\": \"800-632-2350\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 Park Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126292",
+                    "firm_bd_sec_number": "65876",
+                    "firm_bd_full_sec_number": "8-65876",
+                    "firm_name": "WELLS FARGO SECURITIES, LLC",
+                    "firm_other_names": [
+                        "WACHOVIA CAPITAL MARKETS, LLC",
+                        "WELLS FARGO SECURITIES, LLC",
+                        "WELLS FARGO SECURITIES",
+                        "WELLS FARGO CORPORATE AND/& INVESTMENT BANKING",
+                        "WACHOVIA CORPORATE & INVESTMENT BANKING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 57,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"550 SOUTH TRYON STREET, 6TH FLOOR\", \"street2\": \"D1086-060\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28202\"}, \"mailingAddress\": {\"street1\": \"1 N JEFFERSON AVE\", \"street2\": \"H0004-063\", \"city\": \"ST. LOUIS\", \"state\": \"MO\", \"country\": \"USA\", \"postalCode\": \"63103\"}, \"businessPhoneNumber\": \"314-875-3286\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "500 W 33rd St",
+                                        "street2": "30 Hudson Yards",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126588",
+                    "firm_bd_sec_number": "65894",
+                    "firm_bd_full_sec_number": "8-65894",
+                    "firm_name": "VELOCITY CLEARING, LLC",
+                    "firm_other_names": [
+                        "GUARDIAN TRADING",
+                        "VELOCITY PRIME SERVICES",
+                        "VELOCITY EXECUTION SERVICES",
+                        "VELOCITY CLEARING, LLC",
+                        "QUANTEX CLEARING, LLC",
+                        "NYFIX SECURITIES LLC",
+                        "NYFIX SECURITIES CORPORATION",
+                        "NYFIX CLEARING CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1301 ROUTE 36\", \"street2\": \"SUITE 109\", \"city\": \"HAZLET\", \"state\": \"NJ\", \"postalCode\": \"07730\"}, \"mailingAddress\": {\"street1\": \"1301 ROUTE 36\", \"street2\": \"SUITE 109\", \"city\": \"HAZLET\", \"state\": \"NJ\", \"postalCode\": \"07730\"}, \"businessPhoneNumber\": \"201-706-7157\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "199 Water Street",
+                                        "street2": "17th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44848",
+                    "firm_bd_sec_number": "50847",
+                    "firm_bd_full_sec_number": "8-50847",
+                    "firm_name": "KOVACK SECURITIES INC.",
+                    "firm_other_names": [
+                        "KOVACK SECURITIES INC.",
+                        "RK ADVISORS, INC.",
+                        "RK ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 230,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6451 N. FEDERAL HWY.\", \"street2\": \"SUITE 1201\", \"city\": \"FT. LAUDERDALE\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33308\"}, \"mailingAddress\": {\"street1\": \"6451 N. FEDERAL HWY.\", \"street2\": \"SUITE 1201\", \"city\": \"FT. LAUDERDALE\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33308\"}, \"businessPhoneNumber\": \"954-782-4771\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "15 Verbena Ave",
+                                        "street2": "Suite 220 B",
+                                        "city": "Floral Park",
+                                        "state": "NY",
+                                        "zipCode": "11001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "144211",
+                    "firm_bd_sec_number": "67644",
+                    "firm_bd_full_sec_number": "8-67644",
+                    "firm_name": "SEVEN POINTS CAPITAL, LLC",
+                    "firm_other_names": [
+                        "SEVEN POINTS CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"SUITE 3002\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"SUITE 3002\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 760-0760\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 EAST 52ND STREET",
+                                        "street2": "SUITE 3002",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37404",
+                    "firm_bd_sec_number": "47739",
+                    "firm_bd_full_sec_number": "8-47739",
+                    "firm_name": "MERCER ALLIED COMPANY, L.P.",
+                    "firm_other_names": [
+                        "MERCER ALLIED COMPANY, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 COLISEUM DRIVE\", \"city\": \"COHOES\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12047\"}, \"mailingAddress\": {\"street1\": \"100 COLISEUM DRIVE\", \"city\": \"COHOES\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12047\"}, \"businessPhoneNumber\": \"518 886-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 COLISEUM DRIVE",
+                                        "city": "COHOES",
+                                        "state": "NY",
+                                        "zipCode": "12047"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "310576",
+                    "firm_bd_sec_number": "70616",
+                    "firm_bd_full_sec_number": "8-70616",
+                    "firm_name": "STIRLINGSHIRE INVESTMENTS",
+                    "firm_other_names": [
+                        "STIRLINGSHIRE BD LLC",
+                        "STIRLINGSHIRE INVESTMENTS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"15 W 38TH ST\", \"street2\": \"SUITE 704\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"15 W 38TH ST\", \"street2\": \"SUITE 704\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"877-600-7026\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "15 W 38TH ST",
+                                        "street2": "SUITE 704",
+                                        "city": "NEW YORK CITY",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "311636",
+                    "firm_bd_sec_number": "70624",
+                    "firm_bd_full_sec_number": "8-70624",
+                    "firm_name": "PROMETHEUM ATS",
+                    "firm_other_names": [
+                        "PROATS",
+                        "PROMETHEUM EMBER ATS INC.",
+                        "PROMETHEUM ATS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"120 WALL STREET\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"120 WALL STREET\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212 333 3315\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 WALL STREET",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290233",
+                    "firm_bd_sec_number": "70018",
+                    "firm_bd_full_sec_number": "8-70018",
+                    "firm_name": "MCDONNAUGH SECURITIES LLC",
+                    "firm_other_names": [
+                        "DELPHIN MCDONNAUGH SECURITIES LLC",
+                        "MCDONNAUGH SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2425 GRAND AVE.\", \"city\": \"BALDWIN\", \"state\": \"NY\", \"postalCode\": \"11510\"}, \"mailingAddress\": {\"street1\": \"PO BOX 203\", \"city\": \"BALDWIN\", \"state\": \"NY\", \"postalCode\": \"11510\"}, \"businessPhoneNumber\": \"516.782.3463\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2425 GRAND AVE.",
+                                        "city": "BALDWIN",
+                                        "state": "NY",
+                                        "zipCode": "11510"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132654",
+                    "firm_bd_sec_number": "66614",
+                    "firm_bd_full_sec_number": "8-66614",
+                    "firm_name": "PCA CAPITAL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "HALYARD SECURITIES, LLC",
+                        "PCA CAPITAL SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 WALT WHITMAN RD.\", \"street2\": \"SUITE 309\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"mailingAddress\": {\"street1\": \"900 WALT WHITMAN RD.\", \"street2\": \"SUITE 309\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"businessPhoneNumber\": \"212-476-9300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "900 WALT WHITMAN RD.",
+                                        "street2": "SUITE 309",
+                                        "city": "MELVILLE",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "175456",
+                    "firm_bd_sec_number": "69599",
+                    "firm_bd_full_sec_number": "8-69599",
+                    "firm_name": "BAIN CAPITAL DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "BAIN CAPITAL DISTRIBUTORS, LLC",
+                        "ST. JAMES FUND DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 CLARENDON STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02116\"}, \"mailingAddress\": {\"street1\": \"200 CLARENDON STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02116\"}, \"businessPhoneNumber\": \"617-516-2318\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "535 Madison Avenue",
+                                        "street2": "29th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146250",
+                    "firm_bd_sec_number": "67802",
+                    "firm_bd_full_sec_number": "8-67802",
+                    "firm_name": "GSP SECURITIES LLC",
+                    "firm_other_names": [
+                        "GSP SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"335 MADISON AVENUE, 22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"335 MADISON AVENUE, 22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-850-4900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "335 MADISON AVENUE, 22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47263",
+                    "firm_bd_sec_number": "51721",
+                    "firm_bd_full_sec_number": "8-51721",
+                    "firm_name": "REID & RUDIGER LLC",
+                    "firm_other_names": [
+                        "REID & RUDIGER LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"STE 706\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"STE 706\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-785-0500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 Broad Street",
+                                        "street2": "28th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15487",
+                    "firm_bd_sec_number": "32283",
+                    "firm_bd_full_sec_number": "8-32283",
+                    "firm_name": "CION SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CION INVESTMENTS",
+                        "OSPREY SECURITIES CORP.",
+                        "ICON SECURITIES, LLC",
+                        "ICON SECURITIES CORP.",
+                        "ICON SECURITIES CORP",
+                        "ICON INVESTMENTS",
+                        "ICG SECURITIES CORP.",
+                        "CION SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 PARK AVENUE\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"100 PARK AVENUE\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-418-4700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 PARK AVENUE",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285784",
+                    "firm_bd_sec_number": "69859",
+                    "firm_bd_full_sec_number": "8-69859",
+                    "firm_name": "SUMMIT TRAIL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "SUMMIT TRAIL SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2 GRAND CENTRAL TOWER, 140 E. 45TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"2 GRAND CENTRAL TOWER, 140 E. 45TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-812-7005\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 GRAND CENTRAL TOWER, 140 E. 45TH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "168356",
+                    "firm_bd_sec_number": "69303",
+                    "firm_bd_full_sec_number": "8-69303",
+                    "firm_name": "CORPORATE PARTNERS & CO. LLC",
+                    "firm_other_names": [
+                        "CORPORATE PARTNERS & CO. LLC",
+                        "CORPORATE PARTNERS ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA, SUITE 2626\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"mailingAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA, SUITE 2626\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"businessPhoneNumber\": \"212-332-5820\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "45 Rockefeller Plaza",
+                                        "street2": "Suite: 2626",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10011"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104357",
+                    "firm_bd_sec_number": "52819",
+                    "firm_bd_full_sec_number": "8-52819",
+                    "firm_name": "SONENSHINE & COMPANY LLC",
+                    "firm_other_names": [
+                        "SONENSHINE & COMPANY LLC",
+                        "SONENSHINE PASTOR & CO. LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"505 PARK AVENUE\", \"street2\": \"THIRD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"505 PARK AVENUE\", \"street2\": \"THIRD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"2129943330\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 PARK AVENUE",
+                                        "street2": "THIRD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133371",
+                    "firm_bd_sec_number": "66717",
+                    "firm_bd_full_sec_number": "8-66717",
+                    "firm_name": "VALIDATE CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "VALIDATE CAPITAL MARKETS, LLC",
+                        "VISCOGLIOSI & COMPANY, LLC",
+                        "VISCOGLIOSI & COMPANY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"505 PARK AVENUE, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"505 PARK AVENUE, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-213-3703\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 PARK AVENUE, 14TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,465 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45287",
+                    "firm_bd_sec_number": "51017",
+                    "firm_bd_full_sec_number": "8-51017",
+                    "firm_ia_sec_number": "55802",
+                    "firm_ia_full_sec_number": "801-55802",
+                    "firm_name": "THE GLADOWSKY GROUP",
+                    "ia_firm_name": "GLADOWSKY CAPITAL MANAGEMENT CORP",
+                    "firm_other_names": [
+                        "GLADOWSKY CAPITAL MANAGEMENT CORP",
+                        "THE GLADOWSKY GROUP",
+                        "GLADOWSKY CAPITAL MANAGEMENT CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"18 MANOR ROAD\", \"city\": \"SMITHTOWN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11787\"}, \"mailingAddress\": {\"street1\": \"18 MANOR ROAD\", \"city\": \"SMITHTOWN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11787\"}, \"businessPhoneNumber\": \"631-360-7200\", \"iaFirmName\": \"GLADOWSKY CAPITAL MANAGEMENT CORP\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"18 MANOR ROAD\", \"city\": \"SMITHTOWN\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"11787\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "18 MANOR ROAD",
+                                        "city": "SMITHTOWN",
+                                        "state": "NY",
+                                        "zipCode": "11787"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "124988",
+                    "firm_bd_sec_number": "65749",
+                    "firm_bd_full_sec_number": "8-65749",
+                    "firm_name": "OAKLINS DP LLC",
+                    "firm_other_names": [
+                        "DESILVA & PHILLIPS CORPORATE FINANCE LLC",
+                        "OAKLINS DP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"90 PARK AVENUE\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"90 PARK AVENUE\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"212-686-9700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "90 PARK AVENUE",
+                                        "street2": "24TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29278",
+                    "firm_bd_sec_number": "44222",
+                    "firm_bd_full_sec_number": "8-44222",
+                    "firm_ia_sec_number": "62290",
+                    "firm_ia_full_sec_number": "801-62290",
+                    "firm_name": "BELLE HAVEN INVESTMENTS, L.P.",
+                    "ia_firm_name": "BELLE HAVEN INVESTMENTS, L.P.",
+                    "firm_other_names": [
+                        "BELL HAVEN INVESTMENTS, L.P.",
+                        "BELLE HAVEN INVESTMENTS, L.P.",
+                        "BELLE HAVEN INVESTMENTS, INC.",
+                        "BELLE HAVEN INVESTMENTS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 WESTCHESTER AVENUE\", \"street2\": \"SUITE N607\", \"city\": \"RYE BROOK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10573\"}, \"mailingAddress\": {\"street1\": \"800 WESTCHESTER AVENUE\", \"street2\": \"SUITE N607\", \"city\": \"RYE BROOK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10573\"}, \"businessPhoneNumber\": \"(914) 816-4633\", \"iaFirmName\": \"BELLE HAVEN INVESTMENTS, L.P.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"800 WESTCHESTER AVENUE\", \"street2\": \"SUITE N607\", \"city\": \"RYE BROOK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10573-1301\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 Westchester Ave",
+                                        "street2": "SUITE N607",
+                                        "city": "Rye Brook,",
+                                        "state": "NY",
+                                        "zipCode": "10573"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "312594",
+                    "firm_bd_sec_number": "70677",
+                    "firm_bd_full_sec_number": "8-70677",
+                    "firm_name": "HUDSON EXECUTIVE SECURITIES LLC",
+                    "firm_other_names": [
+                        "HEC CAPITAL MARKETS LLC",
+                        "HUDSON EXECUTIVE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"C/O RICHARD BRAND CADWALADER, WICKERSHAM & TAFT\", \"street2\": \"200 LIBERTY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"C/O RICHARD BRAND CADWALADER, WICKERSHAM & TAFT\", \"street2\": \"200 LIBERTY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-521-8495\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "C/O RICHARD BRAND CADWALADER, WICKERSHAM & TAFT",
+                                        "street2": "200 LIBERTY STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104390",
+                    "firm_bd_sec_number": "52855",
+                    "firm_bd_full_sec_number": "8-52855",
+                    "firm_name": "MARV CAPITAL INC.",
+                    "firm_other_names": [
+                        "MARINO CAPITAL PARTNERS",
+                        "NETCAP VENTURES, INC.",
+                        "NET CAP SECURITIES",
+                        "MARV CAPITAL INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 WEST END AVENUE\", \"street2\": \"SUITE 11D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10023\"}, \"mailingAddress\": {\"street1\": \"1 WEST END AVENUE\", \"street2\": \"SUITE 11D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10023\"}, \"businessPhoneNumber\": \"3475567263\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 WEST END AVENUE",
+                                        "street2": "SUITE 11D",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10023"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171807",
+                    "firm_bd_sec_number": "69480",
+                    "firm_bd_full_sec_number": "8-69480",
+                    "firm_name": "RMK CAPITAL",
+                    "firm_other_names": [
+                        "RMK CAPITAL",
+                        "RMK MARITIME CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"352 SEVENTH AVENUE\", \"street2\": \"SUITE 603\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"352 SEVENTH AVENUE\", \"street2\": \"SUITE 603\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"646-820-0643\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "352 SEVENTH AVENUE",
+                                        "street2": "SUITE 603",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172455",
+                    "firm_bd_sec_number": "69508",
+                    "firm_bd_full_sec_number": "8-69508",
+                    "firm_name": "NUVAMA FINANCIAL SERVICES INC.",
+                    "firm_other_names": [
+                        "EDELWEISS FINANCIAL SERVICES INC.",
+                        "NUVAMA FINANCIAL SERVICES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"12 E 49TH STREET\", \"street2\": \"WEWORK - 18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"12 E 49TH STREET\", \"street2\": \"WEWORK - 18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"845-367-2436\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "12 E 49TH STREET",
+                                        "street2": "WEWORK - 18TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146269",
+                    "firm_bd_sec_number": "67803",
+                    "firm_bd_full_sec_number": "8-67803",
+                    "firm_name": "DEER ISLE CAPITAL, LLC",
+                    "firm_other_names": [
+                        "DEER ISLE CAPITAL, LLC",
+                        "MILLENNIUM GLOBAL CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"33 FLYING POINT ROAD\", \"street2\": \"SUITE 131\", \"city\": \"SOUTHAMPTON\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11968\"}, \"mailingAddress\": {\"street1\": \"33 FLYING POINT ROAD\", \"street2\": \"SUITE 131\", \"city\": \"SOUTHAMPTON\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11968\"}, \"businessPhoneNumber\": \"212-488-0555\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "33 FLYING POINT ROAD, SUITE 131",
+                                        "city": "Southampton",
+                                        "state": "NY",
+                                        "zipCode": "11968"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16360",
+                    "firm_bd_sec_number": "33772",
+                    "firm_bd_full_sec_number": "8-33772",
+                    "firm_ia_sec_number": "62735",
+                    "firm_ia_full_sec_number": "801-62735",
+                    "firm_name": "NEEDHAM & COMPANY, LLC",
+                    "ia_firm_name": "NEEDHAM & COMPANY, LLC",
+                    "firm_other_names": [
+                        "NEEDHAM & COMPANY, INC.",
+                        "NEEDHAM & COMPANY, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 PARK AVENUE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10177\"}, \"mailingAddress\": {\"street1\": \"250 PARK AVENUE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10177\"}, \"businessPhoneNumber\": \"212-371-8300\", \"iaFirmName\": \"NEEDHAM & COMPANY, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"250 PARK AVENUE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10177\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 PARK AVENUE",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10177"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126500",
+                    "firm_bd_sec_number": "65886",
+                    "firm_bd_full_sec_number": "8-65886",
+                    "firm_name": "UOB GLOBAL EQUITY SALES LLC",
+                    "firm_other_names": [
+                        "UOB GLOBAL EQUITY SALES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"592 FIFTH AVENUE, SUITE 602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"592 FIFTH AVENUE, SUITE 602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-398-6633\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "592 FIFTH AVENUE, SUITE 602",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104285",
+                    "firm_bd_sec_number": "52746",
+                    "firm_bd_full_sec_number": "8-52746",
+                    "firm_name": "ICICI SECURITIES INC.",
+                    "firm_other_names": [
+                        "ICICI SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1120 AVENUE OF THE AMERICAS\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1120 AVENUE OF THE AMERICAS\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-388-0677\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1120 AVENUE OF THE AMERICAS",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "316392",
+                    "firm_bd_sec_number": "70803",
+                    "firm_bd_full_sec_number": "8-70803",
+                    "firm_name": "STONEPEAK SECURITIES LLC",
+                    "firm_other_names": [
+                        "STONEPEAK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"550 W. 34TH ST\", \"street2\": \"48TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"550 W. 34TH ST\", \"street2\": \"48TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-907-5100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "550 W. 34th St",
+                                        "street2": "48th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

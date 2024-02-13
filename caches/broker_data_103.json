@@ -1,0 +1,638 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "297979",
+                    "firm_bd_sec_number": "70159",
+                    "firm_bd_full_sec_number": "8-70159",
+                    "firm_name": "PEI GLOBAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "MARPINE SECURITIES LLC",
+                        "TOKENSOFT GLOBAL MARKETS, LLC",
+                        "PEI GLOBAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1001 WATER STREET, SUITE 620\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33602\"}, \"mailingAddress\": {\"street1\": \"1001 WATER STREET, SUITE 620\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33602\"}, \"businessPhoneNumber\": \"646-498-6957\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "601 Lexington Avenue, 55th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37818",
+                    "firm_bd_sec_number": "48067",
+                    "firm_bd_full_sec_number": "8-48067",
+                    "firm_name": "MISCHLER FINANCIAL GROUP, INC.",
+                    "firm_other_names": [
+                        "DILTANA COMPANY, INC.",
+                        "MISCHLER FINANCIAL GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1111 BAYSIDE DRIVE\", \"street2\": \"SUITE 100\", \"city\": \"CORONA DEL MAR\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92625\"}, \"mailingAddress\": {\"street1\": \"1111 BAYSIDE DRIVE\", \"street2\": \"SUITE 100\", \"city\": \"CORONA DEL MAR\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92625\"}, \"businessPhoneNumber\": \"949-720-0640\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "545 Madison Avenue, 15th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43520",
+                    "firm_bd_sec_number": "50335",
+                    "firm_bd_full_sec_number": "8-50335",
+                    "firm_name": "J.H. DARBIE & CO., INC.",
+                    "ia_firm_name": "J.H. DARBIE & CO., INC.",
+                    "firm_other_names": [
+                        "J.H. DARBIE & CO., INC.",
+                        "J.H. DARBIE ADVISORY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"48 WALL ST., SUITE 1206.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"48 WALL ST., SUITE 1206.\", \"street2\": \"C/O ROBERT RABINOWITZ\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-269-7271\", \"iaFirmName\": \"J.H. DARBIE & CO., INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"48 WALL STREET, 30TH FLOOR\", \"street2\": \"SUITE 1206\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10005\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "48 WALL ST., SUITE 1206.",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18476",
+                    "firm_bd_sec_number": "36747",
+                    "firm_bd_full_sec_number": "8-36747",
+                    "firm_name": "TD SECURITIES (USA) LLC",
+                    "firm_other_names": [
+                        "AMERICAN GOVERNMENT SECURITIES, INC.",
+                        "TORONTO DOMINION SECURITIES CORP.",
+                        "TORONTO DOMINION SECURITIES (USA) INC.",
+                        "TD SECURITIES (USA) LLC",
+                        "TD SECURITIES (USA) INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE VANDERBILT AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"ONE VANDERBILT AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-827-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE VANDERBILT AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122225",
+                    "firm_bd_sec_number": "65473",
+                    "firm_bd_full_sec_number": "8-65473",
+                    "firm_name": "BTIG, LLC",
+                    "firm_other_names": [
+                        "BASS TRADING, LLC",
+                        "BTIG, LLC",
+                        "BTIG ELECTRONIC TRADING",
+                        "BAYPOINT TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 MONTGOMERY STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"600 MONTGOMERY STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"businessPhoneNumber\": \"415-248-2200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2397 Montauk Hwy",
+                                        "street2": "2nd Floor",
+                                        "city": "Bridgehampton",
+                                        "state": "NY",
+                                        "zipCode": "11932"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "25803",
+                    "firm_bd_sec_number": "42007",
+                    "firm_bd_full_sec_number": "8-42007",
+                    "firm_ia_sec_number": "55518",
+                    "firm_ia_full_sec_number": "801-55518",
+                    "firm_name": "TRIAD ADVISORS LLC",
+                    "ia_firm_name": "TRIAD ADVISORS, LLC",
+                    "firm_other_names": [
+                        "ABLE FINANCIAL SERVICES",
+                        "SOUTH FLORIDA WEALTH MANAGEMENT, LLC",
+                        "SOBRINSKI FINANCIAL SERVICES, LLC",
+                        "SINCLAIR FINANCIAL GROUP",
+                        "SIKICH FINANCIAL, LLC (NAPERVILLE)",
+                        "SHIRAZI BENEFITS",
+                        "SCHULER INVESTMENT SERVICES",
+                        "SANDSTONE ADVISOR",
+                        "SANDEFUR & ASSOCIATES, LLC",
+                        "ROSE FINANCIAL GROUP",
+                        "ROMAN, BUTLER, FULLERTON & CO.",
+                        "ROBERT W MILLER FINANCIAL SERVICES",
+                        "RIVERTAN FINANCIAL GROUP",
+                        "RICHARDSON INVESTMENT ADVISORY, LLC",
+                        "RETIREMENT PLANNING ADVISORS, INC.",
+                        "RETIREMENT BENEFITS GROUP",
+                        "RETIREMENT ASSET MANAGEMENT",
+                        "REGENT FINANCIAL WEALTH MANAGEMENT",
+                        "R.B. GOLD & ASSOCIATES",
+                        "PYRAMID FINANCIAL GROUP",
+                        "PROXIMITY FINANCIAL PARTNERS",
+                        "PROFESSIONAL ASSOCIATES WEALTH COACHING, INC.",
+                        "POLARIS FINANCIAL SERVICES GROUP",
+                        "PINKERTON BROKERAGE LLC",
+                        "PEARSON AND CO.",
+                        "PAYNE FINANCIAL SERVICES, INC.",
+                        "PATHWAY WEALTH SOLUTIONS LLC",
+                        "PARRY FINANCIAL",
+                        "PARABLE FINANCIAL NETWORK (WAYCROSS)",
+                        "PARABLE FINANCIAL NETWORK",
+                        "OVERMAN CAPITAL MANAGEMENT",
+                        "OPULENTMINDS, LLC",
+                        "OPTIMUM FINANCIAL, LLC",
+                        "ONE DIGITAL",
+                        "OMNIHARBOR ASSET MANAGEMENT",
+                        "OAK WEALTH MANAGEMENT",
+                        "NOFFSINGER FINANCIAL GROUP",
+                        "NIAGARA FINANCIAL ADVISORS, INC.",
+                        "NEW HOPE FINANCIAL SERVICES",
+                        "NET EQUITY CONCEPTS, INC.",
+                        "NATHAN STIBBS",
+                        "N/A",
+                        "MICHAEL A. HERRON, CFP",
+                        "MC_ WEALTH SOLUTIONS",
+                        "MCDONALD WEALTH MANAGEMENT",
+                        "MC2 WEALTH SOLUTIONS",
+                        "MC WEALTH SOLUTIONS",
+                        "MC ASSOCIATES",
+                        "MATTHEW B BROZIK PRIVATE WEALTH MANAGEMENT",
+                        "MATT PORTER FINANCIAL",
+                        "MANIET FINANCIAL SERVICES NETWORK",
+                        "MAKEFIELD ASSET MANAGEMENT, INC",
+                        "MAKEFIELD ASSET MANAGEMENT INC.",
+                        "LOCUST LANE PARTNERS",
+                        "LIPMAN RICHARDSON, LLC",
+                        "LEWIS WEALTH MANAGEMENT",
+                        "LARSEN WEALTH MANAGEMENT",
+                        "KZ WEALTH MANAGEMENT",
+                        "KRINER FINANCIAL SERVICES GROUP",
+                        "KNOXVILLE FINANCIAL SERVICES",
+                        "KAPLAN FINANCIAL GROUP",
+                        "JONTHOMAS MONEY MANAGEMENT",
+                        "JOHN F. WILSON INVESTMENTS",
+                        "JASON P. FLURRY, CFP",
+                        "JACK KENDELL, CLU, CHFC, MBA",
+                        "INVESTMENT DESIGNERS, INC.",
+                        "INGLESIDE FINANCIAL ADVISORS, LLC",
+                        "INCOMPASS FINANCIAL PARTNERS (MARIETTA)",
+                        "INCOMPASS FINANCIAL PARTNERS",
+                        "IMB SECURITIES, INC.",
+                        "IMB INC.",
+                        "HOBBS GROUP ADVISORS, LLC",
+                        "HINES CAPITAL",
+                        "HENDERSON HUTCHERSON & MCCULLOUGH CAPITAL ADVISORS",
+                        "HELBIG FINANCIAL SERVICES",
+                        "HEBCO INC.",
+                        "HAWKINS & BOUKATHER, LLC",
+                        "GREGG S LENTZ AND ASSOCIATES FINANCIAL PLANNING AND WEALTH MANAGEMENT",
+                        "GIDWANI CAPITAL LLC",
+                        "GENFINANCE, LLC",
+                        "GCG FINANCIAL, LLC",
+                        "GALLAGHER BENEFIT SERVICES",
+                        "FUNDAMENTAL WEALTH ADVISORS, LLC",
+                        "FULL CIRCLE WEALTH, LLC",
+                        "FULL CIRCLE WEALTH LLC",
+                        "FRICK INVESTMENT GROUP",
+                        "FREEDOM FINANCIAL CONSULTANTS",
+                        "FORESIGHT FINANCIAL PARTNERS",
+                        "FOCUSED WEALTH, LLC",
+                        "FINANCIAL STRATEGIES OF LAKE NORMAN",
+                        "FINANCIAL RESOURCES, INC.",
+                        "FINANCIA ADVISORS",
+                        "FERRIN CAPITAL ADVISORS",
+                        "EXECUTIVE FINANCIAL RESOURCES",
+                        "EXCLUSIVE FINANCIAL RESOURCES, LLC",
+                        "EXCLUSIVE ADVISORS LLC",
+                        "EXCALIBUR FINANCIAL SERVICES",
+                        "ESTATE & FINANCIAL SERVICES, INC.",
+                        "ERSTAD FINANCIAL LLC",
+                        "EMERY FINANCIAL GROUP",
+                        "EMERALD WEALTH MANAGEMENT, LLC",
+                        "E. PHILLIP POWELL, CPA",
+                        "E. PHILLIP POWELL",
+                        "E. F. WISE PLANNING, LLC",
+                        "DUNHAM & DEITEL WEALTH MANAGEMENT",
+                        "DOYLE INSURANCE",
+                        "DAVID BORON",
+                        "DAVID A HICKS, LTD.",
+                        "D2 INVESTMENTS",
+                        "CURTIN FINANCIAL SERVICES",
+                        "CREATIVE CAPITAL WEALTH MANAGEMENT GROUP",
+                        "CRA FINANCIAL SERVICE, LLC",
+                        "CORNERSTONE FINANCIAL STRATEGIES",
+                        "CONSOLIDATED PLANNING GROUP, INC",
+                        "COMPASS WEALTH SERVICES",
+                        "COMPASS FINANCIAL PARTNERS",
+                        "COBBLESTONE WEALTH ADVISORS",
+                        "CMA FINANCIAL SERVICES",
+                        "CHRYSALIS CAPITAL MANAGEMENT",
+                        "CHAU FINANCIAL GROUP, INC.",
+                        "CD INTEGRITY FINANCIAL",
+                        "CAPSTONE",
+                        "CAPITAL ASSET MANAGEMENT COUNSELORS",
+                        "CANTERBURY WEALTH ADVISORS, LLC",
+                        "BUCCI FINANCIAL SERVICES",
+                        "BRYBECK FINANCIAL",
+                        "BROWN ADVISORY GROUP, LLC (CRANSTON)",
+                        "BROWN ADVISORY GROUP, LLC",
+                        "BRICKLER ASSET MANAGEMENT, INC.",
+                        "BREWER FINANCIAL SERVICES, LLC",
+                        "BRAESIDE INVESTMENT CORPORATION",
+                        "BOWMAN & ASSOCIATES",
+                        "BALANCED FINANCIAL PRINCIPLES",
+                        "BALANCE FINANCIAL SOLUTIONS, LLC",
+                        "ASSET MANAGEMENT ADVISORS, INC.",
+                        "ASSET MANAGEMENT & PROTECTION",
+                        "ASSET ADVISORS GROUP, LLC",
+                        "ASCENT FINANCIAL",
+                        "ARGENTUM CAPITAL MANAGEMENT",
+                        "ARCHER INVESTMENT MANAGEMENT",
+                        "APEX WEALTH MANAGEMENT, LLC",
+                        "AMFED INVESTMENT SERVICES, LLC",
+                        "AMERICAN FINANCIAL MANAGEMENT",
+                        "AMA CAPITAL MANAGEMENT",
+                        "ALERA GROUP",
+                        "AIM ADVISORS..."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 343,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5155 PEACHTREE PARKWAY\", \"street2\": \"SUITE 3220\", \"city\": \"NORCROSS\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30092\"}, \"mailingAddress\": {\"street1\": \"5155 PEACHTREE PARKWAY\", \"street2\": \"SUITE 3220\", \"city\": \"NORCROSS\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30092\"}, \"businessPhoneNumber\": \"770-840-0363\", \"iaFirmName\": \"TRIAD ADVISORS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5155 PEACHTREE PARKWAY\", \"street2\": \"SUITE 3220\", \"city\": \"NORCROSS\", \"state\": \"GA\", \"country\": \"United States\", \"postalCode\": \"30092\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "127 W 30th Street",
+                                        "street2": "9th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7616",
+                    "firm_bd_sec_number": "22522",
+                    "firm_bd_full_sec_number": "8-22522",
+                    "firm_name": "COWEN AND COMPANY",
+                    "firm_other_names": [
+                        "COWEN & CO., LLC",
+                        "TD COWEN PRIME EXECUTION SERVICES",
+                        "TD COWEN",
+                        "SOGEN SECURITIES CORPORATION",
+                        "SOCIETE GENERALE SECURITIES CORPORATION",
+                        "SG COWEN SECURITIES CORPORATION",
+                        "SG COWEN & CO., LLC",
+                        "HUDSON SECURITIES, INC.",
+                        "COWEN AND COMPANY, LLC",
+                        "COWEN AND COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 17,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"599 LEXINGTON AVENUE\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"599 LEXINGTON AVENUE\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-562-1010\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "599 LEXINGTON AVE",
+                                        "street2": "20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15007",
+                    "firm_bd_sec_number": "31616",
+                    "firm_bd_full_sec_number": "8-31616",
+                    "firm_ia_sec_number": "71386",
+                    "firm_ia_full_sec_number": "801-71386",
+                    "firm_name": "AEGIS CAPITAL CORP.",
+                    "ia_firm_name": "AEGIS CAPITAL CORP.",
+                    "firm_other_names": [
+                        "AEGIS CAPITAL CORP.",
+                        "VAST WEALTH ADVISORS",
+                        "STERNAEGIS VENTURES",
+                        "SILVESTRI ASSET MANAGEMENT LLC",
+                        "RIWM LLC",
+                        "RG BAR INVESTMENT GROUP",
+                        "NUDAY CAPITAL LLC",
+                        "MEL CAPITAL",
+                        "MARC JACOBSON & ASSOCIATES",
+                        "LARCHMONT WEALTH MANAGEMENT",
+                        "KS CAPITAL MANAGEMENT",
+                        "GOTHAM EQUITIES",
+                        "FARMER FINANCIAL",
+                        "DYNAMIC CAPITAL HOLDING",
+                        "BOGART VALUE PARTNERS",
+                        "BLUE ANCHOR WEALTH MANAGEMENT",
+                        "AMERICAN LEGACY WEALTH MANAGEMENT",
+                        "ALPHA STRATEGIC ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 58,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"(212) 813-1010\", \"iaFirmName\": \"AEGIS CAPITAL CORP.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10105\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 Avenue of the Americas",
+                                        "street2": "27th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10205",
+                    "firm_bd_sec_number": "26602",
+                    "firm_bd_full_sec_number": "8-26602",
+                    "firm_name": "SECURITIES AMERICA, INC.",
+                    "firm_other_names": [
+                        "SECURITIES AMERICA FINANCIAL SERVICES",
+                        "WILLIAMS, WILD & LARSON SECURITIES, INC.",
+                        "TYMAN SECURITIES, INC.",
+                        "TMG SECURITIES, INC.",
+                        "SECURITIES AMERICA, INC.",
+                        "SECURITIES AMERICA WEALTH MANAGEMENT GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1898,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"12325 PORT GRACE BLVD.\", \"city\": \"LAVISTA\", \"state\": \"NE\", \"country\": \"UNITED STATES\", \"postalCode\": \"68128\"}, \"mailingAddress\": {\"street1\": \"P. O. BOX 460001\", \"city\": \"PAPILLION\", \"state\": \"NE\", \"country\": \"UNITED STATES\", \"postalCode\": \"68046-0001\"}, \"businessPhoneNumber\": \"402/399-9111\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4929 CULVER RD",
+                                        "city": "ROCHESTER",
+                                        "state": "NY",
+                                        "zipCode": "14622"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147763",
+                    "firm_bd_sec_number": "67932",
+                    "firm_bd_full_sec_number": "8-67932",
+                    "firm_name": "AVATAR SECURITIES, LLC",
+                    "firm_other_names": [
+                        "AVATAR SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"148 MADISON AVE\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"148 MADISON AVE\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"212-217-2800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "148 MADISON AVE",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "328492",
+                    "firm_bd_sec_number": "71158",
+                    "firm_bd_full_sec_number": "8-71158",
+                    "firm_name": "WEDBUSH & CO., LLC",
+                    "firm_other_names": [
+                        "WEDBUSH & CO., LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"142 WEST 57TH STREET, 12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"142 WEST 57TH STREET, 12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-931-7088\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "142 West 57th Street",
+                                        "street2": "12th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317807",
+                    "firm_bd_sec_number": "71053",
+                    "firm_bd_full_sec_number": "8-71053",
+                    "firm_ia_sec_number": "129468",
+                    "firm_ia_full_sec_number": "801-129468",
+                    "firm_name": "BERNSTEIN INSTITUTIONAL SERVICES LLC",
+                    "ia_firm_name": "BERNSTEIN INSTITUTIONAL SERVICES LLC",
+                    "firm_other_names": [
+                        "BERNSTEIN INSTITUTIONAL SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"212-969-1000\", \"iaFirmName\": \"BERNSTEIN INSTITUTIONAL SERVICES LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10105\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

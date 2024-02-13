@@ -1,0 +1,443 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15071",
+                    "firm_bd_sec_number": "31505",
+                    "firm_bd_full_sec_number": "8-31505",
+                    "firm_name": "LIBERTY ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "LIBERTY ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"501 FIFTH AVENUE, 15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"501 FIFTH AVEUE, 15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 869-8224\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "501 FIFTH AVENUE, 15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "116873",
+                    "firm_bd_sec_number": "53569",
+                    "firm_bd_full_sec_number": "8-53569",
+                    "firm_name": "EUREKA CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "EUREKA CAPITAL",
+                        "EUREKA CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"52 VANDERBILT AVENUE\", \"street2\": \"SUITE 902\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"52 VANDERBILT AVENUE\", \"street2\": \"SUITE 902\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-277-8420\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "52 VANDERBILT AVE",
+                                        "street2": "SUITE 902",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139124",
+                    "firm_bd_sec_number": "67189",
+                    "firm_bd_full_sec_number": "8-67189",
+                    "firm_name": "CORPORATE FUEL SECURITIES LLC",
+                    "firm_other_names": [
+                        "CORPORATE FUEL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 EAST 40TH STREET\", \"street2\": \"SUITE 3210\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"10 EAST 40TH STREET\", \"street2\": \"SUITE 3210\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"212 260-2743\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 EAST 40TH STREET",
+                                        "street2": "SUITE 3210",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150217",
+                    "firm_bd_sec_number": "68233",
+                    "firm_bd_full_sec_number": "8-68233",
+                    "firm_name": "FOROS SECURITIES LLC",
+                    "firm_other_names": [
+                        "FOROS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"461 FIFTH AVENUE\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"461 FIFTH AVENUE\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-340-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "461 FIFTH AVENUE",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "318266",
+                    "firm_bd_sec_number": "70864",
+                    "firm_bd_full_sec_number": "8-70864",
+                    "firm_name": "BRIGHTTOWER SECURITIES LLC",
+                    "firm_other_names": [
+                        "BRIGHTTOWER SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"110 EAST 25TH STREET, 11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"110 EAST 25TH STREET, 11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"212-796-1531\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "110 East 25th Str., 11th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151232",
+                    "firm_bd_sec_number": "68346",
+                    "firm_bd_full_sec_number": "8-68346",
+                    "firm_name": "ELARA SECURITIES, INC.",
+                    "firm_other_names": [
+                        "ELARA SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"950 THIRD AVE\", \"street2\": \"SUITE 1900 #2\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"950 THIRD AVE\", \"street2\": \"SUITE 1900 #2\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-430-5870\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "950 Third Avenue",
+                                        "street2": "Suite 1903",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104415",
+                    "firm_bd_sec_number": "52876",
+                    "firm_bd_full_sec_number": "8-52876",
+                    "firm_name": "HALES SECURITIES, LLC",
+                    "firm_other_names": [
+                        "DOWLING HALES SECURITIES, LLC",
+                        "HALES SECURITIES, LLC",
+                        "HALES CAPITAL SECURITIES LLC",
+                        "HALES CAPITAL SECURITIES",
+                        "EQUITYHOUND SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 930\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 930\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-592-5709\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1270 Avenue of the Americas",
+                                        "street2": "Suite 930",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37452",
+                    "firm_bd_sec_number": "47773",
+                    "firm_bd_full_sec_number": "8-47773",
+                    "firm_name": "E&J SECURITIES CORP.",
+                    "firm_other_names": [
+                        "E&J SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"C/O ACCOUNTING & COMPLIANCE INTERNATIONAL\", \"street2\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"C/O ACCOUNTING & COMPLIANCE INTERNATIONAL\", \"street2\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-306-2510\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "C/O ACCOUNTING & COMPLIANCE INTERNATIONAL",
+                                        "street2": "77 WATER STREET, SUITE 1604",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126694",
+                    "firm_bd_sec_number": "65902",
+                    "firm_bd_full_sec_number": "8-65902",
+                    "firm_name": "SILVER LEAF PARTNERS, LLC",
+                    "firm_other_names": [
+                        "SILVER LEAF PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 COLUMBUS CIRCLE\", \"street2\": \"FLOOR 15\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"3 COLUMBUS CIRCLE\", \"street2\": \"FLOOR 15\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"(212) 632-8421\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 Columbus Circle",
+                                        "street2": "FLOOR 15",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14009",
+                    "firm_bd_sec_number": "29751",
+                    "firm_bd_full_sec_number": "8-29751",
+                    "firm_name": "MIDAS SECURITIES GROUP, INC.",
+                    "firm_other_names": [
+                        "BULL & BEAR MARKETING SERVICES",
+                        "MIDAS SECURITIES GROUP, INC.",
+                        "INVESTOR SERVICE CENTER, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2255 BUFFALO ROAD\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14624\"}, \"mailingAddress\": {\"street1\": \"2255 BUFFALO ROAD\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14624\"}, \"businessPhoneNumber\": \"212-785-0900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2255 Buffalo Road",
+                                        "city": "Rochester",
+                                        "state": "NY",
+                                        "zipCode": "14624"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169735",
+                    "firm_bd_sec_number": "69388",
+                    "firm_bd_full_sec_number": "8-69388",
+                    "firm_name": "LOCKWOOD SECURITIES LLC",
+                    "firm_other_names": [
+                        "LOCKWOOD SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1140 AVENUE OF THE AMERICAS, 9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1140 AVENUE OF THE AMERICAS, 9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"917-742-6461\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1140 Avenue of the Americas, 9th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306152",
+                    "firm_bd_sec_number": "70482",
+                    "firm_bd_full_sec_number": "8-70482",
+                    "firm_name": "HENRIES SECURITIES",
+                    "firm_other_names": [
+                        "HENRIES & CO",
+                        "RHODA AND CO LLC",
+                        "HENRIES SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1667 SAINT MARKS AVENUE\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11233\"}, \"mailingAddress\": {\"street1\": \"1667 SAINT MARKS AVENUE\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11233\"}, \"businessPhoneNumber\": \"917-225-0390\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1667 SAINT MARKS AVENUE",
+                                        "city": "BROOKLYN",
+                                        "state": "NY",
+                                        "zipCode": "11233"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

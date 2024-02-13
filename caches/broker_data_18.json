@@ -1,0 +1,461 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17128",
+                    "firm_bd_sec_number": "39904",
+                    "firm_bd_full_sec_number": "8-39904",
+                    "firm_name": "FLI INVESTORS, LLC",
+                    "firm_other_names": [
+                        "FIRST LONG ISLAND CAPITAL MARKETS, INC.",
+                        "FLI MANAGEMENT CORP (RELYING ADVISOR)",
+                        "FLI INVESTORS, LLC (RELYING ADVISOR)",
+                        "FLI INVESTORS, LLC",
+                        "FLI FUNDS MANAGEMENT CO., LP (RELYING ADVISOR)",
+                        "FLI FUNDS MANAGEMENT CO. VI, LP (RELYING ADVISOR)",
+                        "FLI FUNDS MANAGEMENT CO. V, LP (RELYING ADVISOR)",
+                        "FLI FUNDS MANAGEMENT CO. III, LP (RELYING ADVISOR)",
+                        "FLI FUNDS MANAGEMENT CO. II, LP (RELYING ADVISOR)",
+                        "FIRST LONG ISLAND INVESTORS, LLC",
+                        "FIRST LONG ISLAND INVESTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 JERICHO PLAZA - SUITE 201\", \"city\": \"JERICHO\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11753-1673\"}, \"mailingAddress\": {\"street1\": \"1 JERICHO PLAZA - SUITE 201\", \"city\": \"JERICHO\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11753-1673\"}, \"businessPhoneNumber\": \"516 935-1200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 JERICHO PLAZA - SUITE 201",
+                                        "city": "JERICHO",
+                                        "state": "NY",
+                                        "zipCode": "11753"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157321",
+                    "firm_bd_sec_number": "68845",
+                    "firm_bd_full_sec_number": "8-68845",
+                    "firm_name": "PEEL HUNT INC.",
+                    "firm_other_names": [
+                        "PEEL HUNT INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7TH FLOOR\", \"street2\": \"100 LIVERPOOL STREET\", \"city\": \"LONDON\", \"country\": \"UNITED KINGDOM\", \"postalCode\": \"EC2M 2AT\"}, \"mailingAddress\": {\"street1\": \"7TH FLOOR\", \"street2\": \"100 LIVERPOOL STREET\", \"city\": \"LONDON\", \"country\": \"UNITED KINGDOM\", \"postalCode\": \"EC2M 2AT\"}, \"businessPhoneNumber\": \"4420 7418-8900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "489 5TH AVENUE",
+                                        "street2": "32ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "292574",
+                    "firm_bd_sec_number": "70077",
+                    "firm_bd_full_sec_number": "8-70077",
+                    "firm_name": "NORDEA SECURITIES LLC",
+                    "firm_other_names": [
+                        "NORDEA MARKETS LLC",
+                        "NORDEA SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1211 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1211 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-318-9622\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1211 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171121",
+                    "firm_bd_sec_number": "69445",
+                    "firm_bd_full_sec_number": "8-69445",
+                    "firm_name": "GATEWOOD SECURITIES LLC",
+                    "firm_other_names": [
+                        "BENJAMIN FAY CAPITAL LLC",
+                        "GATEWOOD SECURITIES LLC",
+                        "GATEWOOD ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"66 HUDSON BLVD. E\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"66 HUDSON BLVD. E\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-994-9590\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "31 Hudson Yards, 11th Floor, #30",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "113855",
+                    "firm_bd_sec_number": "53364",
+                    "firm_bd_full_sec_number": "8-53364",
+                    "firm_name": "FORUM CAPITAL SECURITIES LLC",
+                    "firm_other_names": [
+                        "FORUM CAPITAL PARTNERS",
+                        "FORUM CAPITAL SECURITIES LLC",
+                        "FORUM CAPITAL PARTNERS, L.L.C.",
+                        "FORUM CAPITAL PARTNERS, L.L.C"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"477 MADISON AVENUE\", \"street2\": \"6TH FLOOR, PMB #6819\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"477 MADISON AVENUE\", \"street2\": \"6TH FLOOR, PMB #6819\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 290-1787\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "477 Madison Avenue",
+                                        "street2": "6th Floor, PMB #6819",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "108399",
+                    "firm_bd_sec_number": "53091",
+                    "firm_bd_full_sec_number": "8-53091",
+                    "firm_name": "BERCHWOOD PARTNERS LLC",
+                    "firm_other_names": [
+                        "BERCHWOOD PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"515 MADISON AVENUE, 9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"515 MADISON AVENUE, 9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 201-3939\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "515 MADISON AVENUE, 9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "34754",
+                    "firm_bd_sec_number": "46325",
+                    "firm_bd_full_sec_number": "8-46325",
+                    "firm_name": "NATIXIS DISTRIBUTION, LLC",
+                    "firm_other_names": [
+                        "CDC IXIS ASSET MANAGEMENT DISTRIBUTORS, L.P.",
+                        "TNE INVESTMENT SERVICES, L.P.",
+                        "NVEST FUNDS DISTRIBUTOR, L.P.",
+                        "NGAM DISTRIBUTION, L.P.",
+                        "NEW ENGLAND FUNDS, L.P.",
+                        "NATIXIS DISTRIBUTORS, L.P.",
+                        "NATIXIS DISTRIBUTION, LLC",
+                        "NATIXIS DISTRIBUTION, L.P.",
+                        "IXIS ASSET MANAGEMENT DISTRIBUTORS, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"888 BOYLSTON STREET\", \"street2\": \"SUITE 800\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02199-8197\"}, \"mailingAddress\": {\"street1\": \"888 BOYLSTON STREET\", \"street2\": \"SUITE 800\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02199-8197\"}, \"businessPhoneNumber\": \"617-449-2828\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "229 West 60th Street",
+                                        "street2": "Apt 4K",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10023"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148143",
+                    "firm_bd_sec_number": "67973",
+                    "firm_bd_full_sec_number": "8-67973",
+                    "firm_name": "MACRO RISK ADVISORS LLC",
+                    "firm_other_names": [
+                        "MACRO RISK ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"411 THEODORE FREMD AVE\", \"street2\": \"SUITE 206 SOUTH\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10580\"}, \"mailingAddress\": {\"street1\": \"PO BOX 6259\", \"city\": \"FAIR HAVEN\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07704\"}, \"businessPhoneNumber\": \"212-287-2640\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "411 THEODORE FREMD AVE",
+                                        "street2": "SUITE 206 SOUTH",
+                                        "city": "RYE",
+                                        "state": "NY",
+                                        "zipCode": "10580"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "32243",
+                    "firm_bd_sec_number": "45675",
+                    "firm_bd_full_sec_number": "8-45675",
+                    "firm_name": "FAR HILLS GROUP, LLC.",
+                    "firm_other_names": [
+                        "FAR HILLS GROUP, LLC.",
+                        "FAR HILLS SECURITIES, LLC",
+                        "FAR HILLS SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"747 3RD AVENUE, 30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"747 3RD AVENUE, 30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-840-7779\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "747 3rd Avenue",
+                                        "street2": "30th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "300853",
+                    "firm_bd_sec_number": "70310",
+                    "firm_bd_full_sec_number": "8-70310",
+                    "firm_name": "TEXTURE CAPITAL, INC.",
+                    "firm_other_names": [
+                        "TEXTURE CAPITAL",
+                        "TEXTURE CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"59 STRONG PLACE\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11231\"}, \"mailingAddress\": {\"street1\": \"59 STRONG PLACE\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11231\"}, \"businessPhoneNumber\": \"646-979-8558\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "59 STRONG PLACE",
+                                        "city": "BROOKLYN",
+                                        "state": "NY",
+                                        "zipCode": "11231"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10083",
+                    "firm_bd_sec_number": "25790",
+                    "firm_bd_full_sec_number": "8-25790",
+                    "firm_name": "GARDEN STATE SECURITIES, INC.",
+                    "firm_other_names": [
+                        "GARDEN STATE SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"328 NEWMAN SPRINGS ROAD\", \"city\": \"RED BANK\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07701\"}, \"mailingAddress\": {\"street1\": \"328 NEWMAN SPRINGS ROAD\", \"city\": \"RED BANK\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07701\"}, \"businessPhoneNumber\": \"732-280-6886\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "35 Pine Ridge",
+                                        "city": "Saratoga Springs",
+                                        "state": "NY",
+                                        "zipCode": "12866"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "305935",
+                    "firm_bd_sec_number": "70442",
+                    "firm_bd_full_sec_number": "8-70442",
+                    "firm_name": "TIFIN PRIVATE MARKETS LLC",
+                    "firm_other_names": [
+                        "QUALIS CAPITAL, LLC",
+                        "TIFIN PRIVATE MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 PENNSYLVANIA PLAZA\", \"street2\": \"FL 39\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"mailingAddress\": {\"street1\": \"1 PENNSYLVANIA PLAZA\", \"street2\": \"FL 39\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"businessPhoneNumber\": \"516-443-1501\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 PENNSYLVANIA PLAZA",
+                                        "street2": "FL 39",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10119"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

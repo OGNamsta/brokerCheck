@@ -1,0 +1,440 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147566",
+                    "firm_bd_sec_number": "67915",
+                    "firm_bd_full_sec_number": "8-67915",
+                    "firm_name": "CHIMERA SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CHIMERA SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"27 UNION SQUARE WEST\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10003\"}, \"mailingAddress\": {\"street1\": \"27 UNION SQUARE WEST\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10003\"}, \"businessPhoneNumber\": \"646-597-6100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "27 UNION SQUARE WEST",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10003"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322351",
+                    "firm_bd_sec_number": "71022",
+                    "firm_bd_full_sec_number": "8-71022",
+                    "firm_name": "KNOWN GROWTH LLC",
+                    "firm_other_names": [
+                        "KNOWN GROWTH LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"31 HUDSON YARDS\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"31 HUDSON YARDS\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"646-970-4470\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "31 HUDSON YARDS",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143624",
+                    "firm_bd_sec_number": "67587",
+                    "firm_bd_full_sec_number": "8-67587",
+                    "firm_name": "R.J. O'BRIEN SECURITIES, LLC",
+                    "firm_other_names": [
+                        "R.J. O'BRIEN SECURITIES, INC.",
+                        "R.J. O'BRIEN SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"222 SOUTH RIVERSIDE PLAZA, SUITE 1200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"222 SOUTH RIVERSIDE PLAZA\", \"street2\": \"SUITE 1200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312 373-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "156 W. 56th Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "314056",
+                    "firm_bd_sec_number": "70746",
+                    "firm_bd_full_sec_number": "8-70746",
+                    "firm_name": "STRONG CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "STRONG CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1266 EAST MAIN STREET\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06902\"}, \"mailingAddress\": {\"street1\": \"1266 EAST MAIN STREET\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06902\"}, \"businessPhoneNumber\": \"475-477-9600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 Quentin Roosevelt Blvd",
+                                        "city": "Garden City",
+                                        "state": "NY",
+                                        "zipCode": "11530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47770",
+                    "firm_bd_sec_number": "51916",
+                    "firm_bd_full_sec_number": "8-51916",
+                    "firm_name": "CHELSEA FINANCIAL SERVICES",
+                    "firm_other_names": [
+                        "CHELSEA FINANCIAL SERVICES",
+                        "DBA CHELSEA FINANCIAL SERVICES",
+                        "CHELSEA MORGAN SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 28,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"242 MAIN STREET\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10307\"}, \"mailingAddress\": {\"street1\": \"242 MAIN STREET\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10307\"}, \"businessPhoneNumber\": \"718 967-8400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "545 East Jericho Turnpike",
+                                        "city": "Huntington Station",
+                                        "state": "NY",
+                                        "zipCode": "11746"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149794",
+                    "firm_bd_sec_number": "68188",
+                    "firm_bd_full_sec_number": "8-68188",
+                    "firm_name": "SNOWDEN ACCOUNT SERVICES LLC",
+                    "firm_other_names": [
+                        "SNOWDEN ACCOUNT SERVICES LLC",
+                        "TBG CAPITAL, INC.",
+                        "SNOWDEN ACCOUNT SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 17,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"540 MADISON AVE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"540 MADISON AVE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646.218.9760\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "540 MADISON AVE",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139176",
+                    "firm_bd_sec_number": "67195",
+                    "firm_bd_full_sec_number": "8-67195",
+                    "firm_name": "ESL INVESTMENT SERVICES, LLC",
+                    "firm_other_names": [
+                        "ESL INVESTMENT SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 26,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"225 CHESTNUT STREET\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"14604\"}, \"mailingAddress\": {\"street1\": \"225 CHESTNUT STREET\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"14604\"}, \"businessPhoneNumber\": \"585-339-4475\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "CHESTNUT STREET OFFICE",
+                                        "street2": "225 CHESTNUT STREET",
+                                        "city": "ROCHESTER",
+                                        "state": "NY",
+                                        "zipCode": "14604"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317428",
+                    "firm_bd_sec_number": "70824",
+                    "firm_bd_full_sec_number": "8-70824",
+                    "firm_name": "NCMG LLC",
+                    "firm_other_names": [
+                        "NCMG LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"767 3RD AVE\", \"street2\": \"STE 2102\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"767 3RD AVE\", \"street2\": \"STE 2102\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-876-0109\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "767 3RD AVE",
+                                        "street2": "STE 2102",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149826",
+                    "firm_bd_sec_number": "68192",
+                    "firm_bd_full_sec_number": "8-68192",
+                    "firm_name": "KIDRON CAPITAL SECURITIES LLC",
+                    "firm_other_names": [
+                        "KIDRON CAPITAL ADVISORS LLC",
+                        "KIDRON CAPITAL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"152 WEST 57TH STREET\", \"street2\": \"37TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"152 WEST 57TH STREET\", \"street2\": \"37TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-752-4404\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "152 WEST 57TH STREET",
+                                        "street2": "37TH FL",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157045",
+                    "firm_bd_sec_number": "68829",
+                    "firm_bd_full_sec_number": "8-68829",
+                    "firm_name": "PEAK BROKERAGE SERVICES, LLC",
+                    "firm_other_names": [
+                        "PEAK BROKERAGE SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 56,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1070 EAST INDIANTOWN ROAD\", \"street2\": \"SUITE 208 - 210\", \"city\": \"JUPITER\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33477-9999\"}, \"mailingAddress\": {\"street1\": \"1070 EAST INDIANTOWN ROAD\", \"street2\": \"SUITE 208 - 210\", \"city\": \"JUPITER\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33477-9999\"}, \"businessPhoneNumber\": \"561-641-5050\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "305 Spindrift Drive",
+                                        "city": "Williamsville",
+                                        "state": "NY",
+                                        "zipCode": "14221"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104391",
+                    "firm_bd_sec_number": "52854",
+                    "firm_bd_full_sec_number": "8-52854",
+                    "firm_name": "FENIMORE SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FENIMORE SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"384 NORTH GRAND STREET-BOX 399\", \"city\": \"COBLESKILL\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12043\"}, \"mailingAddress\": {\"street1\": \"384 NORTH GRAND STREET - BOX 399\", \"city\": \"COBLESKILL\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12043\"}, \"businessPhoneNumber\": \"518 234-7400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "384 NORTH GRAND STREET-BOX 399",
+                                        "city": "COBLESKILL",
+                                        "state": "NY",
+                                        "zipCode": "12043"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47251",
+                    "firm_bd_sec_number": "51740",
+                    "firm_bd_full_sec_number": "8-51740",
+                    "firm_name": "KOTAK MAHINDRA, INC.",
+                    "firm_other_names": [
+                        "KOTAK MAHINDRA, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"PENN1, 1 PENNSYLVANIA PLAZA\", \"street2\": \"SUITE 1720\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"mailingAddress\": {\"street1\": \"PENN1, 1 PENNSYLVANIA PLAZA\", \"street2\": \"SUITE 1720\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"businessPhoneNumber\": \"212-600-8850\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "PENN1, 1 PENNSYLVANIA PLAZA",
+                                        "street2": "SUITE 1720",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10119"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

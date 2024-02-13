@@ -1,0 +1,513 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17499",
+                    "firm_bd_sec_number": "35355",
+                    "firm_bd_full_sec_number": "8-35355",
+                    "firm_ia_sec_number": "56443",
+                    "firm_ia_full_sec_number": "801-56443",
+                    "firm_name": "TRUIST INVESTMENT SERVICES, INC.",
+                    "ia_firm_name": "SUNTRUST INVESTMENT SERVICES, INC.",
+                    "firm_other_names": [
+                        "ALEXANDER KEY",
+                        "TRUIST INVESTMENT SERVICES, INC.",
+                        "SUNTRUST SECURITIES, INC.",
+                        "SUNTRUST SECURITIES INC",
+                        "SUNTRUST INVESTMENT SERVICES, INC.",
+                        "SUNTRUST BROKERAGE SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2681,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"303 PEACHTREE CENTER AVE\", \"street2\": \"SUITE 140\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30303\"}, \"mailingAddress\": {\"street1\": \"303 PEACHTREE CENTER AVE\", \"street2\": \"SUITE 140\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30303\"}, \"businessPhoneNumber\": \"800-874-4770\", \"iaFirmName\": \"SUNTRUST INVESTMENT SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"303 PEACHTREE CENTER AVENUE\", \"street2\": \"SUNTRUST GARDEN OFFICES SUITE 140\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"United States\", \"postalCode\": \"30303\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "711 5TH AVE",
+                                        "street2": "FL 6",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2543",
+                    "firm_bd_sec_number": "31206",
+                    "firm_bd_full_sec_number": "8-31206",
+                    "firm_ia_sec_number": "67275",
+                    "firm_ia_full_sec_number": "801-67275",
+                    "firm_name": "B. RILEY WEALTH MANAGEMENT",
+                    "ia_firm_name": "B RILEY WEALTH MANAGEMENT",
+                    "firm_other_names": [
+                        "B RILEY WEALTH",
+                        "WUNTRADE",
+                        "WUNDERLICH SECURITIES, INC.",
+                        "WUNDERLICH SECURITIES",
+                        "WUNDERLICH",
+                        "FUNDAMENTAL CAPITAL MARKETS",
+                        "FUNDAMENTAL BROKERS INTER-DEALER",
+                        "FIDUCIARY FINANCIAL SERVICES WEALTH MANAGEMENT (FFS)",
+                        "DOMINICK & DOMINICK",
+                        "CAPITAL SECURITIES OF AMERICA",
+                        "B. RILEY WEALTH MANAGEMENT, INC.",
+                        "B. RILEY WEALTH MANAGEMENT",
+                        "B. RILEY WEALTH",
+                        "B RILEY WEALTH MANAGEMENT, INC.",
+                        "B RILEY WEALTH MANAGEMENT",
+                        "B RILEY WEALTH ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 126,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 SOUTH MAIN\", \"street2\": \"SUITE 1800\", \"city\": \"MEMPHIS\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"38103\"}, \"mailingAddress\": {\"street1\": \"40 SOUTH MAIN\", \"street2\": \"SUITE 1800\", \"city\": \"MEMPHIS\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"38103\"}, \"businessPhoneNumber\": \"901-251-1330\", \"iaFirmName\": \"B RILEY WEALTH MANAGEMENT\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"40 S. MAIN ST.\", \"street2\": \"SUITE 1800\", \"city\": \"MEMPHIS\", \"state\": \"TN\", \"country\": \"United States\", \"postalCode\": \"38103\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 RAYMOND AVE",
+                                        "city": "POUGHKEEPSIE",
+                                        "state": "NY",
+                                        "zipCode": "12603"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46561",
+                    "firm_bd_sec_number": "51480",
+                    "firm_bd_full_sec_number": "8-51480",
+                    "firm_name": "MARCO POLO SECURITIES INC.",
+                    "firm_other_names": [
+                        "DEVINE SECURITIES INC.",
+                        "MARCO POLO SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1230 AVENUE OF AM\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1230 AVENUE AM\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"347-773-4959\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1230 AVENUE OF AM",
+                                        "street2": "16TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5167",
+                    "firm_bd_sec_number": "15517",
+                    "firm_bd_full_sec_number": "8-15517",
+                    "firm_name": "NYLIFE SECURITIES LLC",
+                    "firm_other_names": [
+                        "NEW YORK LIFE SECURITIES CORP.",
+                        "NYLIFE SECURITIES LLC",
+                        "NYLIFE SECURITIES INC.",
+                        "NEW YORK LIFE VARIABLE CONTRACTS CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2483,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"51 MADISON AVE.\", \"street2\": \"ROOM 713\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"51 MADISON AVENUE\", \"street2\": \"ROOM 713\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"212-576-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 ROUTE 208",
+                                        "city": "MONROE",
+                                        "state": "NY",
+                                        "zipCode": "10950"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "314782",
+                    "firm_bd_sec_number": "70732",
+                    "firm_bd_full_sec_number": "8-70732",
+                    "firm_name": "PERCENT SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PERCENT SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"145 EAST 57TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"145 EAST 57TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-876-5141\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "145 EAST 57TH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "611",
+                    "firm_bd_sec_number": "47290",
+                    "firm_bd_full_sec_number": "8-47290",
+                    "firm_ia_sec_number": "61332",
+                    "firm_ia_full_sec_number": "801-61332",
+                    "firm_name": "MUTUAL OF OMAHA INVESTOR SERVICES, INC.",
+                    "ia_firm_name": "MUTUAL OF OMAHA INVESTOR SERVICES, INC.",
+                    "firm_other_names": [
+                        "MOFA",
+                        "MUTUAL OF OMAHA INVESTOR SERVICES, INC.",
+                        "MUTUAL OF OMAHA FUND MANAGEMENT COMPANY",
+                        "MUTUAL OF OMAHA FINANCIAL ADVISORS",
+                        "MUTUAL OF OMAHA ADVISORS",
+                        "MOIS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 157,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3300 MUTUAL OF OMAHA PLAZA\", \"city\": \"OMAHA\", \"state\": \"NE\", \"country\": \"UNITED STATES\", \"postalCode\": \"68175-1020\"}, \"mailingAddress\": {\"street1\": \"3300 MUTUAL OF OMAHA PLAZA\", \"city\": \"OMAHA\", \"state\": \"NE\", \"country\": \"UNITED STATES\", \"postalCode\": \"68175-1020\"}, \"businessPhoneNumber\": \"402-351-3102\", \"iaFirmName\": \"MUTUAL OF OMAHA INVESTOR SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"3300 MUTUAL OF OMAHA PLAZA\", \"city\": \"OMAHA\", \"state\": \"NE\", \"country\": \"United States\", \"postalCode\": \"68175-1020\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "96 Country Club Dr.",
+                                        "city": "Grand Island",
+                                        "state": "NY",
+                                        "zipCode": "14072"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "4031",
+                    "firm_bd_sec_number": "14715",
+                    "firm_bd_full_sec_number": "8-14715",
+                    "firm_ia_sec_number": "56151",
+                    "firm_ia_full_sec_number": "801-56151",
+                    "firm_name": "HORNOR, TOWNSEND & KENT, LLC",
+                    "ia_firm_name": "HORNOR, TOWNSEND & KENT, LLC",
+                    "firm_other_names": [
+                        "HORNOR, TOWNSEND & KENT, INC.",
+                        "PENN MUTUAL EQUITY SERVICES, INC.",
+                        "HORNOR, TOWNSEND & KENT, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 282,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 DRESHER RD\", \"street2\": \"STE C1C\", \"city\": \"HORSHAM\", \"state\": \"PA\", \"country\": \"US\", \"postalCode\": \"19044\"}, \"mailingAddress\": {\"street1\": \"600 DRESHER RD\", \"street2\": \"STE C1C\", \"city\": \"HORSHAM\", \"state\": \"PA\", \"country\": \"US\", \"postalCode\": \"19044\"}, \"businessPhoneNumber\": \"(215)957-7300\", \"iaFirmName\": \"HORNOR, TOWNSEND & KENT, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"600 DRESHER RD\", \"street2\": \"STE C1C\", \"city\": \"HORSHAM\", \"state\": \"PA\", \"country\": \"United States\", \"postalCode\": \"19044\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 PARK AVE",
+                                        "street2": "SUITE 300",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46214",
+                    "firm_bd_sec_number": "51356",
+                    "firm_bd_full_sec_number": "8-51356",
+                    "firm_ia_sec_number": "56786",
+                    "firm_ia_full_sec_number": "801-56786",
+                    "firm_name": "NEXT FINANCIAL GROUP, INC.",
+                    "ia_firm_name": "NEXT FINANCIAL GROUP, INC.",
+                    "firm_other_names": [
+                        "CAPITAL CONSULTING GROUP",
+                        "NEXT FINANCIAL GROUP, INC.",
+                        "NEXT ADVISORY SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 303,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11740 KATY FREEWAY\", \"street2\": \"SUITE 600\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77079\"}, \"mailingAddress\": {\"street1\": \"11740 KATY FREEWAY\", \"street2\": \"SUITE 600\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77079\"}, \"businessPhoneNumber\": \"713-789-7122\", \"iaFirmName\": \"NEXT FINANCIAL GROUP, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"11740 KATY FREEWAY\", \"street2\": \"SUITE 600\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"United States\", \"postalCode\": \"77079\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "8427 MAIN STREET",
+                                        "city": "WILLIAMSVILLE",
+                                        "state": "NY",
+                                        "zipCode": "14221"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7784",
+                    "firm_bd_sec_number": "23292",
+                    "firm_bd_full_sec_number": "8-23292",
+                    "firm_name": "FIDELITY BROKERAGE SERVICES LLC",
+                    "firm_other_names": [
+                        "FIDELITY BROKERAGE SERVICES LLC",
+                        "FIDELITY BROKERAGE SERVICES, LLC",
+                        "FIDELITY BROKERAGE SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 593,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 SALEM STREET\", \"city\": \"SMITHFIELD\", \"state\": \"RI\", \"country\": \"UNITED STATES\", \"postalCode\": \"02917\"}, \"mailingAddress\": {\"street1\": \"TWO DESTINY WAY\", \"street2\": \"MAIL ZONE: WG3D\", \"city\": \"WESTLAKE\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"76262\"}, \"businessPhoneNumber\": \"617-563-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "142 NEW MORICHES ROAD",
+                                        "city": "LAKE GROVE",
+                                        "state": "NY",
+                                        "zipCode": "11755"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7888",
+                    "firm_bd_sec_number": "23684",
+                    "firm_bd_full_sec_number": "8-23684",
+                    "firm_ia_sec_number": "64345",
+                    "firm_ia_full_sec_number": "801-64345",
+                    "firm_name": "THE BAKER GROUP, LP",
+                    "ia_firm_name": "THE BAKER GROUP, LP",
+                    "firm_other_names": [
+                        "JAMES BAKER & ASSOCIATES, A LIMITED PARTNERSHIP",
+                        "THE BAKER GROUP, LP",
+                        "THE BAKER GROUP PORTFOLIO MANAGEMENT, LP",
+                        "THE BAKER GROUP",
+                        "JAMES BAKER & COMPANY",
+                        "JAMES BAKER & ASSOCIATES, LP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1601 NW EXPRESSWAY\", \"street2\": \"SUITE 2000\", \"city\": \"OKLAHOMA CITY\", \"state\": \"OK\", \"country\": \"UNITED STATES\", \"postalCode\": \"73118-1426\"}, \"mailingAddress\": {\"street1\": \"1601 NW EXPRESSWAY\", \"street2\": \"SUITE 2000\", \"city\": \"OKLAHOMA CITY\", \"state\": \"OK\", \"country\": \"UNITED STATES\", \"postalCode\": \"73118-1426\"}, \"businessPhoneNumber\": \"405-415-7202\", \"iaFirmName\": \"THE BAKER GROUP, LP\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1601 N W EXPRESSWAY\", \"street2\": \"21ST FLOOR\", \"city\": \"OKLAHOMA CITY\", \"state\": \"OK\", \"country\": \"United States\", \"postalCode\": \"73118-1426\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "375 Deer Park Avenue",
+                                        "street2": "1st Floor",
+                                        "city": "Babylon",
+                                        "state": "NY",
+                                        "zipCode": "11702"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7897",
+                    "firm_bd_sec_number": "23669",
+                    "firm_bd_full_sec_number": "8-23669",
+                    "firm_ia_sec_number": "108490",
+                    "firm_ia_full_sec_number": "801-108490",
+                    "firm_name": "INSTINET, LLC",
+                    "ia_firm_name": "INSTINET, LLC",
+                    "firm_other_names": [
+                        "INC TRADING CORPORATION",
+                        "INSTINET, LLC",
+                        "INSTINET CLEARING SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"WORLDWIDE PLAZA,\", \"street2\": \"309 WEST 49TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"WORLDWIDE PLAZA,\", \"street2\": \"309 WEST 49TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"(212) 310-9500\", \"iaFirmName\": \"INSTINET, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"309 WEST 49TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10019\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "Worldwide Plaza,",
+                                        "street2": "309 West 49th Street",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39543",
+                    "firm_bd_sec_number": "48740",
+                    "firm_bd_full_sec_number": "8-48740",
+                    "firm_name": "CAMBRIDGE INVESTMENT RESEARCH, INC.",
+                    "firm_other_names": [
+                        "CAMBRIDGE",
+                        "JORDAN CREEK FINANCIAL SERVICES",
+                        "FAIRFIELD GLOBAL INVESTMENTS, INC.",
+                        "CAMBRIDGE INVESTMENT RESERARCH, INC.",
+                        "CAMBRIDGE INVESTMENT RESEARCH, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2667,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1776 PLEASANT PLAIN RD.\", \"city\": \"FAIRFIELD\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52556-8757\"}, \"mailingAddress\": {\"street1\": \"1776 PLEASANT PLAIN RD.\", \"city\": \"FAIRFIELD\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52556-8757\"}, \"businessPhoneNumber\": \"641-472-5100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 International Dr.",
+                                        "city": "Williamsville",
+                                        "state": "NY",
+                                        "zipCode": "14221"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

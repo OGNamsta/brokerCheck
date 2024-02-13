@@ -1,0 +1,450 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304751",
+                    "firm_bd_sec_number": "70396",
+                    "firm_bd_full_sec_number": "8-70396",
+                    "firm_name": "CARTA CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "CARTA CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 WORLD TRADE CENTER, 285 FULTON STREET\", \"street2\": \"81ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"1 WORLD TRADE CENTER, 285 FULTON STREET\", \"street2\": \"81ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"(646) 978-5252\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 WORLD TRADE CENTER, 285 FULTON STREET",
+                                        "street2": "81ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43689",
+                    "firm_bd_sec_number": "50366",
+                    "firm_bd_full_sec_number": "8-50366",
+                    "firm_name": "RNR SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "RNR SECURITIES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1802 HEMPSTEAD TPKE\", \"city\": \"EAST MEADOW\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11554-1032\"}, \"mailingAddress\": {\"street1\": \"1802 HEMPSTEAD TPKE\", \"city\": \"EAST MEADOW\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11554-1032\"}, \"businessPhoneNumber\": \"516-222-8875\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1802 HEMPSTEAD TPKE",
+                                        "city": "EAST MEADOW",
+                                        "state": "NY",
+                                        "zipCode": "11554"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "158419",
+                    "firm_bd_sec_number": "68899",
+                    "firm_bd_full_sec_number": "8-68899",
+                    "firm_name": "SQUARE GLOBAL MARKETS",
+                    "firm_other_names": [
+                        "BLUE VASE SECURITIES, LLC",
+                        "SQUARE GLOBAL U.S. LLC",
+                        "SQUARE GLOBAL MARKETS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"646-701-0096\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE",
+                                        "street2": "SUITE 300",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39307",
+                    "firm_bd_sec_number": "48635",
+                    "firm_bd_full_sec_number": "8-48635",
+                    "firm_name": "U.S. BROKERAGE, INC.",
+                    "firm_other_names": [
+                        "U.S. BROKERAGE, INC.",
+                        "U.S. DISCOUNT BROKERAGE, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"17 E KOSSUTH ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43206\"}, \"mailingAddress\": {\"street1\": \"17 E KOSSUTH ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43206\"}, \"businessPhoneNumber\": \"614-448-3200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 CULVER CT.",
+                                        "city": "MELVILLE",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "23710",
+                    "firm_bd_sec_number": "40644",
+                    "firm_bd_full_sec_number": "8-40644",
+                    "firm_name": "SEB SECURITIES, INC.",
+                    "firm_other_names": [
+                        "ENSKILDA SECURITIES INC",
+                        "SEB SECURITIES, INC.",
+                        "SEB ENSKILDA, INC.",
+                        "SCANDINAVIAN AMERICAN SECURITIES, INC.",
+                        "ENSKILDA SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"66 HUDSON BOULEVARD, 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"66 HUDSON BOULEVARD, 28RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-692-4780\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "66 HUDSON BOULEVARD, 28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104123",
+                    "firm_bd_sec_number": "52572",
+                    "firm_bd_full_sec_number": "8-52572",
+                    "firm_name": "WHITE MOUNTAIN CAPITAL, LLC",
+                    "firm_other_names": [
+                        "WHITE MOUNTAIN CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"9521 EAST BAY HARBOR DR\", \"street2\": \"UNIT 805\", \"city\": \"BAY HARBOR ISLANDS\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33154\"}, \"mailingAddress\": {\"street1\": \"9521 EAST BAY HARBOR DR\", \"street2\": \"UNIT 805\", \"city\": \"BAY HARBOR ISLANDS\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33154\"}, \"businessPhoneNumber\": \"212-509-0313\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2405 Main St",
+                                        "city": "Bridgehampton",
+                                        "state": "NY",
+                                        "zipCode": "11932"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "156031",
+                    "firm_bd_sec_number": "68761",
+                    "firm_bd_full_sec_number": "8-68761",
+                    "firm_name": "RB INTERNATIONAL MARKETS (USA) LLC",
+                    "firm_other_names": [
+                        "RB INTERNATIONAL MARKETS (USA) LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1177 AVE. OF THE AMERICAS, 5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1177 AVE. OF THE AMERICAS, 5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212 600 - 2588\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1177 AVE. OF THE AMERICAS, 5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152528",
+                    "firm_bd_sec_number": "68463",
+                    "firm_bd_full_sec_number": "8-68463",
+                    "firm_name": "BRYAN GARNIER SECURITIES, LLC",
+                    "firm_other_names": [
+                        "BRYAN GARNIER SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"750 LEXINGTON AVENUE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"750 LEXINGTON AVENUE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-337-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "750 LEXINGTON AVENUE",
+                                        "street2": "16TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150704",
+                    "firm_bd_sec_number": "68285",
+                    "firm_bd_full_sec_number": "8-68285",
+                    "firm_name": "KARBONE CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "KARBONE CAPITAL MARKETS, LLC",
+                        "WATTS CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"675 THIRD AVEUNE\", \"street2\": \"30TH FLOOR, SUITE 3004\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"675 THIRD AVENUE\", \"street2\": \"SUITE 3004\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-291-2900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "675 THIRD AVEUNE",
+                                        "street2": "30TH FLOOR, SUITE 3004",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155456",
+                    "firm_bd_sec_number": "68718",
+                    "firm_bd_full_sec_number": "8-68718",
+                    "firm_name": "UNITED FIRST PARTNERS LLC",
+                    "firm_other_names": [
+                        "UNITED FIRST PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 COLUMBUS CIRCLE\", \"street2\": \"SUITE 1730\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"3 COLUMBUS CIRCLE\", \"street2\": \"SUITE 1730\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"9178368841\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 Columbus Circle",
+                                        "street2": "Suite 1730",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "130991",
+                    "firm_bd_sec_number": "66414",
+                    "firm_bd_full_sec_number": "8-66414",
+                    "firm_name": "WEISS MULTI-STRATEGY FUNDS LLC",
+                    "firm_other_names": [
+                        "OAKPOINT ADVISORS LLC",
+                        "WEISS MULTI-STRATEGY FUNDS LLC",
+                        "WEISS INVESTMENT MANAGEMENT SERVICES, LLC",
+                        "WEISS INVESTMENT MANAGEMENT SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"320 PARK AVENUE\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"320 PARK AVENUE\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-415-4500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "320 PARK AVENUE",
+                                        "street2": "20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "284750",
+                    "firm_bd_sec_number": "69810",
+                    "firm_bd_full_sec_number": "8-69810",
+                    "firm_name": "SBC PARTNERS",
+                    "firm_other_names": [
+                        "CFI SECURITIES",
+                        "SBC PARTNERS",
+                        "EKATS SECURITIES, INC.",
+                        "EKATS SECURITIES INC.",
+                        "EKATS SECURITIES",
+                        "CROWDFUNDER FINANCIAL SERVICES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"477 MADISON AVENUE\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"477 MADISON AVENUE\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-397-5473\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "477 MADISON AVENUE",
+                                        "street2": "6TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

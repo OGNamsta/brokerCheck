@@ -1,0 +1,454 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317571",
+                    "firm_bd_sec_number": "70835",
+                    "firm_bd_full_sec_number": "8-70835",
+                    "firm_name": "SECONDRE MARKETS LLC",
+                    "firm_other_names": [
+                        "SECONDRE MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"157 13TH STREET\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11215\"}, \"mailingAddress\": {\"street1\": \"157 13TH STREET\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11215\"}, \"businessPhoneNumber\": \"917-444-9083\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "157 13th Street",
+                                        "city": "Brooklyn",
+                                        "state": "NY",
+                                        "zipCode": "11215"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "116797",
+                    "firm_bd_sec_number": "53574",
+                    "firm_bd_full_sec_number": "8-53574",
+                    "firm_name": "CITADEL SECURITIES LLC",
+                    "firm_other_names": [
+                        "CITADEL DERIVATIVES GROUP LLC",
+                        "CITADEL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"33RD FLOOR\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"33RD FLOOR\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"305-929-6851\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "425 Park Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "321600",
+                    "firm_bd_sec_number": "70948",
+                    "firm_bd_full_sec_number": "8-70948",
+                    "firm_name": "BELZBERG CAPITAL",
+                    "firm_other_names": [
+                        "BELZBERG CAPITAL",
+                        "EVERBERG CAPITAL COMPANY",
+                        "BELZBERG CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"589 FIFTH AVENUE\", \"street2\": \"SUITE 1602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"589 FIFTH AVENUE\", \"street2\": \"SUITE 1602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-390-9591\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "589 Fifth Avenue",
+                                        "street2": "Suite 1602",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114242",
+                    "firm_bd_sec_number": "53413",
+                    "firm_bd_full_sec_number": "8-53413",
+                    "firm_name": "BUTLER CAPITAL PARTNERS",
+                    "firm_other_names": [
+                        "BUTLER CAPITAL INVESTMENTS, LLC",
+                        "NORTH CREEK BUTLER",
+                        "BUTLER CAPITAL PARTNERS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"151 POST ROAD - TITUS HOUSE\", \"city\": \"OLD WESTBURY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11568\"}, \"mailingAddress\": {\"street1\": \"151 POST ROAD - TITUS HOUSE\", \"city\": \"OLD WESTBURY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11568\"}, \"businessPhoneNumber\": \"516.333.2100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 Park Avenue",
+                                        "street2": "4th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290605",
+                    "firm_bd_sec_number": "70036",
+                    "firm_bd_full_sec_number": "8-70036",
+                    "firm_name": "SAN BLAS SECURITIES LLC",
+                    "firm_other_names": [
+                        "IFS CAPITAL MARKETS, LLC",
+                        "SAN BLAS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3424 PEACHTREE RD. NE\", \"street2\": \"SUITE 2200\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"postalCode\": \"30326-1184\"}, \"mailingAddress\": {\"street1\": \"3424 PEACHTREE RD. NE\", \"street2\": \"SUITE 2200\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"postalCode\": \"30326-1184\"}, \"businessPhoneNumber\": \"(404) 704-0406\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "360 Delaware Avenue",
+                                        "street2": "suite 110",
+                                        "city": "Buffalo",
+                                        "state": "NY",
+                                        "zipCode": "14202"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171500",
+                    "firm_bd_sec_number": "69465",
+                    "firm_bd_full_sec_number": "8-69465",
+                    "firm_name": "CDX ADVISORS",
+                    "firm_other_names": [
+                        "CDX ADVISORS",
+                        "CYNDX ADVISORS LLC",
+                        "CYNDX ADVISORS",
+                        "CDX ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"485 LEXINGTON AVE\", \"street2\": \"SUITE 400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"485 LEXINGTON AVE\", \"street2\": \"SUITE 400\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-762-7885\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "485 Lexington Ave",
+                                        "street2": "Suite 400",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19850",
+                    "firm_bd_sec_number": "37854",
+                    "firm_bd_full_sec_number": "8-37854",
+                    "firm_name": "CALAMOS FINANCIAL SERVICES LLC",
+                    "firm_other_names": [
+                        "CALAMOS FINANCIAL SERVICES LLC",
+                        "CALAMOS FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2020 CALAMOS COURT\", \"city\": \"NAPERVILLE\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60563-2787\"}, \"mailingAddress\": {\"street1\": \"2020 CALAMOS COURT\", \"city\": \"NAPERVILLE\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60563-2787\"}, \"businessPhoneNumber\": \"630-245-7200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "50 Rockefeller Plaza",
+                                        "street2": "Suite 1600",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "15853",
+                    "firm_bd_sec_number": "33180",
+                    "firm_bd_full_sec_number": "8-33180",
+                    "firm_name": "ARCHIPELAGO TRADING SERVICES, INC.",
+                    "firm_other_names": [
+                        "ARCHIPELAGO TRADING SERVICES, INC.",
+                        "GLOBENET SECURITIES, INC.",
+                        "FRAY MUNICIPAL SECURITIES, INC.",
+                        "CORPORATE CAPITAL SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"353 NORTH CLARK STREET\", \"street2\": \"SUITE 3200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60654\"}, \"mailingAddress\": {\"street1\": \"353 NORTH CLARK STREET\", \"street2\": \"SUITE 3200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60654\"}, \"businessPhoneNumber\": \"312-836-6700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 Wall Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30344",
+                    "firm_bd_sec_number": "44766",
+                    "firm_bd_full_sec_number": "8-44766",
+                    "firm_name": "MORGAN STANLEY DISTRIBUTION, INC.",
+                    "firm_other_names": [
+                        "MAS FUND DISTRIBUTION, INC.",
+                        "MORGAN STANLEY DISTRIBUTION, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1585 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"100 SOUTH CHARLES STREET\", \"street2\": \"4TH FLOOR\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21201\"}, \"businessPhoneNumber\": \"212-296-7860\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1585 Broadway",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "102500",
+                    "firm_bd_sec_number": "52140",
+                    "firm_bd_full_sec_number": "8-52140",
+                    "firm_name": "ARCHIPELAGO SECURITIES L.L.C.",
+                    "firm_other_names": [
+                        "ARCHIPELAGO SECURITIES L.L.C.",
+                        "REDIBOOK ECN LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"353 NORTH CLARK STREET\", \"street2\": \"SUITE #3200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60654\"}, \"mailingAddress\": {\"street1\": \"353 NORTH CLARK STREET\", \"street2\": \"SUITE #3200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60654\"}, \"businessPhoneNumber\": \"312-836-6700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 Wall Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "123635",
+                    "firm_bd_sec_number": "65601",
+                    "firm_bd_full_sec_number": "8-65601",
+                    "firm_name": "ICE BONDS SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "CREDITEX SECURITIES CORPORATION",
+                        "ICE TMC",
+                        "ICE BONDS SECURITIES CORPORATION",
+                        "ICE BONDPOINT",
+                        "CREDITTRADE SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"850 THIRD AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"850 THIRD AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-323-8500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1311 Mamaroneck Avenue",
+                                        "street2": "3rd Floor",
+                                        "city": "White Plains",
+                                        "state": "NY",
+                                        "zipCode": "10605"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "124738",
+                    "firm_bd_sec_number": "65718",
+                    "firm_bd_full_sec_number": "8-65718",
+                    "firm_name": "GALLATIN CAPITAL LLC",
+                    "firm_other_names": [
+                        "GALLATIN CAPITAL LLC",
+                        "THE SAGAMORE GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"444 MADISON AVENUE\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"444 MADISON AVENUE\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-891-7980\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444 MADISON AVENUE",
+                                        "street2": "29TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

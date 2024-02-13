@@ -1,0 +1,440 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151734",
+                    "firm_bd_sec_number": "68393",
+                    "firm_bd_full_sec_number": "8-68393",
+                    "firm_name": "MOORGATE SECURITIES LLC",
+                    "firm_other_names": [
+                        "MOORGATE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1686 UNION STREET\", \"street2\": \"# 307\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94123\"}, \"mailingAddress\": {\"street1\": \"1686 UNION STREET\", \"street2\": \"# 307\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94123\"}, \"businessPhoneNumber\": \"415-678-5115\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "515 Madison Avenue",
+                                        "street2": "8th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143221",
+                    "firm_bd_sec_number": "67544",
+                    "firm_bd_full_sec_number": "8-67544",
+                    "firm_name": "CICC US SECURITIES, INC.",
+                    "firm_other_names": [
+                        "CICC US SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(646) 794-8800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "32ND FLOOR, 280 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44487",
+                    "firm_bd_sec_number": "50721",
+                    "firm_bd_full_sec_number": "8-50721",
+                    "firm_name": "STUART PORTFOLIO CONSULTANTS, L.P.",
+                    "firm_other_names": [
+                        "STUART PORTFOLIO CONSULTANTS, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"12 EAST 49TH STREET\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"12 EAST 49TH STREET\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-360-7500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "12 EAST 49TH STREET",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18344",
+                    "firm_bd_sec_number": "36521",
+                    "firm_bd_full_sec_number": "8-36521",
+                    "firm_name": "SURETY FINANCIAL SERVICES INC.",
+                    "firm_other_names": [
+                        "MONITORING AND EVALUATION SERVICES, INC.",
+                        "SURETY FINANCIAL SERVICES INC.",
+                        "SURETY FINANCIAL SERVICES",
+                        "SUERETY FINANCIAL SERVICES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3375 PARK AVENUE\", \"street2\": \"SUITE 3006\", \"city\": \"WANTAGH\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11793-3712\"}, \"mailingAddress\": {\"street1\": \"3375 PARK AVENUE\", \"street2\": \"SUITE 3006\", \"city\": \"WANTAGH\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11793-3712\"}, \"businessPhoneNumber\": \"516-781-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3375 PARK AVENUE",
+                                        "street2": "SUITE 3006",
+                                        "city": "WANTAGH",
+                                        "state": "NY",
+                                        "zipCode": "11793"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "156753",
+                    "firm_bd_sec_number": "68818",
+                    "firm_bd_full_sec_number": "8-68818",
+                    "firm_name": "SHELTER ROCK CAPITAL GROUP LLC",
+                    "firm_other_names": [
+                        "GLOBAL CAPITAL ACCESS LLC",
+                        "SHELTER ROCK CAPITAL GROUP LLC",
+                        "SHELTER ROCK CAPITAL ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 EAST 53RD, SUITE 1200\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"10 EAST 53RD, SUITE 1200\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-768-2058\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 EAST 53RD, SUITE 1200",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "298008",
+                    "firm_bd_sec_number": "70191",
+                    "firm_bd_full_sec_number": "8-70191",
+                    "firm_name": "OPTIONS AI FINANCIAL LLC",
+                    "firm_other_names": [
+                        "OPTIONS AI FINANCIAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 BROADWAY, SUITE 615\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"11 BROADWAY, SUITE 615\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"646-940-8558\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 BROADWAY, SUITE 615",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133849",
+                    "firm_bd_sec_number": "66784",
+                    "firm_bd_full_sec_number": "8-66784",
+                    "firm_name": "MERIDIAN EQUITY PARTNERS, INC.",
+                    "firm_other_names": [
+                        "MERIDIAN EQUITY PARTNERS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"C/O ACCOUNTING & COMPLIANCE INTERNATIONAL\", \"street2\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"C/O ACCOUNTING & COMPLIANCE INTERNATIONAL\", \"street2\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"(212) 742-8472\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "265 Sunrise Highway, Suite 61",
+                                        "city": "Rockville Centre",
+                                        "state": "NY",
+                                        "zipCode": "11570"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299631",
+                    "firm_bd_sec_number": "70269",
+                    "firm_bd_full_sec_number": "8-70269",
+                    "firm_name": "REDE PARTNERS (AMERICAS) LLC",
+                    "firm_other_names": [
+                        "REDE PARTNERS (AMERICAS) LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 408\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 408\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-224-8220\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1270 AVENUE OF THE AMERICAS",
+                                        "street2": "SUITE 408",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143366",
+                    "firm_bd_sec_number": "67554",
+                    "firm_bd_full_sec_number": "8-67554",
+                    "firm_name": "EUROCONSULT CAPITAL, LLC",
+                    "firm_other_names": [
+                        "EUROCONSULT CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"23 BERKELEY SQUARE\", \"city\": \"LONDON\", \"country\": \"UNITED KINGDOM\", \"postalCode\": \"W1J 6HE\"}, \"mailingAddress\": {\"street1\": \"885 THIRD AVENUE\", \"street2\": \"FLOOR 34\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 972-4300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "885 THIRD AVENUE",
+                                        "street2": "FLOOR 34",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155918",
+                    "firm_bd_sec_number": "68750",
+                    "firm_bd_full_sec_number": "8-68750",
+                    "firm_name": "BERKERY NOYES SECURITIES, LLC",
+                    "firm_other_names": [
+                        "BERKERY NOYES SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 PARK AVENUE, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10177\"}, \"mailingAddress\": {\"street1\": \"250 PARK AVENUE, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10177\"}, \"businessPhoneNumber\": \"212 668 - 3355\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 PARK AVENUE, 14TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10177"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169876",
+                    "firm_bd_sec_number": "69396",
+                    "firm_bd_full_sec_number": "8-69396",
+                    "firm_name": "QUANTITATIVE BROKERS, LLC",
+                    "firm_other_names": [
+                        "QUANTITATIVE BROKERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"285 MADISON AVENUE\", \"street2\": \"SUITE 1700\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"285 MADISON AVENUE\", \"street2\": \"SUITE 1700\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646 293-1800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "285 MADISON AVENUE",
+                                        "street2": "SUITE 1700",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "301996",
+                    "firm_bd_sec_number": "70363",
+                    "firm_bd_full_sec_number": "8-70363",
+                    "firm_name": "SNOWBRIDGE SECURITIES LLC",
+                    "firm_other_names": [
+                        "ROUNDHOUSE SECURITIES LLC",
+                        "SNOWBRIDGE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3801 PGA BOULEVARD\", \"street2\": \"SUITE 600\", \"city\": \"PALM BEACH GARDENS\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33410\"}, \"mailingAddress\": {\"street1\": \"3801 PGA BOULEVARD\", \"street2\": \"SUITE 600\", \"city\": \"PALM BEACH GARDENS\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33410\"}, \"businessPhoneNumber\": \"212-433-3904\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "747 Third Ave",
+                                        "street2": "17th Fl",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

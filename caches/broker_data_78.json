@@ -1,0 +1,513 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "106032",
+                    "firm_bd_sec_number": "53000",
+                    "firm_bd_full_sec_number": "8-53000",
+                    "firm_name": "IDB CAPITAL CORP.",
+                    "firm_other_names": [
+                        "ALEXANDRA  & JAMES CO.",
+                        "IDB CAPITAL CORP.",
+                        "IDB ASSET MANAGEMENT, A DIVISION OF IDB CAPITAL CORP.",
+                        "ALEXANDRA & JAMES CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1114 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1114 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-551-8800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1114 Avenue of the Americas",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114909",
+                    "firm_bd_sec_number": "53441",
+                    "firm_bd_full_sec_number": "8-53441",
+                    "firm_name": "AQUILO PARTNERS, L.P.",
+                    "firm_other_names": [
+                        "AQUILO PARTNERS, INC.",
+                        "BIOADVISORS, INC.",
+                        "AQUILO PARTNERS, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"601 CALIFORNIA STREET, SUITE 500\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94108\"}, \"mailingAddress\": {\"street1\": \"601 CALIFORNIA STREET, SUITE 500\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94108\"}, \"businessPhoneNumber\": \"415 677-0999\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "430 E 29th St, Suite 940",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "34786",
+                    "firm_bd_sec_number": "46478",
+                    "firm_bd_full_sec_number": "8-46478",
+                    "firm_name": "AMERIVET SECURITIES, INC.",
+                    "ia_firm_name": "AMERIVET SECURITIES, INC.",
+                    "firm_other_names": [
+                        "AMERIVET SECURITIES, INC.",
+                        "AMERIVET-DYMALLY SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-803-5050\", \"iaFirmName\": \"AMERIVET SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS, 14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10036\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1155 AVENUE OF THE AMERICAS, 14TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18483",
+                    "firm_bd_sec_number": "36754",
+                    "firm_bd_full_sec_number": "8-36754",
+                    "firm_name": "TRADEUP SECURITIES, INC.",
+                    "firm_other_names": [
+                        "MARSCO INVESTMENT CORPORATION",
+                        "TRADEUP SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"437 MADISON AVE\", \"street2\": \"27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"437 MADISON AVE\", \"street2\": \"27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"973-228-2886\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "437 MADISON AVE",
+                                        "street2": "27TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122572",
+                    "firm_bd_sec_number": "65521",
+                    "firm_bd_full_sec_number": "8-65521",
+                    "firm_name": "EDGEMONT CAPITAL PARTNERS, L.P.",
+                    "firm_other_names": [
+                        "EDGEMONT CAPITAL PARTNERS, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"787 7TH AVENUE, 49TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"787 7TH AVENUE, 49TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-867-8935\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "787 7TH AVENUE, 49TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19662",
+                    "firm_bd_sec_number": "38103",
+                    "firm_bd_full_sec_number": "8-38103",
+                    "firm_name": "DEALERWEB INC.",
+                    "firm_other_names": [
+                        "DEALERWEB INC.",
+                        "HILLIARD FARBER & CO., INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"185 HUDSON STREET\", \"street2\": \"HARBORSIDE 5, SUITE 2200\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07311\"}, \"mailingAddress\": {\"street1\": \"185 HUDSON STREET\", \"street2\": \"HARBORSIDE 5, SUITE 2200\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07311\"}, \"businessPhoneNumber\": \"(212) 797-1980\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1177 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41924",
+                    "firm_bd_sec_number": "49673",
+                    "firm_bd_full_sec_number": "8-49673",
+                    "firm_name": "REDI GLOBAL TECHNOLOGIES LLC",
+                    "firm_other_names": [
+                        "REDI GLOBAL TECHNOLOGIES LLC",
+                        "SPEAR, LEEDS & KELLOGG SPECIALISTS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"28 LIBERTY STREET, 58TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"28 LIBERTY STREET, 58TH FLOOR\", \"street2\": \"ATTN MMALONEY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"646-794-7350\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "28 LIBERTY STREET, 58TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38535",
+                    "firm_bd_sec_number": "48326",
+                    "firm_bd_full_sec_number": "8-48326",
+                    "firm_ia_sec_number": "64722",
+                    "firm_ia_full_sec_number": "801-64722",
+                    "firm_name": "MOLONEY SECURITIES CO., INC.",
+                    "ia_firm_name": "MOLONEY SECURITIES CO., INC.",
+                    "firm_other_names": [
+                        "ADVANCED FINANCIAL SOLUTIONS, LLC",
+                        "WESTPORT ADVISORY GROUP",
+                        "WARREN FINANCIAL SERVICES",
+                        "VANCE CAPITAL",
+                        "THE RESOURCE PARTNERS GROUP",
+                        "TEAM DUNCAN FINANCIAL",
+                        "SYNERGISTIC FINANCIAL CENTER",
+                        "SYNERGISTIC FINANCIAL",
+                        "SUGAR CREEK INVESTMENT ADVISORY GROUP, LLC",
+                        "STERLING CAPITAL MANAGEMENT",
+                        "ST. LOUIS ASSET MANAGEMENT",
+                        "ST. CROIX CAPITAL MANAGEMENT, INC.",
+                        "ST. CROIX CAPITAL MANAGEMENT",
+                        "SENTINEL WEALTH MANAGEMENT",
+                        "SECURUS SENIOR PLANNING SOLUTIONS, LLC",
+                        "SECURUS",
+                        "SAT WEALTH MANAGEMENT LLC",
+                        "SALISH WEALTH MANAGEMENT",
+                        "RUSSELL WEALTH GROUP",
+                        "ROYAL ROUTE COMPANY LLC",
+                        "PROFESSIONAL INVESTMENT MANAGEMENT",
+                        "PLANNED INVESTMENT CO INC",
+                        "NMG FINANCIAL SERVICES",
+                        "NET STREET BROKERAGE",
+                        "MOSECO ASSET MANAGEMENT",
+                        "MONETARY MANAGEMENT GROUP, INC.",
+                        "MOLONEY SECURITIES CO., INC.",
+                        "MOLONEY SECURITIES ASSET MANAGEMENT",
+                        "MINNESOTA VALLEY INVESTMENTS",
+                        "LITTLEWOOD FINANCIAL SERVICES, INC.",
+                        "LILLEBERG FINANCIAL GROUP",
+                        "KEKERIS FINANCIAL GROUP",
+                        "JIM RAIA INVESTMENT GROUP",
+                        "JCL CAPITAL MANAGEMENT, LLC",
+                        "JCL CAPITAL MANAGEMENT",
+                        "INVESTMENT CENTER OF TOMAHAWK",
+                        "INVESTMENT CENTER OF ESTES PARK, INC.",
+                        "INVESTMENT CENTER OF ESTES PARK",
+                        "INVESTMENT CENTER",
+                        "HERITAGE INVESTMENT MANAGEMENT, LLP",
+                        "HERITAGE INVESTMENT MANAGEMENT LLP",
+                        "GRAND GLAIZE WEALTH MANAGEMENT",
+                        "GENE PANASENKO, INC.",
+                        "FIRST MID AMERICA, INC.",
+                        "EVERHART WEALTH MANAGEMENT LLC",
+                        "CP WEALTH",
+                        "CORRIGAN-JONES INVESTMENT ADVISORS",
+                        "CHRISTIANSON FINANCIAL ADVISORS, LLC",
+                        "CHANEY & ASSOCIATES",
+                        "CANDICE MONTIE INSURANCE & INVESTMENTS",
+                        "C&A FINANCIAL ADVISORS",
+                        "BRIDGES FINANCIAL ASSOCIATES, INC.",
+                        "BRIDGES FINANCIAL ASSOCIATES",
+                        "ATLANTIC SENIOR ADVISORS LLC",
+                        "ASSET ALLIANCE FINANCIAL",
+                        "ARTISAN ASSET MANAGEMENT, LLC",
+                        "ARTISAN ASSET MANAGEMENT",
+                        "ARLINGTON FINANCIAL SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 48,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"13537 BARRETT PARKWAY DRIVE\", \"street2\": \"#300\", \"city\": \"MANCHESTER\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63021\"}, \"mailingAddress\": {\"street1\": \"13537 BARRETT PARKWAY DRIVE\", \"street2\": \"#300\", \"city\": \"MANCHESTER\", \"state\": \"MO\", \"country\": \"UNITED STATES\", \"postalCode\": \"63021\"}, \"businessPhoneNumber\": \"(314) 909-0600\", \"iaFirmName\": \"MOLONEY SECURITIES CO., INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"13537 BARRETT PARKWAY DRIVE\", \"street2\": \"SUITE 300\", \"city\": \"MANCHESTER\", \"state\": \"MO\", \"country\": \"United States\", \"postalCode\": \"63021\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "66-74 FRESH POND ROAD",
+                                        "city": "RIDGEWOOD",
+                                        "state": "NY",
+                                        "zipCode": "11385"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306364",
+                    "firm_bd_sec_number": "70455",
+                    "firm_bd_full_sec_number": "8-70455",
+                    "firm_name": "GTS EXECUTION SERVICES LLC",
+                    "firm_other_names": [
+                        "GTS EXECUTION SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"545 MADISON AVENUE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"545 MADISON AVENUE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"2127155900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 Wall Street",
+                                        "street2": "38th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10282"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283508",
+                    "firm_bd_sec_number": "69758",
+                    "firm_bd_full_sec_number": "8-69758",
+                    "firm_name": "MIDDLEMARCH SECURITIES LLC",
+                    "firm_other_names": [
+                        "MIDDLEMARCH SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"700 CANAL ST.\", \"street2\": \"BUILDING 1, FLOOR 1, SUITE 148\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"postalCode\": \"06902\"}, \"mailingAddress\": {\"street1\": \"700 CANAL ST.\", \"street2\": \"BUILDING 1, FLOOR 1, SUITE 148\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"postalCode\": \"06902\"}, \"businessPhoneNumber\": \"212-913-9660\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "125 Park Avenue",
+                                        "street2": "Suite 1700",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35917",
+                    "firm_bd_sec_number": "46961",
+                    "firm_bd_full_sec_number": "8-46961",
+                    "firm_name": "STONINGTON CORPORATION",
+                    "firm_other_names": [
+                        "STONINGTON CORPORATION",
+                        "STONINGTON PARTNERS GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"342 WEST 22ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10011\"}, \"mailingAddress\": {\"street1\": \"342 WEST 22ND STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10011\"}, \"businessPhoneNumber\": \"6465411134\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "342 WEST 22ND STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10011"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "307780",
+                    "firm_bd_sec_number": "70499",
+                    "firm_bd_full_sec_number": "8-70499",
+                    "firm_ia_sec_number": "120601",
+                    "firm_ia_full_sec_number": "801-120601",
+                    "firm_name": "MOMENTUS SECURITIES LLC",
+                    "ia_firm_name": "RPS SECURITIES LLC",
+                    "firm_other_names": [
+                        "ALLIANCE SECURITIES LLC",
+                        "RPS SECURITIES LLC",
+                        "MOMENTUS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1350 BROADWAY\", \"street2\": \"ROOM/SUITE 2320\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"1350 BROADWAY\", \"street2\": \"ROOM/SUITE 2320\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"646-989-1120\", \"iaFirmName\": \"RPS SECURITIES LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"United States\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1350 BROADWAY",
+                                        "street2": "ROOM/SUITE 2320",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

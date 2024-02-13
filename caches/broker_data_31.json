@@ -1,0 +1,456 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "107403",
+                    "firm_bd_sec_number": "53035",
+                    "firm_bd_full_sec_number": "8-53035",
+                    "firm_name": "SPEEDTRADER, INC",
+                    "firm_other_names": [
+                        "MINT GLOBAL MARKETS, INC.",
+                        "STOCK USA INVESTMENTS, INC",
+                        "STOCK USA INVESTMENTS",
+                        "STOCK USA EXECUTION SERVICES, INC",
+                        "STOCK USA",
+                        "SPRINTTRADER",
+                        "SPEEDTRADERPRO",
+                        "SPEEDTRADER.COM, INC.",
+                        "SPEEDTRADER, INC",
+                        "SPEEDTRADER"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2875 RT 35\", \"street2\": \"STE 5C-2\", \"city\": \"KATONAH\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10536\"}, \"mailingAddress\": {\"street1\": \"2875 RT 35\", \"street2\": \"STE 5C-2\", \"city\": \"KATONAH\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10536\"}, \"businessPhoneNumber\": \"845 531-2487\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2875 RT 35",
+                                        "street2": "STE 5C-2",
+                                        "city": "KATONAH",
+                                        "state": "NY",
+                                        "zipCode": "10536"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "318566",
+                    "firm_bd_sec_number": "70870",
+                    "firm_bd_full_sec_number": "8-70870",
+                    "firm_name": "FR TRADING LLC",
+                    "firm_other_names": [
+                        "FR TRADING LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"225 LIBERTY STREET\", \"street2\": \"30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"225 LIBERTY STREET\", \"street2\": \"30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-393-1420\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 LIBERTY STREET",
+                                        "street2": "30TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "166959",
+                    "firm_bd_sec_number": "69237",
+                    "firm_bd_full_sec_number": "8-69237",
+                    "firm_name": "HURON TRANSACTION ADVISORY LLC",
+                    "firm_other_names": [
+                        "HURON CORPORATE FINANCE LLC",
+                        "HURON TRANSACTION ADVISORY LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"550 WEST VAN BUREN STREET, SUITE 1700\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60607\"}, \"mailingAddress\": {\"street1\": \"550 WEST VAN BUREN STREET, SUITE 1700\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60607\"}, \"businessPhoneNumber\": \"312-583-8700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1166 Avenue of the Americas",
+                                        "street2": "3rd FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143299",
+                    "firm_bd_sec_number": "67548",
+                    "firm_bd_full_sec_number": "8-67548",
+                    "firm_name": "SOLEBURY CAPITAL LLC",
+                    "firm_other_names": [
+                        "SOLEBURY CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 SOUTH RIVER ROAD,\", \"street2\": \"SUITE 300\", \"city\": \"NEW HOPE\", \"state\": \"PA\", \"postalCode\": \"18938\"}, \"mailingAddress\": {\"street1\": \"400 SOUTH RIVER ROAD,\", \"street2\": \"SUITE 300\", \"city\": \"NEW HOPE\", \"state\": \"PA\", \"postalCode\": \"18938\"}, \"businessPhoneNumber\": \"(215) 862-7234\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "740 BROADWAY",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10003"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "140142",
+                    "firm_bd_sec_number": "67283",
+                    "firm_bd_full_sec_number": "8-67283",
+                    "firm_name": "WHITE OAK MERCHANT PARTNERS LLC",
+                    "firm_other_names": [
+                        "ACCENT CAPITAL ADVISORS, L.L.C.",
+                        "WHITE OAK MERCHANT PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 EMBARCADERO CENTER\", \"street2\": \"SUITE 540\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"3 EMBARCADERO CENTER\", \"street2\": \"SUITE 540\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94111\"}, \"businessPhoneNumber\": \"415-644-4100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1155 Avenue of Americas",
+                                        "street2": "15th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283799",
+                    "firm_bd_sec_number": "69767",
+                    "firm_bd_full_sec_number": "8-69767",
+                    "firm_name": "EQUITEQ SECURITIES LLC",
+                    "firm_other_names": [
+                        "EQUITEQ INC.",
+                        "EQUITEQ SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"460 PARK AVENUE SOUTH\", \"street2\": \"SUITE 1102\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"460 PARK AVENUE SOUTH\", \"street2\": \"SUITE 1102\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"212 256-1120\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "460 Park Avenue South",
+                                        "street2": "SUITE 1102",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157803",
+                    "firm_bd_sec_number": "68863",
+                    "firm_bd_full_sec_number": "8-68863",
+                    "firm_name": "LUMA SECURITIES LLC",
+                    "firm_other_names": [
+                        "LUMA ADVISORS LLC",
+                        "LUMA SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"101 FIFTH AVENUE\", \"street2\": \"SUITE 900\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10003\"}, \"mailingAddress\": {\"street1\": \"101 FIFTH AVENUE\", \"street2\": \"SUITE 900\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10003\"}, \"businessPhoneNumber\": \"646-786-8423\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "101 FIFTH AVENUE",
+                                        "street2": "SUITE 900",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10003"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143529",
+                    "firm_bd_sec_number": "67573",
+                    "firm_bd_full_sec_number": "8-67573",
+                    "firm_name": "TRIAGO",
+                    "firm_other_names": [
+                        "TRIAGO",
+                        "TRIAGO X, INC.",
+                        "TRIAGO X",
+                        "TRIAGO AMERICAS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"499 PARK AVENUE\", \"street2\": \"SUITE 2501\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"499 PARK AVE\", \"street2\": \"FL 25\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022-1240\"}, \"businessPhoneNumber\": \"212-593-4994\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "499 PARK AVENUE",
+                                        "street2": "SUITE 2501",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306369",
+                    "firm_bd_sec_number": "70450",
+                    "firm_bd_full_sec_number": "8-70450",
+                    "firm_name": "PROOF SERVICES LLC",
+                    "firm_other_names": [
+                        "PROOF SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"176 BROADWAY #15D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"176 BROADWAY #15D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"240-418-2486\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "176 BROADWAY #15D",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "83",
+                    "firm_bd_sec_number": "9698",
+                    "firm_bd_full_sec_number": "8-9698",
+                    "firm_name": "INTERCOASTAL CAPITAL MARKETS, INC.",
+                    "firm_other_names": [
+                        "BELLAMAH, NEUHAUSER & BARRETT, INC.",
+                        "INTERCOASTAL CAPITAL MARKETS, INC. (ICM)",
+                        "INTERCOASTAL CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 EAST PALMETTO PARK ROAD\", \"street2\": \"SUITE 108\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33432\"}, \"mailingAddress\": {\"street1\": \"200 EAST PALMETTO PARK ROAD\", \"street2\": \"SUITE 108\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33432\"}, \"businessPhoneNumber\": \"(561)939-8282\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1207 Delaware Ave",
+                                        "street2": "ste 118",
+                                        "city": "Buffalo",
+                                        "state": "NY",
+                                        "zipCode": "14209"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "318014",
+                    "firm_bd_sec_number": "70869",
+                    "firm_bd_full_sec_number": "8-70869",
+                    "firm_name": "IEX DAP LLC",
+                    "firm_other_names": [
+                        "IEX DAP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 WORLD TRADE CENTER, 175 GREENWICH STREET\", \"street2\": \"58TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"3 WORLD TRADE CENTER, 175 GREENWICH STREET\", \"street2\": \"58TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"646-343-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 WORLD TRADE CENTER, 175 GREENWICH STREET",
+                                        "street2": "58TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "316308",
+                    "firm_bd_sec_number": "70932",
+                    "firm_bd_full_sec_number": "8-70932",
+                    "firm_name": "OPTIVER EXECUTION SERVICES LLC",
+                    "firm_other_names": [
+                        "OPTIVER EXECUTION SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"130 E RANDOLPH STREET\", \"street2\": \"SUITE 800\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60601\"}, \"mailingAddress\": {\"street1\": \"130 E RANDOLPH STREET\", \"street2\": \"SUITE 800\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60601\"}, \"businessPhoneNumber\": \"312-821-9500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "530 Fifth Avenue",
+                                        "street2": "Suite 705",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

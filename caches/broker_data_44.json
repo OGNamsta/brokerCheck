@@ -1,0 +1,459 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136223",
+                    "firm_bd_sec_number": "66989",
+                    "firm_bd_full_sec_number": "8-66989",
+                    "firm_name": "CROSS POINT CAPITAL LLC",
+                    "firm_other_names": [
+                        "CROSS POINT CAPITAL LLC",
+                        "STRUCTURED AND ALTERNATIVE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"25 W 39TH STREET\", \"street2\": \"FL 9\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"25 W 39TH STREET\", \"street2\": \"FL 9\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"332-910-5123\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "25 W 39TH STREET",
+                                        "street2": "FL 9",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "316115",
+                    "firm_bd_sec_number": "70771",
+                    "firm_bd_full_sec_number": "8-70771",
+                    "firm_name": "PARALEL DISTRIBUTORS",
+                    "firm_other_names": [
+                        "PARALEL DISTRIBUTORS",
+                        "PARALEL DISTRIBUTORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1700 BROADWAY\", \"street2\": \"SUITE 1850\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80290\"}, \"mailingAddress\": {\"street1\": \"1700 BROADWAY\", \"street2\": \"SUITE 1850\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80290\"}, \"businessPhoneNumber\": \"3033780364\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "950 3rd Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "20130",
+                    "firm_bd_sec_number": "38086",
+                    "firm_bd_full_sec_number": "8-38086",
+                    "firm_name": "TRADERFIELD SECURITIES INC.",
+                    "firm_other_names": [
+                        "TRADERFIELD SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 BETHANY ROAD\", \"street2\": \"SUITE 36\", \"city\": \"HAZLET\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07730\"}, \"mailingAddress\": {\"street1\": \"1 BETHANY ROAD\", \"street2\": \"SUITE 36\", \"city\": \"HAZLET\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07730\"}, \"businessPhoneNumber\": \"7185546677\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "33-70Prince Street",
+                                        "street2": "Suite 805",
+                                        "city": "FLUSHING",
+                                        "state": "NY",
+                                        "zipCode": "11354"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43149",
+                    "firm_bd_sec_number": "50162",
+                    "firm_bd_full_sec_number": "8-50162",
+                    "firm_name": "FOUR POINTS CAPITAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "AURORA FINANCIAL SERVICES, L.L.C.",
+                        "HAYDEN & ASSOCIATES",
+                        "FOUR POINTS CAPITAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55A E. RIDGEWOOD AVENUE\", \"street2\": \"SUITE 12\", \"city\": \"RIDGEWOOD\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07450\"}, \"mailingAddress\": {\"street1\": \"55A E. RIDGEWOOD AVENUE\", \"street2\": \"SUITE 12\", \"city\": \"RIDGEWOOD\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07450\"}, \"businessPhoneNumber\": \"212-257-5240\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 Union Place",
+                                        "city": "Buffalo",
+                                        "state": "NY",
+                                        "zipCode": "14213"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "140345",
+                    "firm_bd_sec_number": "67305",
+                    "firm_bd_full_sec_number": "8-67305",
+                    "firm_name": "AMERICAS EXECUTIONS, LLC",
+                    "firm_other_names": [
+                        "AMERICAS EXECUTIONS, INC.",
+                        "SURKIS, BARRY NMN",
+                        "SURKIS, BARRY",
+                        "SURKIS INCORPORATED",
+                        "AMERX",
+                        "AMERICAS EXECUTIONS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"NEW YORK STOCK EXCHANGE\", \"street2\": \"11 WALL STREET POD-P\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"C/O ACCOUNTING & COMPLIANCE INTERNATIONAL\", \"street2\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-306-2700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "NEW YORK STOCK EXCHANGE",
+                                        "street2": "11 WALL STREET POD-P",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "293416",
+                    "firm_bd_sec_number": "70124",
+                    "firm_bd_full_sec_number": "8-70124",
+                    "firm_name": "WILLIAM HOOD & COMPANY",
+                    "firm_other_names": [
+                        "WILLIAM HOOD & COMPANY",
+                        "WILLIAM HOOD & COMPANY LLC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"555 MADISON AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"555 MADISON AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 365 5293\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "555 MADISON AVENUE",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285573",
+                    "firm_bd_sec_number": "69854",
+                    "firm_bd_full_sec_number": "8-69854",
+                    "firm_name": "VIGILANT DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "HERALD INVESTMENT MARKETING, LLC",
+                        "VIGILANT DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"GATEWAY CORPORATE CENTER, SUITE 216\", \"street2\": \"223 WILMINGTON WEST CHESTER PIKE\", \"city\": \"CHADDS FORD\", \"state\": \"PA\", \"postalCode\": \"19317\"}, \"mailingAddress\": {\"street1\": \"GATEWAY CORPORATE CENTER, SUITE 216\", \"street2\": \"223 WILMINGTON WEST CHESTER PIKE\", \"city\": \"CHADDS FORD\", \"state\": \"PA\", \"postalCode\": \"19317\"}, \"businessPhoneNumber\": \"610-558-1750\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE LIBERTY PLAZA",
+                                        "street2": "46TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "168404",
+                    "firm_bd_sec_number": "69305",
+                    "firm_bd_full_sec_number": "8-69305",
+                    "firm_name": "LIFESCI CAPITAL",
+                    "firm_other_names": [
+                        "LIFESCI CAPITAL",
+                        "LIFESCI CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 WEST 55TH STREET\", \"street2\": \"34TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"250 WEST 55TH STREET\", \"street2\": \"34TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"646 597-6987\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 WEST 55TH STREET",
+                                        "street2": "34TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306611",
+                    "firm_bd_sec_number": "70531",
+                    "firm_bd_full_sec_number": "8-70531",
+                    "firm_name": "GLOBETECH SECURITIES LLC",
+                    "firm_other_names": [
+                        "GLOBETECH SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"440 GROOMS ROAD\", \"city\": \"CLIFTON PARK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12065\"}, \"mailingAddress\": {\"street1\": \"440 GROOMS ROAD\", \"city\": \"CLIFTON PARK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12065\"}, \"businessPhoneNumber\": \"678-679-8644\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "440 GROOMS ROAD",
+                                        "city": "CLIFTON PARK",
+                                        "state": "NY",
+                                        "zipCode": "12065"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "168490",
+                    "firm_bd_sec_number": "69313",
+                    "firm_bd_full_sec_number": "8-69313",
+                    "firm_name": "CLEARPOOL EXECUTION SERVICES, LLC",
+                    "firm_other_names": [
+                        "CLEARPOOL EXECUTION SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"17 STATE STREET, 38TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"17 STATE STREET, 38TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-531-8500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "17 State Street, 38th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39733",
+                    "firm_bd_sec_number": "48942",
+                    "firm_bd_full_sec_number": "8-48942",
+                    "firm_name": "PAYCHEX SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "PAYCHEX SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"220 KENNETH DRIVE\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"mailingAddress\": {\"street1\": \"220 KENNETH DRIVE\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"businessPhoneNumber\": \"585-336-6545\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "220 Kenneth Drive",
+                                        "city": "Rochester",
+                                        "state": "NY",
+                                        "zipCode": "14623"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18975",
+                    "firm_bd_sec_number": "37105",
+                    "firm_bd_full_sec_number": "8-37105",
+                    "firm_ia_sec_number": "78295",
+                    "firm_ia_full_sec_number": "801-78295",
+                    "firm_name": "DOMINARI SECURITIES LLC",
+                    "ia_firm_name": "DOMINARI SECURITIES LLC",
+                    "firm_other_names": [
+                        "DOMINARI SECURITIES LLC",
+                        "SPECTRUM FINANCIAL STRATEGIES, INC.",
+                        "NUTMEG SECURITIES, LTD.",
+                        "NUTMEG SECURITIES, LLC",
+                        "METRO PENSION ANALYSTS, LTD.",
+                        "FUTURES BENEFITS",
+                        "FREEDOM FINANCIAL SERVICES, INC",
+                        "FIELDPOINT PRIVATE SECURITIES, LLC",
+                        "FIELDPOINT PRIVATE SECURITIES LLC",
+                        "E-BENEFITS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"725 FIFTH AVENUE, 23RD FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"725 FIFTH AVENUE, 23RD FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-393-4500\", \"iaFirmName\": \"DOMINARI SECURITIES LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"725 FIFTH AVE., 23RD FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10022\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "725 FIFTH AVENUE, 23RD FL.",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

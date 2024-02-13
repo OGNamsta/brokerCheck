@@ -1,0 +1,451 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154838",
+                    "firm_bd_sec_number": "68677",
+                    "firm_bd_full_sec_number": "8-68677",
+                    "firm_name": "TD SECURITIES AUTOMATED TRADING LLC",
+                    "firm_other_names": [
+                        "HEADLANDS GLOBAL MARKETS, LLC",
+                        "TD SECURITIES AUTOMATED TRADING LLC",
+                        "HEADLANDS TECH GLOBAL MARKETS, LLC",
+                        "HEADLANDS TECH GLOBAL MARKETS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"71 S. WACKER DRIVE\", \"street2\": \"SUITE 550\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"71 S. WACKER DRIVE\", \"street2\": \"SUITE 550\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-601-8643\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE VANDERBILT AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "145244",
+                    "firm_bd_sec_number": "67718",
+                    "firm_bd_full_sec_number": "8-67718",
+                    "firm_name": "FS INVESTMENT SOLUTIONS, LLC",
+                    "firm_other_names": [
+                        "FS INVESTMENT SOLUTIONS, LLC",
+                        "FS2 CAPITAL PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"201 ROUSE BOULEVARD\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"USA\", \"postalCode\": \"19112\"}, \"mailingAddress\": {\"street1\": \"201 ROUSE BOULEVARD\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"USA\", \"postalCode\": \"19112\"}, \"businessPhoneNumber\": \"215-495-1150\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 EAST 53RD STREET",
+                                        "street2": "20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146193",
+                    "firm_bd_sec_number": "67793",
+                    "firm_bd_full_sec_number": "8-67793",
+                    "firm_name": "MIURA CAPITAL, LLC",
+                    "firm_other_names": [
+                        "MIURA CAPITAL, LLC",
+                        "MWM SECURITIES, LLC",
+                        "MUREX CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1395 BRICKELL AVE\", \"street2\": \"SUITE 1560\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"1395 BRICKELL AVE\", \"street2\": \"SUITE 1560\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"305-529-4700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "747 THIRD AVE",
+                                        "street2": "SUITE 3202",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16853",
+                    "firm_bd_sec_number": "34626",
+                    "firm_bd_full_sec_number": "8-34626",
+                    "firm_name": "ALPS DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "ALPS DISTRIBUTORS, INC.",
+                        "MARINER FUNDS SERVICES INC.",
+                        "ALPS SECURITIES, INC.",
+                        "ALPS MUTUAL FUNDS SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 39,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1290 BROADWAY, SUITE 1000\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80203\"}, \"mailingAddress\": {\"street1\": \"PO BOX 328\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80201-0328\"}, \"businessPhoneNumber\": \"303-623-2577\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "650 Madison Avenue",
+                                        "street2": "23rd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149794",
+                    "firm_bd_sec_number": "68188",
+                    "firm_bd_full_sec_number": "8-68188",
+                    "firm_name": "SNOWDEN ACCOUNT SERVICES LLC",
+                    "firm_other_names": [
+                        "SNOWDEN ACCOUNT SERVICES LLC",
+                        "TBG CAPITAL, INC.",
+                        "SNOWDEN ACCOUNT SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 17,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"540 MADISON AVE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"540 MADISON AVE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646.218.9760\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "540 MADISON AVE",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47770",
+                    "firm_bd_sec_number": "51916",
+                    "firm_bd_full_sec_number": "8-51916",
+                    "firm_name": "CHELSEA FINANCIAL SERVICES",
+                    "firm_other_names": [
+                        "CHELSEA FINANCIAL SERVICES",
+                        "DBA CHELSEA FINANCIAL SERVICES",
+                        "CHELSEA MORGAN SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 28,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"242 MAIN STREET\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10307\"}, \"mailingAddress\": {\"street1\": \"242 MAIN STREET\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10307\"}, \"businessPhoneNumber\": \"718 967-8400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "545 East Jericho Turnpike",
+                                        "city": "Huntington Station",
+                                        "state": "NY",
+                                        "zipCode": "11746"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147566",
+                    "firm_bd_sec_number": "67915",
+                    "firm_bd_full_sec_number": "8-67915",
+                    "firm_name": "CHIMERA SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CHIMERA SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"27 UNION SQUARE WEST\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10003\"}, \"mailingAddress\": {\"street1\": \"27 UNION SQUARE WEST\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10003\"}, \"businessPhoneNumber\": \"646-597-6100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "27 UNION SQUARE WEST",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10003"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "314056",
+                    "firm_bd_sec_number": "70746",
+                    "firm_bd_full_sec_number": "8-70746",
+                    "firm_name": "STRONG CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "STRONG CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1266 EAST MAIN STREET\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06902\"}, \"mailingAddress\": {\"street1\": \"1266 EAST MAIN STREET\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06902\"}, \"businessPhoneNumber\": \"475-477-9600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 Quentin Roosevelt Blvd",
+                                        "city": "Garden City",
+                                        "state": "NY",
+                                        "zipCode": "11530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143624",
+                    "firm_bd_sec_number": "67587",
+                    "firm_bd_full_sec_number": "8-67587",
+                    "firm_name": "R.J. O'BRIEN SECURITIES, LLC",
+                    "firm_other_names": [
+                        "R.J. O'BRIEN SECURITIES, INC.",
+                        "R.J. O'BRIEN SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"222 SOUTH RIVERSIDE PLAZA, SUITE 1200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"222 SOUTH RIVERSIDE PLAZA\", \"street2\": \"SUITE 1200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312 373-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "156 W. 56th Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322351",
+                    "firm_bd_sec_number": "71022",
+                    "firm_bd_full_sec_number": "8-71022",
+                    "firm_name": "KNOWN GROWTH LLC",
+                    "firm_other_names": [
+                        "KNOWN GROWTH LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"31 HUDSON YARDS\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"31 HUDSON YARDS\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"646-970-4470\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "31 HUDSON YARDS",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39356",
+                    "firm_bd_sec_number": "48651",
+                    "firm_bd_full_sec_number": "8-48651",
+                    "firm_name": "KBFG SECURITIES AMERICA INC.",
+                    "firm_other_names": [
+                        "HYUNDAI SECURITIES (AMERICA) INC.",
+                        "KBFG SECURITIES AMERICA INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1370 AVENUE OF THE AMERICAS, SUITE 2700\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1370 AVENUE OF THE AMERICAS, SUITE 2700\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-265-2333\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1370 AVENUE OF THE AMERICAS, SUITE 2700",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290665",
+                    "firm_bd_sec_number": "70035",
+                    "firm_bd_full_sec_number": "8-70035",
+                    "firm_name": "BANCROFT CAPITAL, LLC",
+                    "ia_firm_name": "BANCROFT CAPITAL, LLC",
+                    "firm_other_names": [
+                        "BANCROFT CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"501 OFFICE CENTER DRIVE\", \"street2\": \"SUITE 130\", \"city\": \"FORT WASHINGTON\", \"state\": \"PA\", \"postalCode\": \"19034\"}, \"mailingAddress\": {\"street1\": \"501 OFFICE CENTER DRIVE\", \"street2\": \"SUITE 130\", \"city\": \"FORT WASHINGTON\", \"state\": \"PA\", \"postalCode\": \"19034\"}, \"businessPhoneNumber\": \"484 686-0346\", \"iaFirmName\": \"BANCROFT CAPITAL, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"501 OFFICE CENTER DRIVE\", \"street2\": \"SUITE 130\", \"city\": \"FORT WASHINGTON\", \"state\": \"PA\", \"country\": \"United States\", \"postalCode\": \"19034\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "112 W. 34TH STREET, 17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10120"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

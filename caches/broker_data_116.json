@@ -1,0 +1,470 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "23682",
+                    "firm_bd_sec_number": "40605",
+                    "firm_bd_full_sec_number": "8-40605",
+                    "firm_name": "RAFFERTY CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "COHANE RAFFERTY CAPITAL MARKETS, INC.",
+                        "RAFFERTY CAPITAL MARKETS, LLC",
+                        "RAFFERTY CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1010 FRANKLIN AVENUE\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11530\"}, \"mailingAddress\": {\"street1\": \"1010 FRANKLIN AVENUE\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11530\"}, \"businessPhoneNumber\": \"516-535-3800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1010 FRANKLIN AVENUE",
+                                        "city": "GARDEN CITY",
+                                        "state": "NY",
+                                        "zipCode": "11530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8174",
+                    "firm_bd_sec_number": "16267",
+                    "firm_bd_full_sec_number": "8-16267",
+                    "firm_ia_sec_number": "7163",
+                    "firm_ia_full_sec_number": "801-7163",
+                    "firm_name": "UBS FINANCIAL SERVICES INC.",
+                    "ia_firm_name": "UBS FINANCIAL SERVICES INC.",
+                    "firm_other_names": [
+                        "PAINE, WEBBER, JACKSON & CURTIS INC.",
+                        "WEALTH MANAGEMENT USA",
+                        "UBS PAINEWEBBER INC.",
+                        "UBS FINANCIAL SERVICES INC.",
+                        "PAINEWEBBER INCORPORATED",
+                        "PAINEWEBBER INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2610,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1200 HARBOR BOULEVARD\", \"city\": \"WEEHAWKEN\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07086\"}, \"mailingAddress\": {\"street1\": \"315 DEADERICK STREET\", \"street2\": \"3RD FL, COMPLIANCE DEPARTMENT\", \"city\": \"NASHVILLE\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"37238\"}, \"businessPhoneNumber\": \"201-352-3000\", \"iaFirmName\": \"UBS FINANCIAL SERVICES INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1200 HARBOR BOULEVARD\", \"city\": \"WEEHAWKEN\", \"state\": \"NJ\", \"country\": \"United States\", \"postalCode\": \"07086\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1285 Avenue Of The Americas",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6413",
+                    "firm_bd_sec_number": "17668",
+                    "firm_bd_full_sec_number": "8-17668",
+                    "firm_ia_sec_number": "10970",
+                    "firm_ia_full_sec_number": "801-10970",
+                    "firm_name": "LPL FINANCIAL LLC",
+                    "ia_firm_name": "LPL FINANCIAL LLC",
+                    "firm_other_names": [
+                        "LINSCO/PRIVATE LEDGER CORP.",
+                        "WADDELL & REED INVESTMENTS",
+                        "WADDELL & REED FINANCIAL ADVISORS",
+                        "WADDELL & REED",
+                        "PRIVATE LEDGER FINANCIAL SERVICES, INCORPORATED",
+                        "LPL FINANCIAL LLC",
+                        "LPL FINANCIAL CORPORATION",
+                        "LPL FINANCIAL",
+                        "LPL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 26965,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1055 LPL WAY\", \"city\": \"FORT MILL\", \"state\": \"SC\", \"country\": \"UNITED STATES\", \"postalCode\": \"29715\"}, \"mailingAddress\": {\"street1\": \"1055 LPL WAY\", \"city\": \"FORT MILL\", \"state\": \"SC\", \"country\": \"UNITED STATES\", \"postalCode\": \"29715\"}, \"businessPhoneNumber\": \"704-733-3300\", \"iaFirmName\": \"LPL FINANCIAL LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1055 LPL WAY\", \"city\": \"FORT MILL\", \"state\": \"SC\", \"country\": \"United States\", \"postalCode\": \"29715\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "VISIONS FEDERAL CREDIT UNION",
+                                        "street2": "5411 STATE HWY RTE 12",
+                                        "city": "NORWICH",
+                                        "state": "NY",
+                                        "zipCode": "13815"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104245",
+                    "firm_bd_sec_number": "52725",
+                    "firm_bd_full_sec_number": "8-52725",
+                    "firm_name": "CF GLOBAL TRADING, LLC",
+                    "firm_other_names": [
+                        "CF GLOBAL TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"SUITE 1455\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10165\"}, \"mailingAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"SUITE 1455\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10165\"}, \"businessPhoneNumber\": \"212-888-4711\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 East 42nd Street",
+                                        "street2": "SUITE 1455",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "109679",
+                    "firm_bd_sec_number": "53100",
+                    "firm_bd_full_sec_number": "8-53100",
+                    "firm_name": "BDO CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "BDO CAPITAL ADVISORS, LLC",
+                        "TRENWITH SECURITIES, LLC",
+                        "BDO CORPORATE FINANCE, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE INTERNATIONAL PLACE, 4TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02110\"}, \"mailingAddress\": {\"street1\": \"ONE INTERNATIONAL PLACE, 4TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02110\"}, \"businessPhoneNumber\": \"617.442.7576\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 PARK AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169092",
+                    "firm_bd_sec_number": "69349",
+                    "firm_bd_full_sec_number": "8-69349",
+                    "firm_name": "BMS CAPITAL ADVISORY, INC.",
+                    "firm_other_names": [
+                        "BMS CAPITAL ADVISORY, INC.",
+                        "BMS CAPITAL SOLUTIONS & ADVISORY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"757 THIRD AVENUE, 22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"757 THIRD AVENUE, 22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"469-847-2134\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "757 THIRD AVENUE, 22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "101600",
+                    "firm_bd_sec_number": "52094",
+                    "firm_bd_full_sec_number": "8-52094",
+                    "firm_name": "BROADSTONE SECURITIES",
+                    "firm_other_names": [
+                        "BROADSTONE SECURITIES",
+                        "MICHIGAN SECURITIES, INC.",
+                        "MICHIGAN ADVISORS, INC.",
+                        "INSURANCE AUDIT AGENCY, INC.",
+                        "INSURANCE & AUDIT AGENCY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"80 STATE STREET\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12207\"}, \"mailingAddress\": {\"street1\": \"80 STATE STREET\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12207\"}, \"businessPhoneNumber\": \"5184363536\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "80 State Street",
+                                        "city": "Albany",
+                                        "state": "NY",
+                                        "zipCode": "12207"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148248",
+                    "firm_bd_sec_number": "67996",
+                    "firm_bd_full_sec_number": "8-67996",
+                    "firm_name": "INVESTX MARKETS LLC",
+                    "firm_other_names": [
+                        "AUCTUS SECURITIES, LLC",
+                        "WOODVILLE HALL CAPITAL, LLC",
+                        "INVESTX MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19 FULTON STREET\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"19 FULTON STREET\", \"street2\": \"SUITE 300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"212-390-9270\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "19 Fulton St. Suite #307",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "325143",
+                    "firm_bd_sec_number": "71064",
+                    "firm_bd_full_sec_number": "8-71064",
+                    "firm_name": "KINGSROCK SECURITIES LLC",
+                    "firm_other_names": [
+                        "KINGSROCK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"900 THIRD AVENUE, SUITE 100\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"900 THIRD AVENUE, SUITE 100\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"917-992-4544\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "900 THIRD AVENUE, SUITE 100",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30107",
+                    "firm_bd_sec_number": "44744",
+                    "firm_bd_full_sec_number": "8-44744",
+                    "firm_name": "STATE STREET GLOBAL ADVISORS FUNDS DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "STATE STREET BROKERAGE SERVICES, INC.",
+                        "STATE STREET GLOBAL MARKETS, LLC",
+                        "STATE STREET GLOBAL ADVISORS FUNDS DISTRIBUTORS, LLC",
+                        "STATE STREET CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"CHANNEL CENTER\", \"street2\": \"1 IRON STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02210\"}, \"mailingAddress\": {\"street1\": \"PO BOX 5501\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02210-5501\"}, \"businessPhoneNumber\": \"617-664-4959\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1290 Avenue of the Americas",
+                                        "street2": "6th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299729",
+                    "firm_bd_sec_number": "70312",
+                    "firm_bd_full_sec_number": "8-70312",
+                    "firm_name": "ABSA SECURITIES U.S. INC.",
+                    "firm_other_names": [
+                        "ABSA SECURITIES U.S. INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"610 FIFTH AVENUE\", \"street2\": \"SUITE 405\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"610 FIFTH AVENUE\", \"street2\": \"SUITE 405\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"646-844-0282\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "610 FIFTH AVENUE",
+                                        "street2": "SUITE 405",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44542",
+                    "firm_bd_sec_number": "50727",
+                    "firm_bd_full_sec_number": "8-50727",
+                    "firm_name": "MARKETAXESS CORPORATION",
+                    "firm_other_names": [
+                        "MARKETAXESS CORPORATION",
+                        "TRADING EDGE, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 HUDSON YARDS\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"55 HUDSON YARDS\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-813-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 HUDSON YARDS",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

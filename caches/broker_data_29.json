@@ -1,0 +1,450 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304839",
+                    "firm_bd_sec_number": "70387",
+                    "firm_bd_full_sec_number": "8-70387",
+                    "firm_name": "ALTI STRATEGIC ADVISORY (US) BD, LLC",
+                    "firm_other_names": [
+                        "ALTI STRATEGIC ADVISORY (US) BD, LLC",
+                        "ALVARIUM MB (US) BD, LLC",
+                        "ALVARIUM MB (US) , LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"520 MADISON AVENUE, 26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"520 MADISON AVENUE, 26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-396-5900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "520 Madison Avenue, 26th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6183",
+                    "firm_bd_sec_number": "17025",
+                    "firm_bd_full_sec_number": "8-17025",
+                    "firm_name": "C. L. KING & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "C. L. KING & ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"NINE ELK STREET\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12207\"}, \"mailingAddress\": {\"street1\": \"NINE ELK STREET\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12207\"}, \"businessPhoneNumber\": \"518-431-3555\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "410 PARK AVENUE",
+                                        "street2": "SUITE 1620",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44257",
+                    "firm_bd_sec_number": "50599",
+                    "firm_bd_full_sec_number": "8-50599",
+                    "firm_name": "HAP TRADING, LLC",
+                    "firm_other_names": [
+                        "HAP CAPITAL",
+                        "PFTC TRADING LLC",
+                        "PFTC TRADING L.L.C.",
+                        "PFTC L.L.C.",
+                        "HAP TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"395 HUDSON STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"mailingAddress\": {\"street1\": \"395 HUDSON STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"businessPhoneNumber\": \"212-380-5100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "395 HUDSON STREET",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30811",
+                    "firm_bd_sec_number": "45179",
+                    "firm_bd_full_sec_number": "8-45179",
+                    "firm_name": "PLURIS CAPITAL GROUP, INC.",
+                    "firm_other_names": [
+                        "J.H. LILLIAN SECURITIES CORP.",
+                        "PLURIS CAPITAL GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1501 BROADWAY\", \"street2\": \"SUITE 1515\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"204 E. 3RD STREET\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11218\"}, \"businessPhoneNumber\": \"917-304-3325\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1501 Broadway",
+                                        "street2": "suite 1515",
+                                        "city": "New yORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149531",
+                    "firm_bd_sec_number": "68154",
+                    "firm_bd_full_sec_number": "8-68154",
+                    "firm_name": "MUNDIAL FINANCIAL GROUP, LLC",
+                    "firm_other_names": [
+                        "MUNDIAL FINANCIAL GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"477 MADISON AVE\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"477 MADISON AVE\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-766-8690\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "477 MADISON AVE",
+                                        "street2": "6TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28629",
+                    "firm_bd_sec_number": "43828",
+                    "firm_bd_full_sec_number": "8-43828",
+                    "firm_name": "EARLYBIRDCAPITAL, INC.",
+                    "firm_other_names": [
+                        "CORNELL SECURITIES CONSULTANTS, INC.",
+                        "SOUTHEAST RESEARCH PARTNERS, INC.",
+                        "EARLYBIRDCAPITAL.COM INC.",
+                        "EARLYBIRDCAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE HUNTINGTON QUADRANGLE, SUITE 1C15\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"mailingAddress\": {\"street1\": \"1 HUNTINGTON QUADRANGLE\", \"street2\": \"1C15\", \"city\": \"MEVILLE\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"businessPhoneNumber\": \"16317700600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "366 Madison Ave. 8th Floor",
+                                        "city": "NY",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150774",
+                    "firm_bd_sec_number": "68297",
+                    "firm_bd_full_sec_number": "8-68297",
+                    "firm_name": "EP SECURITIES, LLC",
+                    "firm_other_names": [
+                        "EP SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"275 MADISON AVE\", \"street2\": \"SUITE 1901\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"275 MADISON AVE\", \"street2\": \"SUITE 1901\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"212-297-1724\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "275 MADISON AVE",
+                                        "street2": "SUITE 1901",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "114155",
+                    "firm_bd_sec_number": "53403",
+                    "firm_bd_full_sec_number": "8-53403",
+                    "firm_name": "ANKURA CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "ANKURA CAPITAL ADVISORS, LLC",
+                        "NAVIGANT CONSULTING ENERGY CAPITAL, LLC",
+                        "NAVIGANT CONSULTING CAPITAL, LLC",
+                        "NAVIGANT CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"485 LEXINGTON AVENUE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"485 LEXINGTON AVENUE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-818-1555\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "485 LEXINGTON AVENUE",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43430",
+                    "firm_bd_sec_number": "50270",
+                    "firm_bd_full_sec_number": "8-50270",
+                    "firm_name": "FERGHANA SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FERGHANA SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVENUE- SUITE 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVENUE - SUITE 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"212-986-7900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVENUE- SUITE 1402",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "173318",
+                    "firm_bd_sec_number": "69535",
+                    "firm_bd_full_sec_number": "8-69535",
+                    "firm_name": "THREADMARK LP",
+                    "firm_other_names": [
+                        "THREADMARK LP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 PARK AVENUE\", \"street2\": \"2ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"300 PARK AVENUE\", \"street2\": \"2ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"917-397-2301\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 PARK AVENUE",
+                                        "street2": "2ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "170803",
+                    "firm_bd_sec_number": "69432",
+                    "firm_bd_full_sec_number": "8-69432",
+                    "firm_name": "LEAGUE CAPITAL MARKETS",
+                    "firm_other_names": [
+                        "FORT GHENT BROKERAGE LLC",
+                        "LEAGUE CAPITAL MARKETS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 MADISON AVE\", \"street2\": \"SUITE 1006\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 MADISON AVE\", \"street2\": \"SUITE 1006\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-588-0580\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 MADISON AVE, SUITE 1006",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146671",
+                    "firm_bd_sec_number": "67837",
+                    "firm_bd_full_sec_number": "8-67837",
+                    "firm_name": "EASTGATE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "EASTGATE SECURITIES, LLC",
+                        "J. STREICHER CAPITAL LLC",
+                        "J. STREICHER CAPITAL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"866 UNITED NATIONS PLAZA 406\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"4512 244TH STREET\", \"city\": \"LITTLE NECK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11362\"}, \"businessPhoneNumber\": \"800-925-7157\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "866 UNITED NATIONS PLAZA 406",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

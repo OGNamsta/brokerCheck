@@ -1,0 +1,470 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "156757",
+                    "firm_bd_sec_number": "68821",
+                    "firm_bd_full_sec_number": "8-68821",
+                    "firm_name": "BERENBERG CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "BERENBERG CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1251 AVENUE OF THE AMERICAS\", \"street2\": \"53RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1251 AVENUE OF THE AMERICAS\", \"street2\": \"53RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"646-949-9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1251 AVENUE OF THE AMERICAS",
+                                        "street2": "53RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120128",
+                    "firm_bd_sec_number": "65277",
+                    "firm_bd_full_sec_number": "8-65277",
+                    "firm_name": "CHARDAN CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "CHARDAN",
+                        "THE GRAMERCY GROUP, LLC",
+                        "CHARDAN CAPITAL MARKETS LLC",
+                        "CHARDAN CAPITAL MARKETS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"17 STATE STREET, SUITE 2130\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"17 STATE STREET, SUITE 2130\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"(646)465-9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "17 STATE STREET, SUITE 2130",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "326199",
+                    "firm_bd_sec_number": "71081",
+                    "firm_bd_full_sec_number": "8-71081",
+                    "firm_name": "OPENYIELD TRADING LLC",
+                    "firm_other_names": [
+                        "OPENYIELD TRADING LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"205 EAST 42ND ST\", \"street2\": \"SUITE 1932\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"205 EAST 42ND ST\", \"street2\": \"SUITE 1932\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(908) 409-3542?\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "205 East 42nd Street",
+                                        "street2": "Suite 1932",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131338",
+                    "firm_bd_sec_number": "66448",
+                    "firm_bd_full_sec_number": "8-66448",
+                    "firm_name": "DRAKE STAR SECURITIES LLC",
+                    "firm_other_names": [
+                        "DRAKE STAR SECURITIES LLC",
+                        "RCG, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"950 THIRD AVENUE\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"950 THIRD AVENUE\", \"street2\": \"20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-508-7110\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "950 THIRD AVENUE",
+                                        "street2": "20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "111747",
+                    "firm_bd_sec_number": "53196",
+                    "firm_bd_full_sec_number": "8-53196",
+                    "firm_name": "DELOITTE CORPORATE FINANCE LLC",
+                    "firm_other_names": [
+                        "DELOITTE & TOUCHE CORPORATE FINANCE LLC",
+                        "DELOITTE CORPORATE FINANCE LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"111 S. WACKER DRIVE\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606-4301\"}, \"mailingAddress\": {\"street1\": \"111 S. WACKER DRIVE\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606-4301\"}, \"businessPhoneNumber\": \"213-688-6560\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1221 Avenue of Americas",
+                                        "street2": "Floor 39",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136453",
+                    "firm_bd_sec_number": "67016",
+                    "firm_bd_full_sec_number": "8-67016",
+                    "firm_name": "PRAGMA LLC",
+                    "firm_other_names": [
+                        "PRAGMA LLC",
+                        "PRAGMA SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 HUDSON YARDS\", \"street2\": \"FLOOR 15\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"55 HUDSON YARDS\", \"street2\": \"FLOOR 15\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-777-0052\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 HUDSON YARDS",
+                                        "street2": "FLOOR 15",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132710",
+                    "firm_bd_sec_number": "66628",
+                    "firm_bd_full_sec_number": "8-66628",
+                    "firm_name": "PHOENIX IB",
+                    "firm_other_names": [
+                        "PHOENIX CAPITAL RESOURCES",
+                        "PM SECURITIES, LLC DBA PHOENIX CAPITAL RESOURCES",
+                        "PM SECURITIES, LLC",
+                        "PHOENIX IB"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"110 COMMONS COURT\", \"city\": \"CHADDS FORD\", \"state\": \"PA\", \"postalCode\": \"19317\"}, \"mailingAddress\": {\"street1\": \"110 COMMONS COURT\", \"city\": \"CHADDS FORD\", \"state\": \"PA\", \"postalCode\": \"19317\"}, \"businessPhoneNumber\": \"610-358-4700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "535 FIFTH AVENUE",
+                                        "street2": "SUITE 1006",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148870",
+                    "firm_bd_sec_number": "68078",
+                    "firm_bd_full_sec_number": "8-68078",
+                    "firm_ia_sec_number": "60938",
+                    "firm_ia_full_sec_number": "801-60938",
+                    "firm_name": "MILLBURN RIDGEFIELD CORPORATION",
+                    "ia_firm_name": "MILLBURN RIDGEFIELD CORPORATION",
+                    "firm_other_names": [
+                        "HYPATIA CAPITAL ADVISORS LLC",
+                        "MILLBURN RIDGEFIELD CORPORATION",
+                        "MANTLE CAPITAL ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 WEST 46TH STREET\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"55 WEST 46TH STREET\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-332-7300\", \"iaFirmName\": \"MILLBURN RIDGEFIELD CORPORATION\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"55 WEST 46TH STREET\", \"street2\": \"31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10036\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 WEST 46TH STREET",
+                                        "street2": "31ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "165758",
+                    "firm_bd_sec_number": "69181",
+                    "firm_bd_full_sec_number": "8-69181",
+                    "firm_name": "PRIVATE BROKERS, LLC",
+                    "firm_other_names": [
+                        "CEDARBRIDGE SECURITIES, LLC",
+                        "PUBLIC BROKERS, LLC",
+                        "PRIVATE BROKERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"745 5TH AVENUE\", \"street2\": \"SUITE 500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10151\"}, \"mailingAddress\": {\"street1\": \"745 5TH AVENUE\", \"street2\": \"SUITE 500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10151\"}, \"businessPhoneNumber\": \"(212) 210-6324\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "745 5TH AVENUE",
+                                        "street2": "SUITE 500",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10151"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150443",
+                    "firm_bd_sec_number": "68260",
+                    "firm_bd_full_sec_number": "8-68260",
+                    "firm_name": "YOUNG AMERICA CAPITAL, LLC",
+                    "firm_other_names": [
+                        "YOUNG AMERICA CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"141 EAST BOSTON POST ROAD\", \"city\": \"MAMARONECK\", \"state\": \"NY\", \"postalCode\": \"10543\"}, \"mailingAddress\": {\"street1\": \"141 EAST BOSTON POST ROAD\", \"city\": \"MAMARONECK\", \"state\": \"NY\", \"postalCode\": \"10543\"}, \"businessPhoneNumber\": \"914-777-0100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "141 EAST BOSTON POST ROAD",
+                                        "city": "MAMARONECK",
+                                        "state": "NY",
+                                        "zipCode": "10543"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10722",
+                    "firm_bd_sec_number": "28032",
+                    "firm_bd_full_sec_number": "8-28032",
+                    "firm_ia_sec_number": "78249",
+                    "firm_ia_full_sec_number": "801-78249",
+                    "firm_name": "COINBASE CAPITAL MARKETS CORP",
+                    "ia_firm_name": "KEYSTONE CAPITAL CORPORATION",
+                    "firm_other_names": [
+                        "ADVANCED FINANCIAL PARTNERS",
+                        "TAX SHELTERS SECURITIES CORPORATION",
+                        "STEWART FINANCIAL SERVICES",
+                        "RDD WEALTH MANAGEMENT",
+                        "OPEN NETWORK FINANCIAL CONSULTING",
+                        "KEYSTONE DIVERSIFIED SECURITIES",
+                        "KEYSTONE CAPITAL CORPORATION",
+                        "COINBASE CAPITAL MARKETS CORP",
+                        "COINBASE CAPITAL MARKETS",
+                        "AUOUR ADVISORY, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 HUDSON YARDS\", \"street2\": \"4TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"55 HUDSON YARDS\", \"street2\": \"4TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"858-348-4405\", \"iaFirmName\": \"KEYSTONE CAPITAL CORPORATION\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"12230 EL CAMINO REAL\", \"street2\": \"SUITE 230\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"92130\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 HUDSON YARDS",
+                                        "street2": "4TH FL",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37731",
+                    "firm_bd_sec_number": "47939",
+                    "firm_bd_full_sec_number": "8-47939",
+                    "firm_name": "EATON VANCE DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "EATON VANCE DISTRIBUTORS,  INC.",
+                        "EV DISTRIBUTORS, INC.",
+                        "EATON VANCE DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"TWO INTERNATIONAL PLACE\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02110\"}, \"mailingAddress\": {\"street1\": \"TWO INTERNATIONAL PLACE\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02110\"}, \"businessPhoneNumber\": \"617-482-8260\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1585 Broadway",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,555 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104446",
+                    "firm_bd_sec_number": "52908",
+                    "firm_bd_full_sec_number": "8-52908",
+                    "firm_name": "DINOSAUR FINANCIAL GROUP, L.L.C",
+                    "firm_other_names": [
+                        "APB FINANCIAL GROUP",
+                        "EAGLE BROKERS",
+                        "DINOSAUR SECURITIES, L.L.C.",
+                        "DINOSAUR FINANCIAL GROUP, L.L.C"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"33 WHITEHALL ST\", \"street2\": \"1102\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"33 WHITEHALL ST\", \"street2\": \"1102\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-448-9944\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "33 Whitehall Street",
+                                        "street2": "#1102",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45995",
+                    "firm_bd_sec_number": "51290",
+                    "firm_bd_full_sec_number": "8-51290",
+                    "firm_name": "HARTFORD FUNDS DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "HARTFORD FUNDS DISTRIBUTORS, LLC",
+                        "HARTFORD INVESTMENT FINANCIAL SERVICES, LLC",
+                        "HARTFORD INVESTMENT FINANCIAL SERVICES COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"690 LEE ROAD\", \"city\": \"WAYNE\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19087\"}, \"mailingAddress\": {\"street1\": \"690 LEE ROAD\", \"city\": \"WAYNE\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19087\"}, \"businessPhoneNumber\": \"610-386-4088\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "261 Ryder Road",
+                                        "city": "Manhasset",
+                                        "state": "NY",
+                                        "zipCode": "11030"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "282107",
+                    "firm_bd_sec_number": "69703",
+                    "firm_bd_full_sec_number": "8-69703",
+                    "firm_name": "J.P. MORGAN PRIME INC.",
+                    "firm_other_names": [
+                        "J.P. MORGAN PRIME INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"383 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10179\"}, \"mailingAddress\": {\"street1\": \"1111 POLARIS PARKWAY\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43240\"}, \"businessPhoneNumber\": \"212.272.2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4 Chase Metrotech Ctr",
+                                        "street2": "Floor 4",
+                                        "city": "Brooklyn",
+                                        "state": "NY",
+                                        "zipCode": "11245"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133068",
+                    "firm_bd_sec_number": "66677",
+                    "firm_bd_full_sec_number": "8-66677",
+                    "firm_name": "WELLS FARGO PRIME SERVICES, LLC",
+                    "firm_other_names": [
+                        "MERLIN SECURITIES, LLC",
+                        "WELLS FARGO PRIME SERVICES, LLC",
+                        "WELLS FARGO CORPORATE AND/& INVESTMENT BANKING"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"333 MARKET STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94105\"}, \"mailingAddress\": {\"street1\": \"333 MARKET STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94105\"}, \"businessPhoneNumber\": \"212-822-4800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "500 W 33rd St",
+                                        "street2": "30 Hudson Yards",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35350",
+                    "firm_bd_sec_number": "46655",
+                    "firm_bd_full_sec_number": "8-46655",
+                    "firm_name": "NYLIFE DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "MACKAY SHIELDS LLC",
+                        "NYLIFE DISTRIBUTORS LLC",
+                        "NYLIFE DISTRIBUTORS INC.",
+                        "NEW YORK LIFE INVESTMENT MANAGEMENT LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 35,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 HUDSON STREET\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07302\"}, \"mailingAddress\": {\"street1\": \"30 HUDSON STREET\", \"street2\": \"22ND FLOOR\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07302\"}, \"businessPhoneNumber\": \"201-685-6220\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "124A Ingersoll Rd",
+                                        "city": "Saratoga Springs",
+                                        "state": "NY",
+                                        "zipCode": "12866"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "142998",
+                    "firm_bd_sec_number": "67517",
+                    "firm_bd_full_sec_number": "8-67517",
+                    "firm_name": "HASTINGS CAPITAL GROUP, LLC",
+                    "firm_other_names": [
+                        "HASTINGS CAPITAL GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"527 MADISON AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"527 MADISON AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-485-3100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "527 MADISON AVENUE",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "190",
+                    "firm_bd_sec_number": "13753",
+                    "firm_bd_full_sec_number": "8-13753",
+                    "firm_name": "CREDIT AGRICOLE SECURITIES (USA) INC.",
+                    "firm_other_names": [
+                        "CALYON SECURITIES (USA) INC",
+                        "EURO PARTNERS SECURITIES CORPORATION",
+                        "CREDIT LYONNAIS SECURITIES (USA), INC.",
+                        "CREDIT AGRICOLE SECURITIES (USA) INC.",
+                        "CL GLOBALPARTNERS SECURITIES CORPORATION",
+                        "CALYON SECURITIS (USA) INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1301 AVENUE OF THE AMERICAS - 9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1301 AVENUE OF THE AMERICAS - 9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-261-7000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1301 AVENUE OF THE AMERICAS",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "109064",
+                    "firm_bd_sec_number": "53089",
+                    "firm_bd_full_sec_number": "8-53089",
+                    "firm_name": "FRANKLIN DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "FRANKLIN DISTRIBUTORS, LLC",
+                        "UNIFIED DISTRIBUTORS LLC",
+                        "LEGG MASON INVESTORS SERVICES, LLC",
+                        "LEGG MASON INVESTOR SERVICES, LLC",
+                        "LATINVALLEY SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 44,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FRANKLIN PARKWAY\", \"city\": \"SAN MATEO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94403\"}, \"mailingAddress\": {\"street1\": \"100 INTERNATIONAL DRIVE\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"USA\", \"postalCode\": \"21202\"}, \"businessPhoneNumber\": \"800-632-2350\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 Park Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "288898",
+                    "firm_bd_sec_number": "69967",
+                    "firm_bd_full_sec_number": "8-69967",
+                    "firm_name": "KINGSWOOD CAPITAL PARTNERS, LLC",
+                    "firm_other_names": [
+                        "CHALICE CAPITAL PARTNERS, LLC",
+                        "KINGSWOOD INVESTMENTS",
+                        "KINGSWOOD CAPITAL PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 69,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11440 W. BERNARDO CT.\", \"street2\": \"SUITE 300\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92127\"}, \"mailingAddress\": {\"street1\": \"175 COUNTRY CLUB DRIVE BLDG 400\", \"street2\": \"SUITE D\", \"city\": \"STOCKBRIDGE\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30281\"}, \"businessPhoneNumber\": \"800-535-6981\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 Overhill Rd",
+                                        "street2": "Ste 400",
+                                        "city": "Scarsdale",
+                                        "state": "NY",
+                                        "zipCode": "10583"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "48015",
+                    "firm_bd_sec_number": "52009",
+                    "firm_bd_full_sec_number": "8-52009",
+                    "firm_name": "GOLDMAN SACHS CUSTODY SOLUTIONS",
+                    "firm_other_names": [
+                        "DIRECTINDEXER",
+                        "VIA FOLIO",
+                        "GOLDMAN SACHS CUSTODY SOLUTIONS",
+                        "FOLIO[FN] INVESTMENTS, INC.",
+                        "FOLIOTRADE BROKERAGE LLC",
+                        "FOLIOFN INVESTMENTS, INC.",
+                        "FOLIOFIRST",
+                        "FOLIO RESEARCH, LLC",
+                        "FOLIO RESEARCH",
+                        "FOLIO INVESTMENTS, INC.",
+                        "FOLIO INVESTING",
+                        "FOLIO INSTITUTIONAL",
+                        "FOLIO CLIENT"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8180 GREENSBORO DR\", \"street2\": \"8TH FLOOR\", \"city\": \"MCLEAN\", \"state\": \"VA\", \"country\": \"UNITED STATES\", \"postalCode\": \"22102\"}, \"mailingAddress\": {\"street1\": \"8180 GREENSBORO DR\", \"street2\": \"8TH FLOOR\", \"city\": \"MCLEAN\", \"state\": \"VA\", \"country\": \"UNITED STATES\", \"postalCode\": \"22102\"}, \"businessPhoneNumber\": \"703-245-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 West Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10282"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "628",
+                    "firm_bd_sec_number": "2428",
+                    "firm_bd_full_sec_number": "8-2428",
+                    "firm_ia_sec_number": "63623",
+                    "firm_ia_full_sec_number": "801-63623",
+                    "firm_name": "FIFTH THIRD SECURITIES, INC.",
+                    "ia_firm_name": "FIFTH THIRD SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FIFTH THIRD SECURITIES",
+                        "THE OHIO COMPANY",
+                        "FIFTH THIRD/THE OHIO COMPANY",
+                        "FIFTH THIRD SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1102,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"34 FOUNTAIN SQUARE PLAZA\", \"street2\": \"MD 1090AM\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"45202\"}, \"mailingAddress\": {\"street1\": \"38 FOUNTAIN SQUARE PLAZA\", \"street2\": \"MD 1090AM\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"45263\"}, \"businessPhoneNumber\": \"888-889-1025\", \"iaFirmName\": \"FIFTH THIRD SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"34 FOUNTAIN SQUARE PLAZA\", \"street2\": \"MD 1090AM\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"United States\", \"postalCode\": \"45263\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "50 Rockefeller Plaza",
+                                        "street2": "11th Floor, Suite 1101",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7995",
+                    "firm_bd_sec_number": "24519",
+                    "firm_bd_full_sec_number": "8-24519",
+                    "firm_ia_sec_number": "69266",
+                    "firm_ia_full_sec_number": "801-69266",
+                    "firm_name": "AUSDAL FINANCIAL PARTNERS, INC.",
+                    "ia_firm_name": "AUSDAL FINANCIAL PARTNERS, INC.",
+                    "firm_other_names": [
+                        "ALBERTS WEALTH ADVISORS, LLC",
+                        "WPF WEALTH MANAGEMENT",
+                        "WILSON WEALTH MANAGEMENT",
+                        "WILSON CAPITAL MANAGEMENT",
+                        "WENGER FINANCIAL GROUP",
+                        "WEALTH QC",
+                        "WEALTH ADVISORS FINANCIAL GROUP",
+                        "WATERSEED WEALTH MANAGEMENT",
+                        "TOWER FINANCIAL MANAGEMENT COMPANY",
+                        "TJ SULLIVAN & COMPANY",
+                        "TIMBERLAND FINANCIAL GROUP",
+                        "THOMAS G. SCHAEFER & ASSOCIATES",
+                        "THE WENSTRUP COMPANY",
+                        "THE SERPE INSURANCE AGENCY",
+                        "THE MCCAUSLAND GROUP",
+                        "THE LANCASTER COMPANY",
+                        "STRAUTS CAPITAL MANAGEMENT",
+                        "STRATEGIC FINANCIAL PLANNING",
+                        "STERLING FINANCIAL ADVISORY SERVICES",
+                        "SMITH INS & FINANCIAL",
+                        "SLJ FINANCIAL",
+                        "SILVER BIRCH CAPITAL ADVISORS",
+                        "SHAMROCK FINANCIAL PLANNING",
+                        "SCHNEIDER CONSULTANTS",
+                        "SCHMIDT WEALTH MANAGEMENT",
+                        "SAN DIEGO FINANCIAL",
+                        "SAFE HARBOR RETIREMENT CONSULTANTS",
+                        "ROBERT B. AUSDAL & CO. INC.",
+                        "RIVERSTONE ASSET MANAGEMENT",
+                        "RETIREWELL",
+                        "Q C SECURE SOLUTIONS",
+                        "PRAXIS CAPITAL AND INVESTMENT MANAGEMENT",
+                        "NEWMAN & ASSOCIATES",
+                        "NESTON WEALTH MANAGEMENT",
+                        "MINT HILL WEALTH",
+                        "M. BROWN FINANCIAL ADVISORS",
+                        "LICHTFUSS FINANCIAL SERVICES",
+                        "LEONARD DIGATE INCOME PLANNING",
+                        "KVASNICKA & KNEIP",
+                        "KRM FINANCIAL SERVICES",
+                        "KARSTENSON FINANCIAL SERVICES",
+                        "JULIAN FINANCIAL GROUP",
+                        "JOAN K. JOHNSON FINANCIAL",
+                        "JML THE LANCASTER CO",
+                        "INTEGRITY FINANCIAL STRATEGIES",
+                        "HINSDALE CAPITAL INVESTMENTS",
+                        "HERITAGE PARTNERS",
+                        "HANSON FINANCIAL",
+                        "GREENWAY ADVISORS",
+                        "GRANITE INVESTMENT SERVICE",
+                        "GOLDEN TRIANGLE FINANCIAL",
+                        "GOLDEN IVY ASSOCIATES",
+                        "FROLICSTEIN FINANCIAL WEALTH MANAGEMENT",
+                        "FREEDOM FINANCIAL GROUP",
+                        "FOX VALLEY FINANCIAL",
+                        "FIRST GEN PLANNING",
+                        "FETTIG & ASSOCIATES",
+                        "ENGEL WEALTH MANAGEMENT",
+                        "DURMENT FINANCIAL PLANNING",
+                        "DENIM AND DIAMONDS FINANCIAL SOLUTIONS",
+                        "DEAN JOHNSON ADVISORY",
+                        "DAVIS WEALTH ADVISORS",
+                        "CROSS WALK WEALTH MANAGEMENT",
+                        "CORNERSTONE ASSET MANAGEMENT GROUP, LLC",
+                        "CLARITY GROUP MIDWEST",
+                        "CHOICES FINANCIAL SERVICES",
+                        "CHICAGO FINANCIAL ADVISORS",
+                        "C&C ASSET MANAGEMENT",
+                        "BURGOYNE WEALTH MANAGEMENT",
+                        "BIG TIMBER WEALTH MANAGEMENT",
+                        "BERMAN CAPITAL MANAGEMENT",
+                        "BCH WEALTH MANAGEMENT",
+                        "B & N FINANCIAL",
+                        "AUSDAL FINANCIAL PARTNERS, INC.",
+                        "ARMOUR CAPITAL, LLC",
+                        "APERATURE WEALTH PARTNERS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 131,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5187 UTICA RIDGE RD\", \"city\": \"DAVENPORT\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52807\"}, \"mailingAddress\": {\"street1\": \"5187 UTICA RIDGE RD\", \"city\": \"DAVENPORT\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52807\"}, \"businessPhoneNumber\": \"563-326-2064\", \"iaFirmName\": \"AUSDAL FINANCIAL PARTNERS, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5187 UTICA RIDGE RD\", \"city\": \"DAVENPORT\", \"state\": \"IA\", \"country\": \"United States\", \"postalCode\": \"52807\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "242 Main Street",
+                                        "city": "Grahamsville",
+                                        "state": "NY",
+                                        "zipCode": "12740"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

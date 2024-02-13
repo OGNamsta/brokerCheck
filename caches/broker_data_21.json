@@ -1,0 +1,472 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "162699",
+                    "firm_bd_sec_number": "69059",
+                    "firm_bd_full_sec_number": "8-69059",
+                    "firm_name": "WOMBAT CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "WOMBAT CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"366 MADISON AVENUE\", \"street2\": \"3RD FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"366 MADISON AVENUE\", \"street2\": \"3RD FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212.605.9956\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "366 MADISON AVENUE",
+                                        "street2": "3RD FL",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "13452",
+                    "firm_bd_sec_number": "17356",
+                    "firm_bd_full_sec_number": "8-17356",
+                    "firm_ia_sec_number": "15504",
+                    "firm_ia_full_sec_number": "801-15504",
+                    "firm_name": "ACCRUED EQUITIES INC.",
+                    "ia_firm_name": "ACCRUED EQUITIES INC.",
+                    "firm_other_names": [
+                        "ACCRUED EQUITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 BROADHOLLOW RD\", \"street2\": \"SUITE PH 02\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"mailingAddress\": {\"street1\": \"150 BROADHOLLOW RD\", \"street2\": \"SUITE PH 02\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11747\"}, \"businessPhoneNumber\": \"631-423-7373\", \"iaFirmName\": \"ACCRUED EQUITIES INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"150 BROADHOLLOW RD.,\", \"street2\": \"SUITE PH-02\", \"city\": \"MELVILLE\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"11747\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 BROADHOLLOW RD.,",
+                                        "street2": "SUITE PH-02",
+                                        "city": "MELVILLE",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "281820",
+                    "firm_bd_sec_number": "69689",
+                    "firm_bd_full_sec_number": "8-69689",
+                    "firm_name": "EQUITYZEN SECURITIES LLC",
+                    "firm_other_names": [
+                        "EQUITYZEN SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 BROAD STREET,\", \"street2\": \"SUITE 1200\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"30 BROAD STREET,\", \"street2\": \"SUITE 1200\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"877-490-6121\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 BROAD STREET,",
+                                        "street2": "SUITE 1200",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18315",
+                    "firm_bd_sec_number": "30461",
+                    "firm_bd_full_sec_number": "8-30461",
+                    "firm_name": "FBN SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FBN SECURITIES, INC.",
+                        "FLOOR BROKER NETWORK, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"112 WEST 34TH STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10120\"}, \"mailingAddress\": {\"street1\": \"112 WEST 34TH STREET\", \"street2\": \"18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10120\"}, \"businessPhoneNumber\": \"212 571-2722\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "112 WEST 34TH STREET",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10120"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "289605",
+                    "firm_bd_sec_number": "70001",
+                    "firm_bd_full_sec_number": "8-70001",
+                    "firm_name": "GALAXY DIGITAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "GALAXY DIGITAL ADVISORS LLC",
+                        "J. FRED MUGGS SECURITIES LLC",
+                        "GALAXY DIGITAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 VESEY STREET, 13TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10282\"}, \"mailingAddress\": {\"street1\": \"300 VESEY STREET, 13TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10282\"}, \"businessPhoneNumber\": \"212-499-0081\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 Vesey Street, 13th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10282"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "24795",
+                    "firm_bd_sec_number": "41386",
+                    "firm_bd_full_sec_number": "8-41386",
+                    "firm_ia_sec_number": "121064",
+                    "firm_ia_full_sec_number": "801-121064",
+                    "firm_name": "JOSEPH GUNNAR & CO. LLC",
+                    "ia_firm_name": "JOSEPH GUNNAR & CO., LLC",
+                    "firm_other_names": [
+                        "AMERICAN PRIDE WEALTH MANAGEMENT GROUP",
+                        "LELLOS WEALTH MANAGEMENT",
+                        "JOSEPH GUNNAR & CO., LLC",
+                        "JOSEPH GUNNAR & CO. LLC",
+                        "EAST END SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1000 RXR PLAZA\", \"city\": \"UNIONDALE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11556\"}, \"mailingAddress\": {\"street1\": \"1000 RXR PLAZA\", \"city\": \"UNIONDALE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11556\"}, \"businessPhoneNumber\": \"212 440-9600\", \"iaFirmName\": \"JOSEPH GUNNAR & CO., LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1000 RXR PLAZA\", \"street2\": \"10TH FLOOR\", \"city\": \"UNIONDALE\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"11556\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1000 RXR PLAZA",
+                                        "street2": "10TH FLOOR",
+                                        "city": "UNIONDALE",
+                                        "state": "NY",
+                                        "zipCode": "11556"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10091",
+                    "firm_bd_sec_number": "26408",
+                    "firm_bd_full_sec_number": "8-26408",
+                    "firm_ia_sec_number": "110085",
+                    "firm_ia_full_sec_number": "801-110085",
+                    "firm_name": "LESKO SECURITIES INC.",
+                    "ia_firm_name": "LESKO SECURITIES, INC.",
+                    "firm_other_names": [
+                        "LESKO FINANCIAL",
+                        "NEW DECADE CAPITAL CORP.",
+                        "LESKO SECURITIES, INC.",
+                        "LESKO SECURITIES INC.",
+                        "LESKO SECURITIES INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 PLAZA DR\", \"street2\": \"SUITE A\", \"city\": \"VESTAL\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13850\"}, \"mailingAddress\": {\"street1\": \"400 PLAZA DR\", \"street2\": \"SUITE A\", \"city\": \"VESTAL\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13850\"}, \"businessPhoneNumber\": \"607-724-2421\", \"iaFirmName\": \"LESKO SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"400 PLAZA DRIVE\", \"street2\": \"STE A\", \"city\": \"VESTAL\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"13850\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "400 Plaza Dr",
+                                        "street2": "Suite A",
+                                        "city": "Vestal",
+                                        "state": "NY",
+                                        "zipCode": "13850"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30605",
+                    "firm_bd_sec_number": "44768",
+                    "firm_bd_full_sec_number": "8-44768",
+                    "firm_name": "ABG SUNDAL COLLIER INC.",
+                    "firm_other_names": [
+                        "ABG SECURITIES, INC.",
+                        "FINANSHUSET (USA) SECURITIES, INC.",
+                        "FIBA NORDIC SECURITIES, INC.",
+                        "ABG SUNDAL COLLIER INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"140 BROADWAY\", \"street2\": \"SUITE 4604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"140 BROADWAY\", \"street2\": \"SUITE 4604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-605-3800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "140 BROADWAY",
+                                        "street2": "SUITE 4604",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157525",
+                    "firm_bd_sec_number": "68855",
+                    "firm_bd_full_sec_number": "8-68855",
+                    "firm_name": "TORINO CAPITAL LLC",
+                    "firm_other_names": [
+                        "TORINO CAPITAL LLC",
+                        "TORINO CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"733 3RD AVENUE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"733 3RD AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-661-2400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "733 3RD AVENUE",
+                                        "street2": "16TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151256",
+                    "firm_bd_sec_number": "68354",
+                    "firm_bd_full_sec_number": "8-68354",
+                    "firm_name": "TENEO SECURITIES LLC",
+                    "firm_other_names": [
+                        "MARBLE NORTH SECURITIES LLC",
+                        "VERAPOINT SECURITIES LLC",
+                        "TENEO SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"280 PARK AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(212) 886-1600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 PARK AVENUE",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "144634",
+                    "firm_bd_sec_number": "67668",
+                    "firm_bd_full_sec_number": "8-67668",
+                    "firm_name": "GLOBAL FRONTERA MARKETS INC.",
+                    "firm_other_names": [
+                        "EXOTIX USA INC.",
+                        "TELLIMER MARKETS INC.",
+                        "GLOBAL FRONTERA MARKETS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 LEXINGTON AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 LEXINGTON AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-551-3480\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 LEXINGTON AVENUE",
+                                        "street2": "12TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43432",
+                    "firm_bd_sec_number": "50272",
+                    "firm_bd_full_sec_number": "8-50272",
+                    "firm_name": "SAMSUNG SECURITIES (AMERICA), INC.",
+                    "firm_other_names": [
+                        "SAMSUNG SECURITIES (AMERICA), INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1330 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 1020\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1330 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 1020\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-707-6800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1330 AVENUE OF THE AMERICAS",
+                                        "street2": "SUITE 1020",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

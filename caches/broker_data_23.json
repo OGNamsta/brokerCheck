@@ -1,0 +1,448 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "24083",
+                    "firm_bd_sec_number": "40919",
+                    "firm_bd_full_sec_number": "8-40919",
+                    "firm_name": "BENEDETTO, GARTLAND & COMPANY, INC.",
+                    "firm_other_names": [
+                        "BENEDETTO, GARTLAND & COMPANY, INC.",
+                        "BENGAR, INC.",
+                        "BENEDETTO, GARTLAND & GREENE, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"444 MADISON AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"444 MADISON AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 424-9700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444 MADISON AVENUE",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147952",
+                    "firm_bd_sec_number": "67940",
+                    "firm_bd_full_sec_number": "8-67940",
+                    "firm_name": "ARCOLA SECURITIES, INC.",
+                    "firm_other_names": [
+                        "ARCOLA SECURITIES, INC.",
+                        "RCAP SECURITIES, INC.",
+                        "RANGER CAPITAL CORP.",
+                        "RANGER CAPITAL CORP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1211 AVENUE OF THE AMERICAS, 41ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1211 AVENUE OF THE AMERICAS, 41ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"646 829-0141\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1211 AVENUE OF THE AMERICAS, 41ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147941",
+                    "firm_bd_sec_number": "67941",
+                    "firm_bd_full_sec_number": "8-67941",
+                    "firm_name": "AUTOMATED EQUITY FINANCE MARKETS, INC.",
+                    "firm_other_names": [
+                        "AUTOMATED EQUITY FINANCE MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"225 LIBERTY STREET\", \"street2\": \"10TH FLOOR, SUITE 1020\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"225 LIBERTY STREET\", \"street2\": \"10TH FLOOR, SUITE 1020\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-901-2272\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 Liberty Street",
+                                        "street2": "10th Floor, Suite 1020",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "32119",
+                    "firm_bd_sec_number": "46418",
+                    "firm_bd_full_sec_number": "8-46418",
+                    "firm_name": "ABACUS INTERNATIONAL CAPITAL CORP.",
+                    "firm_other_names": [
+                        "ABACUS CAPITAL CORP.",
+                        "ABACUS SECURITIES CORP.",
+                        "ABACUS INTERNATIONAL CAPITAL CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6 BOWERY, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10013\"}, \"mailingAddress\": {\"street1\": \"6 BOWERY, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10013\"}, \"businessPhoneNumber\": \"212-266-9063\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6 BOWERY, 4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10013"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172583",
+                    "firm_bd_sec_number": "69512",
+                    "firm_bd_full_sec_number": "8-69512",
+                    "firm_name": "NFSTX, LLC",
+                    "firm_other_names": [
+                        "NFSTX, LLC",
+                        "SMTX, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4 TIMES SQUARE\", \"street2\": \"27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"151 WEST 42 STREET\", \"street2\": \"27TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-381-6440\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4 Times Square, 151 West 42nd Street",
+                                        "street2": "10th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "132882",
+                    "firm_bd_sec_number": "66656",
+                    "firm_bd_full_sec_number": "8-66656",
+                    "firm_name": "FIDUS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "FIDUS PARTNERS, LLC",
+                        "FIDUS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4201 CONGRESS STREET\", \"street2\": \"SUITE 250\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28209\"}, \"mailingAddress\": {\"street1\": \"4201 CONGRESS STREET\", \"street2\": \"SUITE 250\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"USA\", \"postalCode\": \"28209\"}, \"businessPhoneNumber\": \"704-334-2222\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1140 Avenue of the Americas",
+                                        "street2": "21st Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44807",
+                    "firm_bd_sec_number": "50831",
+                    "firm_bd_full_sec_number": "8-50831",
+                    "firm_name": "MORGAN WILSHIRE SECURITIES, INC.",
+                    "firm_other_names": [
+                        "MORGAN WILSHIRE SECURITIES INC.",
+                        "MORGAN WILSHIRE SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"59 HILTON AVE\", \"street2\": \"SUITE 101\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11530\"}, \"mailingAddress\": {\"street1\": \"59 HILTON AVE\", \"street2\": \"SUITE 101\", \"city\": \"GARDEN CITY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11530\"}, \"businessPhoneNumber\": \"516-622-3100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "59 hilton ave",
+                                        "city": "garden city",
+                                        "state": "NY",
+                                        "zipCode": "11530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104353",
+                    "firm_bd_sec_number": "52814",
+                    "firm_bd_full_sec_number": "8-52814",
+                    "firm_name": "THE VERTICAL GROUP",
+                    "firm_other_names": [
+                        "ATWOOD, MARKS & COMPANY, INC",
+                        "THE VERTICAL TRADING GROUP, LLC",
+                        "THE VERTICAL GROUP, INC.",
+                        "THE VERTICAL GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"56 LOCUST AVENUE, 2ND FLOOR\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10580\"}, \"mailingAddress\": {\"street1\": \"56 LOCUST AVENUE, 2ND FLOOR\", \"city\": \"RYE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10580\"}, \"businessPhoneNumber\": \"212-918-1202\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "244 E. 77TH ST., APT. 18",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10075"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127921",
+                    "firm_bd_sec_number": "66069",
+                    "firm_bd_full_sec_number": "8-66069",
+                    "firm_name": "VCS VENTURE SECURITIES",
+                    "firm_other_names": [
+                        "D R F BUSINESS AND FINANCIAL SERVICES, LLC",
+                        "VCS VENTURE SECURITIES",
+                        "PRIMARY CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"29 BROADWAY\", \"street2\": \"SUITE 1502\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10006-3201\"}, \"mailingAddress\": {\"street1\": \"29 BROADWAY\", \"street2\": \"SUITE 1502\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10006-3221\"}, \"businessPhoneNumber\": \"212-404-7696\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "29 BROADWAY",
+                                        "street2": "SUITE 1502",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "164503",
+                    "firm_bd_sec_number": "69106",
+                    "firm_bd_full_sec_number": "8-69106",
+                    "firm_name": "HEDGEMARK SECURITIES LLC",
+                    "firm_other_names": [
+                        "HEDGEMARK SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 PARK AVENUE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"300 PARK AVENUE\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-888-1300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 PARK AVENUE",
+                                        "street2": "22ND FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152080",
+                    "firm_bd_sec_number": "68423",
+                    "firm_bd_full_sec_number": "8-68423",
+                    "firm_name": "PERTH ADVISORS LLC",
+                    "firm_other_names": [
+                        "PERTH ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"16 MADISON SQUARE PARK WEST, 12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"16 MADISON SQUARE PARK WEST, 12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"917.865.6223\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "16 Madison Square Park West, 12th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1660",
+                    "firm_bd_sec_number": "10048",
+                    "firm_bd_full_sec_number": "8-10048",
+                    "firm_name": "DOFT & CO., INC.",
+                    "firm_other_names": [
+                        "DOFT & CO., INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 EAST 59TH STREET\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"55 EAST 59TH STREET\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-421-5550\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 EAST 59TH STREET 12 FLR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

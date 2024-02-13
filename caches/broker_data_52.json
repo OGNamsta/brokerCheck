@@ -1,0 +1,462 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148493",
+                    "firm_bd_sec_number": "68033",
+                    "firm_bd_full_sec_number": "8-68033",
+                    "firm_name": "ODEON CAPITAL GROUP LLC",
+                    "firm_other_names": [
+                        "ASTERISK CAPITAL LLC",
+                        "TALON SECURITIES LLC",
+                        "PBC ADVSIORS LLC",
+                        "ODEON CAPITAL GROUP LLC",
+                        "EAS ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"750 LEXINGTON AVENUE, 27TH FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"750 LEXINGTON AVENUE, 27TH FL.\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-257-6970\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "750 LEXINGTON AVENUE, 27TH FL.",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "309574",
+                    "firm_bd_sec_number": "70542",
+                    "firm_bd_full_sec_number": "8-70542",
+                    "firm_name": "MONDEUM CAPITAL",
+                    "firm_other_names": [
+                        "MONDEUM",
+                        "MONDEUM CAPITAL, LLC",
+                        "MONDEUM CAPITAL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"27 MAIN STREET\", \"street2\": \"SUITE B\", \"city\": \"SOUTHAMPTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11968\"}, \"mailingAddress\": {\"street1\": \"27 MAIN STREET\", \"street2\": \"SUITE B\", \"city\": \"SOUTHAMPTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11968\"}, \"businessPhoneNumber\": \"1-833-781-6338\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "27 MAIN STREET",
+                                        "street2": "SUITE B",
+                                        "city": "SOUTHAMPTON",
+                                        "state": "NY",
+                                        "zipCode": "11968"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "138421",
+                    "firm_bd_sec_number": "67162",
+                    "firm_bd_full_sec_number": "8-67162",
+                    "firm_name": "INVESTEC SECURITIES (US) LLC",
+                    "firm_other_names": [
+                        "INVESTEC SECURITIES (US) LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 EAST 53RD STREET\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"10 EAST 53RD STREET\", \"street2\": \"22ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 259-5610\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 East 53rd Street",
+                                        "street2": "22nd FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285841",
+                    "firm_bd_sec_number": "69863",
+                    "firm_bd_full_sec_number": "8-69863",
+                    "firm_name": "CF SECURED, LLC",
+                    "firm_other_names": [
+                        "CANTOR FITZGERALD SECURED, LLC",
+                        "CF SECURED, LLC",
+                        "CANTOR PRIME SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"110 EAST 59TH STREET\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"110 EAST 59TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-915-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "110 EAST 59TH STREET",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36673",
+                    "firm_bd_sec_number": "47393",
+                    "firm_bd_full_sec_number": "8-47393",
+                    "firm_name": "DAI SECURITIES, LLC",
+                    "firm_other_names": [
+                        "DAI SECURITIES, LLC",
+                        "LEWIS FINANCIAL GROUP, L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 25,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2800 CENTURY PARKWAY NE\", \"street2\": \"SUITE 650\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30345\"}, \"mailingAddress\": {\"street1\": \"2800 CENTURY PARKWAY NE\", \"street2\": \"SUITE 650\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30345\"}, \"businessPhoneNumber\": \"404-531-7080\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "286 Main Street",
+                                        "city": "E Setauket",
+                                        "state": "NY",
+                                        "zipCode": "11733"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2509",
+                    "firm_bd_sec_number": "11988",
+                    "firm_bd_full_sec_number": "8-11988",
+                    "firm_name": "MM GLOBAL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FEIL DAILY INVESTMENT CO.",
+                        "WHITEWOOD GROUP, INC",
+                        "MM IGLOBAL INC.",
+                        "MM GLOBAL SECURITIES, INC.",
+                        "LANGILL & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 LEXINGTON AVENUE\", \"street2\": \"UNIT 12-111\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 LEXINGTON AVENUE\", \"street2\": \"FL 14\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"6468680966\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 LEXINGTON AVENUE",
+                                        "street2": "UNIT 12-111",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149486",
+                    "firm_bd_sec_number": "68148",
+                    "firm_bd_full_sec_number": "8-68148",
+                    "firm_name": "BTG PACTUAL US CAPITAL, LLC",
+                    "firm_other_names": [
+                        "BTG CAPITAL CORP.",
+                        "BTG SECURITIES CORPORATION",
+                        "BTG PACTUAL WEALTH MANAGEMENT",
+                        "BTG PACTUAL US CAPITAL, LLC",
+                        "BTG PACTUAL US CAPITAL LLC",
+                        "BTG PACTUAL US CAPITAL CORP.",
+                        "BTG PACTUAL US"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"601 LEXINGTON AVENUE\", \"street2\": \"57TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022-6831\"}, \"mailingAddress\": {\"street1\": \"601 LEXINGTON AVENUE\", \"street2\": \"57TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022-6831\"}, \"businessPhoneNumber\": \"212-293-4600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "601 LEXINGTON AVENUE",
+                                        "street2": "57TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148780",
+                    "firm_bd_sec_number": "68071",
+                    "firm_bd_full_sec_number": "8-68071",
+                    "firm_name": "CAPITAL DYNAMICS BROKER DEALER LLC",
+                    "firm_other_names": [
+                        "CAPITAL DYNAMICS BD",
+                        "CAPITAL DYNAMICS BROKER DEALER LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"444 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"444 MADISON AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 798-3400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444 MADISON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136321",
+                    "firm_bd_sec_number": "66998",
+                    "firm_bd_full_sec_number": "8-66998",
+                    "firm_name": "COMMONWEALTH AUSTRALIA SECURITIES LLC",
+                    "firm_other_names": [
+                        "COMMONWEALTH AUSTRALIA SECURITIES LLC",
+                        "COMMSEC LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"599 LEXINGTON AVENUE\", \"street2\": \"30TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"599 LEXINGTON AVENUE\", \"street2\": \"30TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 848-9200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "599 LEXINGTON AVE",
+                                        "street2": "30TH FL",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "281065",
+                    "firm_bd_sec_number": "69657",
+                    "firm_bd_full_sec_number": "8-69657",
+                    "firm_name": "OUTSET GLOBAL TRADING LIMITED",
+                    "firm_other_names": [
+                        "OUTSET GLOBAL TRADING LIMITED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1185 AVENUE OF THE AMERICAS\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1185 AVENUE OF THE AMERICAS\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-390-0904\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1120 AVENUE OF THE AMERICAS",
+                                        "street2": "SUITE 1503",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151120",
+                    "firm_bd_sec_number": "68336",
+                    "firm_bd_full_sec_number": "8-68336",
+                    "firm_name": "HI2 SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FBV CAPITAL ADVISORS, INC.",
+                        "VALCOUR SECURITIES LLC",
+                        "MARINUS SECURITIES, LLC",
+                        "HI2 SECURITIES, INC.",
+                        "HAITOU SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"747 THIRD AVE.\", \"street2\": \"26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"747 THIRD AVE.\", \"street2\": \"26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-969-6858\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "747 THIRD AVE.",
+                                        "street2": "26TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "300440",
+                    "firm_bd_sec_number": "70281",
+                    "firm_bd_full_sec_number": "8-70281",
+                    "firm_name": "PORTUM CAPITAL LLC",
+                    "firm_other_names": [
+                        "HARBOR SQUARE INVESTMENT SOLUTIONS, LLC",
+                        "PORTUM CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL ST\", \"street2\": \"SUITE 1700\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"40 WALL ST\", \"street2\": \"SUITE 1700\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"415-890-6297\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 Wall St",
+                                        "street2": "Suite 1700",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

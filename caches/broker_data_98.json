@@ -1,0 +1,540 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "312379",
+                    "firm_bd_sec_number": "70650",
+                    "firm_bd_full_sec_number": "8-70650",
+                    "firm_name": "TITAN GLOBAL TECHNOLOGIES LLC",
+                    "firm_other_names": [
+                        "TITAN GLOBAL TECHNOLOGIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"508 LAGUARDIA PL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10012\"}, \"mailingAddress\": {\"street1\": \"508 LAGUARDIA PL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10012\"}, \"businessPhoneNumber\": \"973-490-4042\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "508 LaGuardia Place",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10012"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17358",
+                    "firm_bd_sec_number": "35185",
+                    "firm_bd_full_sec_number": "8-35185",
+                    "firm_name": "M&T SECURITIES, INC.",
+                    "ia_firm_name": "M&T SECURITIES, INC.",
+                    "firm_other_names": [
+                        "M&T DISCOUNT BROKERAGE SERVICES, INC.",
+                        "M&T SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 LIGHT STREET\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21202\"}, \"mailingAddress\": {\"street1\": \"1 LIGHT STREET\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21202\"}, \"businessPhoneNumber\": \"4102444307\", \"iaFirmName\": \"M&T SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"285 DELAWARE AVENUE\", \"street2\": \"SUITE 2000\", \"city\": \"BUFFALO\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"14202\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "TEMPORARY BACKOFFICE/TRADING",
+                                        "street2": "285 DELAWARE AVE",
+                                        "city": "BUFFALO",
+                                        "state": "NY",
+                                        "zipCode": "14202"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152974",
+                    "firm_bd_sec_number": "68494",
+                    "firm_bd_full_sec_number": "8-68494",
+                    "firm_ia_sec_number": "78158",
+                    "firm_ia_full_sec_number": "801-78158",
+                    "firm_name": "CREATIVEONE SECURITIES, LLC",
+                    "ia_firm_name": "CREATIVEONE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "AFFINITY ASSET MANAGEMENT",
+                        "WESTERN LAKES FINANCIAL",
+                        "WALLSTREET GROUP ADVISORS, LLC",
+                        "VOYAGE FINANCIAL PARTNERS",
+                        "VJH CONCIERGE FINANCIAL PLANNING",
+                        "UPSTATE WEALTH MANAGEMENT",
+                        "SECURE FINANCIAL SERVICES, INC",
+                        "SAWYER WEALTH MANAGEMENT",
+                        "SABATKA FINANCIAL ADVISORY SERVICE, INC.",
+                        "RZA WEALTH MANAGEMENT",
+                        "RSL FINANCIAL MANAGEMENT",
+                        "ROBINSON FINANCIAL",
+                        "RG INVESTMENTS",
+                        "RETIREMENT DEFENDERS",
+                        "RASBERRY FINANCIAL SERVICES",
+                        "PRAIRIELAND INSURANCE GROUP, LLC",
+                        "NUTTER WEALTH MANAGEMENT",
+                        "NORTH COUNTY FINANCIAL ASSOCIATES",
+                        "MWI",
+                        "MUNKER FINANCIAL",
+                        "MONK FINANCIAL ADVISORS",
+                        "MIKE KLOBERDANZ, CHFC, LUTCF & ASSOCIATES",
+                        "MIKE AXTON & ASSOCIATES",
+                        "MG NASH FINANCIAL SOLUTIONS, INC",
+                        "MANAGING WEALTH & INCOME",
+                        "LUND FINANCIAL",
+                        "LLP FINANCIAL SERVICES",
+                        "LIFETIME FINANCIAL PLANNING",
+                        "LEWIS RETIREMENT SOLUTIONS, LLC",
+                        "JUDY FINANCIAL GROUP, INC",
+                        "JOHNSON FINANCIAL",
+                        "JENKINS & ASSOCIATES",
+                        "IWM FINANCIAL, INC",
+                        "INTEGRITY INVESTMENTS, INC",
+                        "HAYDENROCK FINANCIAL, LLC",
+                        "HARVEST FINANCIAL GROUP",
+                        "GULF COAST RETIREMENT SOLUTIONS",
+                        "GREER FINANCIAL SOLUTIONS, LLC",
+                        "GRAND CANYON PLANNING",
+                        "FUNDS MANAGEMENT",
+                        "FOOTE FINANCIAL",
+                        "FINANCIAL SOLUTIONS GROUP, LLC",
+                        "FINANCIAL CHOREOGRAPHY LLC",
+                        "EVERSON TAX & FINANCIAL SERVICES",
+                        "ETA FINANCIAL SERVICES",
+                        "DS DRELICH WEALTH MANAGEMENT",
+                        "CREATIVEONE SECURITIES, LLC",
+                        "CREATIVE ONE SECURITIES, LLC",
+                        "CORNERSTONE FINANCIAL",
+                        "COOK FINANCIAL GROUP",
+                        "CONFIANCE FINANCIAL ADVISORY",
+                        "COMPASS FINANCIAL WEALTH MANAGEMENT",
+                        "COASTAL CAPITAL INVESTMENT SERVICES",
+                        "CLIENT ONE SECURITIES, LLC",
+                        "CLIENT ONE SECURITIES LLC",
+                        "CLC FINANCIAL SERVICES, LLC",
+                        "CARTIER FINANCIAL",
+                        "CARSTENS FINANCIAL GROUP",
+                        "BENCHMARK FINANCIAL",
+                        "BELLUE & ASSOCIATES",
+                        "BAACKE INSURANCE SERVICES, INC.",
+                        "ATLANTIC COAST ADVISORY GROUP",
+                        "ASSOCIATES GROUP",
+                        "AMERICA'S RETIREMENT ADVISORY GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 158,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"USA\", \"postalCode\": \"66211\"}, \"mailingAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"USA\", \"postalCode\": \"66211\"}, \"businessPhoneNumber\": \"913 814-6097\", \"iaFirmName\": \"CREATIVEONE SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"United States\", \"postalCode\": \"66211\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2078 Richmond Ave",
+                                        "city": "Staten Island",
+                                        "state": "NY",
+                                        "zipCode": "10314"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129772",
+                    "firm_bd_sec_number": "66251",
+                    "firm_bd_full_sec_number": "8-66251",
+                    "firm_name": "TUDOR, PICKERING, HOLT & CO. SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PICKERING ENERGY PARTNERS, INC.",
+                        "TUDOR, PICKERING, HOLT & CO. SECURITIES, LLC",
+                        "TUDOR, PICKERING, HOLT & CO. SECURITIES, INC.",
+                        "TUDOR, PICKERING, HOLT & CO.",
+                        "TUDOR, PICKERING & CO. SECURITIES, INC.",
+                        "TPH&CO. - THE ENERGY BUSINESS OF PERELLA WEINBERG PARTNERS",
+                        "TPH&CO.",
+                        "TPH & CO. - THE ENERGY BUSINESS OF PERELLA WEINBERG PARTNERS",
+                        "TPH & CO.",
+                        "PWP SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1111 BAGBY\", \"street2\": \"SUITE 4900\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"postalCode\": \"77002\"}, \"mailingAddress\": {\"street1\": \"1111 BAGBY\", \"street2\": \"SUITE 4900\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"postalCode\": \"77002\"}, \"businessPhoneNumber\": \"713-333-7100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "767 FIFTH AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10153"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17454",
+                    "firm_bd_sec_number": "35255",
+                    "firm_bd_full_sec_number": "8-35255",
+                    "firm_name": "BNY MELLON CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "BNY MELLON CAPITAL MARKETS, LLC",
+                        "MELLON INVESTMENT PRODUCTS COMPANY",
+                        "MELLON FINANCIAL SERVICES CORPORATION",
+                        "MELLON FINANCIAL MARKETS, LLC",
+                        "MELLON FINANCIAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"240 GREENWICH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10286\"}, \"mailingAddress\": {\"street1\": \"240 GREENWICH STREET\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10286\"}, \"businessPhoneNumber\": \"212-815-4972\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "240 GREENWICH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10286"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42803",
+                    "firm_bd_sec_number": "50018",
+                    "firm_bd_full_sec_number": "8-50018",
+                    "firm_ia_sec_number": "54952",
+                    "firm_ia_full_sec_number": "801-54952",
+                    "firm_name": "VALIC FINANCIAL ADVISORS, INC.",
+                    "ia_firm_name": "VALIC FINANCIAL ADVISORS, INC.",
+                    "firm_other_names": [
+                        "AIG RETIREMENT ADVISORS, INC.",
+                        "VALIC INVESTMENT SERVICES COMPANY",
+                        "VALIC FINANCIAL ADVISORS, INC.",
+                        "AMERICAN GENERAL FINANCIAL ADVISORS, INC.",
+                        "AIG RETIREMENT SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 264,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2919 ALLEN PARKWAY\", \"street2\": \"L3-20\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77019-2158\"}, \"mailingAddress\": {\"street1\": \"2919 ALLEN PARKWAY\", \"street2\": \"L3-20\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77019-2158\"}, \"businessPhoneNumber\": \"866-544-4968\", \"iaFirmName\": \"VALIC FINANCIAL ADVISORS, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2929 ALLEN PKWY; L7-20\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"United States\", \"postalCode\": \"77019\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "Nassau University Medical Center",
+                                        "street2": "2201 Hempstead Turnpike - 5th Floor",
+                                        "city": "East Meadow",
+                                        "state": "NY",
+                                        "zipCode": "11554"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151796",
+                    "firm_bd_sec_number": "68398",
+                    "firm_bd_full_sec_number": "8-68398",
+                    "firm_name": "ABN AMRO SECURITIES (USA) LLC",
+                    "firm_other_names": [
+                        "ABN AMRO SECURITIES (USA) LLC",
+                        "MEESPIERSON SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"303 GEORGE STREET\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW BRUNSWICK\", \"state\": \"NJ\", \"postalCode\": \"08901\"}, \"mailingAddress\": {\"street1\": \"303 GEORGE STREET\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW BRUNSWICK\", \"state\": \"NJ\", \"postalCode\": \"08901\"}, \"businessPhoneNumber\": \"917-284-6700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 PARK AVENUE",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "25900",
+                    "firm_bd_sec_number": "42123",
+                    "firm_bd_full_sec_number": "8-42123",
+                    "firm_name": "EQUITABLE DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "AXA DISTRIBUTORS, LLC",
+                        "EQUITABLE DISTRIBUTORS, LLC",
+                        "EQUITABLE DISTRIBUTORS, INC.",
+                        "AXA PARTNERS, A BUSINESS UNIT OF AXA DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8501 IBM DRIVE, SUITE 150\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"country\": \"UNITED STATES\", \"postalCode\": \"28262\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"(212) 314 2137\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 Avenue of the Americas",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "110942",
+                    "firm_bd_sec_number": "53142",
+                    "firm_bd_full_sec_number": "8-53142",
+                    "firm_name": "SENTINEL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "SENTINEL SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 QUANNAPOWITT PKWY\", \"street2\": \"SUITE 300\", \"city\": \"WAKEFIELD\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"01880\"}, \"mailingAddress\": {\"street1\": \"100 QUANNAPOWITT PKWY\", \"street2\": \"SUITE 300\", \"city\": \"WAKEFIELD\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"01880\"}, \"businessPhoneNumber\": \"781 914-1254\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 Broadhollow Road",
+                                        "street2": "Suite 307",
+                                        "city": "Melville",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322118",
+                    "firm_bd_sec_number": "70950",
+                    "firm_bd_full_sec_number": "8-70950",
+                    "firm_name": "JB DRAX HONORE' INC.",
+                    "firm_other_names": [
+                        "JB DRAX HONORE' INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"49 WEST 23RD STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"49 WEST 23RD STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"212-991-5800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "49 WEST 23RD STREET",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36927",
+                    "firm_bd_sec_number": "47558",
+                    "firm_bd_full_sec_number": "8-47558",
+                    "firm_name": "KROLL SECURITIES LLC",
+                    "firm_other_names": [
+                        "DUFF & PHELPS SECURITIES CO.",
+                        "PAGEMILL PARTNERS",
+                        "KROLL SECURITIES LLC",
+                        "KROLL INVESTMENT BANKING",
+                        "KROLL CORPORATE FINANCE",
+                        "GROWTH CAPITAL PARTNERS",
+                        "DUFF & PHELPS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"167 N. GREEN ST.\", \"street2\": \"FLOOR 12\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60607\"}, \"mailingAddress\": {\"street1\": \"167 N. GREEN ST.\", \"street2\": \"FLOOR 12\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60607\"}, \"businessPhoneNumber\": \"312-697-4600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 EAST 52ND STREET",
+                                        "street2": "FLOOR 17",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10055"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7560",
+                    "firm_bd_sec_number": "17574",
+                    "firm_bd_full_sec_number": "8-17574",
+                    "firm_name": "PERSHING LLC",
+                    "firm_other_names": [
+                        "DONALDSON LUFKIN & JENRETTE SECURITIES CORPORATION",
+                        "PERSHING LLC",
+                        "PERSHING",
+                        "DONALDSON, LUFKIN & JENRETTE SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 14,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE PERSHING PLAZA\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07399\"}, \"mailingAddress\": {\"street1\": \"ONE PERSHING PLAZA\", \"street2\": \"10TH FLOOR\", \"city\": \"JERSEY CITY\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07399\"}, \"businessPhoneNumber\": \"201-413-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "240 GREENWICH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10286"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

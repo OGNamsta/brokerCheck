@@ -1,0 +1,443 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "284175",
+                    "firm_bd_sec_number": "69791",
+                    "firm_bd_full_sec_number": "8-69791",
+                    "firm_name": "GORDON DYAL & CO., LLC",
+                    "firm_other_names": [
+                        "DYAL CO. LLC",
+                        "DYAL CO., LLC",
+                        "GORDON DYAL & CO., LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"152 WEST 57TH STREET, 39TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"152 WEST 57TH STREET, 39TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-321-4010\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "152 West 57th Street, 39th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "226538",
+                    "firm_bd_sec_number": "69621",
+                    "firm_bd_full_sec_number": "8-69621",
+                    "firm_name": "MADISON PAIGE SECURITIES LLC",
+                    "firm_other_names": [
+                        "MADISON PAIGE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"599 LEXINGTON AVENUE\", \"street2\": \"47TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"599 LEXINGTON AVENUE\", \"street2\": \"47TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 872-1325\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "599 Lexington Avenue",
+                                        "street2": "47th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146522",
+                    "firm_bd_sec_number": "67828",
+                    "firm_bd_full_sec_number": "8-67828",
+                    "firm_name": "VIEW PARTNERS CAPITAL LLC",
+                    "firm_other_names": [
+                        "VIEW PARTNERS CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 MADISON AVE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 MADISON AVE\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212)605-0503\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 MADISON AVE",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "40451",
+                    "firm_bd_sec_number": "49059",
+                    "firm_bd_full_sec_number": "8-49059",
+                    "firm_name": "CAMBRIDGE INTERNATIONAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "CAMBRIDGE INTERNATIONAL PARTNERS INC.",
+                        "CAMBRIDGE INTERNATIONAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"780 THIRD AVENUE - 11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-2024\"}, \"mailingAddress\": {\"street1\": \"780 THIRD AVENUE - 11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017-2024\"}, \"businessPhoneNumber\": \"212-826-8290\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "780 THIRD AVENUE, 7TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169798",
+                    "firm_bd_sec_number": "69392",
+                    "firm_bd_full_sec_number": "8-69392",
+                    "firm_name": "ROCKDALE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ROCKDALE SECURITIES, LLC",
+                        "SPENCER PIERCE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1123 BROADWAY\", \"street2\": \"SUITE 1200\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"1123 BROADWAY\", \"street2\": \"SUITE 1200\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"212-771-9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1123 Broadway",
+                                        "street2": "Suite 1200",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150856",
+                    "firm_bd_sec_number": "68301",
+                    "firm_bd_full_sec_number": "8-68301",
+                    "firm_name": "SILVERGROVE ADVISORS LLC",
+                    "firm_other_names": [
+                        "SILVERGROVE ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"110 W. 40TH STREET\", \"street2\": \"SUITE 302\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"110 W. 40TH STREET\", \"street2\": \"SUITE 302\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"212 878.8858\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "110 W. 40TH STREET",
+                                        "street2": "SUITE 302",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131793",
+                    "firm_bd_sec_number": "66505",
+                    "firm_bd_full_sec_number": "8-66505",
+                    "firm_name": "RELIANCE CAPITAL MANAGEMENT ADVISORS LLC",
+                    "firm_other_names": [
+                        "RELIANCE CAPITAL MANAGEMENT ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"18 TERRACE AVE - MIRAMAR\", \"city\": \"HALF MOON BAY\", \"state\": \"CA\", \"postalCode\": \"94019\"}, \"mailingAddress\": {\"street1\": \"18 TERRACE AVE - MIRAMAR\", \"city\": \"HALF MOON BAY\", \"state\": \"CA\", \"postalCode\": \"94019\"}, \"businessPhoneNumber\": \"650-274-4653\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 Park Avenue",
+                                        "street2": "7th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10177"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159498",
+                    "firm_bd_sec_number": "68991",
+                    "firm_bd_full_sec_number": "8-68991",
+                    "firm_name": "OLDFIELD CAPITAL GROUP LLC",
+                    "firm_other_names": [
+                        "OLDFIELD CAPITAL GROUP LIMITED LIABILITY COMPANY",
+                        "OLDFIELD CAPITAL GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7 PENN PLAZA\", \"street2\": \"SUITE 810\", \"city\": \"NYC\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"7 PENN PLAZA\", \"street2\": \"SUITE 810\", \"city\": \"NYC\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"2124817284\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "7 PENN PLAZA",
+                                        "street2": "SUITE 810",
+                                        "city": "NYC",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133615",
+                    "firm_bd_sec_number": "66745",
+                    "firm_bd_full_sec_number": "8-66745",
+                    "firm_name": "APA SECURITIES, LLC",
+                    "firm_other_names": [
+                        "APA SECURITIES, LLC",
+                        "KEANE FINANCIAL, LLC",
+                        "SHAREHOLDER SOLUTIONS (ACS), LLC",
+                        "UPRR SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"920 SYLVAN AVENUE, SUITE 240\", \"city\": \"ENGLEWOOD CLIFFS\", \"state\": \"NJ\", \"postalCode\": \"07632\"}, \"mailingAddress\": {\"street1\": \"920 SYLVAN AVENUE, SUITE 240\", \"city\": \"ENGLEWOOD CLIFFS\", \"state\": \"NJ\", \"postalCode\": \"07632\"}, \"businessPhoneNumber\": \"212 971-3333\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "450 SEVENTH AVENUE, SUITE 905",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10123"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120002",
+                    "firm_bd_sec_number": "65242",
+                    "firm_bd_full_sec_number": "8-65242",
+                    "firm_name": "OBEX SECURITIES LLC",
+                    "firm_other_names": [
+                        "OBEX SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"290 OVERLOOK ROAD\", \"city\": \"NEW ROCHELLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10804\"}, \"mailingAddress\": {\"street1\": \"290 OVERLOOK ROAD\", \"city\": \"NEW ROCHELLE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10804\"}, \"businessPhoneNumber\": \"914-833-1800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "290 OVERLOOK ROAD",
+                                        "city": "NEW ROCHELLE",
+                                        "state": "NY",
+                                        "zipCode": "10804"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148745",
+                    "firm_bd_sec_number": "68061",
+                    "firm_bd_full_sec_number": "8-68061",
+                    "firm_name": "LMV CAPITAL CORP.",
+                    "firm_other_names": [
+                        "LMV CAPITAL CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"475 PARK AVENUE SOUTH\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016-6922\"}, \"mailingAddress\": {\"street1\": \"475 PARK AVENUE SOUTH\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016-6922\"}, \"businessPhoneNumber\": \"212-268-8500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "475 PARK AVENUE SOUTH",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "298346",
+                    "firm_bd_sec_number": "70189",
+                    "firm_bd_full_sec_number": "8-70189",
+                    "firm_name": "FM (USA), LLC",
+                    "firm_other_names": [
+                        "FM (USA), LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"80 8TH AVENUE\", \"street2\": \"SUITE 1603\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10011\"}, \"mailingAddress\": {\"street1\": \"80 8TH AVENUE\", \"street2\": \"SUITE 1603\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10011\"}, \"businessPhoneNumber\": \"413-384-9862\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "80 8th Avenue",
+                                        "street2": "Suite 1603",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10011"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

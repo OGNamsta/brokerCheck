@@ -1,0 +1,523 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5953",
+                    "firm_bd_sec_number": "16712",
+                    "firm_bd_full_sec_number": "8-16712",
+                    "firm_name": "VANDERBILT SECURITIES, LLC",
+                    "firm_other_names": [
+                        "RICHARDT-ALYN & CO.",
+                        "VANDERBILT SECURITIES, LLC",
+                        "VANDERBILT SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 97,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"125 FROEHLICH FARM BLVD.\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11797\"}, \"mailingAddress\": {\"street1\": \"125 FROEHLICH FARM BLVD.\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11797\"}, \"businessPhoneNumber\": \"631-845-5100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "168 Forest Avenue, Ste 101",
+                                        "city": "Locust Valley",
+                                        "state": "NY",
+                                        "zipCode": "11560"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149477",
+                    "firm_bd_sec_number": "68147",
+                    "firm_bd_full_sec_number": "8-68147",
+                    "firm_name": "KELSON CAPITAL LLC",
+                    "firm_other_names": [
+                        "GTO GROUP, LLC",
+                        "KELSON CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2 RAVENGLASS DRIVE\", \"street2\": \"2ND FLOOR\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06903\"}, \"mailingAddress\": {\"street1\": \"2 RAVENGLASS DRIVE\", \"street2\": \"2ND FLOOR\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06903\"}, \"businessPhoneNumber\": \"917-691-8007\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "39 BROADWAY",
+                                        "street2": "16TH FLOOR SUITE 1640",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26586",
+                    "firm_bd_sec_number": "42649",
+                    "firm_bd_full_sec_number": "8-42649",
+                    "firm_ia_sec_number": "128990",
+                    "firm_ia_full_sec_number": "801-128990",
+                    "firm_name": "QUINT CAPITAL CORPORATION",
+                    "ia_firm_name": "QUINT CAPITAL MANAGEMENT",
+                    "firm_other_names": [
+                        "CHAMPION CAPITAL CORPORATION",
+                        "SUNSHINE SECURITIES CORPORATION",
+                        "QUINT CAPITAL MANAGEMENT LLC",
+                        "QUINT CAPITAL MANAGEMENT",
+                        "QUINT CAPITAL CORPORATION",
+                        "QUINT CAPITAL",
+                        "QUINT CAP",
+                        "QCAP HOLDINGS LLC (NAME CHANGE OF PARENT FROM QUINT CAPITAL LLC)",
+                        "QCAP",
+                        "LEGACY TRUST ADVISORS",
+                        "ENTERPRISE SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"230 PARK AVE STE 908\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10169\"}, \"mailingAddress\": {\"street1\": \"230 PARK AVE STE 908\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10169\"}, \"businessPhoneNumber\": \"212-682-5090\", \"iaFirmName\": \"QUINT CAPITAL MANAGEMENT\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"230 PARK AVE STE 908\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10169\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 PARK AVE STE 908",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10169"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "317903",
+                    "firm_bd_sec_number": "70837",
+                    "firm_bd_full_sec_number": "8-70837",
+                    "firm_name": "AC SUNSHINE SECURITIES LLC",
+                    "firm_other_names": [
+                        "AC SUNSHINE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7380 W. SAND LAKE ROAD\", \"street2\": \"SUITE 500\", \"city\": \"ORLANDO\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32819\"}, \"mailingAddress\": {\"street1\": \"7380 W. SAND LAKE ROAD\", \"street2\": \"SUITE 500\", \"city\": \"ORLANDO\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"32819\"}, \"businessPhoneNumber\": \"689-689-9686\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 Rockefeller Plaza",
+                                        "street2": "STE 1838",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16204",
+                    "firm_bd_sec_number": "33478",
+                    "firm_bd_full_sec_number": "8-33478",
+                    "firm_ia_sec_number": "68438",
+                    "firm_ia_full_sec_number": "801-68438",
+                    "firm_name": "LIFEMARK SECURITIES CORP.",
+                    "ia_firm_name": "LIFEMARK SECURITIES CORP.",
+                    "firm_other_names": [
+                        "LIFEMARK SECURITIES",
+                        "PROCORP SECURITIES INCORPORATED",
+                        "LIFEMARK SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 185,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"400 WEST METRO PARK\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"mailingAddress\": {\"street1\": \"400 WEST METRO PARK\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14623\"}, \"businessPhoneNumber\": \"585-424-5672\", \"iaFirmName\": \"LIFEMARK SECURITIES CORP.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"400 WEST METRO PARK\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"14623\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "8365 Seneca Turnpike",
+                                        "city": "New Hartford",
+                                        "state": "NY",
+                                        "zipCode": "13413"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "297763",
+                    "firm_bd_sec_number": "70149",
+                    "firm_bd_full_sec_number": "8-70149",
+                    "firm_name": "DONALD CAPITAL LLC",
+                    "firm_other_names": [
+                        "DONALD CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVE\", \"street2\": \"14TH FLOOR, SUITE # 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVE\", \"street2\": \"14TH FLOOR, SUITE # 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"914-806-2066\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVE",
+                                        "street2": "14TH FLOOR, SUITE # 1402",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28832",
+                    "firm_bd_sec_number": "43810",
+                    "firm_bd_full_sec_number": "8-43810",
+                    "firm_name": "JANUS HENDERSON DISTRIBUTORS US LLC",
+                    "firm_other_names": [
+                        "JANUS DISTRIBUTORS LLC",
+                        "JANUS HENDERSON DISTRIBUTORS US LLC",
+                        "JANUS HENDERSON DISTRIBUTORS",
+                        "JANUS DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"151 DETROIT STREET\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80206-4923\"}, \"mailingAddress\": {\"street1\": \"151 DETROIT STREET\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80206-4923\"}, \"businessPhoneNumber\": \"303-333-3863\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1411 Broadway",
+                                        "street2": "Floor 17",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43285",
+                    "firm_bd_sec_number": "50214",
+                    "firm_bd_full_sec_number": "8-50214",
+                    "firm_ia_sec_number": "57304",
+                    "firm_ia_full_sec_number": "801-57304",
+                    "firm_name": "M HOLDINGS SECURITIES, INC.",
+                    "ia_firm_name": "M HOLDINGS SECURITIES, INC.",
+                    "firm_other_names": [
+                        "M HOLDINGS SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 217,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1125 N.W. COUCH STREET\", \"street2\": \"SUITE 900\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"UNITED STATES\", \"postalCode\": \"97209\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 2207\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"UNITED STATES\", \"postalCode\": \"97208-2207\"}, \"businessPhoneNumber\": \"888-520-6784\", \"iaFirmName\": \"M HOLDINGS SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1125 N.W. COUCH STREET\", \"street2\": \"SUITE 900\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"United States\", \"postalCode\": \"97209\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "112 WEST 34TH ST. 18TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "11020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "165533",
+                    "firm_bd_sec_number": "69166",
+                    "firm_bd_full_sec_number": "8-69166",
+                    "firm_name": "CLSA AMERICAS, LLC",
+                    "ia_firm_name": "CLSA AMERICAS, LLC",
+                    "firm_other_names": [
+                        "CLSA AMERICAS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS, 17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS, 17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"2125495097\", \"iaFirmName\": \"CLSA AMERICAS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10036\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1155 AVENUE OF THE AMERICAS",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "158266",
+                    "firm_bd_sec_number": "68887",
+                    "firm_bd_full_sec_number": "8-68887",
+                    "firm_name": "CITIC SECURITIES INTERNATIONAL USA, LLC",
+                    "firm_other_names": [
+                        "CITIC SECURITIES INTERNATIONAL USA, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-549-4791\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1155 AVENUE OF THE AMERICAS",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171357",
+                    "firm_bd_sec_number": "69459",
+                    "firm_bd_full_sec_number": "8-69459",
+                    "firm_name": "IDX MARKETS, LLC",
+                    "firm_other_names": [
+                        "IDX MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"270 LAFAYETTE STREET\", \"street2\": \"SUITE 1000\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10012\"}, \"mailingAddress\": {\"street1\": \"270 LAFAYETTE STREET\", \"street2\": \"SUITE 1000\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10012\"}, \"businessPhoneNumber\": \"917-819-0702\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "270 LAFAYETTE STREET",
+                                        "street2": "SUITE 1000",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10012"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126514",
+                    "firm_bd_sec_number": "65885",
+                    "firm_bd_full_sec_number": "8-65885",
+                    "firm_ia_sec_number": "62226",
+                    "firm_ia_full_sec_number": "801-62226",
+                    "firm_name": "THE STRATEGIC FINANCIAL ALLIANCE, INC.",
+                    "ia_firm_name": "THE STRATEGIC FINANCIAL ALLIANCE",
+                    "firm_other_names": [
+                        "ADAMS FINANCIAL SERVICES",
+                        "WELLSPRING ADVISORY SERVICES, LLC",
+                        "TOM BECK COMPANY",
+                        "THE STRATEGIC FINANCIAL ALLIARCE",
+                        "THE STRATEGIC FINANCIAL ALLIANCE, INC.",
+                        "THE STRATEGIC FINANCIAL ALLIANCE",
+                        "THE RAPPAHANNOCK WEALTH ADVISORS, INC.",
+                        "THE BAKER FINANCIAL GROUP, LLC",
+                        "STARR CAPITAL",
+                        "SNYDER FINANCIAL GROUP",
+                        "SHERPA FINANCIAL ADVISORS",
+                        "RELIANCE ADVISORY SERVICES, INC.",
+                        "RAUSCH FINANCIAL SERVICES",
+                        "PRIVATE CLIENT ADVISORY",
+                        "PREHMUS FINANCIAL PARTNERS",
+                        "O'NEIL FINANCIAL ADVISORS",
+                        "NORTH GEORGIA WEALTH ADVISORS",
+                        "NAKAMURA STRATEGIC FINANCIAL PLANNING",
+                        "MONEY CONCEPTS, INC.",
+                        "MAIN ADVISORY",
+                        "LFA PRIVATE WEALTH MANAGEMENT",
+                        "LEGACY FINANCIAL ASSOCIATES",
+                        "KOEHN FINANCIAL GROUP",
+                        "KNIGHT ASSET MANAGEMENT",
+                        "KJM WEALTH MANAGEMENT",
+                        "KEOWEE FINANCIAL GROUP, INC.",
+                        "KEEN ADVISOR GROUP",
+                        "KEEN & POCOCK",
+                        "KAP FINANCIAL SOLUTIONS",
+                        "HUTCHINSON FAMILY OFFICES",
+                        "GROWTHPOINT ADVISORS, LLC",
+                        "GOLDEN SWORD ALLIANCE",
+                        "GEORGIA WEALTH PARTNERS",
+                        "FRANK REYNOLDS AND COMPANY",
+                        "FINANCIAL PLANNING ADVISORY SERVICE, INC.",
+                        "ENCORE FINANCIAL CONSULTING",
+                        "DUNN FINANCIAL SERVICES",
+                        "DERAND CAPITAL MANAGEMENT GROUP / THE RETIREMENT COACH",
+                        "DAVIS WEALTH PLANNING",
+                        "CORRIGAN FINANCIAL",
+                        "CORNERSTONE WEALTH SERVICES",
+                        "CORNERSTONE WEALTH MANAGEMENT",
+                        "COMPASS WEALTH MANAGEMENT",
+                        "CAROLINA WEALTH ADVISORS",
+                        "CARNEGIE WEALTH MANAGEMENT",
+                        "CARLYLE WEALTH MANAGEMENT",
+                        "CAPITAL INSIGHT GROUP",
+                        "BOWERS PRIVATE WEALTH MANAGEMENT",
+                        "BENNCO ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 72,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2200 CENTURY PARKWAY\", \"street2\": \"SUITE 500\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"US\", \"postalCode\": \"30345\"}, \"mailingAddress\": {\"street1\": \"2200 CENTURY PARKWAY\", \"street2\": \"SUITE 500\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30345\"}, \"businessPhoneNumber\": \"678-954-4000\", \"iaFirmName\": \"THE STRATEGIC FINANCIAL ALLIANCE\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2200 CENTURY PARKWAY\", \"street2\": \"SUITE 500\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"United States\", \"postalCode\": \"30345\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "15 FIRST AVENUE",
+                                        "city": "GLOVERSVILLE",
+                                        "state": "NY",
+                                        "zipCode": "12078"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

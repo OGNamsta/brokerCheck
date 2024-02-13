@@ -1,0 +1,484 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "153777",
+                    "firm_bd_sec_number": "69789",
+                    "firm_bd_full_sec_number": "8-69789",
+                    "firm_name": "CITI PRIVATE ALTERNATIVES, LLC",
+                    "firm_other_names": [
+                        "CITI GLOBAL ADVISORY, LLC",
+                        "CITI PRIVATE ALTERNATIVES, LLC",
+                        "CITI PRIVATE ADVISORY,LLC",
+                        "CITI PRIVATE ADVISORY, LLC",
+                        "CITI GLOBAL ALTERNATIVES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 41,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"388 GREENWICH STREET\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10013\"}, \"mailingAddress\": {\"street1\": \"388 GREENWICH STREET\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10013\"}, \"businessPhoneNumber\": \"212-559-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "CITI PRIVATE BANK",
+                                        "street2": "153 East 53rd St., 24th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "329",
+                    "firm_bd_sec_number": "220",
+                    "firm_bd_full_sec_number": "8-220",
+                    "firm_ia_sec_number": "60335",
+                    "firm_ia_full_sec_number": "801-60335",
+                    "firm_name": "RUSSELL INVESTMENTS IMPLEMENTATION SERVICES, LLC",
+                    "ia_firm_name": "RUSSELL INVESTMENTS",
+                    "firm_other_names": [
+                        "FRANK RUSSELL CO., INC.",
+                        "RUSSELL INVESTMENTS IMPLEMENTATION SERVICES, LLC",
+                        "RUSSELL INVESTMENTS",
+                        "RUSSELL INVESTMENT GROUP",
+                        "RUSSELL IMPLEMENTATION SERVICES, INC. PART OF RUSSELL INVMT GRP",
+                        "RUSSELL IMPLEMENTATION SERVICES, INC.",
+                        "RUSSELL IMPLEMENTATION SERVICES INC. PART OF RUSSELL INVESTMENTS",
+                        "RUSSELL IMPLEMENTATION SERVICES INC.",
+                        "FRANK RUSSELL SECURITIES, INC. PART OF RUSSELL INVESTMENT GROUP",
+                        "FRANK RUSSELL SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1301 SECOND AVENUE, 18TH FLOOR\", \"city\": \"SEATTLE\", \"state\": \"WA\", \"country\": \"USA\", \"postalCode\": \"98101\"}, \"mailingAddress\": {\"street1\": \"1301 SECOND AVENUE, 18TH FLOOR\", \"city\": \"SEATTLE\", \"state\": \"WA\", \"country\": \"USA\", \"postalCode\": \"98101\"}, \"businessPhoneNumber\": \"206-505-7877\", \"iaFirmName\": \"RUSSELL INVESTMENTS\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1301 SECOND AVENUE\", \"street2\": \"18TH FLOOR\", \"city\": \"SEATTLE\", \"state\": \"WA\", \"country\": \"United States\", \"postalCode\": \"98101\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 Fifth Avenue",
+                                        "street2": "Suite 2001",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152144",
+                    "firm_bd_sec_number": "68430",
+                    "firm_bd_full_sec_number": "8-68430",
+                    "firm_name": "HRT FINANCIAL LP",
+                    "firm_other_names": [
+                        "HRT FINANCIAL LLC",
+                        "HRT FINANCIAL LP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 WORLD TRADE CENTER, 175 GREENWICH STREET\", \"street2\": \"76TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"3 WORLD TRADE CENTER, 175 GREENWICH STREET\", \"street2\": \"76TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"212 293-1444\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 WORLD TRADE CENTER, 175 GREENWICH STREET",
+                                        "street2": "76TH FLOOR",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "101420",
+                    "firm_bd_sec_number": "52081",
+                    "firm_bd_full_sec_number": "8-52081",
+                    "firm_name": "INSPEREX LLC",
+                    "firm_other_names": [
+                        "INCAPITAL",
+                        "INTEGRATED INVESTMENTS, L.L.C.",
+                        "INTEGRATED CAPITAL, LLC",
+                        "INSPEREX LLC",
+                        "INSPEREX",
+                        "INCAPITAL, LLC",
+                        "INCAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"25 SE 4TH AVENUE\", \"street2\": \"SUITE 400\", \"city\": \"DELRAY BEACH\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33483\"}, \"mailingAddress\": {\"street1\": \"200 SOUTH WACKER DRIVE\", \"street2\": \"SUITE 3400\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-379-3700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "600 5th Avenue",
+                                        "street2": "2nd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31052",
+                    "firm_bd_sec_number": "45321",
+                    "firm_bd_full_sec_number": "8-45321",
+                    "firm_name": "MFS FUND DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "MFS FUND DISTRIBUTORS, INC.",
+                        "MFS INVESTOR SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 14,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"111 HUNTINGTON AVENUE\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02199\"}, \"mailingAddress\": {\"street1\": \"111 HUNTINGTON AVENUE\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02199\"}, \"businessPhoneNumber\": \"617-954-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "19D CHERRY STREET",
+                                        "city": "SARATOGA SPRINGS",
+                                        "state": "NY",
+                                        "zipCode": "12866"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35865",
+                    "firm_bd_sec_number": "44325",
+                    "firm_bd_full_sec_number": "8-44325",
+                    "firm_name": "SUSQUEHANNA FINANCIAL GROUP, LLLP",
+                    "firm_other_names": [
+                        "FOREST LANE SECURITIES, INC.",
+                        "SUSQUEHANNA FINANCIAL GROUP, LLLP",
+                        "SUSQUEHANNA FINANCIAL GROUP, L.P.",
+                        "SUSQUEHANNA FINANCIAL GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"401 CITY AVE\", \"street2\": \"SUITE 220\", \"city\": \"BALA CYNWYD\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19004-1122\"}, \"mailingAddress\": {\"street1\": \"401 CITY AVE\", \"street2\": \"SUITE 220\", \"city\": \"BALA CYNWYD\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19004-1122\"}, \"businessPhoneNumber\": \"800-825-9550\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "140 BROADWAY",
+                                        "street2": "47TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "164445",
+                    "firm_bd_sec_number": "69100",
+                    "firm_bd_full_sec_number": "8-69100",
+                    "firm_name": "STOCKKINGS CAPITAL LLC",
+                    "firm_other_names": [
+                        "BRITANNICA CAPITAL PARTNERS, LLC",
+                        "STOCKKINGS CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"26 BROADWAY\", \"street2\": \"SUITE 842\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"26 BROADWAY\", \"street2\": \"SUITE 842\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-763-5820\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "26 BROADWAY",
+                                        "street2": "SUITE 842",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "128491",
+                    "firm_bd_sec_number": "66143",
+                    "firm_bd_full_sec_number": "8-66143",
+                    "firm_name": "HRT EXECUTION SERVICES LLC",
+                    "firm_other_names": [
+                        "HRT EXECUTION SERVICES LLC",
+                        "SUN TRADING LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 WORLD TRADE CENTER, 175 GREENWICH ST\", \"street2\": \"76TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"3 WORLD TRADE CENTER, 175 GREENWICH ST\", \"street2\": \"76TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"212-293-1444\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 WORLD TRADE CENTER, 175 GREENWICH ST",
+                                        "street2": "76TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47251",
+                    "firm_bd_sec_number": "51740",
+                    "firm_bd_full_sec_number": "8-51740",
+                    "firm_name": "KOTAK MAHINDRA, INC.",
+                    "firm_other_names": [
+                        "KOTAK MAHINDRA, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"PENN1, 1 PENNSYLVANIA PLAZA\", \"street2\": \"SUITE 1720\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"mailingAddress\": {\"street1\": \"PENN1, 1 PENNSYLVANIA PLAZA\", \"street2\": \"SUITE 1720\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"businessPhoneNumber\": \"212-600-8850\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "PENN1, 1 PENNSYLVANIA PLAZA",
+                                        "street2": "SUITE 1720",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10119"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143278",
+                    "firm_bd_sec_number": "67547",
+                    "firm_bd_full_sec_number": "8-67547",
+                    "firm_name": "CHURCHILL CAPITAL USA, INC.",
+                    "firm_other_names": [
+                        "CHURCHILL CAPITAL USA, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 EAST 53RD STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"10 EAST 53RD STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-994-4990\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 EAST 53RD STREET",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7927",
+                    "firm_bd_sec_number": "23689",
+                    "firm_bd_full_sec_number": "8-23689",
+                    "firm_ia_sec_number": "80781",
+                    "firm_ia_full_sec_number": "801-80781",
+                    "firm_name": "NORTHERN TRUST SECURITIES, INC.",
+                    "ia_firm_name": "NORTHERN TRUST SECURITIES, INC",
+                    "firm_other_names": [
+                        "JEROME HICKEY ASSOCIATES, INC.",
+                        "NORTHERN TRUST SECURITIES, INC.",
+                        "NORTHERN TRUST SECURITIES, INC",
+                        "NORTHERN TRUST BROKERAGE, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 61,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"50 SOUTH LASALLE STREET\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60603\"}, \"mailingAddress\": {\"street1\": \"50 SOUTH LASALLE STREET\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60603\"}, \"businessPhoneNumber\": \"312-557-2000\", \"iaFirmName\": \"NORTHERN TRUST SECURITIES, INC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"50 S. LASALLE\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60603-0001\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 W. 57TH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39473",
+                    "firm_bd_sec_number": "48711",
+                    "firm_bd_full_sec_number": "8-48711",
+                    "firm_name": "TRADESTATION SECURITIES, INC.",
+                    "firm_other_names": [
+                        "ONLINE TRADING INC.COM",
+                        "TRADESTATION SECURITIES, INC.",
+                        "TRADESTATION SECURITIES",
+                        "TRADESTATION",
+                        "ONLINETRADNG.COM",
+                        "ONLINETRADINGINC.COM CORP",
+                        "ONLINETRADING.COM",
+                        "ONLINETRADEINGINC.COM CORP.",
+                        "ONLINE TRADING, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"8050 SW 10TH STREET\", \"street2\": \"SUITE 2000\", \"city\": \"PLANTATION\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33324\"}, \"mailingAddress\": {\"street1\": \"8050 SW 10TH STREET\", \"street2\": \"SUITE 2000\", \"city\": \"PLANTATION\", \"state\": \"FL\", \"country\": \"US\", \"postalCode\": \"33324\"}, \"businessPhoneNumber\": \"954-652-7900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 Wall Street",
+                                        "street2": "SUITE 730",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

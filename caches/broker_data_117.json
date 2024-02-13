@@ -1,0 +1,476 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31977",
+                    "firm_bd_sec_number": "45648",
+                    "firm_bd_full_sec_number": "8-45648",
+                    "firm_name": "SHINHAN SECURITIES AMERICA, INC.",
+                    "firm_other_names": [
+                        "GOOD MORNING SECURITIES USA INC.",
+                        "SSANGYONG SECURITIES AMERICA INC.",
+                        "SHINHAN SECURITIES AMERICA, INC.",
+                        "SHINHAN INVESTMENT AMERICA INC.",
+                        "GOOD MORNING SHINHAN SECURITIES USA INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"750 7TH AVENUE\", \"street2\": \"SUITE 2602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"750 7TH AVENUE\", \"street2\": \"SUITE 2602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-397-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "750 7TH AVENUE",
+                                        "street2": "SUITE 2602",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103767",
+                    "firm_bd_sec_number": "52256",
+                    "firm_bd_full_sec_number": "8-52256",
+                    "firm_name": "MARATHON CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "GOLDEN FORTUNES SECURITIES, INC.",
+                        "MARATHON CAPITAL MARKETS, LLC",
+                        "MARATHON CAPITAL MARKETS, INC.",
+                        "MARATHON CAPITAL",
+                        "MADISON MERCHANT PARTNERS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 W. MADISON STREET\", \"street2\": \"SUITE 3700\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"200 W. MADISON STREET\", \"street2\": \"SUITE 3700\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-989-1350\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "280 Park Ave, FL 26E",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "31029",
+                    "firm_bd_sec_number": "45310",
+                    "firm_bd_full_sec_number": "8-45310",
+                    "firm_name": "NATIONWIDE PLANNING ASSOCIATES INC.",
+                    "firm_other_names": [
+                        "NATIONWIDE PLANNING ASSOCIATES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 23,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"32-16 BROADWAY AVE, 2ND FLOOR\", \"city\": \"FAIR LAWN\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07410\"}, \"mailingAddress\": {\"street1\": \"32-16 BROADWAY AVE, 2ND FLOOR\", \"city\": \"FAIR LAWN\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07410\"}, \"businessPhoneNumber\": \"201-476-0029\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "775 PARK AVENUE",
+                                        "street2": "SUITE 220",
+                                        "city": "HUNTINGTON",
+                                        "state": "NY",
+                                        "zipCode": "11743"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43793",
+                    "firm_bd_sec_number": "50429",
+                    "firm_bd_full_sec_number": "8-50429",
+                    "firm_ia_sec_number": "56578",
+                    "firm_ia_full_sec_number": "801-56578",
+                    "firm_name": "USI SECURITIES, INC.",
+                    "ia_firm_name": "USI SECURITIES, INC.",
+                    "firm_other_names": [
+                        "USI SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 26,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"95 GLASTONBURY BLVD.\", \"street2\": \"SUITE 102\", \"city\": \"GLASTONBURY\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06033\"}, \"mailingAddress\": {\"street1\": \"95 GLASTONBURY BLVD.\", \"street2\": \"SUITE 102\", \"city\": \"GLASTONBURY\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06033\"}, \"businessPhoneNumber\": \"860-652-3239\", \"iaFirmName\": \"USI SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"95 GLASTONBURY BLVD.\", \"street2\": \"SUITE 102\", \"city\": \"GLASTONBURY\", \"state\": \"CT\", \"country\": \"United States\", \"postalCode\": \"06033\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "261 Madison Avenue, 5th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "361",
+                    "firm_bd_sec_number": "129",
+                    "firm_bd_full_sec_number": "8-129",
+                    "firm_ia_sec_number": "16048",
+                    "firm_ia_full_sec_number": "801-16048",
+                    "firm_name": "GOLDMAN SACHS & CO. LLC",
+                    "ia_firm_name": "GOLDMAN SACHS & CO. LLC",
+                    "firm_other_names": [
+                        "GOLDMAN SACHS & CO. LLC",
+                        "MARCUS INVEST OFFERING OF GOLDMAN SACHS & CO. LLC",
+                        "GOLDMAN, SACHS & CO.",
+                        "GOLDMAN SACHS ASSET MANAGEMENT (\"GSAM\")"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 39,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 WEST STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10282-2198\"}, \"mailingAddress\": {\"street1\": \"111 SOUTH MAIN STREET\", \"city\": \"SALT LAKE CITY\", \"state\": \"UT\", \"country\": \"UNITED STATES\", \"postalCode\": \"84111\"}, \"businessPhoneNumber\": \"212-902-1000\", \"iaFirmName\": \"GOLDMAN SACHS & CO. LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"200 WEST STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10282\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 WEST STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10282"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120894",
+                    "firm_bd_sec_number": "65357",
+                    "firm_bd_full_sec_number": "8-65357",
+                    "firm_ia_sec_number": "62331",
+                    "firm_ia_full_sec_number": "801-62331",
+                    "firm_name": "GENEOS WEALTH MANAGEMENT, INC.",
+                    "ia_firm_name": "GENEOS WEALTH MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "GENEOS WEALTH MANAGEMENT, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 171,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"9635 MAROON CIRCLE\", \"street2\": \"SUITE 100\", \"city\": \"ENGLEWOOD\", \"state\": \"CO\", \"country\": \"USA\", \"postalCode\": \"80112\"}, \"mailingAddress\": {\"street1\": \"9635 MAROON CIRCLE\", \"street2\": \"SUITE 100\", \"city\": \"ENGLEWOOD\", \"state\": \"CO\", \"country\": \"USA\", \"postalCode\": \"80112\"}, \"businessPhoneNumber\": \"303-785-8470\", \"iaFirmName\": \"GENEOS WEALTH MANAGEMENT, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"9635 MAROON CIRCLE\", \"street2\": \"SUITE 100\", \"city\": \"ENGLEWOOD\", \"state\": \"CO\", \"country\": \"United States\", \"postalCode\": \"80112\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "294 ROWE ROAD",
+                                        "city": "SELKIRK",
+                                        "state": "NY",
+                                        "zipCode": "12158"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10299",
+                    "firm_bd_sec_number": "26892",
+                    "firm_bd_full_sec_number": "8-26892",
+                    "firm_ia_sec_number": "33020",
+                    "firm_ia_full_sec_number": "801-33020",
+                    "firm_name": "CETERA ADVISORS LLC",
+                    "ia_firm_name": "CETERA ADVISORS LLC",
+                    "firm_other_names": [
+                        "CETERA ADVISORS LLC",
+                        "MULTI-FINANCIAL SECURITIES CORPORATION",
+                        "MAGIS FINANCIAL PARTNERS",
+                        "FIRST ALLIED SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1120,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5299 DTC BLVD #800\", \"city\": \"GREENWOOD VILLAGE\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80111\"}, \"mailingAddress\": {\"street1\": \"400 FIRST STREET SOUTH\", \"street2\": \"SUITE 300\", \"city\": \"SAINT CLOUD\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"56301\"}, \"businessPhoneNumber\": \"800-929-3485\", \"iaFirmName\": \"CETERA ADVISORS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5299 DTC BLVD\", \"street2\": \"SUITE 800\", \"city\": \"GREENWOOD VILLAGE\", \"state\": \"CO\", \"country\": \"United States\", \"postalCode\": \"80111\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "323 WEST 39TH ST 11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45908",
+                    "firm_bd_sec_number": "51241",
+                    "firm_bd_full_sec_number": "8-51241",
+                    "firm_name": "DRW SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "DRW SECURITIES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"540 WEST MADISON STREET\", \"street2\": \"SUITE 2500\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60661\"}, \"mailingAddress\": {\"street1\": \"540 WEST MADISON STREET\", \"street2\": \"SUITE 2500\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60661\"}, \"businessPhoneNumber\": \"312-542-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 Liberty Street",
+                                        "street2": "Suite 4201",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151604",
+                    "firm_bd_sec_number": "68388",
+                    "firm_bd_full_sec_number": "8-68388",
+                    "firm_name": "CONCORDE INVESTMENT SERVICES, LLC",
+                    "firm_other_names": [
+                        "CONCORDE INVESTMENT SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 55,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19500 VICTOR PARKWAY\", \"street2\": \"SUITE 550\", \"city\": \"LIVONIA\", \"state\": \"MI\", \"country\": \"USA\", \"postalCode\": \"48152\"}, \"mailingAddress\": {\"street1\": \"19500 VICTOR PARKWAY\", \"street2\": \"SUITE 550\", \"city\": \"LIVONIA\", \"state\": \"MI\", \"country\": \"USA\", \"postalCode\": \"48152\"}, \"businessPhoneNumber\": \"(248) 824-6710\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "445 Broad Hollow Rd",
+                                        "street2": "Suite 25",
+                                        "city": "Melville",
+                                        "state": "NY",
+                                        "zipCode": "11747"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "140564",
+                    "firm_bd_sec_number": "67320",
+                    "firm_bd_full_sec_number": "8-67320",
+                    "firm_name": "REDBURN ATLANTIC",
+                    "firm_other_names": [
+                        "REDBURN (USA) LLC",
+                        "REDBURN PARTNERS (USA) LP",
+                        "REDBURN ATLANTIC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"461 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"461 FIFTH AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-803-7300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "461 FIFTH AVENUE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "112630",
+                    "firm_bd_sec_number": "53255",
+                    "firm_bd_full_sec_number": "8-53255",
+                    "firm_ia_sec_number": "107091",
+                    "firm_ia_full_sec_number": "801-107091",
+                    "firm_name": "MWA FINANCIAL SERVICES INC.",
+                    "ia_firm_name": "MWA FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "MWA FINANCIAL SERVICES INC.",
+                        "MWA FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 395,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1701 1ST AVENUE\", \"city\": \"ROCK ISLAND\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"61201\"}, \"mailingAddress\": {\"street1\": \"1701 1ST AVENUE\", \"city\": \"ROCK ISLAND\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"61201\"}, \"businessPhoneNumber\": \"309-558-3100\", \"iaFirmName\": \"MWA FINANCIAL SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1701 1ST AVENUE\", \"city\": \"ROCK ISLAND\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"61201\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1602 W. HIGH TERRACE",
+                                        "city": "SYRACUSE",
+                                        "state": "NY",
+                                        "zipCode": "13219"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120708",
+                    "firm_bd_sec_number": "65337",
+                    "firm_bd_full_sec_number": "8-65337",
+                    "firm_name": "MAXIM GROUP LLC",
+                    "firm_other_names": [
+                        "M-VEST (A WHOLLY OWNED DIVISION OF MAXIM GROUP)",
+                        "MAXIM MERCHANT CAPITAL (A WHOLLY OWNED DIVISION OF MAXIM GROUP",
+                        "MAXIM GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 PARK AVE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"300 PARK AVE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-895-3500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 Crossways Park Drive West - Suite 207",
+                                        "city": "WOODBURY",
+                                        "state": "NY",
+                                        "zipCode": "11797"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

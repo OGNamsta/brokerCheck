@@ -1,0 +1,596 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14169",
+                    "firm_bd_sec_number": "30353",
+                    "firm_bd_full_sec_number": "8-30353",
+                    "firm_ia_sec_number": "41033",
+                    "firm_ia_full_sec_number": "801-41033",
+                    "firm_name": "CAPITOL SECURITIES MANAGEMENT, INC.",
+                    "ia_firm_name": "CAPITOL SECURITIES MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "CAPITOL SECURITIES MANAGEMENT, INC.",
+                        "IFS SECURITIES, INC.",
+                        "FS SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 57,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4050 INNSLAKE DRIVE\", \"street2\": \"SUITE 250\", \"city\": \"GLEN ALLEN\", \"state\": \"VA\", \"country\": \"UNITED STATES\", \"postalCode\": \"23060\"}, \"mailingAddress\": {\"street1\": \"4050 INNSLAKE DRIVE\", \"street2\": \"SUITE 250\", \"city\": \"GLEN ALLEN\", \"state\": \"VA\", \"country\": \"UNITED STATES\", \"postalCode\": \"23060\"}, \"businessPhoneNumber\": \"804-612-9700\", \"iaFirmName\": \"CAPITOL SECURITIES MANAGEMENT, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"4050 INNSLAKE DRIVE\", \"street2\": \"SUITE 250\", \"city\": \"GLEN ALLEN\", \"state\": \"VA\", \"country\": \"United States\", \"postalCode\": \"23060\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 Avenue of the Americas",
+                                        "street2": "2nd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17870",
+                    "firm_bd_sec_number": "35870",
+                    "firm_bd_full_sec_number": "8-35870",
+                    "firm_ia_sec_number": "58257",
+                    "firm_ia_full_sec_number": "801-58257",
+                    "firm_name": "NBC SECURITIES, INC.",
+                    "ia_firm_name": "NBC SECURITIES, INC.",
+                    "firm_other_names": [
+                        "NBC COMMERCE INVESTMENTS",
+                        "POSEY, BENNERS & SELLERS, INC.",
+                        "NBC SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 45,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1927 1ST AVENUE NORTH\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"UNITED STATES\", \"postalCode\": \"35203-0686\"}, \"mailingAddress\": {\"street1\": \"1927 1ST AVENUE NORTH\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"UNITED STATES\", \"postalCode\": \"35203-0686\"}, \"businessPhoneNumber\": \"800-521-9390\", \"iaFirmName\": \"NBC SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1927 FIRST AVENUE NORTH\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"United States\", \"postalCode\": \"35203\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "5000 MERRICK ROAD",
+                                        "city": "MASSAPEQUA",
+                                        "state": "NY",
+                                        "zipCode": "11758"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "160135",
+                    "firm_bd_sec_number": "69029",
+                    "firm_bd_full_sec_number": "8-69029",
+                    "firm_name": "WAVECREST SECURITIES LLC",
+                    "firm_other_names": [
+                        "WAVECREST SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"205 POWELL PLACE\", \"city\": \"BRENTWOOD\", \"state\": \"TN\", \"country\": \"USA\", \"postalCode\": \"37027\"}, \"mailingAddress\": {\"street1\": \"205 POWELL PLACE\", \"city\": \"BRENTWOOD\", \"state\": \"TN\", \"country\": \"USA\", \"postalCode\": \"37027\"}, \"businessPhoneNumber\": \"646-558-6322\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "750 LEXINGTON AVENUE, 9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "13660",
+                    "firm_bd_sec_number": "28862",
+                    "firm_bd_full_sec_number": "8-28862",
+                    "firm_name": "BRADLEY WOODS & CO. LTD.",
+                    "firm_other_names": [
+                        "BRADLEY WOODS & CO. LTD.",
+                        "BRADLEY, WOODS & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"845 THIRD AVE, SUITE 1703\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"845 THIRD AVE, SUITE 1703\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-826-9191\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "845 THIRD AVE, SUITE 1703",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "150696",
+                    "firm_bd_sec_number": "68282",
+                    "firm_bd_full_sec_number": "8-68282",
+                    "firm_name": "SANTANDER US CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "AMHERST PIERPONT",
+                        "SANTANDER US CAPITAL MARKETS LLC",
+                        "SANTANDER INVESTMENT SECURITIES",
+                        "PIERPONT SECURITIES LLC",
+                        "PIERPONT SECURITIES INC.",
+                        "PIERPONT SECURITIES",
+                        "AMHERST SECURITIES",
+                        "AMHERST PIERPONT SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"437 MADISON AVENUE\", \"street2\": \"6TH - 8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"437 MADISON AVENUE\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-872-0100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "437 MADISON AVENUE",
+                                        "street2": "6TH - 8TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7995",
+                    "firm_bd_sec_number": "24519",
+                    "firm_bd_full_sec_number": "8-24519",
+                    "firm_ia_sec_number": "69266",
+                    "firm_ia_full_sec_number": "801-69266",
+                    "firm_name": "AUSDAL FINANCIAL PARTNERS, INC.",
+                    "ia_firm_name": "AUSDAL FINANCIAL PARTNERS, INC.",
+                    "firm_other_names": [
+                        "ALBERTS WEALTH ADVISORS, LLC",
+                        "WPF WEALTH MANAGEMENT",
+                        "WILSON WEALTH MANAGEMENT",
+                        "WILSON CAPITAL MANAGEMENT",
+                        "WENGER FINANCIAL GROUP",
+                        "WEALTH QC",
+                        "WEALTH ADVISORS FINANCIAL GROUP",
+                        "WATERSEED WEALTH MANAGEMENT",
+                        "TOWER FINANCIAL MANAGEMENT COMPANY",
+                        "TJ SULLIVAN & COMPANY",
+                        "TIMBERLAND FINANCIAL GROUP",
+                        "THOMAS G. SCHAEFER & ASSOCIATES",
+                        "THE WENSTRUP COMPANY",
+                        "THE SERPE INSURANCE AGENCY",
+                        "THE MCCAUSLAND GROUP",
+                        "THE LANCASTER COMPANY",
+                        "STRAUTS CAPITAL MANAGEMENT",
+                        "STRATEGIC FINANCIAL PLANNING",
+                        "STERLING FINANCIAL ADVISORY SERVICES",
+                        "SMITH INS & FINANCIAL",
+                        "SLJ FINANCIAL",
+                        "SILVER BIRCH CAPITAL ADVISORS",
+                        "SHAMROCK FINANCIAL PLANNING",
+                        "SCHNEIDER CONSULTANTS",
+                        "SCHMIDT WEALTH MANAGEMENT",
+                        "SAN DIEGO FINANCIAL",
+                        "SAFE HARBOR RETIREMENT CONSULTANTS",
+                        "ROBERT B. AUSDAL & CO. INC.",
+                        "RIVERSTONE ASSET MANAGEMENT",
+                        "RETIREWELL",
+                        "Q C SECURE SOLUTIONS",
+                        "PRAXIS CAPITAL AND INVESTMENT MANAGEMENT",
+                        "NEWMAN & ASSOCIATES",
+                        "NESTON WEALTH MANAGEMENT",
+                        "MINT HILL WEALTH",
+                        "M. BROWN FINANCIAL ADVISORS",
+                        "LICHTFUSS FINANCIAL SERVICES",
+                        "LEONARD DIGATE INCOME PLANNING",
+                        "KVASNICKA & KNEIP",
+                        "KRM FINANCIAL SERVICES",
+                        "KARSTENSON FINANCIAL SERVICES",
+                        "JULIAN FINANCIAL GROUP",
+                        "JOAN K. JOHNSON FINANCIAL",
+                        "JML THE LANCASTER CO",
+                        "INTEGRITY FINANCIAL STRATEGIES",
+                        "HINSDALE CAPITAL INVESTMENTS",
+                        "HERITAGE PARTNERS",
+                        "HANSON FINANCIAL",
+                        "GREENWAY ADVISORS",
+                        "GRANITE INVESTMENT SERVICE",
+                        "GOLDEN TRIANGLE FINANCIAL",
+                        "GOLDEN IVY ASSOCIATES",
+                        "FROLICSTEIN FINANCIAL WEALTH MANAGEMENT",
+                        "FREEDOM FINANCIAL GROUP",
+                        "FOX VALLEY FINANCIAL",
+                        "FIRST GEN PLANNING",
+                        "FETTIG & ASSOCIATES",
+                        "ENGEL WEALTH MANAGEMENT",
+                        "DURMENT FINANCIAL PLANNING",
+                        "DENIM AND DIAMONDS FINANCIAL SOLUTIONS",
+                        "DEAN JOHNSON ADVISORY",
+                        "DAVIS WEALTH ADVISORS",
+                        "CROSS WALK WEALTH MANAGEMENT",
+                        "CORNERSTONE ASSET MANAGEMENT GROUP, LLC",
+                        "CLARITY GROUP MIDWEST",
+                        "CHOICES FINANCIAL SERVICES",
+                        "CHICAGO FINANCIAL ADVISORS",
+                        "C&C ASSET MANAGEMENT",
+                        "BURGOYNE WEALTH MANAGEMENT",
+                        "BIG TIMBER WEALTH MANAGEMENT",
+                        "BERMAN CAPITAL MANAGEMENT",
+                        "BCH WEALTH MANAGEMENT",
+                        "B & N FINANCIAL",
+                        "AUSDAL FINANCIAL PARTNERS, INC.",
+                        "ARMOUR CAPITAL, LLC",
+                        "APERATURE WEALTH PARTNERS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 131,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5187 UTICA RIDGE RD\", \"city\": \"DAVENPORT\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52807\"}, \"mailingAddress\": {\"street1\": \"5187 UTICA RIDGE RD\", \"city\": \"DAVENPORT\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52807\"}, \"businessPhoneNumber\": \"563-326-2064\", \"iaFirmName\": \"AUSDAL FINANCIAL PARTNERS, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5187 UTICA RIDGE RD\", \"city\": \"DAVENPORT\", \"state\": \"IA\", \"country\": \"United States\", \"postalCode\": \"52807\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "242 Main Street",
+                                        "city": "Grahamsville",
+                                        "state": "NY",
+                                        "zipCode": "12740"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26266",
+                    "firm_bd_sec_number": "42468",
+                    "firm_bd_full_sec_number": "8-42468",
+                    "firm_name": "MANNING & NAPIER INVESTOR SERVICES, INC.",
+                    "firm_other_names": [
+                        "FIDUCIARY BROKER SERVICES, INC.",
+                        "MANNING & NAPIER INVESTOR SERVICES, INC.",
+                        "MANNING & NAPIER CAPITAL ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"290 WOODCLIFF DRIVE\", \"city\": \"FAIRPORT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14450\"}, \"mailingAddress\": {\"street1\": \"290 WOODCLIFF DRIVE\", \"city\": \"FAIRPORT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14450\"}, \"businessPhoneNumber\": \"(585) 325-6880\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "290 WOODCLIFF DRIVE",
+                                        "city": "FAIRPORT",
+                                        "state": "NY",
+                                        "zipCode": "14450"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46947",
+                    "firm_bd_sec_number": "51601",
+                    "firm_bd_full_sec_number": "8-51601",
+                    "firm_ia_sec_number": "71178",
+                    "firm_ia_full_sec_number": "801-71178",
+                    "firm_name": "SILVER OAK SECURITIES, INCORPORATED",
+                    "ia_firm_name": "SILVER OAK SECURITIES, INC.",
+                    "firm_other_names": [
+                        "AMERICAN CORNERSTONE GROUP, INC.",
+                        "ZETTERGREN FINANCIAL GROUP",
+                        "WINTEREGG AND ASSOCIATES",
+                        "WILLIAM E. HOPKINS & ASSOCIATES, INC.",
+                        "VISION ASSET MANAGEMENT",
+                        "TRUNORTH INVESTMENT MANAGEMENT",
+                        "TRINITAS FINANCIAL PARTNERS",
+                        "TALLGRASS WEALTH MANAGEMENT",
+                        "SOUTHERN TRUST WEALTH MANAGEMENT",
+                        "SOLID ROCK RETIREMENT STRATEGIES",
+                        "SMART PLAN FINANCIAL",
+                        "SILVER OAK SECURITIES, INCORPORATED",
+                        "SILVER OAK SECURITIES, INC.",
+                        "SILVER OAK SECURITIES INCORPORATED",
+                        "SCHROCK FINANCIAL LLC",
+                        "SCHMIDT WEALTH MANAGEMENT, LLC",
+                        "RETIREMENT SECURITY GROUP",
+                        "RAILEY FINANCIAL SERVICE",
+                        "R. F. BISSER & ASSOCIATES FINANCIAL CONSULTANTS",
+                        "PORTFOLIO IA",
+                        "PLANNING LEGACIES FINANCIAL GROUP",
+                        "PENSION PARTNERS",
+                        "OLD TOWNE INVESTMENTS",
+                        "NEW FINANCIAL CONCEPTS, INC.",
+                        "MEREDITH DEKKER FINANCIAL SERVICES LLC",
+                        "MCKNIGHT ADVISORY GROUP, INC.",
+                        "MAGNATE WEALTH",
+                        "LEGACY GROUP PLANNING",
+                        "JOHNSON BRUNNETTI",
+                        "JMS FINANCIAL SOLUTIONS, LLC",
+                        "JAFFE WEALTH MANAGEMENT & CONSULTING INC.",
+                        "INVITE WEALTH MANAGEMENT",
+                        "HEARN WEALTH MANAGEMENT",
+                        "FOUNDATION FINANCIAL CONCEPTS, LLC",
+                        "FORTUNE STRATEGIES LLC",
+                        "FINANCIAL SERVICE ASSOCIATES",
+                        "FINANCIAL RESOURCE ADVISORS",
+                        "FAMILY WEALTH ADVISORY",
+                        "EJC INSURANCE AND FINANCIAL",
+                        "DREHER ADVISORY SERVICES",
+                        "D & B ACCOUNTING & FINANCIAL GROUP, PLLC",
+                        "CREECH WEALTH MANAGEMENT",
+                        "CORNERSTONE FINANCIAL GROUP",
+                        "COMPREHENSIVE FINANCIAL STRATEGIES, LLC",
+                        "CHANCERY FINANCIAL ADVISORS",
+                        "CENTORBI FINANCIAL",
+                        "CAROLINAS WEALTH MANAGEMENT",
+                        "BRICKEY WEALTH MANAGEMENT",
+                        "BLAKE FINANCIAL",
+                        "BLACK OAK ASSET MANAGEMENT",
+                        "BIVEN FINANCIAL SERVICES",
+                        "BIG ROCK WEALTH ADVISORS",
+                        "B&H WEALTH",
+                        "ASSET PLANNING SERVICES, INC.",
+                        "ARMOR FINANCIAL, GROUP",
+                        "ARBOR FINANCIAL ADVISORS",
+                        "AMS FINANCIAL GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 124,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"403 N. PARKWAY\", \"street2\": \"SUITE 101\", \"city\": \"JACKSON\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"38305\"}, \"mailingAddress\": {\"street1\": \"403 N. PARKWAY\", \"street2\": \"STE 101\", \"city\": \"JACKSON\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"38305\"}, \"businessPhoneNumber\": \"731-668-3825\", \"iaFirmName\": \"SILVER OAK SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"403 N. PARKWAY\", \"street2\": \"STE. 101\", \"city\": \"JACKSON\", \"state\": \"TN\", \"country\": \"United States\", \"postalCode\": \"38305\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "31 Pine Ln",
+                                        "city": "Schroon Lake",
+                                        "state": "NY",
+                                        "zipCode": "12870"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "289090",
+                    "firm_bd_sec_number": "69982",
+                    "firm_bd_full_sec_number": "8-69982",
+                    "firm_name": "CMG SECURITIES LLC",
+                    "firm_other_names": [
+                        "CMG SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"90 NEW MONTGOMERY STREET\", \"street2\": \"SUITE 1410\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94105\"}, \"mailingAddress\": {\"street1\": \"90 NEW MONTGOMERY STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94105\"}, \"businessPhoneNumber\": \"(415) 278-7727\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "288 Todd Rd",
+                                        "city": "Katonah",
+                                        "state": "NY",
+                                        "zipCode": "10536"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "144211",
+                    "firm_bd_sec_number": "67644",
+                    "firm_bd_full_sec_number": "8-67644",
+                    "firm_name": "SEVEN POINTS CAPITAL, LLC",
+                    "firm_other_names": [
+                        "SEVEN POINTS CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"SUITE 3002\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"150 EAST 52ND STREET\", \"street2\": \"SUITE 3002\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 760-0760\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "150 EAST 52ND STREET",
+                                        "street2": "SUITE 3002",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37404",
+                    "firm_bd_sec_number": "47739",
+                    "firm_bd_full_sec_number": "8-47739",
+                    "firm_name": "MERCER ALLIED COMPANY, L.P.",
+                    "firm_other_names": [
+                        "MERCER ALLIED COMPANY, L.P."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 COLISEUM DRIVE\", \"city\": \"COHOES\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12047\"}, \"mailingAddress\": {\"street1\": \"100 COLISEUM DRIVE\", \"city\": \"COHOES\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12047\"}, \"businessPhoneNumber\": \"518 886-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 COLISEUM DRIVE",
+                                        "city": "COHOES",
+                                        "state": "NY",
+                                        "zipCode": "12047"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104234",
+                    "firm_bd_sec_number": "52700",
+                    "firm_bd_full_sec_number": "8-52700",
+                    "firm_name": "JPMORGAN DISTRIBUTION SERVICES, INC.",
+                    "firm_other_names": [
+                        "JPMORGAN DISTRIBUTION SERVICES, INC.",
+                        "ONE GROUP DEALER SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1111 POLARIS PARKWAY\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"43240\"}, \"mailingAddress\": {\"street1\": \"1111 POLARIS PARKWAY\", \"street2\": \"MAIL CODE: OH1-0004\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"43240\"}, \"businessPhoneNumber\": \"201-595-1958\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "277 Park Avenue",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10172"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,454 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "13251",
+                    "firm_bd_sec_number": "28886",
+                    "firm_bd_full_sec_number": "8-28886",
+                    "firm_name": "ROBOTTI SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ROBOTTI & COMPANY, INCORPORATED",
+                        "ROBOTTI SECURITIES, LLC",
+                        "ROBOTTI & ENG, INCORPORATED",
+                        "ROBOTTI & ENG, INC.",
+                        "ROBOTTI & COMPANY, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"125 PARK AVENUE, SUITE 1607\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"125 PARK AVENUE, SUITE 1607\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(212) 986-4800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "125 PARK AVENUE, SUITE 1607",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38373",
+                    "firm_bd_sec_number": "48201",
+                    "firm_bd_full_sec_number": "8-48201",
+                    "firm_name": "FORTE SECURITIES LLC",
+                    "firm_other_names": [
+                        "FORTE SECURITIES LLC",
+                        "W.R. MASSIE CAPITAL, L.L.C.",
+                        "SOUTHLAKE CAPITAL, L.L.C.",
+                        "MASSIE (W.R.) CAPITAL, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"77 WATER STREET, SUITE 1604\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"(929) 999-1783\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "77 Water Street",
+                                        "street2": "Suite 1604",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172729",
+                    "firm_bd_sec_number": "69523",
+                    "firm_bd_full_sec_number": "8-69523",
+                    "firm_name": "HOWDEN TIGER CAPITAL MARKETS & ADVISORY, LLC",
+                    "firm_other_names": [
+                        "HOWDEN TIGER CAPITAL MARKETS & ADVISORY, LLC",
+                        "TIGERRISK CAPITAL STRATEGIES LLC",
+                        "TIGERRISK CAPITAL MARKETS & ADVISORY",
+                        "HOWDEN TIGER INVESTMENT BANKING"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1350 AVENUE OF THE AMERICAS\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1350 AVENUE OF THE AMERICAS\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"646-685-4930\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1350 Avenue of the Americas",
+                                        "street2": "33rd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120738",
+                    "firm_bd_sec_number": "65341",
+                    "firm_bd_full_sec_number": "8-65341",
+                    "firm_name": "JONES LANG LASALLE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "JLL SECURITIES",
+                        "JONES LANG LASALLE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 EAST RANDOLPH DRIVE\", \"street2\": \"44TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60601\"}, \"mailingAddress\": {\"street1\": \"200 EAST RANDOLPH DRIVE\", \"street2\": \"44TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60601\"}, \"businessPhoneNumber\": \"312 228-3650\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 Madison Avenue",
+                                        "street2": "4th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8062",
+                    "firm_bd_sec_number": "24582",
+                    "firm_bd_full_sec_number": "8-24582",
+                    "firm_name": "GARY HOCH AGENCY, INC.",
+                    "firm_other_names": [
+                        "GARY A. HOCH",
+                        "GARY HOCH AGENCY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2645 ELMWOOD AVE.\", \"city\": \"BUFFALO\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14217\"}, \"mailingAddress\": {\"street1\": \"2645 ELMWOOD AVE.\", \"city\": \"BUFFALO\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14217\"}, \"businessPhoneNumber\": \"716-881-1991\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2645 ELMWOOD AVE",
+                                        "city": "BUFFALO",
+                                        "state": "NY",
+                                        "zipCode": "14217"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290564",
+                    "firm_bd_sec_number": "70033",
+                    "firm_bd_full_sec_number": "8-70033",
+                    "firm_name": "EURONEXT MARKET SERVICES LLC",
+                    "firm_other_names": [
+                        "EURONEXT MARKET SERVICES LLC",
+                        "EURONEXT SYNAPSE LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"180 MAIDEN LANE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"180 MAIDEN LANE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"646 779 1135\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "180 MAIDEN LANE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38760",
+                    "firm_bd_sec_number": "48389",
+                    "firm_bd_full_sec_number": "8-48389",
+                    "firm_name": "VAN LANSCHOT KEMPEN (USA) INC.",
+                    "firm_other_names": [
+                        "DEXIA SECURITIES U.S.A. INC.",
+                        "VAN LANSCHOT KEMPEN (USA) INC.",
+                        "KEMPEN & CO U.S.A., INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"880 THIRD AVENUE\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"880 THIRD AVENUE\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-376-0130\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "880 THIRD AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "174167",
+                    "firm_bd_sec_number": "69567",
+                    "firm_bd_full_sec_number": "8-69567",
+                    "firm_name": "CAPELLA SECURITIES LLC",
+                    "firm_other_names": [
+                        "CAPELLA SECURITIES LLC",
+                        "CLYDESDALE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-796-1531\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 BROADWAY, SUITE 12-129",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171793",
+                    "firm_bd_sec_number": "69482",
+                    "firm_bd_full_sec_number": "8-69482",
+                    "firm_name": "KENMAR SECURITIES, LLC",
+                    "firm_other_names": [
+                        "KENMAR SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"845 THIRD AVENUE, SUITE 1703\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"PO BOX 5537\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10185-5537\"}, \"businessPhoneNumber\": \"212-596-3480\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "110 East 59th Street, Suite 3200",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "158885",
+                    "firm_bd_sec_number": "68936",
+                    "firm_bd_full_sec_number": "8-68936",
+                    "firm_name": "WHITEHALL CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "WHITEHALL CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE WORLD TRADE CENTER\", \"street2\": \"84TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"ONE WORLD TRADE CENTER\", \"street2\": \"84TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"212-205-1399\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE WORLD TRADE CENTER",
+                                        "street2": "84TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29251",
+                    "firm_bd_sec_number": "44398",
+                    "firm_bd_full_sec_number": "8-44398",
+                    "firm_name": "GREAT PACIFIC SECURITIES",
+                    "firm_other_names": [
+                        "GREAT PACIFIC FIXED INCOME SECURITIES, INC.",
+                        "GREAT PACIFIC SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"151 KALMUS DRIVE, BUILDING H8\", \"city\": \"COSTA MESA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92626\"}, \"mailingAddress\": {\"street1\": \"151 KALMUS DRIVE, BUILDING H8\", \"city\": \"COSTA MESA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92626\"}, \"businessPhoneNumber\": \"714-619-3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 Percheron Lane",
+                                        "city": "Roslyn Heights",
+                                        "state": "NY",
+                                        "zipCode": "11577"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42360",
+                    "firm_bd_sec_number": "49815",
+                    "firm_bd_full_sec_number": "8-49815",
+                    "firm_ia_sec_number": "111848",
+                    "firm_ia_full_sec_number": "801-111848",
+                    "firm_name": "IBN FINANCIAL SERVICES, INC.",
+                    "ia_firm_name": "IBN FINANCIAL SERVICES, INC",
+                    "firm_other_names": [
+                        "IBN FINANCIAL SERVICES, INC",
+                        "M. ROBERT BURTON ASSOCIATES, INC.",
+                        "IBN FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 47,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"404 OLD LIVERPOOL RD\", \"city\": \"LIVERPOOL\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13088\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 2365\", \"city\": \"LIVERPOOL\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"13089\"}, \"businessPhoneNumber\": \"315-652-4426\", \"iaFirmName\": \"IBN FINANCIAL SERVICES, INC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"404 OLD LIVERPOOL RD\", \"city\": \"LIVERPOOL\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"13088\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "VALLEY COTTAGE",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

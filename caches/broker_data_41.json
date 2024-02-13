@@ -1,0 +1,457 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29251",
+                    "firm_bd_sec_number": "44398",
+                    "firm_bd_full_sec_number": "8-44398",
+                    "firm_name": "GREAT PACIFIC SECURITIES",
+                    "firm_other_names": [
+                        "GREAT PACIFIC FIXED INCOME SECURITIES, INC.",
+                        "GREAT PACIFIC SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"151 KALMUS DRIVE, BUILDING H8\", \"city\": \"COSTA MESA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92626\"}, \"mailingAddress\": {\"street1\": \"151 KALMUS DRIVE, BUILDING H8\", \"city\": \"COSTA MESA\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92626\"}, \"businessPhoneNumber\": \"714-619-3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 Percheron Lane",
+                                        "city": "Roslyn Heights",
+                                        "state": "NY",
+                                        "zipCode": "11577"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290564",
+                    "firm_bd_sec_number": "70033",
+                    "firm_bd_full_sec_number": "8-70033",
+                    "firm_name": "EURONEXT MARKET SERVICES LLC",
+                    "firm_other_names": [
+                        "EURONEXT MARKET SERVICES LLC",
+                        "EURONEXT SYNAPSE LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"180 MAIDEN LANE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"180 MAIDEN LANE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"646 779 1135\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "180 MAIDEN LANE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "174167",
+                    "firm_bd_sec_number": "69567",
+                    "firm_bd_full_sec_number": "8-69567",
+                    "firm_name": "CAPELLA SECURITIES LLC",
+                    "firm_other_names": [
+                        "CAPELLA SECURITIES LLC",
+                        "CLYDESDALE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-796-1531\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 BROADWAY, SUITE 12-129",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299634",
+                    "firm_bd_sec_number": "70258",
+                    "firm_bd_full_sec_number": "8-70258",
+                    "firm_name": "ICE SECURITIES EXECUTION & CLEARING, LLC",
+                    "firm_other_names": [
+                        "ICE SECURITIES EXECUTION & CLEARING, LLC",
+                        "ICE SECURITIES EXECUTION AND CLEARING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"850 THIRD AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"850 THIRD AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"914-313-4250\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "850 Third Ave",
+                                        "street2": "9th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104059",
+                    "firm_bd_sec_number": "52515",
+                    "firm_bd_full_sec_number": "8-52515",
+                    "firm_name": "MTS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "KPS KAPITAL, LLC",
+                        "MTS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"623 FIFTH AVENUE\", \"street2\": \"14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"623 FIFTH AVENUE\", \"street2\": \"14TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"(212) 887-2100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "623 FIFTH AVENUE",
+                                        "street2": "14TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14178",
+                    "firm_bd_sec_number": "30511",
+                    "firm_bd_full_sec_number": "8-30511",
+                    "firm_name": "REVERE SECURITIES LLC",
+                    "ia_firm_name": "REVERE WEALTH MANAGEMENT LLC",
+                    "firm_other_names": [
+                        "ASR DIVISION OF TRACK SECURITIES CORP",
+                        "TRACK SECURITIES CORP.",
+                        "REVERE WEALTH MANAGEMENT LLC",
+                        "REVERE SECURITIES LLC",
+                        "REVERE SECURITIES CORP.",
+                        "M-W SECURITIES CORP.",
+                        "BRIARCLIFF CAPITAL CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"650 FIFTH AVENUE, 35FTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"650 FIFTH AVENUE, 35FTH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-688-2350\", \"iaFirmName\": \"REVERE WEALTH MANAGEMENT LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"3200 N. MILITARY TRAIL\", \"street2\": \"SUITE 215\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33431\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "650 Fifth Avenue, 35th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "284464",
+                    "firm_bd_sec_number": "69803",
+                    "firm_bd_full_sec_number": "8-69803",
+                    "firm_name": "FINANCE OF AMERICA SECURITIES LLC",
+                    "firm_other_names": [
+                        "FINANCE OF AMERICA SECURITIES LLC",
+                        "INCENTER SECURITIES GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"489 FIFTH AVENUE\", \"street2\": \"26 FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"489 FIFTH AVENUE\", \"street2\": \"26 FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-235-2415\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "489 Fifth Avenue",
+                                        "street2": "26 Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131607",
+                    "firm_bd_sec_number": "66487",
+                    "firm_bd_full_sec_number": "8-66487",
+                    "firm_name": "PACIFIC CENTURY SECURITIES, LLC",
+                    "firm_other_names": [
+                        "AMBATA SECURITIES, LLC",
+                        "VISION FUEL CAPITAL, LLC",
+                        "PACIFIC CENTURY SECURITIES, LLC",
+                        "GYRE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60-20 WOODSIDE AVENUE\", \"street2\": \"SUITE 211\", \"city\": \"QUEENS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11377\"}, \"mailingAddress\": {\"street1\": \"60-20 WOODSIDE AVENUE\", \"street2\": \"SUITE 211\", \"city\": \"QUEENS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11377\"}, \"businessPhoneNumber\": \"212-970-8868\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60-20 WOODSIDE AVENUE",
+                                        "street2": "SUITE 211",
+                                        "city": "QUEENS",
+                                        "state": "NY",
+                                        "zipCode": "11377"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155786",
+                    "firm_bd_sec_number": "68740",
+                    "firm_bd_full_sec_number": "8-68740",
+                    "firm_name": "EXEMPLAR CAPITAL, LLC",
+                    "firm_other_names": [
+                        "EXEMPLAR CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 POST OFFICE SQUARE,\", \"street2\": \"8TH FL SOUTH\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02109\"}, \"mailingAddress\": {\"street1\": \"10 POST OFFICE SQUARE,\", \"street2\": \"8TH FL SOUTH\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02109\"}, \"businessPhoneNumber\": \"617 542-7400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "211 East 43rd Street",
+                                        "street2": "7th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131452",
+                    "firm_bd_sec_number": "66464",
+                    "firm_bd_full_sec_number": "8-66464",
+                    "firm_name": "AQUEDUCT CAPITAL GROUP, LLC",
+                    "firm_other_names": [
+                        "ALPHALINK PARTNERS LLC",
+                        "AQUEDUCT CAPITAL GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2820 SELWYN AVENUE, SUITE 550\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"postalCode\": \"28209\"}, \"mailingAddress\": {\"street1\": \"2820 SELWYN AVENUE, SUITE 550\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"postalCode\": \"28209\"}, \"businessPhoneNumber\": \"704-973-9919\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444 Madison Ave.",
+                                        "street2": "33rd floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "166477",
+                    "firm_bd_sec_number": "69215",
+                    "firm_bd_full_sec_number": "8-69215",
+                    "firm_name": "SENAHILL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PARKER ROSE LLC",
+                        "SENAHILL SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 3504\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"mailingAddress\": {\"street1\": \"45 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 3504\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"businessPhoneNumber\": \"212-730-8542\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "45 ROCKEFELLER PLAZA",
+                                        "street2": "SUITE 3504",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10111"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "246787",
+                    "firm_bd_sec_number": "69629",
+                    "firm_bd_full_sec_number": "8-69629",
+                    "firm_name": "T&G PRIVATE CAPITAL LLC",
+                    "firm_other_names": [
+                        "HUDSONFIELD SECURITIES LLC",
+                        "T&G PRIVATE CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"44 WALL STREET\", \"street2\": \"SUITE 602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"44 WALL STREET\", \"street2\": \"SUITE 602\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"2125888906\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "44 WALL STREET",
+                                        "street2": "SUITE 602",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

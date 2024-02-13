@@ -1,0 +1,448 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "170803",
+                    "firm_bd_sec_number": "69432",
+                    "firm_bd_full_sec_number": "8-69432",
+                    "firm_name": "LEAGUE CAPITAL MARKETS",
+                    "firm_other_names": [
+                        "FORT GHENT BROKERAGE LLC",
+                        "LEAGUE CAPITAL MARKETS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 MADISON AVE\", \"street2\": \"SUITE 1006\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"575 MADISON AVE\", \"street2\": \"SUITE 1006\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-588-0580\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 MADISON AVE, SUITE 1006",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146671",
+                    "firm_bd_sec_number": "67837",
+                    "firm_bd_full_sec_number": "8-67837",
+                    "firm_name": "EASTGATE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "EASTGATE SECURITIES, LLC",
+                        "J. STREICHER CAPITAL LLC",
+                        "J. STREICHER CAPITAL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"866 UNITED NATIONS PLAZA 406\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"4512 244TH STREET\", \"city\": \"LITTLE NECK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11362\"}, \"businessPhoneNumber\": \"800-925-7157\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "866 UNITED NATIONS PLAZA 406",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "297559",
+                    "firm_bd_sec_number": "70145",
+                    "firm_bd_full_sec_number": "8-70145",
+                    "firm_name": "MAGSTAR CAPITAL, LLC",
+                    "firm_other_names": [
+                        "MAGSTAR CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"201 WILLETT AVENUE\", \"street2\": \"#230\", \"city\": \"PORT CHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10573\"}, \"mailingAddress\": {\"street1\": \"201 WILLETT AVENUE\", \"street2\": \"#230\", \"city\": \"PORT CHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10573\"}, \"businessPhoneNumber\": \"914-937-7583\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "201 WILLETT AVENUE",
+                                        "street2": "#230",
+                                        "city": "PORT CHESTER",
+                                        "state": "NY",
+                                        "zipCode": "10573"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "128334",
+                    "firm_bd_sec_number": "66123",
+                    "firm_bd_full_sec_number": "8-66123",
+                    "firm_name": "COADY DIEMAR PARTNERS, LLC",
+                    "firm_other_names": [
+                        "COADY DIEMAR PARTNERS, LLC",
+                        "COADY, DIEMAR GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"270 LAFAYETTE\", \"street2\": \"SUITE 204\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10012\"}, \"mailingAddress\": {\"street1\": \"270 LAFAYETTE\", \"street2\": \"SUITE 204\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10012\"}, \"businessPhoneNumber\": \"212-901-2603\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "270 LAFAYETTE",
+                                        "street2": "SUITE 204",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10012"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "308304",
+                    "firm_bd_sec_number": "70635",
+                    "firm_bd_full_sec_number": "8-70635",
+                    "firm_name": "5D PARTNERS LLC",
+                    "firm_other_names": [
+                        "5D PARTNERS",
+                        "5D PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"535 FIFTH AVE 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"535 FIFTH AVE 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-852-0295\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "535 FIFTH AVENUE 16TH FLOOR",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "128096",
+                    "firm_bd_sec_number": "66089",
+                    "firm_bd_full_sec_number": "8-66089",
+                    "firm_name": "AURUS ADVISORS, INC.",
+                    "firm_other_names": [
+                        "AURUS ADVISORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"N. 822 FLORIDA A1A\", \"street2\": \"SUITE 310\", \"city\": \"PONTE VEDRA BEACH\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"32082\"}, \"mailingAddress\": {\"street1\": \"156 RETREAT PLACE\", \"city\": \"PONTE VEDRA BEACH\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"32082\"}, \"businessPhoneNumber\": \"904-473-4940\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "20 West 64th Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10023"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "305174",
+                    "firm_bd_sec_number": "70397",
+                    "firm_bd_full_sec_number": "8-70397",
+                    "firm_name": "MAGEN FINANCIAL LLC",
+                    "firm_other_names": [
+                        "ATHENA A DIVISION OF MAGEN FINANCIAL LLC",
+                        "VISION A DIVISION OF MAGEN FINACIAL LLC",
+                        "NOMAD A DIVISION OF MAGEN FINANCIAL LLC",
+                        "MAGEN FINANCIAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1500 BROADWAY\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1500 BROADWAY\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-291-7702\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1500 BROADWAY",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "24771",
+                    "firm_bd_sec_number": "41389",
+                    "firm_bd_full_sec_number": "8-41389",
+                    "firm_name": "BEECH HILL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "BEECH HILL SECURITIES, INC.",
+                        "CANTOR, WEISS & FRIEDNER, INC.",
+                        "CANTOR & WEISS, INC.",
+                        "BH INDEPENDENT ADVISOR SOLUTIONS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"880 3RD AVENUE 16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022-4730\"}, \"mailingAddress\": {\"street1\": \"880 3RD AVENUE 16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022-4730\"}, \"businessPhoneNumber\": \"212-350-7200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "880 THIRD AVENUE",
+                                        "street2": "16TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "130847",
+                    "firm_bd_sec_number": "66397",
+                    "firm_bd_full_sec_number": "8-66397",
+                    "firm_name": "STANDARD CHARTERED SECURITIES NORTH AMERICA LLC",
+                    "firm_other_names": [
+                        "SCB SECURITIES LIMITED",
+                        "STANDARD CHARTERED SECURITIES NORTH AMERICA LLC",
+                        "STANDARD CHARTERED SECURITIES N.A. LLC",
+                        "STANDARD CHARTERED SECURITIES (NORTH AMERICA) INC.",
+                        "STANCHART SECURITIES (NORTH AMERICA) INC.",
+                        "SCB SECURITIES LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1095 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1095 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"(212) 667-0700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1095 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8056",
+                    "firm_bd_sec_number": "24126",
+                    "firm_bd_full_sec_number": "8-24126",
+                    "firm_name": "YORK SECURITIES, INC.",
+                    "firm_other_names": [
+                        "YORK SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"160 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"160 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"212-349-9700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "160 BROADWAY",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "289140",
+                    "firm_bd_sec_number": "69983",
+                    "firm_bd_full_sec_number": "8-69983",
+                    "firm_name": "LEDGER CAPITAL MARKETS, LLC",
+                    "firm_other_names": [
+                        "LEDGER CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"75 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 24C\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10104\"}, \"mailingAddress\": {\"street1\": \"228 PARK AVENUE S\", \"street2\": \"PMB 58179\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10003-1502\"}, \"businessPhoneNumber\": \"202-365-3175\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 ROCKEFELLER PLAZA",
+                                        "street2": "SUITE 24C",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283856",
+                    "firm_bd_sec_number": "69768",
+                    "firm_bd_full_sec_number": "8-69768",
+                    "firm_name": "VNTR SECURITIES LLC",
+                    "firm_other_names": [
+                        "VNTR SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"152 MADISON AVENUE, 7TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"152 MADISON AVENUE, 7TH\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"347 284-0110\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "152 Madison Avenue, 7th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14549",
+                    "firm_bd_sec_number": "30851",
+                    "firm_bd_full_sec_number": "8-30851",
+                    "firm_name": "ALLIANCEBERNSTEIN INVESTMENTS, INC.",
+                    "firm_other_names": [
+                        "ALLIANCE FUND DISTRIBUTORS",
+                        "ALLIANCEBERNSTEIN INVESTMENTS, INC.",
+                        "ALLIANCEBERNSTEIN INVESTMENT RESEARCH AND MANAGEMENT, INC.",
+                        "ALLIANCE FUND DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"501 COMMERCE STREET\", \"city\": \"NASHVILLE\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"37203\"}, \"mailingAddress\": {\"street1\": \"501 COMMERCE STREET\", \"city\": \"NASHVILLE\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"37203\"}, \"businessPhoneNumber\": \"212-969-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "166325",
+                    "firm_bd_sec_number": "69201",
+                    "firm_bd_full_sec_number": "8-69201",
+                    "firm_name": "IFM (US) SECURITIES, LLC",
+                    "firm_other_names": [
+                        "IFM (US) SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"114 WEST 47TH STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"114 WEST 47TH STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-784-2260\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "114 WEST 47TH STREET",
+                                        "street2": "19TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37306",
+                    "firm_bd_sec_number": "47765",
+                    "firm_bd_full_sec_number": "8-47765",
+                    "firm_name": "DWS DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "DEAWM DISTRIBUTORS, INC.",
+                        "ZURICH KEMPER DISTRIBUTORS, INC.",
+                        "SCUDDER DISTRIBUTORS, INC.",
+                        "KEMPER DISTRIBUTORS, INC.",
+                        "DWS SCUDDER DISTRIBUTORS, INC.",
+                        "DWS INVESTMENTS DISTRIBUTORS, INC",
+                        "DWS DISTRIBUTORS, INC.",
+                        "DEUTSCHE AM DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"222 SOUTH RIVERSIDE PLAZA\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606-5808\"}, \"mailingAddress\": {\"street1\": \"875 THIRD AVENUE\", \"street2\": \"27TH FLOOR- MAIL STOP NYC03-2720\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-454-8608\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "875 Third Avenue",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35560",
+                    "firm_bd_sec_number": "46816",
+                    "firm_bd_full_sec_number": "8-46816",
+                    "firm_name": "ICBC STANDARD SECURITIES INC.",
+                    "firm_other_names": [
+                        "ICBC STANDARD SECURITIES INC.",
+                        "STANDARD NEW YORK, INC",
+                        "STANDARD NEW YORK SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"520 MADISON AVENUE\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"520 MADISON AVENUE\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 407-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "520 MADISON AVENUE",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6939",
+                    "firm_bd_sec_number": "19412",
+                    "firm_bd_full_sec_number": "8-19412",
+                    "firm_name": "INVESCO CAPITAL MARKETS, INC.",
+                    "firm_other_names": [
+                        "INVESCO CAPITAL MARKETS, INC.",
+                        "ZEDD SECURITIES",
+                        "VAN KAMPEN/AMERICAN CAPITAL DISTRIBUTORS, INC.",
+                        "VAN KAMPEN MERRITT INC.",
+                        "VAN KAMPEN FUNDS INC.",
+                        "VAN KAMPEN FILKIN & MERRITT INC.",
+                        "VAN KAMPEN AMERICAN CAPITAL DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 GREENWAY PLAZA\", \"street2\": \"SUITE 1000\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77046\"}, \"mailingAddress\": {\"street1\": \"11 GREENWAY PLAZA\", \"street2\": \"SUITE 1000\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77046\"}, \"businessPhoneNumber\": \"713-214-1919\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 Liberty St.",
+                                        "street2": "11th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2525",
+                    "firm_bd_sec_number": "17822",
+                    "firm_bd_full_sec_number": "8-17822",
+                    "firm_ia_sec_number": "9638",
+                    "firm_ia_full_sec_number": "801-9638",
+                    "firm_name": "DEUTSCHE BANK SECURITIES INC.",
+                    "ia_firm_name": "DEUTSCHE BANK SECURITIES INC.",
+                    "firm_other_names": [
+                        "C. J. LAWRENCE INC.",
+                        "DEUTSCHE MORGAN GRENFELL/C. J. LAWRENCE INC.",
+                        "DEUTSCHE MORGAN GRENFELL INC.",
+                        "DEUTSCHE BANK SECURITIES INC.",
+                        "DEUTSCHE BANC ALEX. BROWN INC.",
+                        "CYRUS J. LAWRENCE INCORPORATED",
+                        "C.J. LAWRENCE/DEUTSCHE BANK SECURITIES CORPORATION",
+                        "C.J. LAWRENCE, MORGAN GRENFELL INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 COLUMBUS CIRCLE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1 COLUMBUS CIRCLE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-250-2500\", \"iaFirmName\": \"DEUTSCHE BANK SECURITIES INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1 COLUMBUS CIRCLE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10019\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 COLUMBUS CIRCLE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131487",
+                    "firm_bd_sec_number": "66471",
+                    "firm_bd_full_sec_number": "8-66471",
+                    "firm_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA FINANCIAL SERVICES LLC",
+                    "ia_firm_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA FINANCIAL SERVICES LLC",
+                    "firm_other_names": [
+                        "INDUSTRIAL AND COMMERCIAL BANK OF CHINA FINANCIAL SERVICES LLC",
+                        "STRONG CITY SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"(212) 993-7305\", \"iaFirmName\": \"INDUSTRIAL AND COMMERCIAL BANK OF CHINA FINANCIAL SERVICES LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1633 BROADWAY, 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10019\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1633 BROADWAY",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36308",
+                    "firm_bd_sec_number": "47186",
+                    "firm_bd_full_sec_number": "8-47186",
+                    "firm_name": "MFR SECURITIES, INC.",
+                    "firm_other_names": [
+                        "MARIA FIORINI RAMIREZ SECURITIES, INC.",
+                        "MFR SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"630 THIRD AVENUE\", \"street2\": \"SUITE 1203\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"630 THIRD AVENUE\", \"street2\": \"SUITE 1203\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-416-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "630 THIRD AVENUE",
+                                        "street2": "Suite 1203",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38455",
+                    "firm_bd_sec_number": "48255",
+                    "firm_bd_full_sec_number": "8-48255",
+                    "firm_name": "MATRIX EXECUTIONS, LLC",
+                    "firm_other_names": [
+                        "ITG DERIVATIVES LLC.",
+                        "YOURTRADE.COM SECURITIES, INC.",
+                        "REDSKY SECURITIES, LLC",
+                        "REDSKY SECURITIES, INC.",
+                        "REDSKY FINANCIAL, LLC",
+                        "MATRIX EXECUTIONS, LLC",
+                        "LAKE KATHERINE SECURITIES, LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"141 W JACKSON BLVD\", \"street2\": \"SUITE 2020A\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60604\"}, \"mailingAddress\": {\"street1\": \"141 W JACKSON BLVD\", \"street2\": \"SUITE 2020A\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60604\"}, \"businessPhoneNumber\": \"312-334-8040\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "135 w 41st Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7369",
+                    "firm_bd_sec_number": "21323",
+                    "firm_bd_full_sec_number": "8-21323",
+                    "firm_name": "INVESCO DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "A I M  DISTRIBUTORS, INC.",
+                        "INVESCO DISTRIBUTORS, INC.",
+                        "INVESCO AIM DISTRIBUTORS, INC. (EFFECTIVE 03/31/08)",
+                        "INVESCO AIM DISTRIBUTORS, INC.",
+                        "A.I.M. DISTRIBUTORS, INC.",
+                        "A I M DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 32,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 GREENWAY PLAZA\", \"street2\": \"SUITE 1000\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77046-1173\"}, \"mailingAddress\": {\"street1\": \"11 GREENWAY PLAZA\", \"street2\": \"SUITE 1000\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"77046-1173\"}, \"businessPhoneNumber\": \"713-214-1919\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "350 LINDEN OAKS",
+                                        "city": "ROCHESTER",
+                                        "state": "NY",
+                                        "zipCode": "14625"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "165594",
+                    "firm_bd_sec_number": "69172",
+                    "firm_bd_full_sec_number": "8-69172",
+                    "firm_name": "CONFIGURE PARTNERS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CONFIGURE PARTNERS SECURITIES, LLC",
+                        "GLASSRATNER SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3344 PEACHTREE ROAD NE\", \"street2\": \"SUITE 1500\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30326\"}, \"mailingAddress\": {\"street1\": \"3344 PEACHTREE ROAD NE\", \"street2\": \"SUITE 1500\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30326\"}, \"businessPhoneNumber\": \"646-690-9353\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "12 E 49th Street",
+                                        "street2": "7th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2528",
+                    "firm_bd_sec_number": "2595",
+                    "firm_bd_full_sec_number": "8-2595",
+                    "firm_name": "LAZARD FRERES & CO. LLC",
+                    "firm_other_names": [
+                        "LAZARD ASSET MANAGEMENT",
+                        "LAZARD FRERES & CO. LLC",
+                        "LAZARD FRERES & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 ROCKEFELLER PLAZA\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020-5900\"}, \"mailingAddress\": {\"street1\": \"30 ROCKEFELLER PLAZA\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020-5900\"}, \"businessPhoneNumber\": \"(212) 632-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 ROCKEFELLER PLAZA",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

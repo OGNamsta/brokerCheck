@@ -1,0 +1,449 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "164469",
+                    "firm_bd_sec_number": "69103",
+                    "firm_bd_full_sec_number": "8-69103",
+                    "firm_name": "CORSAIR ADVISORS LLC",
+                    "firm_other_names": [
+                        "CORSAIR ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"717 FIFTH AVENUE\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"717 FIFTH AVENUE\", \"street2\": \"24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 224-9400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "717 FIFTH AVENUE",
+                                        "street2": "24TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "316863",
+                    "firm_bd_sec_number": "70818",
+                    "firm_bd_full_sec_number": "8-70818",
+                    "firm_name": "FIN2",
+                    "firm_other_names": [
+                        "FIN2",
+                        "FIN2, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"80 BROAD STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"80 BROAD STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"9173452461\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "80 BROAD STREET",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131345",
+                    "firm_bd_sec_number": "66451",
+                    "firm_bd_full_sec_number": "8-66451",
+                    "firm_ia_sec_number": "71185",
+                    "firm_ia_full_sec_number": "801-71185",
+                    "firm_name": "PRINCIPLED ADVISORS, INC.",
+                    "ia_firm_name": "PRINCIPLED ADVISORS, INC.",
+                    "firm_other_names": [
+                        "PRINCIPLE ADVISORS, INC.",
+                        "PRINCIPLED ADVISORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"55 BROOKSIDE LOOP\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10309\"}, \"mailingAddress\": {\"street1\": \"55 BROOKSIDE LOOP\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10309\"}, \"businessPhoneNumber\": \"877-860-0900\", \"iaFirmName\": \"PRINCIPLED ADVISORS, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1110 SOUTH AVENUE\", \"city\": \"STATEN ISLAND\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10314\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1110 SOUTH AVENUE",
+                                        "city": "STATEN ISLAND",
+                                        "state": "NY",
+                                        "zipCode": "10314"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "165041",
+                    "firm_bd_sec_number": "69131",
+                    "firm_bd_full_sec_number": "8-69131",
+                    "firm_name": "EUROLINK SECURITIES LLC",
+                    "firm_other_names": [
+                        "EUROLINK SECURITIES LLC",
+                        "SECURITIES COMPLIANCE MANAGEMENT"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 RADISSON PLAZA - SUITE 701\", \"city\": \"NEW ROCHELLE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10801\"}, \"mailingAddress\": {\"street1\": \"1 RADISSON PLAZA - SUITE 701\", \"city\": \"NEW ROCHELLE\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10801\"}, \"businessPhoneNumber\": \"646-331-2808\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 RADISSON PLAZA - SUITE 701",
+                                        "city": "NEW ROCHELLE",
+                                        "state": "NY",
+                                        "zipCode": "10801"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "282433",
+                    "firm_bd_sec_number": "69713",
+                    "firm_bd_full_sec_number": "8-69713",
+                    "firm_name": "WALLER HELMS SECURITIES LLC",
+                    "firm_other_names": [
+                        "WALLER HELMS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"225 W. WACKER DRIVE\", \"street2\": \"SUITE 500\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"225 W. WACKER DRIVE\", \"street2\": \"SUITE 500\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-763-9910\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "9 East 40th Street",
+                                        "street2": "16th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "300947",
+                    "firm_bd_sec_number": "70308",
+                    "firm_bd_full_sec_number": "8-70308",
+                    "firm_name": "BC PARTNERS SECURITIES LLC",
+                    "firm_other_names": [
+                        "BC PARTNERS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"650 MADISON AVENUE\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"650 MADISON AVE\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-891-8220\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "650 MADISON AVENUE",
+                                        "street2": "23RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "289429",
+                    "firm_bd_sec_number": "69992",
+                    "firm_bd_full_sec_number": "8-69992",
+                    "firm_name": "AFW ASSOCIATES LLC",
+                    "firm_other_names": [
+                        "AFW ASSOCIATES LLC",
+                        "STAVLO ASSOCIATES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"152 WEST 57TH STREET\", \"street2\": \"36TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"152 WEST 57TH STREET\", \"street2\": \"36TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212 838-8810\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "152 WEST 57TH STREET",
+                                        "street2": "36TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "153581",
+                    "firm_bd_sec_number": "68557",
+                    "firm_bd_full_sec_number": "8-68557",
+                    "firm_name": "GLC SECURITIES, LLC",
+                    "firm_other_names": [
+                        "GLC SECURITIES, LLC",
+                        "GLCA SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 LEXINGTON AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"600 LEXINGTON AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212.542.4540\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "600 Lexington Avenue",
+                                        "street2": "9th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "25425",
+                    "firm_bd_sec_number": "41597",
+                    "firm_bd_full_sec_number": "8-41597",
+                    "firm_name": "HOVDE GROUP, LLC",
+                    "firm_other_names": [
+                        "HOVDE GROUP, LLC",
+                        "HOVDE SECURITIES, INC.",
+                        "HOVDE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1629 COLONIAL PARKWAY\", \"city\": \"INVERNESS\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60067\"}, \"mailingAddress\": {\"street1\": \"1629 COLONIAL PARKWAY\", \"city\": \"INVERNESS\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60067\"}, \"businessPhoneNumber\": \"847-991-6622\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE PIERREPONT PLAZE 300 CADMAN PLAZA WEST",
+                                        "street2": "SUITE 12030",
+                                        "city": "BROOKLYN",
+                                        "state": "NY",
+                                        "zipCode": "11201"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "45446",
+                    "firm_bd_sec_number": "51043",
+                    "firm_bd_full_sec_number": "8-51043",
+                    "firm_name": "ARTISAN PARTNERS DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "ARTISAN DISTRIBUTORS LLC",
+                        "ARTISAN PARTNERS DISTRIBUTORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 14,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"875 E. WISCONSIN AVENUE\", \"street2\": \"SUITE 800\", \"city\": \"MILWAUKEE\", \"state\": \"WI\", \"country\": \"UNITED STATES\", \"postalCode\": \"53202\"}, \"mailingAddress\": {\"street1\": \"875 E. WISCONSIN AVENUE\", \"street2\": \"SUITE 800\", \"city\": \"MILWAUKEE\", \"state\": \"WI\", \"country\": \"UNITED STATES\", \"postalCode\": \"53202\"}, \"businessPhoneNumber\": \"414-390-6100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "745 Fifth Avenue",
+                                        "street2": "20th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10151"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "289301",
+                    "firm_bd_sec_number": "69987",
+                    "firm_bd_full_sec_number": "8-69987",
+                    "firm_name": "GLMX TECHNOLOGIES, LLC",
+                    "firm_other_names": [
+                        "GLMX TECHNOLOGIES LLC",
+                        "GLMX TECHNOLOGIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"330 SEVENTH AVENUE, FLOOR 17\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"330 SEVENTH AVENUE, FLOOR 17\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"929-445-6900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 SEVENTH AVENUE, FLOOR 17",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139768",
+                    "firm_bd_sec_number": "67245",
+                    "firm_bd_full_sec_number": "8-67245",
+                    "firm_name": "BREN VENTURES LLC",
+                    "firm_other_names": [
+                        "BREN VENTURES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"590 MADISON AVENUE, 21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"590 MADISON AVENUE, 26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-644-8899\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "590 MADISON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

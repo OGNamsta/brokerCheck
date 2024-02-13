@@ -1,0 +1,451 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19541",
+                    "firm_bd_sec_number": "37601",
+                    "firm_bd_full_sec_number": "8-37601",
+                    "firm_name": "PROFUNDS DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "CONCORD FINANCIAL GROUP, INC.",
+                        "PROFUNDS DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"7272 WISCONSIN AVE.\", \"street2\": \"21ST FLOOR\", \"city\": \"BETHESDA\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"20814-6527\"}, \"mailingAddress\": {\"street1\": \"7272 WISCONSIN AVE.\", \"street2\": \"21ST FLOOR\", \"city\": \"BETHESDA\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"20814-6527\"}, \"businessPhoneNumber\": \"240-497-6400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "66 Hudson Blvd E",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299801",
+                    "firm_bd_sec_number": "70268",
+                    "firm_bd_full_sec_number": "8-70268",
+                    "firm_name": "JAHANI SECURITIES INC.",
+                    "firm_other_names": [
+                        "JAHANI AND ASSOCIATES BD, LLC",
+                        "JAHANI SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"641 LEXINGTON AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"641 LEXINGTON AVENUE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"617-756-4909\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "641 LEXINGTON AVENUE",
+                                        "street2": "15th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "315499",
+                    "firm_bd_sec_number": "70748",
+                    "firm_bd_full_sec_number": "8-70748",
+                    "firm_name": "GTN AMERICAS FINANCIAL SERVICES",
+                    "firm_other_names": [
+                        "GTN AMERICAS FINANCIAL SERVICES",
+                        "GTN AMERICAS FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"32 OLD SLIP\", \"street2\": \"SUITE 3200C\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"32 OLD SLIP\", \"street2\": \"SUITE 201\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"332-230-1184\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "32 OLD SLIP",
+                                        "street2": "SUITE 3200C",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322870",
+                    "firm_bd_sec_number": "70964",
+                    "firm_bd_full_sec_number": "8-70964",
+                    "firm_name": "REMSENBURG CAPITAL, LLC",
+                    "firm_other_names": [
+                        "REMSENBURG CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5 GODFREY LANE\", \"street2\": \"BX 52\", \"city\": \"REMSENBURG\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11960\"}, \"mailingAddress\": {\"street1\": \"5 GODFREY LANE\", \"street2\": \"BX 52\", \"city\": \"REMSENBURG\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11960\"}, \"businessPhoneNumber\": \"917-842-1056\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "5 GODFREY LANE",
+                                        "street2": "BX 52",
+                                        "city": "REMSENBURG",
+                                        "state": "NY",
+                                        "zipCode": "11960"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "287728",
+                    "firm_bd_sec_number": "69908",
+                    "firm_bd_full_sec_number": "8-69908",
+                    "firm_name": "STASH CAPITAL LLC",
+                    "firm_other_names": [
+                        "STASH CAPITAL LLC",
+                        "STASH FINANCIAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"257 PARK AVENUE SOUTH\", \"street2\": \"SUITE 900\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"115 E 34TH ST\", \"street2\": \"P.O. BOX 1922\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"800-205-5164\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "257 PARK AVENUE SOUTH",
+                                        "street2": "SUITE 900",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7031",
+                    "firm_bd_sec_number": "19273",
+                    "firm_bd_full_sec_number": "8-19273",
+                    "firm_name": "STOEVER, GLASS & COMPANY INC.",
+                    "firm_other_names": [
+                        "STOEVER, GLASS & COMPANY INC.",
+                        "STOEVER,GLASS & COMPANY INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"30 WALL STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"30 WALL STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-952-1930\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "30 WALL STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "300059",
+                    "firm_bd_sec_number": "70287",
+                    "firm_bd_full_sec_number": "8-70287",
+                    "firm_name": "MIZUHO SECURITIES CANADA INC.",
+                    "firm_other_names": [
+                        "MIZUHO SECURITIES CANADA INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1271 AVENUE OF THE AMERICAS\", \"street2\": \"FLOORS - 2,3,4,18,19\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1271 AVENUE OF THE AMERICAS\", \"street2\": \"FLOORS - 2,3,4,18,19\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-209-9300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1271 AVENUE OF THE AMERICAS",
+                                        "street2": "FLOORS 2,3,4,18,19",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "313304",
+                    "firm_bd_sec_number": "70682",
+                    "firm_bd_full_sec_number": "8-70682",
+                    "firm_name": "TCBI SECURITIES",
+                    "firm_other_names": [
+                        "TCBI SECURITIES",
+                        "TEXAS CAPITAL SECURITIES",
+                        "TCBI SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2000 MCKINNEY AVENUE\", \"street2\": \"SUITE 700\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75201\"}, \"mailingAddress\": {\"street1\": \"2000 MCKINNEY AVENUE\", \"street2\": \"SUITE 700\", \"city\": \"DALLAS\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"75201\"}, \"businessPhoneNumber\": \"214-932-6671\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1501 Broadway, Suite 2302",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2498",
+                    "firm_bd_sec_number": "25581",
+                    "firm_bd_full_sec_number": "8-25581",
+                    "firm_ia_sec_number": "107428",
+                    "firm_ia_full_sec_number": "801-107428",
+                    "firm_name": "R. F. LAFFERTY & CO., INC.",
+                    "ia_firm_name": "R. F. LAFFERTY & CO., INC.",
+                    "firm_other_names": [
+                        "FULCRUM GROUP",
+                        "SCARSDALE GROUP",
+                        "R. F. LAFFERTY & CO., INC.",
+                        "MORADA CAPITAL SECURITIES LLC",
+                        "KERN SUSLOW"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"40 WALL STREET\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-293-9090\", \"iaFirmName\": \"R. F. LAFFERTY & CO., INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"40 WALL STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10005\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "IRVINGTON",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "40305",
+                    "firm_bd_sec_number": "49005",
+                    "firm_bd_full_sec_number": "8-49005",
+                    "firm_name": "SENTINEL BROKERS COMPANY, INC.",
+                    "firm_other_names": [
+                        "LAWLESS, JOSEPH MATHEW",
+                        "SENTINEL BROKERS COMPANY, INC.",
+                        "SENTINEL BROKERS COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"102 XANADU PLACE\", \"city\": \"JUPITER\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33477\"}, \"mailingAddress\": {\"street1\": \"102 XANADU PLACE\", \"city\": \"JUPITER\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33477\"}, \"businessPhoneNumber\": \"561-406-2242\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 Yale Place",
+                                        "city": "Rockville Centre",
+                                        "state": "NY",
+                                        "zipCode": "11570"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "115876",
+                    "firm_bd_sec_number": "53512",
+                    "firm_bd_full_sec_number": "8-53512",
+                    "firm_name": "PROBITAS FUNDS GROUP, LLC",
+                    "firm_other_names": [
+                        "PROBITAS FUNDS GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"425 CALIFORNIA STREET\", \"street2\": \"SUITE 550\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94104\"}, \"mailingAddress\": {\"street1\": \"425 CALIFORNIA STREET\", \"street2\": \"SUITE 550\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"USA\", \"postalCode\": \"94104\"}, \"businessPhoneNumber\": \"415 402-0700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 E 42nd Street (One Grand Central Place)",
+                                        "street2": "Suite 856",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "146057",
+                    "firm_bd_sec_number": "67788",
+                    "firm_bd_full_sec_number": "8-67788",
+                    "firm_name": "STARWOOD CAPITAL, L.L.C.",
+                    "firm_other_names": [
+                        "591 CAPITAL SECURITIES, L.L.C.",
+                        "STARWOOD CAPITAL, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"591 WEST PUTNAM AVENUE\", \"city\": \"GREENWICH\", \"state\": \"CT\", \"postalCode\": \"06830\"}, \"mailingAddress\": {\"street1\": \"591 WEST PUTNAM AVENUE\", \"city\": \"GREENWICH\", \"state\": \"CT\", \"postalCode\": \"06830\"}, \"businessPhoneNumber\": \"203-422-7775\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "40 10th Ave",
+                                        "street2": "8th Fl",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

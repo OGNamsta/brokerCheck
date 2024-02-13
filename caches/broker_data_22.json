@@ -1,0 +1,450 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43432",
+                    "firm_bd_sec_number": "50272",
+                    "firm_bd_full_sec_number": "8-50272",
+                    "firm_name": "SAMSUNG SECURITIES (AMERICA), INC.",
+                    "firm_other_names": [
+                        "SAMSUNG SECURITIES (AMERICA), INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1330 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 1020\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1330 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 1020\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-707-6800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1330 AVENUE OF THE AMERICAS",
+                                        "street2": "SUITE 1020",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "168752",
+                    "firm_bd_sec_number": "69327",
+                    "firm_bd_full_sec_number": "8-69327",
+                    "firm_name": "METHUSELAH CAPITAL LLC",
+                    "firm_other_names": [
+                        "METHUSELAH CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3110 W. CALIFORNIA AVE\", \"street2\": \"SUITE C\", \"city\": \"SALT LAKE CITY\", \"state\": \"UT\", \"country\": \"USA\", \"postalCode\": \"84104\"}, \"mailingAddress\": {\"street1\": \"3110 W. CALIFORNIA AVE\", \"street2\": \"SUITE C\", \"city\": \"SALT LAKE CITY\", \"state\": \"UT\", \"country\": \"USA\", \"postalCode\": \"84104\"}, \"businessPhoneNumber\": \"435-414-1338\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 THIRD AVENUE, 39TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "281867",
+                    "firm_bd_sec_number": "69691",
+                    "firm_bd_full_sec_number": "8-69691",
+                    "firm_name": "OLD MISSION MARKETS LLC",
+                    "firm_other_names": [
+                        "OLD MISSION MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 N. DEARBORN ST.\", \"street2\": \"8TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60602\"}, \"mailingAddress\": {\"street1\": \"1 N. DEARBORN ST.\", \"street2\": \"8TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60602\"}, \"businessPhoneNumber\": \"312-260-3052\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 Broadway",
+                                        "street2": "11th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10271"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "198516",
+                    "firm_bd_sec_number": "69615",
+                    "firm_bd_full_sec_number": "8-69615",
+                    "firm_name": "INTREPID PARTNERS, LLC",
+                    "firm_other_names": [
+                        "INTREPID PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"712 FIFTH AVENUE, 31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"712 FIFTH AVENUE, 31ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"US\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-388-5020\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "712 FIFTH AVENUE, 31ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "119107",
+                    "firm_bd_sec_number": "53738",
+                    "firm_bd_full_sec_number": "8-53738",
+                    "firm_name": "EQUILEND",
+                    "firm_other_names": [
+                        "EQUILEND",
+                        "EQUILEND LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"225 LIBERTY STREET, 10TH FLOOR\", \"street2\": \"SUITE 1020\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"225 LIBERTY STREET, 10TH FLOOR\", \"street2\": \"SUITE 1020\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-901-2272\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 Liberty STREET",
+                                        "street2": "10TH FLOOR, suite 1020",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47788",
+                    "firm_bd_sec_number": "51906",
+                    "firm_bd_full_sec_number": "8-51906",
+                    "firm_name": "BETTERMENT SECURITIES",
+                    "firm_other_names": [
+                        "BETTERMENT SECURITIES",
+                        "PARK HILL CAPITAL, INC.",
+                        "MTG, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"27 WEST 23RD STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"8 WEST 24TH STREET\", \"street2\": \"6TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"203-518-6993\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "27 WEST 23RD STREET",
+                                        "street2": "6TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "168757",
+                    "firm_bd_sec_number": "69325",
+                    "firm_bd_full_sec_number": "8-69325",
+                    "firm_name": "J.C. FLOWERS SECURITIES CO. LLC",
+                    "firm_other_names": [
+                        "J.C. FLOWERS SECURITIES CO. LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"767 FIFTH AVENUE, 23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10153\"}, \"mailingAddress\": {\"street1\": \"767 FIFTH AVENUE, 23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10153\"}, \"businessPhoneNumber\": \"212 404-6800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "767 FIFTH AVENUE, 23RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10153"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2440",
+                    "firm_bd_sec_number": "13028",
+                    "firm_bd_full_sec_number": "8-13028",
+                    "firm_ia_sec_number": "9182",
+                    "firm_ia_full_sec_number": "801-9182",
+                    "firm_name": "KIMELMAN & BAIRD, LLC",
+                    "ia_firm_name": "KIMELMAN & BAIRD, LLC",
+                    "firm_other_names": [
+                        "KIMELMAN & BAIRD, LLC",
+                        "M. KIMELMAN & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 THIRD AVENUE, SUITE 2300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"800 THIRD AVENUE, SUITE 2300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-686-0021\", \"iaFirmName\": \"KIMELMAN & BAIRD, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"800 THIRD AVENUE\", \"street2\": \"SUITE 2300\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10022\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 THIRD AVENUE, SUITE 2300",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285480",
+                    "firm_bd_sec_number": "69844",
+                    "firm_bd_full_sec_number": "8-69844",
+                    "firm_name": "PANTHEON SECURITIES, LLC",
+                    "firm_other_names": [
+                        "PANTHEON SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 TIMES SQUARE\", \"street2\": \"35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"11 TIMES SQUARE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-205-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 TIMES SQUARE",
+                                        "street2": "35TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37821",
+                    "firm_bd_sec_number": "48011",
+                    "firm_bd_full_sec_number": "8-48011",
+                    "firm_name": "RENCAP SECURITIES, INC.",
+                    "firm_other_names": [
+                        "RC SECURITIES, INC.",
+                        "TAURUS GLOBAL SECURITIES, INC.",
+                        "RENCAP SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"142 W 57TH ST.\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"142 W 57TH ST.\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"(203) 520-6385\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "142 West 57th St.",
+                                        "street2": "8th Floor - Suite 100",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "142846",
+                    "firm_bd_sec_number": "67496",
+                    "firm_bd_full_sec_number": "8-67496",
+                    "firm_name": "HRC FUND ASSOCIATES, LLC",
+                    "firm_other_names": [
+                        "D/B/A TIVIRA PARTNERS",
+                        "MMB SECURITIES LLC",
+                        "LIBERTY STREET SECURITIES LLC",
+                        "HRC FUND ASSOCIATES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"88 PINE STREET\", \"street2\": \"31ST FLOOR, SUITE 3101\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"88 PINE STREET\", \"street2\": \"31ST FLOOR, SUITE 3101\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-240-9726\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "88 PINE STREET",
+                                        "street2": "31ST FLOOR, SUITE 3101",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44965",
+                    "firm_bd_sec_number": "50911",
+                    "firm_bd_full_sec_number": "8-50911",
+                    "firm_name": "MANORHAVEN CAPITAL LLC",
+                    "firm_other_names": [
+                        "BENGAL PARTNERS LLC",
+                        "MANORHAVEN CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"120 WALL STREET\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"120 WALL STREET\", \"street2\": \"25TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"646-230-1050\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "120 WALL STREET",
+                                        "street2": "25TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

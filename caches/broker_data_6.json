@@ -1,0 +1,445 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159281",
+                    "firm_bd_sec_number": "68978",
+                    "firm_bd_full_sec_number": "8-68978",
+                    "firm_name": "KISKI SECURITIES LLC",
+                    "firm_other_names": [
+                        "KISKI SECURITIES LLC",
+                        "KISKI SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1330 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 23A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1330 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 23A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"646-412-6341\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1330 AVENUE OF THE AMERICAS",
+                                        "street2": "SUITE 23A",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8330",
+                    "firm_bd_sec_number": "24971",
+                    "firm_bd_full_sec_number": "8-24971",
+                    "firm_name": "SEAPORT SECURITIES CORP.",
+                    "firm_other_names": [
+                        "SEAPORT SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60 BROAD STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"60 BROAD STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212 482 8689\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 BROAD STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30149",
+                    "firm_bd_sec_number": "44763",
+                    "firm_bd_full_sec_number": "8-44763",
+                    "firm_name": "DSIL INVESTMENT SERVICES LLC",
+                    "firm_other_names": [
+                        "DOMINI SOCIAL INVESTMENT SERVICES, CORP.",
+                        "EBC DISTRIBUTORS, INC.",
+                        "DSIL INVESTMENT SERVICES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"180 MAIDEN LANE\", \"street2\": \"SUITE 1302\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10038-4925\"}, \"mailingAddress\": {\"street1\": \"180 MAIDEN LANE\", \"street2\": \"SUITE 1302\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10038-4925\"}, \"businessPhoneNumber\": \"212-217-1100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "180 Maiden Lane",
+                                        "street2": "Suite 1302",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "113226",
+                    "firm_bd_sec_number": "53309",
+                    "firm_bd_full_sec_number": "8-53309",
+                    "firm_name": "FLEXTRADE LLC",
+                    "firm_other_names": [
+                        "FLEXTRADE LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"111 GREAT NECK ROAD\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11021\"}, \"mailingAddress\": {\"street1\": \"111 GREAT NECK ROAD\", \"street2\": \"SUITE 314\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11021\"}, \"businessPhoneNumber\": \"516-627-8993\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "111 GREAT NECK ROAD",
+                                        "city": "GREAT NECK",
+                                        "state": "NY",
+                                        "zipCode": "11021"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "284893",
+                    "firm_bd_sec_number": "69814",
+                    "firm_bd_full_sec_number": "8-69814",
+                    "firm_name": "BLUESQUARE CAPITAL ADVISORS, LLC",
+                    "firm_other_names": [
+                        "BLUESQUARE CAPITAL ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"15 SHOOKVILLE RD.\", \"city\": \"MILAN\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"12571\"}, \"mailingAddress\": {\"street1\": \"15 SHOOKVILLE RD.\", \"city\": \"MILAN\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"12571\"}, \"businessPhoneNumber\": \"646 661-1140 EXT. 101\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "15 SHOOKVILLE RD.",
+                                        "city": "MILAN",
+                                        "state": "NY",
+                                        "zipCode": "12571"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35972",
+                    "firm_bd_sec_number": "46982",
+                    "firm_bd_full_sec_number": "8-46982",
+                    "firm_name": "HAMILTON CAVANAUGH & ASSOCIATES, INC.",
+                    "ia_firm_name": "HAMILTON CAVANAUGH & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "HAMILTON CAVANAUGH & ASSOCIATES, INC.",
+                        "HAMILTON CAVANAUGH INVESTMENT BROKERS,INC.",
+                        "HAMILTON CAVANAUGH INVESTMENT BROKERS, INC.",
+                        "HAMILTON CAVANAUGH INVESTMENT ADVISORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2975 WESTCHESTER AVE\", \"street2\": \"SUITE 114\", \"city\": \"PURCHASE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10577\"}, \"mailingAddress\": {\"street1\": \"2975 WESTCHESTER AVE\", \"street2\": \"SUITE 114\", \"city\": \"PURCHASE\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10577\"}, \"businessPhoneNumber\": \"(914) 761-6110\", \"iaFirmName\": \"HAMILTON CAVANAUGH & ASSOCIATES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"661 N. BROADWAY\", \"city\": \"NORTH WHITE PLAINS\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10603\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2975 WESTCHESTER AVE",
+                                        "street2": "SUITE 114",
+                                        "city": "PURCHASE",
+                                        "state": "NY",
+                                        "zipCode": "10577"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "291875",
+                    "firm_bd_sec_number": "70064",
+                    "firm_bd_full_sec_number": "8-70064",
+                    "firm_name": "FUSION PARTNERS GLOBAL LLC",
+                    "firm_other_names": [
+                        "FUSION PARTNERS GLOBAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"205 EAST 59 ST., SUITE 12B\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"205 EAST 59 ST., SUITE 12B\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"917-821-1824\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "205 East 59 St., Suite 12B",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "32830",
+                    "firm_bd_sec_number": "41953",
+                    "firm_bd_full_sec_number": "8-41953",
+                    "firm_name": "FARINA & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "FARINA & ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"C/O BAYAT CONSULTING, INC.\", \"street2\": \"14 WALL STREET, 20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"C/O BAYAT CONSULTING, INC.\", \"street2\": \"14 WALL STREET, 20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"212-742-9105\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "C/O BAYAT CONSULTING, INC.",
+                                        "street2": "14 WALL STREET, 20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "46725",
+                    "firm_bd_sec_number": "51512",
+                    "firm_bd_full_sec_number": "8-51512",
+                    "firm_name": "FREDERICKS MICHAEL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "FM VENTURES, INC.",
+                        "FREDERICKS MICHAEL SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"430 PARK AVENUE\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"430 PARK AVENUE\", \"street2\": \"8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-732-1600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "430 PARK AVENUE",
+                                        "street2": "8TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127772",
+                    "firm_bd_sec_number": "66043",
+                    "firm_bd_full_sec_number": "8-66043",
+                    "firm_name": "INNER CIRCLE SPORTS LLC",
+                    "firm_other_names": [
+                        "INNER CIRCLE SPORTS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6501 CONGRESS AVENUE\", \"street2\": \"6501\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33487\"}, \"mailingAddress\": {\"street1\": \"6501 CONGRESS AVENUE\", \"city\": \"BOCA RATON\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33487\"}, \"businessPhoneNumber\": \"9176994620\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "441 lexington avenue",
+                                        "city": "new york",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28016",
+                    "firm_bd_sec_number": "43368",
+                    "firm_bd_full_sec_number": "8-43368",
+                    "firm_name": "BERENSON & COMPANY, LLC",
+                    "firm_other_names": [
+                        "BERENSON & COMPANY, LLC",
+                        "BERENSON MINELLA & COMPANY, L.P.",
+                        "BERENSON MINELLA & COMPANY LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"667 MADISON AVENUE\", \"street2\": \"18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10065\"}, \"mailingAddress\": {\"street1\": \"667 MADISON AVENUE\", \"street2\": \"18TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10065\"}, \"businessPhoneNumber\": \"(212) 935-7676\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "667 MADISON AVENUE",
+                                        "street2": "18TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10065"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "156046",
+                    "firm_bd_sec_number": "68765",
+                    "firm_bd_full_sec_number": "8-68765",
+                    "firm_name": "SUSTAINABLE DEVELOPMENT CAPITAL, LLC",
+                    "firm_other_names": [
+                        "SUSTAINABLE DEVELOPMENT CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"SUITE 1100\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10165\"}, \"mailingAddress\": {\"street1\": \"60 EAST 42ND STREET\", \"street2\": \"SUITE 1100\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10165\"}, \"businessPhoneNumber\": \"917 941-8334\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60 East 42nd Street , Suite 1100",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10165"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

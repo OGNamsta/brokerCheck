@@ -1,0 +1,461 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7297",
+                    "firm_bd_sec_number": "21765",
+                    "firm_bd_full_sec_number": "8-21765",
+                    "firm_name": "REGAL SECURITIES, INC.",
+                    "firm_other_names": [
+                        "E-OPTION",
+                        "SUCCESS TRADER",
+                        "REGAL WEALTH MANAGEMENT, INC.",
+                        "REGAL SECURITIES, INC.",
+                        "REGAL DISCOUNT SECURITIES, INC.",
+                        "REGAL DISCOUNT SECURITIES",
+                        "INVESTRADE DISCOUNT SECURITIES",
+                        "HEARTLAND SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"950 MILWAUKEE AVE.\", \"street2\": \"SUITE 102\", \"city\": \"GLENVIEW\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60025\"}, \"mailingAddress\": {\"street1\": \"950 MILWAUKEE AVE.\", \"street2\": \"SUITE 102\", \"city\": \"GLENVIEW\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60025-3766\"}, \"businessPhoneNumber\": \"800-786-9000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1404 SWEET HOME ROAD",
+                                        "street2": "SUITE 12",
+                                        "city": "AMHERST",
+                                        "state": "NY",
+                                        "zipCode": "14228"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "318437",
+                    "firm_bd_sec_number": "70934",
+                    "firm_bd_full_sec_number": "8-70934",
+                    "firm_name": "ARENS SECURITIES",
+                    "firm_other_names": [
+                        "ARENS SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"199 WATER STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"199 WATER STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"646-924-1770\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "199 WATER STREET",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169807",
+                    "firm_bd_sec_number": "69390",
+                    "firm_bd_full_sec_number": "8-69390",
+                    "firm_name": "PZENA FINANCIAL SERVICES, LLC",
+                    "firm_other_names": [
+                        "PZENA FINANCIAL SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"320 PARK AVENUE, 8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"320 PARK AVENUE, 8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-355-1600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "320 PARK AVENUE",
+                                        "street2": "8TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "22208",
+                    "firm_bd_sec_number": "39613",
+                    "firm_bd_full_sec_number": "8-39613",
+                    "firm_name": "CITIZENS JMP SECURITIES, LLC",
+                    "firm_other_names": [
+                        "CITIZENS CAPITAL MARKETS",
+                        "TRINITY CAPITAL",
+                        "MITCHUM, JONES & TEMPLETON, INC.",
+                        "JOLSON MERCHANT PARTNERS",
+                        "JMP SECURITIES LLC",
+                        "JMP SECURITIES",
+                        "DH CAPITAL",
+                        "CITIZENS JMP SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 18,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 MONTGOMERY STREET, SUITE 1100\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"600 MONTGOMERY STREET, SUITE 1100\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"94111\"}, \"businessPhoneNumber\": \"415-835-8900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "450 PARK AVENUE,",
+                                        "street2": "SUITE 600",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "113404",
+                    "firm_bd_sec_number": "53341",
+                    "firm_bd_full_sec_number": "8-53341",
+                    "firm_name": "DANSKE MARKETS INC.",
+                    "firm_other_names": [
+                        "DANSKE MARKETS INC",
+                        "DANSKE SECURITIES (US), INC.",
+                        "DANSKE MARKETS INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"575 FIFTH AVENUE\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"575 FIFTH AVENUE\", \"street2\": \"33RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"(212) 293-0600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "575 FIFTH AVENUE",
+                                        "street2": "33RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "41527",
+                    "firm_bd_sec_number": "49474",
+                    "firm_bd_full_sec_number": "8-49474",
+                    "firm_name": "VERITY INVESTMENTS, INC.",
+                    "firm_other_names": [
+                        "VERITY INVESTMENTS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"280 S MANGUM ST\", \"street2\": \"STE 550\", \"city\": \"DURHAM\", \"state\": \"NC\", \"country\": \"UNITED STATES\", \"postalCode\": \"27701-3683\"}, \"mailingAddress\": {\"street1\": \"280 S MANGUM ST\", \"street2\": \"STE 550\", \"city\": \"DURHAM\", \"state\": \"NC\", \"country\": \"UNITED STATES\", \"postalCode\": \"27701-3683\"}, \"businessPhoneNumber\": \"919-490-6717\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3075 Veterans Memorial Highway",
+                                        "street2": "Suite 130",
+                                        "city": "Ronkonkoma",
+                                        "state": "NY",
+                                        "zipCode": "11779"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "23723",
+                    "firm_bd_sec_number": "40742",
+                    "firm_bd_full_sec_number": "8-40742",
+                    "firm_name": "BREAN CAPITAL, LLC",
+                    "firm_other_names": [
+                        "BREAN CAPITAL, LLC",
+                        "NATIONAL LIQUIDATORS, INC",
+                        "CARRET SECURITIES, LLC",
+                        "CARRET SECURITIES, INC.",
+                        "BREAN MURRAY, CARRET & CO., LLC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 16,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"505 FIFTH AVENUE\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"505 FIFTH AVENUE\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 702-6500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 FIFTH AVENUE",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "138829",
+                    "firm_bd_sec_number": "67174",
+                    "firm_bd_full_sec_number": "8-67174",
+                    "firm_name": "DAVIS SECURITIES LLC",
+                    "firm_other_names": [
+                        "DAVIS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"31 WEST 34TH STREET\", \"street2\": \"8TH FLOOR, SUITE 8067\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"mailingAddress\": {\"street1\": \"31 WEST 34TH STREET\", \"street2\": \"8TH FLOOR, SUITE 8067\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10001\"}, \"businessPhoneNumber\": \"212-796-8440\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "31 West 34th Street",
+                                        "street2": "8th Floor, Suite 8067",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103861",
+                    "firm_bd_sec_number": "52348",
+                    "firm_bd_full_sec_number": "8-52348",
+                    "firm_name": "HUDSON HOUSING SECURITIES LLC",
+                    "firm_other_names": [
+                        "HUDSON HOUSING SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"630 FIFTH AVENUE, 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"mailingAddress\": {\"street1\": \"630 FIFTH AVENUE, 28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10111\"}, \"businessPhoneNumber\": \"212-218-4488\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "630 FIFTH AVENUE, 28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10111"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172684",
+                    "firm_bd_sec_number": "69520",
+                    "firm_bd_full_sec_number": "8-69520",
+                    "firm_name": "ARK GLOBAL, LLC",
+                    "ia_firm_name": "ARK GLOBAL",
+                    "firm_other_names": [
+                        "ARK GLOBAL",
+                        "ARK GLOBAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"125 FROELICH FARMS BLVD.\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11797\"}, \"mailingAddress\": {\"street1\": \"125 FROELICH FARMS BLVD.\", \"street2\": \"SUITE 6\", \"city\": \"WOODBURY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11797\"}, \"businessPhoneNumber\": \"800-676-2921\", \"iaFirmName\": \"ARK GLOBAL\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"WESTON\", \"state\": \"MA\", \"country\": \"United States\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "125 Froehlich Farm Blvd",
+                                        "city": "Woodbury",
+                                        "state": "NY",
+                                        "zipCode": "11797"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35878",
+                    "firm_bd_sec_number": "47039",
+                    "firm_bd_full_sec_number": "8-47039",
+                    "firm_name": "SPROTT GLOBAL RESOURCE INVESTMENTS LTD",
+                    "firm_other_names": [
+                        "GLOBAL RESOURCE INVESTMENTS, LTD.",
+                        "SPROTT GLOBAL RESOURCE INVESTMENTS LTD"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1910 PALOMAR POINT WAY\", \"street2\": \"SUITE 200\", \"city\": \"CARLSBAD\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92008\"}, \"mailingAddress\": {\"street1\": \"1910 PALOMAR POINT WAY\", \"street2\": \"SUITE 200\", \"city\": \"CARLSBAD\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92008\"}, \"businessPhoneNumber\": \"800-477-7853\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "500 Fifth Avenue",
+                                        "street2": "Suite 3020",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10110"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "285684",
+                    "firm_bd_sec_number": "69857",
+                    "firm_bd_full_sec_number": "8-69857",
+                    "firm_name": "METLIFE INVESTMENTS SECURITIES, LLC",
+                    "firm_other_names": [
+                        "METLIFE INVESTMENTS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE METLIFE WAY\", \"city\": \"WHIPPANY\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07981-1449\"}, \"mailingAddress\": {\"street1\": \"ONE METLIFE WAY\", \"city\": \"WHIPPANY\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07981-1449\"}, \"businessPhoneNumber\": \"973 355-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 Spring Street, 6th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10012"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

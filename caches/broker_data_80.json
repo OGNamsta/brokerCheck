@@ -1,0 +1,450 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "21606",
+                    "firm_bd_sec_number": "39085",
+                    "firm_bd_full_sec_number": "8-39085",
+                    "firm_name": "RICE FINANCIAL PRODUCTS COMPANY",
+                    "firm_other_names": [
+                        "APEX PRYOR SECURITIES, A DIVISION OF RICE FINANCIAL PRODUCTS CO",
+                        "RJR SECURITIES, INC.",
+                        "RICE SECURITIES, LLC",
+                        "RICE FINANCIAL PRODUCTS COMPANY",
+                        "APEX SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4235 HILLSBORO PIKE\", \"street2\": \"SUITE 300\", \"city\": \"NASHVILLE\", \"state\": \"TN\", \"country\": \"UNITED STATES\", \"postalCode\": \"37215\"}, \"mailingAddress\": {\"street1\": \"3 COLUMBUS CIRCLE, 15TH FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-908-9200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3 COLUMBUS CIRCLE",
+                                        "street2": "15TH FL",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "324143",
+                    "firm_bd_sec_number": "71021",
+                    "firm_bd_full_sec_number": "8-71021",
+                    "firm_name": "ST GLOBAL MARKETS USA LLC",
+                    "firm_other_names": [
+                        "ST GLOBAL MARKETS USA LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"45 N. STATION PLAZA\", \"street2\": \"STE 209\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11021\"}, \"mailingAddress\": {\"street1\": \"45 N. STATION PLAZA\", \"street2\": \"STE 209\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11021\"}, \"businessPhoneNumber\": \"855-800-1688\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "45 N. STATION PLAZA",
+                                        "street2": "STE 209",
+                                        "city": "GREAT NECK",
+                                        "state": "NY",
+                                        "zipCode": "11021"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43814",
+                    "firm_bd_sec_number": "50433",
+                    "firm_bd_full_sec_number": "8-50433",
+                    "firm_name": "APW CAPITAL, INC.",
+                    "firm_other_names": [
+                        "APW CAPITAL, INC.",
+                        "COMPREHENSIVE ASSET MANAGEMENT AND SERVICING, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 64,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"100 ENTERPRISE DRIVE, SUITE 504\", \"city\": \"ROCKAWAY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07866\"}, \"mailingAddress\": {\"street1\": \"100 ENTERPRISE DRIVE, SUITE 504\", \"city\": \"ROCKAWAY\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07866\"}, \"businessPhoneNumber\": \"973-394-0404\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "300 Garden City Plaza, Suite 252",
+                                        "city": "Garden City",
+                                        "state": "NY",
+                                        "zipCode": "11530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "286256",
+                    "firm_bd_sec_number": "69876",
+                    "firm_bd_full_sec_number": "8-69876",
+                    "firm_name": "RADIUS SECURITIES LLC",
+                    "firm_other_names": [
+                        "H.O. WARD SECURITIES LLC",
+                        "RADIUS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"42 BROADWAY, SUITE 12-129\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-509-7800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42 Broadway",
+                                        "street2": "Suite 12-129",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "149477",
+                    "firm_bd_sec_number": "68147",
+                    "firm_bd_full_sec_number": "8-68147",
+                    "firm_name": "KELSON CAPITAL LLC",
+                    "firm_other_names": [
+                        "GTO GROUP, LLC",
+                        "KELSON CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2 RAVENGLASS DRIVE\", \"street2\": \"2ND FLOOR\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06903\"}, \"mailingAddress\": {\"street1\": \"2 RAVENGLASS DRIVE\", \"street2\": \"2ND FLOOR\", \"city\": \"STAMFORD\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06903\"}, \"businessPhoneNumber\": \"917-691-8007\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "39 BROADWAY",
+                                        "street2": "16TH FLOOR SUITE 1640",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152768",
+                    "firm_bd_sec_number": "68476",
+                    "firm_bd_full_sec_number": "8-68476",
+                    "firm_name": "WELLINGTON FUNDS DISTRIBUTORS INC.",
+                    "firm_other_names": [
+                        "WELLINGTON FUNDS DISTRIBUTORS INC.",
+                        "WELLINGTON MANAGEMENT ADVISERS, INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"280 CONGRESS STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02210\"}, \"mailingAddress\": {\"street1\": \"280 CONGRESS STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"USA\", \"postalCode\": \"02210\"}, \"businessPhoneNumber\": \"617 951-5000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "799 Broadway",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10003"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "307429",
+                    "firm_bd_sec_number": "70480",
+                    "firm_bd_full_sec_number": "8-70480",
+                    "firm_name": "ARMSTRONG SECURITIES LLC",
+                    "firm_other_names": [
+                        "ARMSTRONG SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"711 3RD AVENUE\", \"street2\": \"FLOOR 5\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"53 FOREST AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"OLD GREENWICH\", \"state\": \"CT\", \"country\": \"UNITED STATES\", \"postalCode\": \"06870\"}, \"businessPhoneNumber\": \"(212) 938-1200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "711 3RD AVENUE",
+                                        "street2": "FLOOR 5",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "100340",
+                    "firm_bd_sec_number": "52032",
+                    "firm_bd_full_sec_number": "8-52032",
+                    "firm_name": "COMMERCE ONE FINANCIAL INC.",
+                    "firm_other_names": [
+                        "COMMERCE ONE",
+                        "MURJEN FINANCIAL, INC.",
+                        "COMMERCE ONE FINANCIAL INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6800 JERICHO TURNPIKE\", \"street2\": \"SUITE 104W\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11791\"}, \"mailingAddress\": {\"street1\": \"6800 JERICHO TURNPIKE\", \"street2\": \"SUITE 104W\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11791\"}, \"businessPhoneNumber\": \"(516) 227-2277\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6800 Jericho Turnpike",
+                                        "street2": "Suite 104W",
+                                        "city": "Syosset",
+                                        "state": "NY",
+                                        "zipCode": "11791"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299963",
+                    "firm_bd_sec_number": "70270",
+                    "firm_bd_full_sec_number": "8-70270",
+                    "firm_name": "LIQUIDLY IAS, LLC",
+                    "firm_other_names": [
+                        "LIQUIDLY IAS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"225 W 34TH STREET\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10122\"}, \"mailingAddress\": {\"street1\": \"225 W 34TH STREET\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10122\"}, \"businessPhoneNumber\": \"914-320-3625\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "225 W 34TH STREET",
+                                        "street2": "9TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10122"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "153944",
+                    "firm_bd_sec_number": "68596",
+                    "firm_bd_full_sec_number": "8-68596",
+                    "firm_name": "OTC LINK LLC",
+                    "firm_other_names": [
+                        "OTC LINK LLC",
+                        "PINK LINK ATS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 VESEY STREET\", \"street2\": \"(1 NORTH END AVE), 12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10282\"}, \"mailingAddress\": {\"street1\": \"300 VESEY STREET\", \"street2\": \"(1 NORTH END AVE), 12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10282\"}, \"businessPhoneNumber\": \"212-896-4483\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "304 Hudson St, Suite 2N",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10013"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "170506",
+                    "firm_bd_sec_number": "69422",
+                    "firm_bd_full_sec_number": "8-69422",
+                    "firm_name": "COINSHARES CAPITAL LLC",
+                    "firm_other_names": [
+                        "COINSHARES CAPITAL LLC",
+                        "GROUP CAPITAL LLC",
+                        "GROUP CAPITAL"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"437 MADISON AVENUE\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"437 MADISON AVENUE\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"646-308-1518\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "437 Madison Avenue",
+                                        "street2": "28th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283256",
+                    "firm_bd_sec_number": "69743",
+                    "firm_bd_full_sec_number": "8-69743",
+                    "firm_name": "SECURITIZE MARKETS, LLC",
+                    "firm_other_names": [
+                        "DISTRIBUTED TECHNOLOGY MARKETS LLC",
+                        "SECURITIZE MARKETS, LLC",
+                        "ORCHARD PLATFORM MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"701 S MIAMI AVE\", \"street2\": \"BRICKELL CITY CENT C/O WEWORK\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"701 S MIAMI AVE\", \"street2\": \"BRICKELL CITY CENT C/O WEWORK\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"6469185012\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "222 Broadway",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

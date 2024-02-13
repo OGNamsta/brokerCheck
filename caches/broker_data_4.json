@@ -1,0 +1,445 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143007",
+                    "firm_bd_sec_number": "67520",
+                    "firm_bd_full_sec_number": "8-67520",
+                    "firm_name": "EMPIRE ASSET MANAGEMENT COMPANY",
+                    "firm_other_names": [
+                        "EMPIRE ASSET MANAGEMENT COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"29 BROADWAY\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10006\"}, \"mailingAddress\": {\"street1\": \"29 BROADWAY\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10006\"}, \"businessPhoneNumber\": \"(212) 417-8239\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "29 Broadway",
+                                        "street2": "12 Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136974",
+                    "firm_bd_sec_number": "67058",
+                    "firm_bd_full_sec_number": "8-67058",
+                    "firm_name": "BLUEROCK CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "BLUEROCK CAPITAL MARKETS LLC",
+                        "SUNBELT NEW ENGLAND EQUITIES LLC",
+                        "HALCYON EQUITIES LLC",
+                        "HALCYON CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"mailingAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"32ND FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10105\"}, \"businessPhoneNumber\": \"949-407-4710\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1345 Avenue of the Americas",
+                                        "street2": "32nd Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10105"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131211",
+                    "firm_bd_sec_number": "66434",
+                    "firm_bd_full_sec_number": "8-66434",
+                    "firm_name": "STONECASTLE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "STONE CASTLE SECURITIES, LLC",
+                        "STONECASTLE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"152 WEST 57TH STREET\", \"street2\": \"35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"152 WEST 57TH STREET\", \"street2\": \"35TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-354-6500 EXT 316\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "152 WEST 57TH STREET",
+                                        "street2": "35TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "3110",
+                    "firm_bd_sec_number": "12769",
+                    "firm_bd_full_sec_number": "8-12769",
+                    "firm_name": "PYRAMID FUNDS CORPORATION",
+                    "firm_other_names": [
+                        "PYRAMID FUNDS CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"21 EVERETT ROAD EXTENSION\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12205\"}, \"mailingAddress\": {\"street1\": \"21 EVERETT ROAD EXTENSION\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12205\"}, \"businessPhoneNumber\": \"(518) 459-1671\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "21 EVERETT ROAD EXT",
+                                        "city": "ALBANY",
+                                        "state": "NY",
+                                        "zipCode": "12205"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154058",
+                    "firm_bd_sec_number": "68605",
+                    "firm_bd_full_sec_number": "8-68605",
+                    "firm_name": "ROC GLOBAL LLC",
+                    "firm_other_names": [
+                        "ROC GLOBAL LLC",
+                        "ROC GLOBAL SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"295 MADISON AVE,\", \"street2\": \"12TH FLOOR, OFFICE 1226\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"295 MADISON AVE,\", \"street2\": \"12TH FLOOR, OFFICE 1226\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646 -218-9841\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "295 MADISON AVE,",
+                                        "street2": "12TH FLOOR, OFFICE 1226",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "29419",
+                    "firm_bd_sec_number": "44285",
+                    "firm_bd_full_sec_number": "8-44285",
+                    "firm_name": "N.B. ZOULLAS SECURITIES, INC.",
+                    "firm_other_names": [
+                        "N. B. ZOULLAS SECURITIES, INC.",
+                        "N.B. ZOULLAS SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE PENN PLAZA\", \"street2\": \"SUITE 2005, 20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"mailingAddress\": {\"street1\": \"ONE PENN PLAZA\", \"street2\": \"SUITE 2005, 20TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10119\"}, \"businessPhoneNumber\": \"212-350-5315\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "One Penn Plaza",
+                                        "street2": "SUITE 2005",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10119"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "157804",
+                    "firm_bd_sec_number": "68862",
+                    "firm_bd_full_sec_number": "8-68862",
+                    "firm_name": "BROADHAVEN SECURITIES LLC",
+                    "firm_other_names": [
+                        "BROADHAVEN SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"150 N RIVERSIDE PLAZA\", \"street2\": \"25TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"150 N RIVERSIDE PLAZA\", \"street2\": \"25TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60606\"}, \"businessPhoneNumber\": \"312-621-9801\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "330 Madison Ave",
+                                        "street2": "28th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1742",
+                    "firm_bd_sec_number": "28301",
+                    "firm_bd_full_sec_number": "8-28301",
+                    "firm_name": "KENSINGTON CAPITAL CORP.",
+                    "firm_other_names": [
+                        "CAPITAL RESOURCE PLANNING",
+                        "THEMUNIBROKER.COM",
+                        "THEEQUITYBROKER.COM",
+                        "THEDEDICATEDBROKER.COM",
+                        "KENSINGTON CAPITAL CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4910 13TH AVE.\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11219-3100\"}, \"mailingAddress\": {\"street1\": \"4910 13TH AVE.\", \"city\": \"BROOKLYN\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11219-3100\"}, \"businessPhoneNumber\": \"718-436-2111\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "4910 13TH AVE.",
+                                        "city": "BROOKLYN",
+                                        "state": "NY",
+                                        "zipCode": "11219"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "20458",
+                    "firm_bd_sec_number": "38211",
+                    "firm_bd_full_sec_number": "8-38211",
+                    "firm_name": "SENATE SECURITIES",
+                    "firm_other_names": [
+                        "R.M.N. SECURITIES, INC.",
+                        "SENATE SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"108 NORTH FRONT STREET\", \"city\": \"KINGSTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12401\"}, \"mailingAddress\": {\"street1\": \"253 WALL STREET\", \"street2\": \"P.O. BOX 3576\", \"city\": \"KINGSTON\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12402\"}, \"businessPhoneNumber\": \"(845) 339-7310\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "253 WALL STREET",
+                                        "city": "KINGSTON",
+                                        "state": "NY",
+                                        "zipCode": "12401"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104110",
+                    "firm_bd_sec_number": "52591",
+                    "firm_bd_full_sec_number": "8-52591",
+                    "firm_name": "KBD SECURITIES, LLC",
+                    "firm_other_names": [
+                        "KBD SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"470 PARK AVENUE SOUTH\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"mailingAddress\": {\"street1\": \"470 PARK AVENUE SOUTH\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"914-703-6904\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "470 PARK AVENUE SOUTH",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129373",
+                    "firm_bd_sec_number": "66217",
+                    "firm_bd_full_sec_number": "8-66217",
+                    "firm_name": "BARNETT & PARTNERS ADVISORS, LLC",
+                    "firm_other_names": [
+                        "BARNETT & PARTNERS ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"767 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"767 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-245-6332\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "767 THIRD AVENUE",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2856",
+                    "firm_bd_sec_number": "13026",
+                    "firm_bd_full_sec_number": "8-13026",
+                    "firm_name": "MUTUAL FUNDS ASSOCIATES INC.",
+                    "firm_other_names": [
+                        "MUTUAL FUNDS ASSOCIATES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1701 CHILI AVE\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14624\"}, \"mailingAddress\": {\"street1\": \"1701 CHILI AVE\", \"city\": \"ROCHESTER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14624\"}, \"businessPhoneNumber\": \"5852353600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1701 CHILI AVE",
+                                        "city": "ROCHESTER",
+                                        "state": "NY",
+                                        "zipCode": "14624"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

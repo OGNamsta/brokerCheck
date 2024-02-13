@@ -1,0 +1,441 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "283457",
+                    "firm_bd_sec_number": "69755",
+                    "firm_bd_full_sec_number": "8-69755",
+                    "firm_name": "TOPCAP PARTNERS, INC.",
+                    "firm_other_names": [
+                        "TOPCAP PARTNERS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"63 MAIN STREET, SUITE 202\", \"city\": \"SOUTHAMPTON\", \"state\": \"NY\", \"postalCode\": \"11968\"}, \"mailingAddress\": {\"street1\": \"63 MAIN STREET, SUITE 202\", \"city\": \"SOUTHAMPTON\", \"state\": \"NY\", \"postalCode\": \"11968\"}, \"businessPhoneNumber\": \"631-287-6035\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "63 MAIN STREET, SUITE 202",
+                                        "city": "SOUTHAMPTON",
+                                        "state": "NY",
+                                        "zipCode": "11968"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "127858",
+                    "firm_bd_sec_number": "66055",
+                    "firm_bd_full_sec_number": "8-66055",
+                    "firm_name": "ALVAREZ & MARSAL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ALVAREZ & MARSAL SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 MADISON AVE, 8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"600 MADISON AVE, 8TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-759-4433\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "600 Madison Avenue 8th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "148235",
+                    "firm_bd_sec_number": "67987",
+                    "firm_bd_full_sec_number": "8-67987",
+                    "firm_name": "E.K. WALLACE SECURITIES LLC",
+                    "firm_other_names": [
+                        "E.K. WALLACE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"25 WEST 13TH STREET\", \"street2\": \"APT. 1AN\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10011\"}, \"mailingAddress\": {\"street1\": \"25 WEST 13TH STREET\", \"street2\": \"APT. 1AN\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10011\"}, \"businessPhoneNumber\": \"212 965-1400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "25 West 13th Street",
+                                        "street2": "Apt 1AN",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10011"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43229",
+                    "firm_bd_sec_number": "50186",
+                    "firm_bd_full_sec_number": "8-50186",
+                    "firm_name": "GRIFFIN SECURITIES, INC.",
+                    "firm_other_names": [
+                        "GRIFFIN ADVISERS",
+                        "GRIFFIN SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"17 STATE STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"17 STATE STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-509-9500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "17 STATE STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5120",
+                    "firm_bd_sec_number": "15522",
+                    "firm_bd_full_sec_number": "8-15522",
+                    "firm_name": "O'TOOLE INSURANCE & SECURITIES",
+                    "firm_other_names": [
+                        "O'TOOLE INSURANCE & SECURITIES",
+                        "O'TOOLE, HENRY J.",
+                        "O'TOOLE, WILLIAM J."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"14-30 COLLEGE POINT BLVD\", \"city\": \"COLLEGE POINT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11356\"}, \"mailingAddress\": {\"street1\": \"14-30 COLLEGE POINT BLVD\", \"city\": \"COLLEGE POINT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11356\"}, \"businessPhoneNumber\": \"718-358-2281\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "14-30 COLLEGE POINT BLVD",
+                                        "city": "COLLEGE POINT",
+                                        "state": "NY",
+                                        "zipCode": "11356"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47965",
+                    "firm_bd_sec_number": "51971",
+                    "firm_bd_full_sec_number": "8-51971",
+                    "firm_name": "SYNERGY CAPITAL I, LLC",
+                    "firm_other_names": [
+                        "SYNERGY CAPITAL I, LLC",
+                        "SYNERGY CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"40 FULTON STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"40 FULTON STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"212-385-0537\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1120 Avenue of the Americas",
+                                        "street2": "4th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "40702",
+                    "firm_bd_sec_number": "49155",
+                    "firm_bd_full_sec_number": "8-49155",
+                    "firm_name": "YOUNG & PARTNERS LLC",
+                    "firm_other_names": [
+                        "YOUNG & PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"535 FIFTH AVENUE, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"535 FIFTH AVENUE, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-682-5555\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "535 FIFTH AVENUE, 4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "34843",
+                    "firm_bd_sec_number": "46726",
+                    "firm_bd_full_sec_number": "8-46726",
+                    "firm_name": "CAHN CAPITAL CORP.",
+                    "firm_other_names": [
+                        "CAHN CAPITAL CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"820 SECOND AVENUE\", \"street2\": \"13C\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"820 SECOND AVENUE\", \"street2\": \"13C\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-355-0296\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "820 SECOND AVENUE",
+                                        "street2": "13C",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47974",
+                    "firm_bd_sec_number": "51996",
+                    "firm_bd_full_sec_number": "8-51996",
+                    "firm_name": "BROKERAGESELECT",
+                    "firm_other_names": [
+                        "BROKERAGESELECT",
+                        "IDAYTRADE INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"364 WEST 117TH STREET\", \"street2\": \"SUITE 5A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10026\"}, \"mailingAddress\": {\"street1\": \"364 WEST 117TH STREET\", \"street2\": \"SUITE 5A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10026\"}, \"businessPhoneNumber\": \"917-837-2287\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "364 WEST 117TH STREET",
+                                        "street2": "SUITE 5A",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10026"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "166387",
+                    "firm_bd_sec_number": "69203",
+                    "firm_bd_full_sec_number": "8-69203",
+                    "firm_name": "THREE OCEAN SECURITIES LLC",
+                    "firm_other_names": [
+                        "THREE OCEAN PARTNERS ADVISORS LLC",
+                        "THREE OCEAN SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"551 FIFTH AVENUE, SUITE 3800\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10176\"}, \"mailingAddress\": {\"street1\": \"551 FIFTH AVENUE, SUITE 3800\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10176\"}, \"businessPhoneNumber\": \"212-259-0559\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "551 FIFTH AVENUE, SUITE 3800",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10176"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "126183",
+                    "firm_bd_sec_number": "65862",
+                    "firm_bd_full_sec_number": "8-65862",
+                    "firm_name": "CAYMUS SECURITIES LLC",
+                    "firm_other_names": [
+                        "CAYMUS SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2727 PACES FERRY RD SE\", \"street2\": \"BUILDING 1, SUITE 1650\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30339\"}, \"mailingAddress\": {\"street1\": \"2727 PACES FERRY RD SE\", \"street2\": \"BUILDING 1, SUITE 1650\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30339\"}, \"businessPhoneNumber\": \"404-995-8300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "641 LEXINGTON AVENUE",
+                                        "street2": "20TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136084",
+                    "firm_bd_sec_number": "66974",
+                    "firm_bd_full_sec_number": "8-66974",
+                    "firm_name": "PROFOR ADVISORS",
+                    "firm_other_names": [
+                        "AURELIUS SECURITIES, LLC",
+                        "PROFOR ADVISORS",
+                        "PROFOR SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 WESTCHESTER AVE\", \"street2\": \"SUITE 641N\", \"city\": \"RYE BROOK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10573\"}, \"mailingAddress\": {\"street1\": \"800 WESTCHESTER AVE\", \"street2\": \"SUITE 641N\", \"city\": \"RYE BROOK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10573\"}, \"businessPhoneNumber\": \"646 202-2969\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 WESTCHESTER AVE",
+                                        "street2": "SUITE 641N",
+                                        "city": "RYE BROOK",
+                                        "state": "NY",
+                                        "zipCode": "10573"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

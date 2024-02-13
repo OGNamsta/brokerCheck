@@ -1,0 +1,476 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "143809",
+                    "firm_bd_sec_number": "67608",
+                    "firm_bd_full_sec_number": "8-67608",
+                    "firm_name": "PERPETUAL AMERICAS FUNDS DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "ARDEN SECURITIES LLC",
+                        "PERPETUAL AMERICAS FUNDS DISTRIBUTORS, LLC",
+                        "JOHCM FUNDS DISTRIBUTORS, LLC",
+                        "HARDT GROUP INVESTOR SERVICES LLC",
+                        "FORESIDE FUND PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 25,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3 CANAL PLAZA\", \"street2\": \"3RD FLOOR\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"USA\", \"postalCode\": \"04101\"}, \"mailingAddress\": {\"street1\": \"3 CANAL PLAZA\", \"street2\": \"SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"USA\", \"postalCode\": \"04101\"}, \"businessPhoneNumber\": \"207-553-7110\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "437 Madison Avenue",
+                                        "street2": "Suite 3603",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7174",
+                    "firm_bd_sec_number": "20518",
+                    "firm_bd_full_sec_number": "8-20518",
+                    "firm_name": "FUNDS DISTRIBUTOR, LLC",
+                    "firm_other_names": [
+                        "FUNDS DISTRIBUTOR, INC.",
+                        "THE BOSTON COMPANY CAPITAL GROUP, INC.",
+                        "TBC FUNDS DISTRIBUTOR, INC.",
+                        "FUNDS DISTRIBUTOR, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 32,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"THREE CANAL PLAZA\", \"street2\": \"3RD FLOOR\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"UNITED STATES\", \"postalCode\": \"04101\"}, \"mailingAddress\": {\"street1\": \"THREE CANAL PLAZA\", \"street2\": \"SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"UNITED STATES\", \"postalCode\": \"04101\"}, \"businessPhoneNumber\": \"866-251-6920\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "15 Elm Street",
+                                        "city": "Garden City",
+                                        "state": "NY",
+                                        "zipCode": "11530"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39455",
+                    "firm_bd_sec_number": "48723",
+                    "firm_bd_full_sec_number": "8-48723",
+                    "firm_name": "NATALLIANCE SECURITIES, LLC",
+                    "ia_firm_name": "NATIONAL ALLIANCE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "NATALLIANCE INVESTMENT BANKING",
+                        "SINEX SECURITIES, LLC.",
+                        "NATIONAL ALLIANCE SECURITIES, LLC",
+                        "NATIONAL ALLIANCE SECURITIES CORPORATION",
+                        "NATIONAL ALLIANCE CAPITAL, LLC",
+                        "NATALLIANCE SECURITIES, LLC",
+                        "NATALLIANCE SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"3101 BEE CAVE RD\", \"street2\": \"SUITE 270\", \"city\": \"AUSTIN\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"78746\"}, \"mailingAddress\": {\"street1\": \"3101 BEE CAVE RD\", \"street2\": \"SUITE 270\", \"city\": \"AUSTIN\", \"state\": \"TX\", \"country\": \"UNITED STATES\", \"postalCode\": \"78746\"}, \"businessPhoneNumber\": \"512-609-1700\", \"iaFirmName\": \"NATIONAL ALLIANCE SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"111 CONGRESS AVENUE\", \"street2\": \"SUITE 800\", \"city\": \"AUSTIN\", \"state\": \"TX\", \"country\": \"United States\", \"postalCode\": \"78701\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "140 E 45th St",
+                                        "street2": "Ste 32L",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "481",
+                    "firm_bd_sec_number": "10888",
+                    "firm_bd_full_sec_number": "8-10888",
+                    "firm_name": "KEEFE, BRUYETTE & WOODS, INC.",
+                    "firm_other_names": [
+                        "KEEFE, BRUYETTE & WOODS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 18,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"787 7TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"787 7TH AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-887-7777\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "787 7TH AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "297979",
+                    "firm_bd_sec_number": "70159",
+                    "firm_bd_full_sec_number": "8-70159",
+                    "firm_name": "PEI GLOBAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "MARPINE SECURITIES LLC",
+                        "TOKENSOFT GLOBAL MARKETS, LLC",
+                        "PEI GLOBAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1001 WATER STREET, SUITE 620\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33602\"}, \"mailingAddress\": {\"street1\": \"1001 WATER STREET, SUITE 620\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33602\"}, \"businessPhoneNumber\": \"646-498-6957\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "601 Lexington Avenue, 55th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37818",
+                    "firm_bd_sec_number": "48067",
+                    "firm_bd_full_sec_number": "8-48067",
+                    "firm_name": "MISCHLER FINANCIAL GROUP, INC.",
+                    "firm_other_names": [
+                        "DILTANA COMPANY, INC.",
+                        "MISCHLER FINANCIAL GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1111 BAYSIDE DRIVE\", \"street2\": \"SUITE 100\", \"city\": \"CORONA DEL MAR\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92625\"}, \"mailingAddress\": {\"street1\": \"1111 BAYSIDE DRIVE\", \"street2\": \"SUITE 100\", \"city\": \"CORONA DEL MAR\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92625\"}, \"businessPhoneNumber\": \"949-720-0640\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "545 Madison Avenue, 15th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1101",
+                    "firm_bd_sec_number": "719",
+                    "firm_bd_full_sec_number": "8-719",
+                    "firm_ia_sec_number": "72849",
+                    "firm_ia_full_sec_number": "801-72849",
+                    "firm_name": "NATIXIS SECURITIES AMERICAS LLC",
+                    "ia_firm_name": "NATIXIS SECURITIES AMERICAS LLC",
+                    "firm_other_names": [
+                        "ARNHOLD AND S. BLEICHROEDER, INC",
+                        "NATIXIS SECURITIES AMERICAS LLC",
+                        "NATIXIS BLEICHROEDER LLC",
+                        "NATIXIS BLEICHROEDER INC.",
+                        "NATEXIS BLEICHROEDER INC.",
+                        "ARNHOLD AND S. BLEICHROEDER, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1251 AVENUE OF THE AMERICAS, 5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1251 AVENUE OF THE AMERICAS 5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"212-872-5000\", \"iaFirmName\": \"NATIXIS SECURITIES AMERICAS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1251 AVENUE OF THE AMERICAS, 4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1251 AVENUE OF THE AMERICAS, 5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36142",
+                    "firm_bd_sec_number": "47025",
+                    "firm_bd_full_sec_number": "8-47025",
+                    "firm_name": "PRIME DEALER SERVICES CORP.",
+                    "firm_other_names": [
+                        "MS DEALER SERVICES CORP.",
+                        "PRIME DEALER SERVICES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1585 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"NORTH AMERICAN REGISTRATION\", \"street2\": \"100 SOUTH CHARLES STREET, 4TH FLOOR\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21201\"}, \"businessPhoneNumber\": \"212-762-4000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1585 BROADWAY",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "42132",
+                    "firm_bd_sec_number": "49711",
+                    "firm_bd_full_sec_number": "8-49711",
+                    "firm_ia_sec_number": "60300",
+                    "firm_ia_full_sec_number": "801-60300",
+                    "firm_name": "CUSO FINANCIAL SERVICES, L.P.",
+                    "ia_firm_name": "CUSO FINANCIAL SERVICES, L.P.",
+                    "firm_other_names": [
+                        "CUSO FINANCIAL SERVICES, L.P.",
+                        "CUSO FINANCIAL SERVICES, LTD."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 986,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10150 MEANLEY DRIVE, 1ST FLOOR\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92131\"}, \"mailingAddress\": {\"street1\": \"10150 MEANLEY DRIVE, 1ST FLOOR\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"92131\"}, \"businessPhoneNumber\": \"858-530-4400\", \"iaFirmName\": \"CUSO FINANCIAL SERVICES, L.P.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"10150 MEANLEY DRIVE, 1ST FLOOR\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"92131\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "6485 S Transit Rd",
+                                        "city": "Lockport",
+                                        "state": "NY",
+                                        "zipCode": "14094"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "133300",
+                    "firm_bd_sec_number": "66709",
+                    "firm_bd_full_sec_number": "8-66709",
+                    "firm_name": "NORTH POINT MERGERS AND ACQUISITIONS, INC.",
+                    "firm_other_names": [
+                        "NORTH POINT ADVISORS, INC.",
+                        "NORTH POINT MERGERS AND ACQUISITIONS, INC.",
+                        "NORTH POINT ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"580 CALIFORNIA STREET, SUITE 2000\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94104\"}, \"mailingAddress\": {\"street1\": \"580 CALIFORNIA STREET, SUITE 2000\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94104\"}, \"businessPhoneNumber\": \"415 358-3500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "76 8th Avenue, 8th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10011"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "173734",
+                    "firm_bd_sec_number": "69550",
+                    "firm_bd_full_sec_number": "8-69550",
+                    "firm_name": "VT DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "VONTOBEL DISTRIBUTORS LLC",
+                        "VT DISTRIBUTORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"THREE CANAL PLAZA\", \"street2\": \"SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"UNITED STATES\", \"postalCode\": \"04101\"}, \"mailingAddress\": {\"street1\": \"THREE CANAL PLAZA\", \"street2\": \"SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"UNITED STATES\", \"postalCode\": \"04101\"}, \"businessPhoneNumber\": \"866-251-6920\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "66 Hudson Boulevard",
+                                        "street2": "34th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36026",
+                    "firm_bd_sec_number": "46981",
+                    "firm_bd_full_sec_number": "8-46981",
+                    "firm_ia_sec_number": "67370",
+                    "firm_ia_full_sec_number": "801-67370",
+                    "firm_name": "HEALTHCARE COMMUNITY SECURITIES CORP.",
+                    "ia_firm_name": "HANYS BENEFIT SERVICES",
+                    "firm_other_names": [
+                        "HANYS BENEFIT SERVICES",
+                        "TRUEPLAN BENEFIT AND RETIREMENT ADVISORS",
+                        "STRATEGIC BENEFIT SERVICES",
+                        "HEALTHCARE COMMUNITY SECURITIES CORPORATION",
+                        "HEALTHCARE COMMUNITY SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 11,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE EMPIRE DRIVE\", \"city\": \"RENSSELAER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12144\"}, \"mailingAddress\": {\"street1\": \"ONE EMPIRE DRIVE\", \"city\": \"RENSSELAER\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12144\"}, \"businessPhoneNumber\": \"518-431-7600\", \"iaFirmName\": \"HANYS BENEFIT SERVICES\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"ONE EMPIRE DRIVE\", \"city\": \"RENSSELAER\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"12144\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "Rochester",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

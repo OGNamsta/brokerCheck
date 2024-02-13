@@ -1,0 +1,448 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "173366",
+                    "firm_bd_sec_number": "69538",
+                    "firm_bd_full_sec_number": "8-69538",
+                    "firm_name": "HOLLISTER ASSOCIATES, LLC",
+                    "firm_other_names": [
+                        "HOLLISTER ASSOCIATES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"257 RIVER OAK DRIVE\", \"city\": \"MOUNT PLEASANT\", \"state\": \"SC\", \"country\": \"US\", \"postalCode\": \"29464\"}, \"mailingAddress\": {\"street1\": \"257 RIVER OAK DRIVE\", \"city\": \"MOUNT PLEASANT\", \"state\": \"SC\", \"country\": \"US\", \"postalCode\": \"29464\"}, \"businessPhoneNumber\": \"401-465-3080\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "540 MADISON AVENUE, 26TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "306373",
+                    "firm_bd_sec_number": "70495",
+                    "firm_bd_full_sec_number": "8-70495",
+                    "firm_name": "FIRST OMEGA, LLC",
+                    "firm_other_names": [
+                        "FIRST OMEGA, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS\", \"street2\": \"FLOOR 7\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"mailingAddress\": {\"street1\": \"1270 AVENUE OF THE AMERICAS\", \"street2\": \"FLOOR 7\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10020\"}, \"businessPhoneNumber\": \"917-640-7976\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1270 AVENUE OF THE AMERICAS",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159481",
+                    "firm_bd_sec_number": "68988",
+                    "firm_bd_full_sec_number": "8-68988",
+                    "firm_name": "FENIX SECURITIES, LLC",
+                    "firm_other_names": [
+                        "FENIX SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE WORLD TRADE CENTER, 85TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"mailingAddress\": {\"street1\": \"ONE WORLD TRADE CENTER, 85TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10007\"}, \"businessPhoneNumber\": \"212 220-7444\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "ONE WORLD TRADE CENTER, 85TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10007"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "299423",
+                    "firm_bd_sec_number": "70253",
+                    "firm_bd_full_sec_number": "8-70253",
+                    "firm_name": "EDDID SECURITIES USA INC.",
+                    "firm_other_names": [
+                        "EDDID SECURITIES USA INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"11 BROADWAY\", \"street2\": \"SUITE 801\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"11 BROADWAY\", \"street2\": \"SUITE 801\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-363-6888\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 BROADWAY",
+                                        "street2": "SUITE 801",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10004"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "269991",
+                    "firm_bd_sec_number": "69644",
+                    "firm_bd_full_sec_number": "8-69644",
+                    "firm_name": "SHOREBRIDGE CAPITAL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "SHOREBRIDGE CAPITAL ADVISORS, LLC",
+                        "SHOREBRIDGE CAPITAL SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"780 THIRD AVENUE\", \"street2\": \"30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"780 THIRD AVENUE\", \"street2\": \"30TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-869-8791\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "780 THIRD AVENUE",
+                                        "street2": "30TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "322826",
+                    "firm_bd_sec_number": "70966",
+                    "firm_bd_full_sec_number": "8-70966",
+                    "firm_name": "EQTE BROKERAGE LLC",
+                    "firm_other_names": [
+                        "EQTE BROKERAGE LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"FIVE RADNOR CORPORATE CENTER\", \"street2\": \"100 MATSONFORD ROAD, SUITE 250\", \"city\": \"RADNOR\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19087\"}, \"mailingAddress\": {\"street1\": \"FIVE RADNOR CORPORATE CENTER\", \"street2\": \"100 MATSONFORD ROAD, SUITE 250\", \"city\": \"RADNOR\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19087\"}, \"businessPhoneNumber\": \"484-531-7456\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1114 6th Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304839",
+                    "firm_bd_sec_number": "70387",
+                    "firm_bd_full_sec_number": "8-70387",
+                    "firm_name": "ALTI STRATEGIC ADVISORY (US) BD, LLC",
+                    "firm_other_names": [
+                        "ALTI STRATEGIC ADVISORY (US) BD, LLC",
+                        "ALVARIUM MB (US) BD, LLC",
+                        "ALVARIUM MB (US) , LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"520 MADISON AVENUE, 26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"520 MADISON AVENUE, 26TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-396-5900\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "520 Madison Avenue, 26th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "38103",
+                    "firm_bd_sec_number": "48093",
+                    "firm_bd_full_sec_number": "8-48093",
+                    "firm_name": "SPP CAPITAL PARTNERS L L C",
+                    "firm_other_names": [
+                        "SPP CAPITAL PARTNERS L L C",
+                        "SPP MEZZANINE",
+                        "SPP HAMBRO & CO., LLC",
+                        "SPP CAPITAL PARTNERS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"550 FIFTH AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"550 FIFTH AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-455-4515\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "550 FIFTH AVENUE",
+                                        "street2": "12TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "282643",
+                    "firm_bd_sec_number": "69727",
+                    "firm_bd_full_sec_number": "8-69727",
+                    "firm_name": "BFIN FINANCIAL SERVICES, LLC",
+                    "firm_other_names": [
+                        "BFIN FINANCIAL SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"199 WATER STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"mailingAddress\": {\"street1\": \"199 WATER STREET\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10038\"}, \"businessPhoneNumber\": \"(917) 494-6375\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "199 WATER STREET",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10038"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "24029",
+                    "firm_bd_sec_number": "40862",
+                    "firm_bd_full_sec_number": "8-40862",
+                    "firm_name": "CP INVESTMENTS, LLC",
+                    "firm_other_names": [
+                        "CANYON PARTNERS INCORPORATED",
+                        "RATHGAR SECURITIES INC.",
+                        "CP INVESTMENTS, LLC",
+                        "CP INVESTMENTS INCORPORATED",
+                        "COLDWATER SECURITIES INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2000 AVENUE OF THE STARS\", \"street2\": \"11TH FLOOR\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"90067-4700\"}, \"mailingAddress\": {\"street1\": \"2000 AVENUE OF THE STARS\", \"street2\": \"11TH FLOOR\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"90067-4700\"}, \"businessPhoneNumber\": \"310-272-1000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1370 Avenue of the Americas",
+                                        "street2": "30th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "6183",
+                    "firm_bd_sec_number": "17025",
+                    "firm_bd_full_sec_number": "8-17025",
+                    "firm_name": "C. L. KING & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "C. L. KING & ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"NINE ELK STREET\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12207\"}, \"mailingAddress\": {\"street1\": \"NINE ELK STREET\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12207\"}, \"businessPhoneNumber\": \"518-431-3555\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "410 PARK AVENUE",
+                                        "street2": "SUITE 1620",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44257",
+                    "firm_bd_sec_number": "50599",
+                    "firm_bd_full_sec_number": "8-50599",
+                    "firm_name": "HAP TRADING, LLC",
+                    "firm_other_names": [
+                        "HAP CAPITAL",
+                        "PFTC TRADING LLC",
+                        "PFTC TRADING L.L.C.",
+                        "PFTC L.L.C.",
+                        "HAP TRADING, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"395 HUDSON STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"mailingAddress\": {\"street1\": \"395 HUDSON STREET\", \"street2\": \"10TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10014\"}, \"businessPhoneNumber\": \"212-380-5100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "395 HUDSON STREET",
+                                        "street2": "10TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10014"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,550 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8478",
+                    "firm_bd_sec_number": "25452",
+                    "firm_bd_full_sec_number": "8-25452",
+                    "firm_ia_sec_number": "63564",
+                    "firm_ia_full_sec_number": "801-63564",
+                    "firm_name": "THURSTON SPRINGER FINANCIAL",
+                    "ia_firm_name": "THURSTON SPRINGER FINANCIAL",
+                    "firm_other_names": [
+                        "ADAMS COUNTY FINANCIAL RESOURCES",
+                        "WESLEY BATES WEALTH MANAGEMENT",
+                        "TRILOGY WEALTH MANAGEMENT",
+                        "THURSTON, SPRINGER, MILLER, HERD & TITAK, INC. INSURANCE AGENCY",
+                        "THURSTON, SPRINGER, MILLER, HERD & TITAK, INC.",
+                        "THURSTON, SPRINGER, MILLER & HERD, INC.",
+                        "THURSTON, SHUMAKER, MILLER & BURKE, INCORPORATED",
+                        "THURSTON, MILLER & BURKE, INC.",
+                        "THURSTON SPRINGER RETIREMENT SERVICES",
+                        "THURSTON SPRINGER FINANCIAL",
+                        "THE BARTHEL AGENCY",
+                        "TARGETED RETIREMENT STRATEGIES",
+                        "SPRAWLS FINANCIAL",
+                        "SPENCER FINANCIAL STRATEGIES",
+                        "RETIREMENT AND ESTATE PLANNING SERVICES",
+                        "ONTRACK CAPITAL MANAGEMENT",
+                        "LIBERTY CONSULTING",
+                        "LAVELLE FINANCIAL",
+                        "JKS INVESTMENT MANAGEMENT OF THURSTON SPRINGER",
+                        "INVESTMENT STRATEGIES",
+                        "INTEGRITY WEALTH SOLUTIONS",
+                        "DAMER WEALTH MANAGEMENT",
+                        "CRAVENS, LLC",
+                        "COHEN CAPITAL MANAGEMENT",
+                        "CHIDDISTER FINANCIAL ASSOCIATES",
+                        "CERULEAN CAPITAL MANAGEMENT, LLC",
+                        "BCT FINANCIAL",
+                        "BAYLEY INVESTMENT GROUP",
+                        "BALDASSARI ADVISORY",
+                        "AMERICAN PENSION ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 29,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"9000 KEYSTONE CROSSING\", \"street2\": \"SUITE 700\", \"city\": \"INDIANAPOLIS\", \"state\": \"IN\", \"country\": \"UNITED STATES\", \"postalCode\": \"46240-2142\"}, \"mailingAddress\": {\"street1\": \"9000 KEYSTONE CROSSING\", \"street2\": \"SUITE 700\", \"city\": \"INDIANAPOLIS\", \"state\": \"IN\", \"country\": \"UNITED STATES\", \"postalCode\": \"46240-2142\"}, \"businessPhoneNumber\": \"(317) 581-4000\", \"iaFirmName\": \"THURSTON SPRINGER FINANCIAL\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"9000 KEYSTONE CROSSING\", \"street2\": \"SUITE 700\", \"city\": \"INDIANAPOLIS\", \"state\": \"IN\", \"country\": \"United States\", \"postalCode\": \"46240\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "209 E. 31ST STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10358",
+                    "firm_bd_sec_number": "27082",
+                    "firm_bd_full_sec_number": "8-27082",
+                    "firm_name": "CETERA FINANCIAL SPECIALISTS LLC",
+                    "firm_other_names": [
+                        "CETERA FINANCIAL BROKERAGE SERVICES",
+                        "TERRA SECURITIES CORPORATION",
+                        "GENWORTH FINANCIAL SECURITIES CORPORATION",
+                        "GENWORTH FINANCIAL BROKERAGE SERVICES",
+                        "CETERA FINANCIAL SPECIALISTS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 782,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1450 AMERICAN LANE\", \"street2\": \"6TH FLOOR, SUITE #650\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60173\"}, \"mailingAddress\": {\"street1\": \"1450 AMERICAN LANE\", \"street2\": \"6TH FLOOR, SUITE #650\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60173\"}, \"businessPhoneNumber\": \"888-528-2987\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "3571 BRONXWOOD AVENUE",
+                                        "city": "BRONX",
+                                        "state": "NY",
+                                        "zipCode": "10469"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "463",
+                    "firm_bd_sec_number": "462",
+                    "firm_bd_full_sec_number": "8-462",
+                    "firm_ia_sec_number": "7258",
+                    "firm_ia_full_sec_number": "801-7258",
+                    "firm_name": "JANNEY MONTGOMERY SCOTT LLC",
+                    "ia_firm_name": "JANNEY MONTGOMERY SCOTT LLC",
+                    "firm_other_names": [
+                        "JANNEY MONTGOMERY SCOTT INC.",
+                        "PARKER/HUNTER ASSET MANAGEMENT",
+                        "JANNEY MONTGOMERY SCOTT LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 268,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1717 ARCH STREET\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19103\"}, \"mailingAddress\": {\"street1\": \"1717 ARCH STREET\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19103\"}, \"businessPhoneNumber\": \"215-665-6000\", \"iaFirmName\": \"JANNEY MONTGOMERY SCOTT LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1717 ARCH STREET\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"United States\", \"postalCode\": \"19103\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "Commack",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "44813",
+                    "firm_bd_sec_number": "50833",
+                    "firm_bd_full_sec_number": "8-50833",
+                    "firm_name": "PROMETHEAN CAPITAL GROUP LLC",
+                    "firm_other_names": [
+                        "PROMETHEAN CAPITAL GROUP LLC",
+                        "PROMETHEAN INVESTMENT GROUP, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"077 MOSHUP TRAIL\", \"city\": \"AQUINNAH\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02535\"}, \"mailingAddress\": {\"street1\": \"77 MOSHUP TRAIL\", \"city\": \"AQUINNAH\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02535\"}, \"businessPhoneNumber\": \"617-340-8370\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "15 CRYSTAL FARM ROAD",
+                                        "city": "WARWICK",
+                                        "state": "NY",
+                                        "zipCode": "10990"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "312379",
+                    "firm_bd_sec_number": "70650",
+                    "firm_bd_full_sec_number": "8-70650",
+                    "firm_name": "TITAN GLOBAL TECHNOLOGIES LLC",
+                    "firm_other_names": [
+                        "TITAN GLOBAL TECHNOLOGIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"508 LAGUARDIA PL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10012\"}, \"mailingAddress\": {\"street1\": \"508 LAGUARDIA PL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10012\"}, \"businessPhoneNumber\": \"973-490-4042\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "508 LaGuardia Place",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10012"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "17358",
+                    "firm_bd_sec_number": "35185",
+                    "firm_bd_full_sec_number": "8-35185",
+                    "firm_name": "M&T SECURITIES, INC.",
+                    "ia_firm_name": "M&T SECURITIES, INC.",
+                    "firm_other_names": [
+                        "M&T DISCOUNT BROKERAGE SERVICES, INC.",
+                        "M&T SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 10,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1 LIGHT STREET\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21202\"}, \"mailingAddress\": {\"street1\": \"1 LIGHT STREET\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21202\"}, \"businessPhoneNumber\": \"4102444307\", \"iaFirmName\": \"M&T SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"285 DELAWARE AVENUE\", \"street2\": \"SUITE 2000\", \"city\": \"BUFFALO\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"14202\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "TEMPORARY BACKOFFICE/TRADING",
+                                        "street2": "285 DELAWARE AVE",
+                                        "city": "BUFFALO",
+                                        "state": "NY",
+                                        "zipCode": "14202"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "152974",
+                    "firm_bd_sec_number": "68494",
+                    "firm_bd_full_sec_number": "8-68494",
+                    "firm_ia_sec_number": "78158",
+                    "firm_ia_full_sec_number": "801-78158",
+                    "firm_name": "CREATIVEONE SECURITIES, LLC",
+                    "ia_firm_name": "CREATIVEONE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "AFFINITY ASSET MANAGEMENT",
+                        "WESTERN LAKES FINANCIAL",
+                        "WALLSTREET GROUP ADVISORS, LLC",
+                        "VOYAGE FINANCIAL PARTNERS",
+                        "VJH CONCIERGE FINANCIAL PLANNING",
+                        "UPSTATE WEALTH MANAGEMENT",
+                        "SECURE FINANCIAL SERVICES, INC",
+                        "SAWYER WEALTH MANAGEMENT",
+                        "SABATKA FINANCIAL ADVISORY SERVICE, INC.",
+                        "RZA WEALTH MANAGEMENT",
+                        "RSL FINANCIAL MANAGEMENT",
+                        "ROBINSON FINANCIAL",
+                        "RG INVESTMENTS",
+                        "RETIREMENT DEFENDERS",
+                        "RASBERRY FINANCIAL SERVICES",
+                        "PRAIRIELAND INSURANCE GROUP, LLC",
+                        "NUTTER WEALTH MANAGEMENT",
+                        "NORTH COUNTY FINANCIAL ASSOCIATES",
+                        "MWI",
+                        "MUNKER FINANCIAL",
+                        "MONK FINANCIAL ADVISORS",
+                        "MIKE KLOBERDANZ, CHFC, LUTCF & ASSOCIATES",
+                        "MIKE AXTON & ASSOCIATES",
+                        "MG NASH FINANCIAL SOLUTIONS, INC",
+                        "MANAGING WEALTH & INCOME",
+                        "LUND FINANCIAL",
+                        "LLP FINANCIAL SERVICES",
+                        "LIFETIME FINANCIAL PLANNING",
+                        "LEWIS RETIREMENT SOLUTIONS, LLC",
+                        "JUDY FINANCIAL GROUP, INC",
+                        "JOHNSON FINANCIAL",
+                        "JENKINS & ASSOCIATES",
+                        "IWM FINANCIAL, INC",
+                        "INTEGRITY INVESTMENTS, INC",
+                        "HAYDENROCK FINANCIAL, LLC",
+                        "HARVEST FINANCIAL GROUP",
+                        "GULF COAST RETIREMENT SOLUTIONS",
+                        "GREER FINANCIAL SOLUTIONS, LLC",
+                        "GRAND CANYON PLANNING",
+                        "FUNDS MANAGEMENT",
+                        "FOOTE FINANCIAL",
+                        "FINANCIAL SOLUTIONS GROUP, LLC",
+                        "FINANCIAL CHOREOGRAPHY LLC",
+                        "EVERSON TAX & FINANCIAL SERVICES",
+                        "ETA FINANCIAL SERVICES",
+                        "DS DRELICH WEALTH MANAGEMENT",
+                        "CREATIVEONE SECURITIES, LLC",
+                        "CREATIVE ONE SECURITIES, LLC",
+                        "CORNERSTONE FINANCIAL",
+                        "COOK FINANCIAL GROUP",
+                        "CONFIANCE FINANCIAL ADVISORY",
+                        "COMPASS FINANCIAL WEALTH MANAGEMENT",
+                        "COASTAL CAPITAL INVESTMENT SERVICES",
+                        "CLIENT ONE SECURITIES, LLC",
+                        "CLIENT ONE SECURITIES LLC",
+                        "CLC FINANCIAL SERVICES, LLC",
+                        "CARTIER FINANCIAL",
+                        "CARSTENS FINANCIAL GROUP",
+                        "BENCHMARK FINANCIAL",
+                        "BELLUE & ASSOCIATES",
+                        "BAACKE INSURANCE SERVICES, INC.",
+                        "ATLANTIC COAST ADVISORY GROUP",
+                        "ASSOCIATES GROUP",
+                        "AMERICA'S RETIREMENT ADVISORY GROUP"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 158,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"USA\", \"postalCode\": \"66211\"}, \"mailingAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"USA\", \"postalCode\": \"66211\"}, \"businessPhoneNumber\": \"913 814-6097\", \"iaFirmName\": \"CREATIVEONE SECURITIES, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"6330 SPRINT PARKWAY, SUITE 400\", \"city\": \"OVERLAND PARK\", \"state\": \"KS\", \"country\": \"United States\", \"postalCode\": \"66211\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2078 Richmond Ave",
+                                        "city": "Staten Island",
+                                        "state": "NY",
+                                        "zipCode": "10314"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "315263",
+                    "firm_bd_sec_number": "70799",
+                    "firm_bd_full_sec_number": "8-70799",
+                    "firm_name": "ATOMIC BROKERAGE LLC",
+                    "firm_other_names": [
+                        "ATOMIC BROKERAGE",
+                        "ATOMIC BROKERAGE LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"107 GREENWICH STREET\", \"street2\": \"21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006\"}, \"mailingAddress\": {\"street1\": \"107 GREENWICH STREET\", \"street2\": \"21ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006\"}, \"businessPhoneNumber\": \"6504020788\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "107 Greenwich Street, 21st Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "311650",
+                    "firm_bd_sec_number": "70654",
+                    "firm_bd_full_sec_number": "8-70654",
+                    "firm_name": "ELEQUIN SECURITIES LLC",
+                    "firm_other_names": [
+                        "ELEQUIN SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 0,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1333 BROADWAY\", \"street2\": \"SUITE 500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"1333 BROADWAY\", \"street2\": \"SUITE 500\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"929-346-7126\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1333 BROADWAY",
+                                        "street2": "SUITE 500",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171355",
+                    "firm_bd_sec_number": "69460",
+                    "firm_bd_full_sec_number": "8-69460",
+                    "firm_name": "GX2 SPREAD MARKETS, LLC",
+                    "firm_other_names": [
+                        "GX2 SPREAD MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"190 S. LASALLE STREET, SUITE 1950\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60603\"}, \"mailingAddress\": {\"street1\": \"190 S. LASALLE STREET, SUITE 1950\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"postalCode\": \"60603\"}, \"businessPhoneNumber\": \"312-471-6300\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1155 Avenue of the Americas",
+                                        "street2": "14th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "104100",
+                    "firm_bd_sec_number": "52558",
+                    "firm_bd_full_sec_number": "8-52558",
+                    "firm_name": "M. S. HOWELLS & CO.",
+                    "firm_other_names": [
+                        "M. S. HOWELLS & CO."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 50,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"23350 N. PIMA RD.\", \"city\": \"SCOTTSDALE\", \"state\": \"AZ\", \"country\": \"USA\", \"postalCode\": \"85255\"}, \"mailingAddress\": {\"street1\": \"23350 N. PIMA RD.\", \"city\": \"SCOTTSDALE\", \"state\": \"AZ\", \"country\": \"UNITED STATES\", \"postalCode\": \"85255\"}, \"businessPhoneNumber\": \"480-563-2000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1120 AVENUE OF THE AMERICAS",
+                                        "street2": "4TH FL.,OFFICE 4026",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7191",
+                    "firm_bd_sec_number": "18860",
+                    "firm_bd_full_sec_number": "8-18860",
+                    "firm_name": "LASALLE ST SECURITIES, L.L.C.",
+                    "firm_other_names": [
+                        "LA SALLE ST. SECURITIES, INC.",
+                        "LASALLE ST SECURITIES, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 118,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"940 N. INDUSTRIAL DR.\", \"city\": \"ELMHURST\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60126-1131\"}, \"mailingAddress\": {\"street1\": \"940 N. INDUSTRIAL DR.\", \"city\": \"ELMHURST\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60126-1131\"}, \"businessPhoneNumber\": \"630-600-0500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "634 MAIN STREET",
+                                        "street2": "SUITE 200",
+                                        "city": "EAST AURORA",
+                                        "state": "NY",
+                                        "zipCode": "14052"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

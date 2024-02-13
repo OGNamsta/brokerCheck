@@ -1,0 +1,469 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169131",
+                    "firm_bd_sec_number": "69352",
+                    "firm_bd_full_sec_number": "8-69352",
+                    "firm_name": "RICHARD JAMES & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "RICHARD JAMES & ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2 ROOSEVELT AVE.\", \"street2\": \"STE 102\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11791\"}, \"mailingAddress\": {\"street1\": \"2 ROOSEVELT AVE.\", \"street2\": \"STE 102\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11791\"}, \"businessPhoneNumber\": \"516-200-3174\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 ROOSEVELT AVE.",
+                                        "street2": "STE 102",
+                                        "city": "SYOSSET",
+                                        "state": "NY",
+                                        "zipCode": "11791"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2002",
+                    "firm_bd_sec_number": "30196",
+                    "firm_bd_full_sec_number": "8-30196",
+                    "firm_ia_sec_number": "65667",
+                    "firm_ia_full_sec_number": "801-65667",
+                    "firm_name": "GILDER GAGNON HOWE & CO. LLC",
+                    "ia_firm_name": "GILDER GAGNON HOWE & CO. LLC",
+                    "firm_other_names": [
+                        "GGHC",
+                        "GILDER, GAGNON & CO., INC.",
+                        "GILDER, GAGNON & CO.",
+                        "GILDER GAGNON HOWE & CO. LLC",
+                        "GILDER GAGNON HOWE & CO"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"475 TENTH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"475 TENTH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"212 765-2500\", \"iaFirmName\": \"GILDER GAGNON HOWE & CO. LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"475 TENTH AVENUE\", \"street2\": \"12TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10018-1120\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "475 Tenth Ave",
+                                        "street2": "12th floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "39805",
+                    "firm_bd_sec_number": "48842",
+                    "firm_bd_full_sec_number": "8-48842",
+                    "firm_ia_sec_number": "54810",
+                    "firm_ia_full_sec_number": "801-54810",
+                    "firm_name": "GUGGENHEIM FUNDS DISTRIBUTORS, LLC",
+                    "ia_firm_name": "GUGGENHEIM FUNDS DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "CLAYMORE SECURITIES, INC.",
+                        "RANSON & ASSOCIATES INC.",
+                        "GUGGENHEIM PARTNERS",
+                        "GUGGENHEIM INVESTMENTS",
+                        "GUGGENHEIM GLOBAL INVESTMENTS",
+                        "GUGGENHEIM FUNDS DISTRIBUTORS, LLC",
+                        "GUGGENHEIM FUNDS DISTRIBUTORS, INC.",
+                        "GUGGENHEIM"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 12,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"227 WEST MONROE STREET\", \"street2\": \"7TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606\"}, \"mailingAddress\": {\"street1\": \"702 KING FARM BLVD\", \"street2\": \"STE 200\", \"city\": \"ROCKVILLE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"20850\"}, \"businessPhoneNumber\": \"312-357-0287\", \"iaFirmName\": \"GUGGENHEIM FUNDS DISTRIBUTORS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"227 WEST MONROE STREET\", \"street2\": \"7TH FLOOR\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"United States\", \"postalCode\": \"60606\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "42-40 BELL BLVD., SUITE 505",
+                                        "city": "BAYSIDE",
+                                        "state": "NY",
+                                        "zipCode": "11361"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154603",
+                    "firm_bd_sec_number": "68652",
+                    "firm_bd_full_sec_number": "8-68652",
+                    "firm_name": "CHURCHILL STATESIDE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "AHTC SECURITIES, LLC",
+                        "STATESIDE SECURITIES, LLC",
+                        "CHURCHILL STATESIDE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"6250 SHILOH ROAD, SUITE 235\", \"city\": \"ALPHARETTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30005\"}, \"mailingAddress\": {\"street1\": \"6250 SHILOH ROAD, SUITE 235\", \"city\": \"ALPHARETTA\", \"state\": \"GA\", \"country\": \"USA\", \"postalCode\": \"30005\"}, \"businessPhoneNumber\": \"404-250-4190\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "440 GROOMS RD",
+                                        "city": "Clifton Park",
+                                        "state": "NY",
+                                        "zipCode": "12065"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "323458",
+                    "firm_bd_sec_number": "71008",
+                    "firm_bd_full_sec_number": "8-71008",
+                    "firm_name": "AIME CAPITAL MARKETS LLC",
+                    "firm_other_names": [
+                        "AIME CAPITAL MARKETS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"445 NORTHERN BLVD\", \"street2\": \"STE 28\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11021\"}, \"mailingAddress\": {\"street1\": \"445 NORTHERN BLVD\", \"street2\": \"STE 28\", \"city\": \"GREAT NECK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11021\"}, \"businessPhoneNumber\": \"516-544-6470\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "445 NORTHERN BLVD",
+                                        "street2": "STE 28",
+                                        "city": "GREAT NECK",
+                                        "state": "NY",
+                                        "zipCode": "11021"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "151593",
+                    "firm_bd_sec_number": "68381",
+                    "firm_bd_full_sec_number": "8-68381",
+                    "firm_name": "TAP SECURITIES LLC",
+                    "firm_other_names": [
+                        "TAP SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"505 PARK AVENUE\", \"street2\": \"FL 9\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"505 PARK AVENUE\", \"street2\": \"FL 9\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-909-9009\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "505 PARK AVENUE",
+                                        "street2": "FL 9",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304566",
+                    "firm_bd_sec_number": "70370",
+                    "firm_bd_full_sec_number": "8-70370",
+                    "firm_name": "GLOBAL PACIFIC SECURITIES US, INC.",
+                    "firm_other_names": [
+                        "GLOBAL PACIFIC SECURITIES US, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19 W. 26TH STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"19 W. 26TH STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"917-970-0898\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "19 W. 26TH STREET",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "118817",
+                    "firm_bd_sec_number": "53702",
+                    "firm_bd_full_sec_number": "8-53702",
+                    "firm_ia_sec_number": "128491",
+                    "firm_ia_full_sec_number": "801-128491",
+                    "firm_name": "ITAU BBA USA SECURITIES, INC.",
+                    "ia_firm_name": "ITAU BBA USA SECURITIES, INC.",
+                    "firm_other_names": [
+                        "ITAU BBA USA SECURITIES, INC.",
+                        "ITAU USA SECURITIES INC.",
+                        "ITAU SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"540 MADISON AVENUE, 24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"540 MADISON AVENUE, 24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-845-0600\", \"iaFirmName\": \"ITAU BBA USA SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"540 MADISON AVENUE\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10022\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "540 MADISON AVENUE",
+                                        "street2": "23RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "323377",
+                    "firm_bd_sec_number": "70991",
+                    "firm_bd_full_sec_number": "8-70991",
+                    "firm_name": "RFQ-HUB AMERICAS LLC",
+                    "firm_other_names": [
+                        "RFQ-HUB AMERICAS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1633 BROADWAY, 41ST FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1633 BROADWAY, 41ST FL\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212 418 0100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "55 Hudson Yards",
+                                        "street2": "15th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10001"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "316115",
+                    "firm_bd_sec_number": "70771",
+                    "firm_bd_full_sec_number": "8-70771",
+                    "firm_name": "PARALEL DISTRIBUTORS",
+                    "firm_other_names": [
+                        "PARALEL DISTRIBUTORS",
+                        "PARALEL DISTRIBUTORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1700 BROADWAY\", \"street2\": \"SUITE 1850\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80290\"}, \"mailingAddress\": {\"street1\": \"1700 BROADWAY\", \"street2\": \"SUITE 1850\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80290\"}, \"businessPhoneNumber\": \"3033780364\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "950 3rd Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "290210",
+                    "firm_bd_sec_number": "70015",
+                    "firm_bd_full_sec_number": "8-70015",
+                    "firm_name": "LFT SECURITIES, LLC",
+                    "firm_other_names": [
+                        "ADVANCED TRADING & LINKED ASSET STRATEGIES, LLC",
+                        "LFT SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"425 WALNUT STREET, SUITE 2410\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"45202-3931\"}, \"mailingAddress\": {\"street1\": \"425 WALNUT STREET, SUITE 2410\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"USA\", \"postalCode\": \"45202-3931\"}, \"businessPhoneNumber\": \"513-271-0759\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "19 West 44th Street",
+                                        "street2": "Suite 1000",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136223",
+                    "firm_bd_sec_number": "66989",
+                    "firm_bd_full_sec_number": "8-66989",
+                    "firm_name": "CROSS POINT CAPITAL LLC",
+                    "firm_other_names": [
+                        "CROSS POINT CAPITAL LLC",
+                        "STRUCTURED AND ALTERNATIVE SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"25 W 39TH STREET\", \"street2\": \"FL 9\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10018\"}, \"mailingAddress\": {\"street1\": \"25 W 39TH STREET\", \"street2\": \"FL 9\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10018\"}, \"businessPhoneNumber\": \"332-910-5123\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "25 W 39TH STREET",
+                                        "street2": "FL 9",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

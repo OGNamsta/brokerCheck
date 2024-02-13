@@ -1,0 +1,448 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "119302",
+                    "firm_bd_sec_number": "65170",
+                    "firm_bd_full_sec_number": "8-65170",
+                    "firm_name": "FDX CAPITAL LLC",
+                    "firm_other_names": [
+                        "DOUGLAS FINANCIAL LLC",
+                        "FDX CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"515 MADISON AVENUE, 24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"515 MADISON AVENUE, 24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"888-814-8180\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "515 MADISON AVENUE, 24TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "47390",
+                    "firm_bd_sec_number": "51785",
+                    "firm_bd_full_sec_number": "8-51785",
+                    "firm_name": "NABSECURITIES, LLC",
+                    "firm_other_names": [
+                        "NABCAPITAL SECURITIES LLC",
+                        "NATIONAL AUSTRALIA CAPITAL MARKETS, LLC",
+                        "NABSECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"277 PARK AVENUE, 19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172\"}, \"mailingAddress\": {\"street1\": \"277 PARK AVENUE, 19TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10172\"}, \"businessPhoneNumber\": \"212-916-9500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "277 PARK AVENUE, 19TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10172"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "154431",
+                    "firm_bd_sec_number": "68639",
+                    "firm_bd_full_sec_number": "8-68639",
+                    "firm_name": "T3 TRADING GROUP, LLC",
+                    "firm_other_names": [
+                        "T3 TRADING GROUP, LLC",
+                        "TITUS SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"88 PINE STREET\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"mailingAddress\": {\"street1\": \"88 PINE STREET\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10005\"}, \"businessPhoneNumber\": \"646-346-1700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "88 PINE STREET",
+                                        "street2": "23RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "5397",
+                    "firm_bd_sec_number": "20746",
+                    "firm_bd_full_sec_number": "8-20746",
+                    "firm_name": "DAVID LERNER ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "DAVID LERNER ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"477 JERICHO TPKE\", \"street2\": \"P.O.BOX 9006\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11791-9006\"}, \"mailingAddress\": {\"street1\": \"477 JERICHO TPKE\", \"street2\": \"P.O.BOX 9006\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"11791-9006\"}, \"businessPhoneNumber\": \"(516) 921-4200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "477 JERICHO TURNPIKE",
+                                        "city": "SYOSSET",
+                                        "state": "NY",
+                                        "zipCode": "11791"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "1042",
+                    "firm_bd_sec_number": "12123",
+                    "firm_bd_full_sec_number": "8-12123",
+                    "firm_name": "ALLEN & COMPANY LLC",
+                    "firm_other_names": [
+                        "ALLEN & COMPANY INCORPORATED",
+                        "ALLEN & COMPANY LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"711 FIFTH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"711 FIFTH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-832-8000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "711 FIFTH AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "117015",
+                    "firm_bd_sec_number": "53573",
+                    "firm_bd_full_sec_number": "8-53573",
+                    "firm_name": "MARWOOD GROUP",
+                    "ia_firm_name": "MARWOOD GROUP",
+                    "firm_other_names": [
+                        "MARWOOD GROUP",
+                        "MARWOOD GROUP LLC",
+                        "MARWOOD GROUP ASSET MANAGEMENT LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"733 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"733 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212 532-3651\", \"iaFirmName\": \"MARWOOD GROUP\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"733 THIRD AVENUE\", \"street2\": \"11TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10017\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "733 THIRD AVENUE",
+                                        "street2": "11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155765",
+                    "firm_bd_sec_number": "68739",
+                    "firm_bd_full_sec_number": "8-68739",
+                    "firm_name": "BAYRIDGE SECURITIES, LLC",
+                    "firm_other_names": [
+                        "BAYRIDGE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"600 MONTGOMERY STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94111\"}, \"mailingAddress\": {\"street1\": \"600 MONTGOMERY STREET\", \"city\": \"SAN FRANCISCO\", \"state\": \"CA\", \"postalCode\": \"94111\"}, \"businessPhoneNumber\": \"415 248-5570\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "PARK AVENUE TOWER",
+                                        "street2": "65 EAST 55TH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "153505",
+                    "firm_bd_sec_number": "68541",
+                    "firm_bd_full_sec_number": "8-68541",
+                    "firm_name": "STAR MOUNTAIN ADVISORS, LLC",
+                    "firm_other_names": [
+                        "CADWYN POINT PARTNERS LLC",
+                        "STAR MOUNTAIN ADVISORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2 GRAND CENTRAL TOWER, 140 EAST 45TH STREET\", \"street2\": \"37TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"2 GRAND CENTRAL TOWER, 140 EAST 45TH STREET\", \"street2\": \"37TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"646-787-0257\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 Grand Central Tower, 140 East 45th Street",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37081",
+                    "firm_bd_sec_number": "47616",
+                    "firm_bd_full_sec_number": "8-47616",
+                    "firm_name": "MAY CAPITAL GROUP, L.L.C.",
+                    "firm_other_names": [
+                        "MAY CAPITAL GROUP, L.L.C.",
+                        "MAY, LAWRENCE E., SOLE PROPRIETOR",
+                        "MAY TURNER CAPITAL GROUP, L.L.C."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1776 BROADWAY\", \"street2\": \"SUITE 1900\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1776 BROADWAY\", \"street2\": \"SUITE 1900\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-489-0100\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1776 BROADWAY",
+                                        "street2": "SUITE 1900",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "122481",
+                    "firm_bd_sec_number": "65500",
+                    "firm_bd_full_sec_number": "8-65500",
+                    "firm_name": "ETICO PARTNERS, LLC",
+                    "firm_other_names": [
+                        "ETICO PARTNERS, LLC",
+                        "M.J. WHITMAN LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19 RAILROAD PL, STE 202\", \"city\": \"SARATOGA SPRINGS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"12866\"}, \"mailingAddress\": {\"street1\": \"19 RAILROAD PL, STE 202\", \"city\": \"SARATOGA SPRINGS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"12866\"}, \"businessPhoneNumber\": \"518-348-0060\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "258 GENESEE ST",
+                                        "street2": "SUITE #506",
+                                        "city": "UTICA",
+                                        "state": "NY",
+                                        "zipCode": "13502"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120574",
+                    "firm_bd_sec_number": "65317",
+                    "firm_bd_full_sec_number": "8-65317",
+                    "firm_name": "ARDOUR CAPITAL INVESTMENTS, LLC",
+                    "firm_other_names": [
+                        "ARDOUR CAPITAL INVESTMENTS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"26 BROADWAY\", \"street2\": \"SUITE 1107\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"mailingAddress\": {\"street1\": \"26 BROADWAY\", \"street2\": \"SUITE 1107\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10004\"}, \"businessPhoneNumber\": \"212-375-2957\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "350 5TH AVENUE",
+                                        "street2": "SUITE 4812",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10118"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "141294",
+                    "firm_bd_sec_number": "67375",
+                    "firm_bd_full_sec_number": "8-67375",
+                    "firm_name": "FT GLOBAL CAPITAL, INC.",
+                    "firm_other_names": [
+                        "FT GLOBAL CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1688 MERIDIAN AVENUE\", \"street2\": \"SUITE 700\", \"city\": \"MIAMI BEACH\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33139\"}, \"mailingAddress\": {\"street1\": \"1688 MERIDIAN AVENUE\", \"street2\": \"SUITE 700\", \"city\": \"MIAMI BEACH\", \"state\": \"FL\", \"country\": \"USA\", \"postalCode\": \"33139\"}, \"businessPhoneNumber\": \"786-220-6129\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "41 Madison Avenue",
+                                        "street2": "Suite 3130",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

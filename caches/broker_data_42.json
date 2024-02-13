@@ -1,0 +1,454 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155786",
+                    "firm_bd_sec_number": "68740",
+                    "firm_bd_full_sec_number": "8-68740",
+                    "firm_name": "EXEMPLAR CAPITAL, LLC",
+                    "firm_other_names": [
+                        "EXEMPLAR CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 POST OFFICE SQUARE,\", \"street2\": \"8TH FL SOUTH\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02109\"}, \"mailingAddress\": {\"street1\": \"10 POST OFFICE SQUARE,\", \"street2\": \"8TH FL SOUTH\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02109\"}, \"businessPhoneNumber\": \"617 542-7400\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "211 East 43rd Street",
+                                        "street2": "7th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131607",
+                    "firm_bd_sec_number": "66487",
+                    "firm_bd_full_sec_number": "8-66487",
+                    "firm_name": "PACIFIC CENTURY SECURITIES, LLC",
+                    "firm_other_names": [
+                        "AMBATA SECURITIES, LLC",
+                        "VISION FUEL CAPITAL, LLC",
+                        "PACIFIC CENTURY SECURITIES, LLC",
+                        "GYRE SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"60-20 WOODSIDE AVENUE\", \"street2\": \"SUITE 211\", \"city\": \"QUEENS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11377\"}, \"mailingAddress\": {\"street1\": \"60-20 WOODSIDE AVENUE\", \"street2\": \"SUITE 211\", \"city\": \"QUEENS\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11377\"}, \"businessPhoneNumber\": \"212-970-8868\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "60-20 WOODSIDE AVENUE",
+                                        "street2": "SUITE 211",
+                                        "city": "QUEENS",
+                                        "state": "NY",
+                                        "zipCode": "11377"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "147369",
+                    "firm_bd_sec_number": "67900",
+                    "firm_bd_full_sec_number": "8-67900",
+                    "firm_name": "CTL SECURITIES LLC",
+                    "firm_other_names": [
+                        "CTL SECURITIES LLC",
+                        "PRC SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"521 FIFTH AVE\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10175-1799\"}, \"mailingAddress\": {\"street1\": \"521 FIFTH AVE\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10175-1799\"}, \"businessPhoneNumber\": \"212 792 7884\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "500 FIFTH AVE",
+                                        "street2": "SUITE 4830",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10110"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131452",
+                    "firm_bd_sec_number": "66464",
+                    "firm_bd_full_sec_number": "8-66464",
+                    "firm_name": "AQUEDUCT CAPITAL GROUP, LLC",
+                    "firm_other_names": [
+                        "ALPHALINK PARTNERS LLC",
+                        "AQUEDUCT CAPITAL GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2820 SELWYN AVENUE, SUITE 550\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"postalCode\": \"28209\"}, \"mailingAddress\": {\"street1\": \"2820 SELWYN AVENUE, SUITE 550\", \"city\": \"CHARLOTTE\", \"state\": \"NC\", \"postalCode\": \"28209\"}, \"businessPhoneNumber\": \"704-973-9919\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444 Madison Ave.",
+                                        "street2": "33rd floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30761",
+                    "firm_bd_sec_number": "45136",
+                    "firm_bd_full_sec_number": "8-45136",
+                    "firm_name": "AUERBACH GRAYSON & COMPANY LLC",
+                    "firm_other_names": [
+                        "AUERBACH GRAYSON & COMPANY INCORPORATED",
+                        "JL AUERBACH & COMPANY INCORPORATED",
+                        "AUERBACH GRAYSON & COMPANY LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"20W 55TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES OF AMERICA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"20W 55TH STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-557-4444\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "20W 55TH STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "169131",
+                    "firm_bd_sec_number": "69352",
+                    "firm_bd_full_sec_number": "8-69352",
+                    "firm_name": "RICHARD JAMES & ASSOCIATES, INC.",
+                    "firm_other_names": [
+                        "RICHARD JAMES & ASSOCIATES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2 ROOSEVELT AVE.\", \"street2\": \"STE 102\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11791\"}, \"mailingAddress\": {\"street1\": \"2 ROOSEVELT AVE.\", \"street2\": \"STE 102\", \"city\": \"SYOSSET\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11791\"}, \"businessPhoneNumber\": \"516-200-3174\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2 ROOSEVELT AVE.",
+                                        "street2": "STE 102",
+                                        "city": "SYOSSET",
+                                        "state": "NY",
+                                        "zipCode": "11791"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "313779",
+                    "firm_bd_sec_number": "70725",
+                    "firm_bd_full_sec_number": "8-70725",
+                    "firm_name": "QUINBROOK CAPITAL PARTNERS LLC",
+                    "firm_other_names": [
+                        "QUINBROOK CAPITAL PARTNERS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"75 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 24A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"75 ROCKEFELLER PLAZA\", \"street2\": \"SUITE 24A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"44 7861 309 958\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "75 ROCKEFELLER PLAZA",
+                                        "street2": "SUITE 24A",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "35842",
+                    "firm_bd_sec_number": "47081",
+                    "firm_bd_full_sec_number": "8-47081",
+                    "firm_name": "COVIEW CAPITAL, INC.",
+                    "firm_other_names": [
+                        "COVIEW CAPITAL, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"780 THIRD AVENUE\", \"street2\": \"SUITE 1501\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"mailingAddress\": {\"street1\": \"780 THIRD AVENUE\", \"street2\": \"SUITE 1501\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10017\"}, \"businessPhoneNumber\": \"212-750-0011\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "780 THIRD AVENUE",
+                                        "street2": "SUITE 1501",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "118817",
+                    "firm_bd_sec_number": "53702",
+                    "firm_bd_full_sec_number": "8-53702",
+                    "firm_ia_sec_number": "128491",
+                    "firm_ia_full_sec_number": "801-128491",
+                    "firm_name": "ITAU BBA USA SECURITIES, INC.",
+                    "ia_firm_name": "ITAU BBA USA SECURITIES, INC.",
+                    "firm_other_names": [
+                        "ITAU BBA USA SECURITIES, INC.",
+                        "ITAU USA SECURITIES INC.",
+                        "ITAU SECURITIES INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"540 MADISON AVENUE, 24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"540 MADISON AVENUE, 24TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-845-0600\", \"iaFirmName\": \"ITAU BBA USA SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"540 MADISON AVENUE\", \"street2\": \"23RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10022\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "540 MADISON AVENUE",
+                                        "street2": "23RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "304566",
+                    "firm_bd_sec_number": "70370",
+                    "firm_bd_full_sec_number": "8-70370",
+                    "firm_name": "GLOBAL PACIFIC SECURITIES US, INC.",
+                    "firm_other_names": [
+                        "GLOBAL PACIFIC SECURITIES US, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"19 W. 26TH STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"mailingAddress\": {\"street1\": \"19 W. 26TH STREET\", \"street2\": \"5TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10010\"}, \"businessPhoneNumber\": \"917-970-0898\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "19 W. 26TH STREET",
+                                        "street2": "5TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10010"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131848",
+                    "firm_bd_sec_number": "66518",
+                    "firm_bd_full_sec_number": "8-66518",
+                    "firm_name": "HODES WEILL SECURITIES, LLC",
+                    "firm_other_names": [
+                        "HODES WEILL SECURITIES, LLC",
+                        "JAPANWORKS CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"825 THIRD AVE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"825 THIRD AVE\", \"street2\": \"15TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 542 5977\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "825 THIRD AVE",
+                                        "street2": "15TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "137988",
+                    "firm_bd_sec_number": "67140",
+                    "firm_bd_full_sec_number": "8-67140",
+                    "firm_name": "LEBENTHAL FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "BRISTOL FINANCIAL SERVICES, INC",
+                        "LEBENTHAL FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"500 N. BROADWAY\", \"street2\": \"SUITE 238\", \"city\": \"JERICHO\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11753\"}, \"mailingAddress\": {\"street1\": \"500 N. BROADWAY\", \"street2\": \"SUITE 238\", \"city\": \"JERICHO\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"11753\"}, \"businessPhoneNumber\": \"516 349-5555\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 Parkway Drive South",
+                                        "street2": "Suite 200",
+                                        "city": "Hauppauge",
+                                        "state": "NY",
+                                        "zipCode": "11788"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

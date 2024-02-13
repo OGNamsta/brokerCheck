@@ -1,0 +1,479 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "19850",
+                    "firm_bd_sec_number": "37854",
+                    "firm_bd_full_sec_number": "8-37854",
+                    "firm_name": "CALAMOS FINANCIAL SERVICES LLC",
+                    "firm_other_names": [
+                        "CALAMOS FINANCIAL SERVICES LLC",
+                        "CALAMOS FINANCIAL SERVICES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"2020 CALAMOS COURT\", \"city\": \"NAPERVILLE\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60563-2787\"}, \"mailingAddress\": {\"street1\": \"2020 CALAMOS COURT\", \"city\": \"NAPERVILLE\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60563-2787\"}, \"businessPhoneNumber\": \"630-245-7200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "50 Rockefeller Plaza",
+                                        "street2": "Suite 1600",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30344",
+                    "firm_bd_sec_number": "44766",
+                    "firm_bd_full_sec_number": "8-44766",
+                    "firm_name": "MORGAN STANLEY DISTRIBUTION, INC.",
+                    "firm_other_names": [
+                        "MAS FUND DISTRIBUTION, INC.",
+                        "MORGAN STANLEY DISTRIBUTION, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 8,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1585 BROADWAY\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"100 SOUTH CHARLES STREET\", \"street2\": \"4TH FLOOR\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"UNITED STATES\", \"postalCode\": \"21201\"}, \"businessPhoneNumber\": \"212-296-7860\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1585 Broadway",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "102500",
+                    "firm_bd_sec_number": "52140",
+                    "firm_bd_full_sec_number": "8-52140",
+                    "firm_name": "ARCHIPELAGO SECURITIES L.L.C.",
+                    "firm_other_names": [
+                        "ARCHIPELAGO SECURITIES L.L.C.",
+                        "REDIBOOK ECN LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"353 NORTH CLARK STREET\", \"street2\": \"SUITE #3200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60654\"}, \"mailingAddress\": {\"street1\": \"353 NORTH CLARK STREET\", \"street2\": \"SUITE #3200\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"USA\", \"postalCode\": \"60654\"}, \"businessPhoneNumber\": \"312-836-6700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "11 Wall Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10005"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "123635",
+                    "firm_bd_sec_number": "65601",
+                    "firm_bd_full_sec_number": "8-65601",
+                    "firm_name": "ICE BONDS SECURITIES CORPORATION",
+                    "firm_other_names": [
+                        "CREDITEX SECURITIES CORPORATION",
+                        "ICE TMC",
+                        "ICE BONDS SECURITIES CORPORATION",
+                        "ICE BONDPOINT",
+                        "CREDITTRADE SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"850 THIRD AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"850 THIRD AVENUE\", \"street2\": \"9TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-323-8500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1311 Mamaroneck Avenue",
+                                        "street2": "3rd Floor",
+                                        "city": "White Plains",
+                                        "state": "NY",
+                                        "zipCode": "10605"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "124738",
+                    "firm_bd_sec_number": "65718",
+                    "firm_bd_full_sec_number": "8-65718",
+                    "firm_name": "GALLATIN CAPITAL LLC",
+                    "firm_other_names": [
+                        "GALLATIN CAPITAL LLC",
+                        "THE SAGAMORE GROUP, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"444 MADISON AVENUE\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"444 MADISON AVENUE\", \"street2\": \"29TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-891-7980\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "444 MADISON AVENUE",
+                                        "street2": "29TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "316477",
+                    "firm_bd_sec_number": "70841",
+                    "firm_bd_full_sec_number": "8-70841",
+                    "firm_name": "DASTA FINANCIAL, LLC",
+                    "firm_other_names": [
+                        "DASTA FINANCIAL, LLC",
+                        "ECHOFI FINANCIAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"101 GREENWICH\", \"street2\": \"SECOND FLOOR, SUITE 402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006\"}, \"mailingAddress\": {\"street1\": \"101 GREENWICH\", \"street2\": \"SECOND FLOOR, SUITE 402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10006\"}, \"businessPhoneNumber\": \"212-574-1281\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "101 GREENWICH, SECOND FLOOR, SUITE 402",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10006"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "759",
+                    "firm_bd_sec_number": "12745",
+                    "firm_bd_full_sec_number": "8-12745",
+                    "firm_name": "SECURITIES MANAGEMENT & RESEARCH, INC.",
+                    "firm_other_names": [
+                        "SECURITIES MANAGEMENT & RESEARCH, INC.",
+                        "SOUTH SHORE ADVISORS, INC.",
+                        "SM&R",
+                        "SECURITIES MANAGEMENT AND RESEARCH, INC. (\"SM&R\")",
+                        "SECURITIES MANAGEMENT AND RESEARCH, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 83,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4201 42ND STREET NE\", \"street2\": \"SUITE 100\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52402\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 11606\", \"city\": \"CEDAR RAPIDS\", \"state\": \"IA\", \"country\": \"UNITED STATES\", \"postalCode\": \"52410-1606\"}, \"businessPhoneNumber\": \"855-767-5700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "91 CHESTNUT ST",
+                                        "city": "ONEONTA",
+                                        "state": "NY",
+                                        "zipCode": "13820"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "594",
+                    "firm_bd_sec_number": "23060",
+                    "firm_bd_full_sec_number": "8-23060",
+                    "firm_ia_sec_number": "48726",
+                    "firm_ia_full_sec_number": "801-48726",
+                    "firm_name": "MOORS & CABOT, INC.",
+                    "ia_firm_name": "MOORS & CABOT, INC",
+                    "firm_other_names": [
+                        "MOORS & CABOT FINANCIAL ADVISORS",
+                        "MOORS & CABOT, INC.",
+                        "MOORS & CABOT, INC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 31,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"ONE FEDERAL STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02110\"}, \"mailingAddress\": {\"street1\": \"ONE FEDERAL STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02110\"}, \"businessPhoneNumber\": \"617-426-0500\", \"iaFirmName\": \"MOORS & CABOT, INC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"ONE FEDERAL STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"United States\", \"postalCode\": \"02110\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "Northport",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "36956",
+                    "firm_bd_sec_number": "47566",
+                    "firm_bd_full_sec_number": "8-47566",
+                    "firm_ia_sec_number": "113763",
+                    "firm_ia_full_sec_number": "801-113763",
+                    "firm_name": "ST. BERNARD FINANCIAL SERVICES, INC.",
+                    "ia_firm_name": "ST. BERNARD FINANCIAL SERVICES, INC.",
+                    "firm_other_names": [
+                        "BANKS AND BROWN FINANCIAL ADVISORS",
+                        "WARD FINANCIAL SERVICES",
+                        "TURNER FINANCIAL",
+                        "TULSATAXDEPOT.COM",
+                        "ST. BERNARD FINANCIAL SERVICES, INC.",
+                        "ST BERNARD FINANCIAL SERVICES, INC.",
+                        "SOUTH TEXAS WEALTH",
+                        "SCHERSHELWEALTH.COM",
+                        "PULLEN FINANCIAL",
+                        "MFCENTER.COM",
+                        "KESSLER FINANCIAL",
+                        "INTEGRATED FINANCIAL SOLUTIONS OF KANSAS CITY",
+                        "BISHOP INSURANCE"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 76,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1609 WEST MAIN ST.\", \"city\": \"RUSSELLVILLE\", \"state\": \"AR\", \"country\": \"UNITED STATES\", \"postalCode\": \"72801\"}, \"mailingAddress\": {\"street1\": \"1609 WEST MAIN ST.\", \"city\": \"RUSSELLVILLE\", \"state\": \"AR\", \"country\": \"UNITED STATES\", \"postalCode\": \"72801\"}, \"businessPhoneNumber\": \"479-967-1200\", \"iaFirmName\": \"ST. BERNARD FINANCIAL SERVICES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1609 WEST MAIN ST\", \"city\": \"RUSSELLVILLE\", \"state\": \"AR\", \"country\": \"United States\", \"postalCode\": \"72801\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1047 Oceanview Ave",
+                                        "street2": "1F1",
+                                        "city": "Brooklyn",
+                                        "state": "NY",
+                                        "zipCode": "11235"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "16670",
+                    "firm_bd_sec_number": "31114",
+                    "firm_bd_full_sec_number": "8-31114",
+                    "firm_name": "TCW FUNDS DISTRIBUTORS LLC",
+                    "firm_other_names": [
+                        "KENTER SECURITIES CORPORATION",
+                        "TCW FUNDS DISTRIBUTORS LLC",
+                        "TCW FUNDS DISTRIBUTORS",
+                        "TCW BROKERAGE SERVICES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"515 SOUTH FLOWER STREET\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"90071\"}, \"mailingAddress\": {\"street1\": \"515 SOUTH FLOWER STREET\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"UNITED STATES\", \"postalCode\": \"90071\"}, \"businessPhoneNumber\": \"213 244-0000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1251 AVENUE OF THE AMERICAS",
+                                        "street2": "SUITE 4700",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "139515",
+                    "firm_bd_sec_number": "67217",
+                    "firm_bd_full_sec_number": "8-67217",
+                    "firm_name": "MCAP LLC",
+                    "firm_other_names": [
+                        "EQUISEARCH SECURITIES, INC.",
+                        "MCAP LLC",
+                        "MADISON CAPITAL MARKETS, LLC",
+                        "MADISON CAPITAL MARKETS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1633 BROADWAY\", \"street2\": \"28TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-750-1056\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1633 BROADWAY",
+                                        "street2": "28TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "2739",
+                    "firm_bd_sec_number": "3716",
+                    "firm_bd_full_sec_number": "8-3716",
+                    "firm_name": "SCOTIA CAPITAL (USA) INC.",
+                    "firm_other_names": [
+                        "HOWARD WEIL (A DIVISION OF SCOTIABANK)",
+                        "SCOTIAMCLEOD (USA) INC.",
+                        "SCOTIA HOWARD WEIL",
+                        "SCOTIA CAPITAL MARKETS (USA) INC.",
+                        "SCOTIA CAPITAL (USA) INC.",
+                        "MCLEOD YOUNG WEIR INCORPORATED"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 VESEY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"250 VESEY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"212-225-6500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 VESEY STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,477 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43793",
+                    "firm_bd_sec_number": "50429",
+                    "firm_bd_full_sec_number": "8-50429",
+                    "firm_ia_sec_number": "56578",
+                    "firm_ia_full_sec_number": "801-56578",
+                    "firm_name": "USI SECURITIES, INC.",
+                    "ia_firm_name": "USI SECURITIES, INC.",
+                    "firm_other_names": [
+                        "USI SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 26,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"95 GLASTONBURY BLVD.\", \"street2\": \"SUITE 102\", \"city\": \"GLASTONBURY\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06033\"}, \"mailingAddress\": {\"street1\": \"95 GLASTONBURY BLVD.\", \"street2\": \"SUITE 102\", \"city\": \"GLASTONBURY\", \"state\": \"CT\", \"country\": \"USA\", \"postalCode\": \"06033\"}, \"businessPhoneNumber\": \"860-652-3239\", \"iaFirmName\": \"USI SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"95 GLASTONBURY BLVD.\", \"street2\": \"SUITE 102\", \"city\": \"GLASTONBURY\", \"state\": \"CT\", \"country\": \"United States\", \"postalCode\": \"06033\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "261 Madison Avenue, 5th Floor",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "361",
+                    "firm_bd_sec_number": "129",
+                    "firm_bd_full_sec_number": "8-129",
+                    "firm_ia_sec_number": "16048",
+                    "firm_ia_full_sec_number": "801-16048",
+                    "firm_name": "GOLDMAN SACHS & CO. LLC",
+                    "ia_firm_name": "GOLDMAN SACHS & CO. LLC",
+                    "firm_other_names": [
+                        "GOLDMAN SACHS & CO. LLC",
+                        "MARCUS INVEST OFFERING OF GOLDMAN SACHS & CO. LLC",
+                        "GOLDMAN, SACHS & CO.",
+                        "GOLDMAN SACHS ASSET MANAGEMENT (\"GSAM\")"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 39,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 WEST STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10282-2198\"}, \"mailingAddress\": {\"street1\": \"111 SOUTH MAIN STREET\", \"city\": \"SALT LAKE CITY\", \"state\": \"UT\", \"country\": \"UNITED STATES\", \"postalCode\": \"84111\"}, \"businessPhoneNumber\": \"212-902-1000\", \"iaFirmName\": \"GOLDMAN SACHS & CO. LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"200 WEST STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10282\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 WEST STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10282"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120894",
+                    "firm_bd_sec_number": "65357",
+                    "firm_bd_full_sec_number": "8-65357",
+                    "firm_ia_sec_number": "62331",
+                    "firm_ia_full_sec_number": "801-62331",
+                    "firm_name": "GENEOS WEALTH MANAGEMENT, INC.",
+                    "ia_firm_name": "GENEOS WEALTH MANAGEMENT, INC.",
+                    "firm_other_names": [
+                        "GENEOS WEALTH MANAGEMENT, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 171,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"9635 MAROON CIRCLE\", \"street2\": \"SUITE 100\", \"city\": \"ENGLEWOOD\", \"state\": \"CO\", \"country\": \"USA\", \"postalCode\": \"80112\"}, \"mailingAddress\": {\"street1\": \"9635 MAROON CIRCLE\", \"street2\": \"SUITE 100\", \"city\": \"ENGLEWOOD\", \"state\": \"CO\", \"country\": \"USA\", \"postalCode\": \"80112\"}, \"businessPhoneNumber\": \"303-785-8470\", \"iaFirmName\": \"GENEOS WEALTH MANAGEMENT, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"9635 MAROON CIRCLE\", \"street2\": \"SUITE 100\", \"city\": \"ENGLEWOOD\", \"state\": \"CO\", \"country\": \"United States\", \"postalCode\": \"80112\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "294 ROWE ROAD",
+                                        "city": "SELKIRK",
+                                        "state": "NY",
+                                        "zipCode": "12158"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "10299",
+                    "firm_bd_sec_number": "26892",
+                    "firm_bd_full_sec_number": "8-26892",
+                    "firm_ia_sec_number": "33020",
+                    "firm_ia_full_sec_number": "801-33020",
+                    "firm_name": "CETERA ADVISORS LLC",
+                    "ia_firm_name": "CETERA ADVISORS LLC",
+                    "firm_other_names": [
+                        "CETERA ADVISORS LLC",
+                        "MULTI-FINANCIAL SECURITIES CORPORATION",
+                        "MAGIS FINANCIAL PARTNERS",
+                        "FIRST ALLIED SECURITIES"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1120,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"5299 DTC BLVD #800\", \"city\": \"GREENWOOD VILLAGE\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80111\"}, \"mailingAddress\": {\"street1\": \"400 FIRST STREET SOUTH\", \"street2\": \"SUITE 300\", \"city\": \"SAINT CLOUD\", \"state\": \"MN\", \"country\": \"UNITED STATES\", \"postalCode\": \"56301\"}, \"businessPhoneNumber\": \"800-929-3485\", \"iaFirmName\": \"CETERA ADVISORS LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5299 DTC BLVD\", \"street2\": \"SUITE 800\", \"city\": \"GREENWOOD VILLAGE\", \"state\": \"CO\", \"country\": \"United States\", \"postalCode\": \"80111\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "323 WEST 39TH ST 11TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "30107",
+                    "firm_bd_sec_number": "44744",
+                    "firm_bd_full_sec_number": "8-44744",
+                    "firm_name": "STATE STREET GLOBAL ADVISORS FUNDS DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "STATE STREET BROKERAGE SERVICES, INC.",
+                        "STATE STREET GLOBAL MARKETS, LLC",
+                        "STATE STREET GLOBAL ADVISORS FUNDS DISTRIBUTORS, LLC",
+                        "STATE STREET CAPITAL MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"CHANNEL CENTER\", \"street2\": \"1 IRON STREET\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02210\"}, \"mailingAddress\": {\"street1\": \"PO BOX 5501\", \"city\": \"BOSTON\", \"state\": \"MA\", \"country\": \"UNITED STATES\", \"postalCode\": \"02210-5501\"}, \"businessPhoneNumber\": \"617-664-4959\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1290 Avenue of the Americas",
+                                        "street2": "6th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10104"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "101600",
+                    "firm_bd_sec_number": "52094",
+                    "firm_bd_full_sec_number": "8-52094",
+                    "firm_name": "BROADSTONE SECURITIES",
+                    "firm_other_names": [
+                        "BROADSTONE SECURITIES",
+                        "MICHIGAN SECURITIES, INC.",
+                        "MICHIGAN ADVISORS, INC.",
+                        "INSURANCE AUDIT AGENCY, INC.",
+                        "INSURANCE & AUDIT AGENCY, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"80 STATE STREET\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12207\"}, \"mailingAddress\": {\"street1\": \"80 STATE STREET\", \"city\": \"ALBANY\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"12207\"}, \"businessPhoneNumber\": \"5184363536\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "80 State Street",
+                                        "city": "Albany",
+                                        "state": "NY",
+                                        "zipCode": "12207"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "159712",
+                    "firm_bd_sec_number": "69009",
+                    "firm_bd_full_sec_number": "8-69009",
+                    "firm_name": "CABOT LODGE SECURITIES LLC",
+                    "firm_other_names": [
+                        "CABOT LODGE SECURITIES LLC",
+                        "WENTWORTH CAPITAL MARKETS",
+                        "PRIME UNITED SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 80,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"425 N MARTINGALE RD\", \"street2\": \"SUITE 1220\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60173\"}, \"mailingAddress\": {\"street1\": \"425 N MARTINGALE RD\", \"street2\": \"SUITE 1220\", \"city\": \"SCHAUMBURG\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60173\"}, \"businessPhoneNumber\": \"212-388-6200\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "190 Washington Avenue",
+                                        "city": "Pleasantville",
+                                        "state": "NY",
+                                        "zipCode": "10570"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "120708",
+                    "firm_bd_sec_number": "65337",
+                    "firm_bd_full_sec_number": "8-65337",
+                    "firm_name": "MAXIM GROUP LLC",
+                    "firm_other_names": [
+                        "M-VEST (A WHOLLY OWNED DIVISION OF MAXIM GROUP)",
+                        "MAXIM MERCHANT CAPITAL (A WHOLLY OWNED DIVISION OF MAXIM GROUP",
+                        "MAXIM GROUP LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"300 PARK AVE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"300 PARK AVE\", \"street2\": \"16TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-895-3500\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "100 Crossways Park Drive West - Suite 207",
+                                        "city": "WOODBURY",
+                                        "state": "NY",
+                                        "zipCode": "11797"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103848",
+                    "firm_bd_sec_number": "52323",
+                    "firm_bd_full_sec_number": "8-52323",
+                    "firm_name": "QUASAR DISTRIBUTORS, LLC",
+                    "firm_other_names": [
+                        "QUASAR DISTRIBUTORS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 73,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"THREE CANAL PLAZA, SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"USA\", \"postalCode\": \"04101\"}, \"mailingAddress\": {\"street1\": \"THREE CANAL PLAZA, SUITE 100\", \"city\": \"PORTLAND\", \"state\": \"ME\", \"country\": \"USA\", \"postalCode\": \"04101\"}, \"businessPhoneNumber\": \"866-251-6920\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 E. 53rd Street",
+                                        "street2": "21st Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "136113",
+                    "firm_bd_sec_number": "66971",
+                    "firm_bd_full_sec_number": "8-66971",
+                    "firm_name": "RENAISSANCE INSTITUTIONAL MANAGEMENT LLC",
+                    "firm_other_names": [
+                        "RENAISSANCE INSTITUTIONAL MANAGEMENT LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 THIRD AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"800 THIRD AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212 821-1502\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "800 THIRD AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "34071",
+                    "firm_bd_sec_number": "46202",
+                    "firm_bd_full_sec_number": "8-46202",
+                    "firm_name": "JNK SECURITIES CORP.",
+                    "firm_other_names": [
+                        "JNK SECURITIES",
+                        "UPHOLD SECURITIES, INC. DBA JNK SECURITIES",
+                        "UPHOLD SECURITIES INC.",
+                        "JNK SECURITIES CORP."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"530 FIFTH AVENUE\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"530 FIFTH AVENUE\", \"street2\": \"STE 3A\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-885-6314\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "530 FIFTH AVE.",
+                                        "street2": "3RD FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "37306",
+                    "firm_bd_sec_number": "47765",
+                    "firm_bd_full_sec_number": "8-47765",
+                    "firm_name": "DWS DISTRIBUTORS, INC.",
+                    "firm_other_names": [
+                        "DEAWM DISTRIBUTORS, INC.",
+                        "ZURICH KEMPER DISTRIBUTORS, INC.",
+                        "SCUDDER DISTRIBUTORS, INC.",
+                        "KEMPER DISTRIBUTORS, INC.",
+                        "DWS SCUDDER DISTRIBUTORS, INC.",
+                        "DWS INVESTMENTS DISTRIBUTORS, INC",
+                        "DWS DISTRIBUTORS, INC.",
+                        "DEUTSCHE AM DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 7,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"222 SOUTH RIVERSIDE PLAZA\", \"city\": \"CHICAGO\", \"state\": \"IL\", \"country\": \"UNITED STATES\", \"postalCode\": \"60606-5808\"}, \"mailingAddress\": {\"street1\": \"875 THIRD AVENUE\", \"street2\": \"27TH FLOOR- MAIL STOP NYC03-2720\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212-454-8608\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "875 Third Avenue",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

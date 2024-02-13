@@ -1,0 +1,494 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "7654",
+                    "firm_bd_sec_number": "22651",
+                    "firm_bd_full_sec_number": "8-22651",
+                    "firm_name": "UBS SECURITIES LLC",
+                    "firm_other_names": [
+                        "BRUNSWICK UBS WARBURG",
+                        "WARBURG DILLON READ LLC",
+                        "UBS WARBURG LLC",
+                        "UBS SECURITIES LLC",
+                        "UBS SECURITIES INC.",
+                        "UBS INVESTMENT BANK"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 32,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1285 AVENUE OF THE AMERICAS\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"1000 HARBOR BOULEVARD\", \"city\": \"WEEHAWKEN\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07086\"}, \"businessPhoneNumber\": \"201-352-3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1285 AVENUE OF THE AMERICAS",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "145115",
+                    "firm_bd_sec_number": "67705",
+                    "firm_bd_full_sec_number": "8-67705",
+                    "firm_name": "MOELIS & COMPANY LLC",
+                    "firm_other_names": [
+                        "MOELIS",
+                        "MOELIS & COMPANY LLC",
+                        "MOELIS & COMPANY"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 9,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"399 PARK AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"mailingAddress\": {\"street1\": \"399 PARK AVENUE\", \"street2\": \"4TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10022\"}, \"businessPhoneNumber\": \"212.883.3800\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "399 PARK AVENUE",
+                                        "street2": "4TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "583",
+                    "firm_bd_sec_number": "21901",
+                    "firm_bd_full_sec_number": "8-21901",
+                    "firm_name": "UBS ASSET MANAGEMENT (US) INC.",
+                    "firm_other_names": [
+                        "BRINSON ADVISORS",
+                        "UBS GLOBAL ASSET MANAGEMENT (US) INC.",
+                        "UBS GLOBAL ASSET MANAGEMENT",
+                        "UBS ASSET MANAGEMENT (US) INC.",
+                        "PAINE WEBBER MITCHELL HUTCHINS INC.",
+                        "MITCHELL HUTCHINS ASSET MANAGEMENT INC.",
+                        "BRINSON ADVISORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 6,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"787 7TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"mailingAddress\": {\"street1\": \"787 7TH AVENUE\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10019\"}, \"businessPhoneNumber\": \"212-821-3000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "787 Seventh Avenue",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10019"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "167280",
+                    "firm_bd_sec_number": "69254",
+                    "firm_bd_full_sec_number": "8-69254",
+                    "firm_name": "JANE STREET EXECUTION SERVICES, LLC",
+                    "firm_other_names": [
+                        "JANE STREET EXECUTION SERVICES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"250 VESEY STREET\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"mailingAddress\": {\"street1\": \"250 VESEY STREET\", \"street2\": \"3RD FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10281\"}, \"businessPhoneNumber\": \"646-759-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "250 Vesey Street",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10281"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "463",
+                    "firm_bd_sec_number": "462",
+                    "firm_bd_full_sec_number": "8-462",
+                    "firm_ia_sec_number": "7258",
+                    "firm_ia_full_sec_number": "801-7258",
+                    "firm_name": "JANNEY MONTGOMERY SCOTT LLC",
+                    "ia_firm_name": "JANNEY MONTGOMERY SCOTT LLC",
+                    "firm_other_names": [
+                        "JANNEY MONTGOMERY SCOTT INC.",
+                        "PARKER/HUNTER ASSET MANAGEMENT",
+                        "JANNEY MONTGOMERY SCOTT LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 268,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1717 ARCH STREET\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19103\"}, \"mailingAddress\": {\"street1\": \"1717 ARCH STREET\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"UNITED STATES\", \"postalCode\": \"19103\"}, \"businessPhoneNumber\": \"215-665-6000\", \"iaFirmName\": \"JANNEY MONTGOMERY SCOTT LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1717 ARCH STREET\", \"city\": \"PHILADELPHIA\", \"state\": \"PA\", \"country\": \"United States\", \"postalCode\": \"19103\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "city": "Commack",
+                                        "state": "NY"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "281933",
+                    "firm_bd_sec_number": "69697",
+                    "firm_bd_full_sec_number": "8-69697",
+                    "firm_name": "SIXTH STREET BD, LLC",
+                    "firm_other_names": [
+                        "SIXTH STREET BD, LLC",
+                        "TSSP BD, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"888 SEVENTH AVENUE\", \"street2\": \"41ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10106\"}, \"mailingAddress\": {\"street1\": \"888 SEVENTH AVENUE\", \"street2\": \"41ST FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10106\"}, \"businessPhoneNumber\": \"1 (212) 405-8418\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "888 SEVENTH AVENUE",
+                                        "street2": "41ST FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10106"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "165614",
+                    "firm_bd_sec_number": "69176",
+                    "firm_bd_full_sec_number": "8-69176",
+                    "firm_name": "HARVEST USA",
+                    "firm_other_names": [
+                        "HARVEST KRANE INVESTMENTS LLC",
+                        "HGI (USA) INVESTMENTS LLC",
+                        "HARVEST USA"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1185 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 206\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1185 AVENUE OF THE AMERICAS\", \"street2\": \"SUITE 206\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"212-520-6680\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1185 AVENUE OF THE AMERICAS",
+                                        "street2": "SUITE 206",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "107622",
+                    "firm_bd_sec_number": "53064",
+                    "firm_bd_full_sec_number": "8-53064",
+                    "firm_name": "METLIFE INVESTORS DISTRIBUTION COMPANY",
+                    "firm_other_names": [
+                        "AMERICAN DISTRIBUTORS, INC.",
+                        "METLIFE INVESTORS DISTRIBUTION COMPANY",
+                        "GENERAL AMERICAN DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 57,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 PARK AVENUE 4TH FLOOR\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10166\"}, \"mailingAddress\": {\"street1\": \"200 PARK AVENUE 4TH FLOOR\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10166\"}, \"businessPhoneNumber\": \"630-978-5956\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "200 Park Ave",
+                                        "street2": "5th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10166"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "8478",
+                    "firm_bd_sec_number": "25452",
+                    "firm_bd_full_sec_number": "8-25452",
+                    "firm_ia_sec_number": "63564",
+                    "firm_ia_full_sec_number": "801-63564",
+                    "firm_name": "THURSTON SPRINGER FINANCIAL",
+                    "ia_firm_name": "THURSTON SPRINGER FINANCIAL",
+                    "firm_other_names": [
+                        "ADAMS COUNTY FINANCIAL RESOURCES",
+                        "WESLEY BATES WEALTH MANAGEMENT",
+                        "TRILOGY WEALTH MANAGEMENT",
+                        "THURSTON, SPRINGER, MILLER, HERD & TITAK, INC. INSURANCE AGENCY",
+                        "THURSTON, SPRINGER, MILLER, HERD & TITAK, INC.",
+                        "THURSTON, SPRINGER, MILLER & HERD, INC.",
+                        "THURSTON, SHUMAKER, MILLER & BURKE, INCORPORATED",
+                        "THURSTON, MILLER & BURKE, INC.",
+                        "THURSTON SPRINGER RETIREMENT SERVICES",
+                        "THURSTON SPRINGER FINANCIAL",
+                        "THE BARTHEL AGENCY",
+                        "TARGETED RETIREMENT STRATEGIES",
+                        "SPRAWLS FINANCIAL",
+                        "SPENCER FINANCIAL STRATEGIES",
+                        "RETIREMENT AND ESTATE PLANNING SERVICES",
+                        "ONTRACK CAPITAL MANAGEMENT",
+                        "LIBERTY CONSULTING",
+                        "LAVELLE FINANCIAL",
+                        "JKS INVESTMENT MANAGEMENT OF THURSTON SPRINGER",
+                        "INVESTMENT STRATEGIES",
+                        "INTEGRITY WEALTH SOLUTIONS",
+                        "DAMER WEALTH MANAGEMENT",
+                        "CRAVENS, LLC",
+                        "COHEN CAPITAL MANAGEMENT",
+                        "CHIDDISTER FINANCIAL ASSOCIATES",
+                        "CERULEAN CAPITAL MANAGEMENT, LLC",
+                        "BCT FINANCIAL",
+                        "BAYLEY INVESTMENT GROUP",
+                        "BALDASSARI ADVISORY",
+                        "AMERICAN PENSION ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "INACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 29,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"9000 KEYSTONE CROSSING\", \"street2\": \"SUITE 700\", \"city\": \"INDIANAPOLIS\", \"state\": \"IN\", \"country\": \"UNITED STATES\", \"postalCode\": \"46240-2142\"}, \"mailingAddress\": {\"street1\": \"9000 KEYSTONE CROSSING\", \"street2\": \"SUITE 700\", \"city\": \"INDIANAPOLIS\", \"state\": \"IN\", \"country\": \"UNITED STATES\", \"postalCode\": \"46240-2142\"}, \"businessPhoneNumber\": \"(317) 581-4000\", \"iaFirmName\": \"THURSTON SPRINGER FINANCIAL\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"9000 KEYSTONE CROSSING\", \"street2\": \"SUITE 700\", \"city\": \"INDIANAPOLIS\", \"state\": \"IN\", \"country\": \"United States\", \"postalCode\": \"46240\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "209 E. 31ST STREET",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10016"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "26266",
+                    "firm_bd_sec_number": "42468",
+                    "firm_bd_full_sec_number": "8-42468",
+                    "firm_name": "MANNING & NAPIER INVESTOR SERVICES, INC.",
+                    "firm_other_names": [
+                        "FIDUCIARY BROKER SERVICES, INC.",
+                        "MANNING & NAPIER INVESTOR SERVICES, INC.",
+                        "MANNING & NAPIER CAPITAL ADVISORS"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"290 WOODCLIFF DRIVE\", \"city\": \"FAIRPORT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14450\"}, \"mailingAddress\": {\"street1\": \"290 WOODCLIFF DRIVE\", \"city\": \"FAIRPORT\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"14450\"}, \"businessPhoneNumber\": \"(585) 325-6880\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "290 WOODCLIFF DRIVE",
+                                        "city": "FAIRPORT",
+                                        "state": "NY",
+                                        "zipCode": "14450"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "18353",
+                    "firm_bd_sec_number": "36540",
+                    "firm_bd_full_sec_number": "8-36540",
+                    "firm_name": "PRUDENTIAL INVESTMENT MANAGEMENT SERVICES LLC",
+                    "firm_other_names": [
+                        "PAMCO SECURITIES CORPORATION",
+                        "PRUDENTIAL INVESTMENT MANAGEMENT SERVICES LLC",
+                        "PRUDENTIAL ASSET MANAGEMENT COMPANY SECURITIES CORPORATION"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 40,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"655 BROAD STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"NEWARK\", \"state\": \"NJ\", \"country\": \"UNITED STATES\", \"postalCode\": \"07102\"}, \"mailingAddress\": {\"street1\": \"655 BROAD STREET\", \"street2\": \"19TH FLOOR\", \"city\": \"NEWARK\", \"state\": \"NJ\", \"country\": \"USA\", \"postalCode\": \"07102\"}, \"businessPhoneNumber\": \"973 802-6000\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "466 LEXINGTON AVENUE",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10017"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "155178",
+                    "firm_bd_sec_number": "68701",
+                    "firm_bd_full_sec_number": "8-68701",
+                    "firm_name": "ASANTE CAPITAL GROUP ADVISORS LLC",
+                    "firm_other_names": [
+                        "ACG ADVISORS, LLC",
+                        "ASANTE CAPITAL GROUP ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 1,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"4TH FLOOR, 25 OLD BURLINGTON STREET\", \"city\": \"LONDON\", \"country\": \"ENGLAND\", \"postalCode\": \"W1S 3AN\"}, \"mailingAddress\": {\"street1\": \"4TH FLOOR, 25 OLD BURLINGTON STREET\", \"city\": \"LONDON\", \"country\": \"ENGLAND\", \"postalCode\": \"W1S 3AN\"}, \"businessPhoneNumber\": \"+44 203 696 4700\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "10 East 53rd Street",
+                                        "street2": "Floor 12",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

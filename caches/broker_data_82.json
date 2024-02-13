@@ -1,0 +1,453 @@
+{
+    "hits": {
+        "total": 1465,
+        "hits": [
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "129802",
+                    "firm_bd_sec_number": "66255",
+                    "firm_bd_full_sec_number": "8-66255",
+                    "firm_name": "INNOVATION ADVISORS LLC",
+                    "firm_other_names": [
+                        "INNOVATION ADVISORS LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"101 PARK AVENUE\", \"street2\": \"38TH FLOOR\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10178\"}, \"mailingAddress\": {\"street1\": \"244 MADISON AVENUE\", \"street2\": \"#385\", \"city\": \"NEW YORK CITY\", \"state\": \"NY\", \"country\": \"USA\", \"postalCode\": \"10016\"}, \"businessPhoneNumber\": \"212-710-5302\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "101 PARK AVENUE",
+                                        "street2": "38TH FLOOR",
+                                        "city": "NEW YORK CITY",
+                                        "state": "NY",
+                                        "zipCode": "10178"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "288410",
+                    "firm_bd_sec_number": "69944",
+                    "firm_bd_full_sec_number": "8-69944",
+                    "firm_name": "A5 SECURITIES LLC",
+                    "firm_other_names": [
+                        "A5 SECURITIES LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"375 WEST END AVE UNIT 10D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10024\"}, \"mailingAddress\": {\"street1\": \"375 WEST END AVE UNIT 10D\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10024\"}, \"businessPhoneNumber\": \"212 765-0043\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "375 West End Ave Unit 10D",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10024"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "297763",
+                    "firm_bd_sec_number": "70149",
+                    "firm_bd_full_sec_number": "8-70149",
+                    "firm_name": "DONALD CAPITAL LLC",
+                    "firm_other_names": [
+                        "DONALD CAPITAL LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 3,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"420 LEXINGTON AVE\", \"street2\": \"14TH FLOOR, SUITE # 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"mailingAddress\": {\"street1\": \"420 LEXINGTON AVE\", \"street2\": \"14TH FLOOR, SUITE # 1402\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"UNITED STATES\", \"postalCode\": \"10170\"}, \"businessPhoneNumber\": \"914-806-2066\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "420 LEXINGTON AVE",
+                                        "street2": "14TH FLOOR, SUITE # 1402",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10170"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "28832",
+                    "firm_bd_sec_number": "43810",
+                    "firm_bd_full_sec_number": "8-43810",
+                    "firm_name": "JANUS HENDERSON DISTRIBUTORS US LLC",
+                    "firm_other_names": [
+                        "JANUS DISTRIBUTORS LLC",
+                        "JANUS HENDERSON DISTRIBUTORS US LLC",
+                        "JANUS HENDERSON DISTRIBUTORS",
+                        "JANUS DISTRIBUTORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"151 DETROIT STREET\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80206-4923\"}, \"mailingAddress\": {\"street1\": \"151 DETROIT STREET\", \"city\": \"DENVER\", \"state\": \"CO\", \"country\": \"UNITED STATES\", \"postalCode\": \"80206-4923\"}, \"businessPhoneNumber\": \"303-333-3863\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1411 Broadway",
+                                        "street2": "Floor 17",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10018"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "43285",
+                    "firm_bd_sec_number": "50214",
+                    "firm_bd_full_sec_number": "8-50214",
+                    "firm_ia_sec_number": "57304",
+                    "firm_ia_full_sec_number": "801-57304",
+                    "firm_name": "M HOLDINGS SECURITIES, INC.",
+                    "ia_firm_name": "M HOLDINGS SECURITIES, INC.",
+                    "firm_other_names": [
+                        "M HOLDINGS SECURITIES, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 217,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1125 N.W. COUCH STREET\", \"street2\": \"SUITE 900\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"UNITED STATES\", \"postalCode\": \"97209\"}, \"mailingAddress\": {\"street1\": \"P.O. BOX 2207\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"UNITED STATES\", \"postalCode\": \"97208-2207\"}, \"businessPhoneNumber\": \"888-520-6784\", \"iaFirmName\": \"M HOLDINGS SECURITIES, INC.\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1125 N.W. COUCH STREET\", \"street2\": \"SUITE 900\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"United States\", \"postalCode\": \"97209\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "112 WEST 34TH ST. 18TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "11020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "165533",
+                    "firm_bd_sec_number": "69166",
+                    "firm_bd_full_sec_number": "8-69166",
+                    "firm_name": "CLSA AMERICAS, LLC",
+                    "ia_firm_name": "CLSA AMERICAS, LLC",
+                    "firm_other_names": [
+                        "CLSA AMERICAS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_ia_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "Y",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS, 17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"mailingAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS, 17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10036\"}, \"businessPhoneNumber\": \"2125495097\", \"iaFirmName\": \"CLSA AMERICAS, LLC\"}",
+                    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1155 AVENUE OF THE AMERICAS\", \"street2\": \"17TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10036\"}}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1155 AVENUE OF THE AMERICAS",
+                                        "street2": "17TH FLOOR",
+                                        "city": "NEW YORK",
+                                        "state": "NY",
+                                        "zipCode": "10036"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "171357",
+                    "firm_bd_sec_number": "69459",
+                    "firm_bd_full_sec_number": "8-69459",
+                    "firm_name": "IDX MARKETS, LLC",
+                    "firm_other_names": [
+                        "IDX MARKETS, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 2,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"270 LAFAYETTE STREET\", \"street2\": \"SUITE 1000\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10012\"}, \"mailingAddress\": {\"street1\": \"270 LAFAYETTE STREET\", \"street2\": \"SUITE 1000\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"postalCode\": \"10012\"}, \"businessPhoneNumber\": \"917-819-0702\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "270 LAFAYETTE STREET",
+                                        "street2": "SUITE 1000",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10012"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "103871",
+                    "firm_bd_sec_number": "52364",
+                    "firm_bd_full_sec_number": "8-52364",
+                    "firm_name": "MCMG CAPITAL ADVISORS, INC.",
+                    "firm_other_names": [
+                        "MATRIX PRIVATE EQUITIES, INC.",
+                        "MCMG CAPITAL ADVISORS, INC."
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "Y",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 4,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"800 EAST CANAL STREET\", \"street2\": \"SUITE 850\", \"city\": \"RICHMOND\", \"state\": \"VA\", \"country\": \"USA\", \"postalCode\": \"23219\"}, \"mailingAddress\": {\"street1\": \"800 EAST CANAL STREET, SUITE 850\", \"street2\": \"SUITE 850\", \"city\": \"RICHMOND\", \"state\": \"VA\", \"country\": \"USA\", \"postalCode\": \"23219\"}, \"businessPhoneNumber\": \"8045912057\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "1 Rockefeller Plaza",
+                                        "street2": "10th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10020"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "172693",
+                    "firm_bd_sec_number": "69521",
+                    "firm_bd_full_sec_number": "8-69521",
+                    "firm_name": "CITADEL CLEARING LLC",
+                    "firm_other_names": [
+                        "CITADEL CLEARING LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"SUITE 3300\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"SUITE 3300\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"305-929-6851\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "350 Park Avenue",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "131114",
+                    "firm_bd_sec_number": "66420",
+                    "firm_bd_full_sec_number": "8-66420",
+                    "firm_name": "PALAFOX TRADING LLC",
+                    "firm_other_names": [
+                        "PALAFOX TRADING LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 5,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"SUITE 3300\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"mailingAddress\": {\"street1\": \"200 SOUTH BISCAYNE BLVD\", \"street2\": \"SUITE 3300\", \"city\": \"MIAMI\", \"state\": \"FL\", \"country\": \"UNITED STATES\", \"postalCode\": \"33131\"}, \"businessPhoneNumber\": \"305-929-6851\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "425 Park Ave",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10022"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "282710",
+                    "firm_bd_sec_number": "69729",
+                    "firm_bd_full_sec_number": "8-69729",
+                    "firm_name": "ARKADIOS CAPITAL",
+                    "firm_other_names": [
+                        "ARKADIOS CAPITAL",
+                        "MSY SECURITIES, LLC",
+                        "ARKADIOS CAPITAL, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 61,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"309 EAST PACES FERRY ROAD\", \"street2\": \"SUITE 1000\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30305\"}, \"mailingAddress\": {\"street1\": \"309 EAST PACES FERRY ROAD\", \"street2\": \"SUITE 1000\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"UNITED STATES\", \"postalCode\": \"30305\"}, \"businessPhoneNumber\": \"404-445-0035\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "2525 Route 332     ",
+                                        "city": "Canandaigua",
+                                        "state": "NY",
+                                        "zipCode": "14424"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "_type": "_doc",
+                "_source": {
+                    "firm_source_id": "14840",
+                    "firm_bd_sec_number": "31175",
+                    "firm_bd_full_sec_number": "8-31175",
+                    "firm_name": "LUMENT SECURITIES, LLC",
+                    "firm_other_names": [
+                        "LUMENT SECURITIES",
+                        "RED CAPITAL MARKETS, LLC",
+                        "RED CAPITAL MARKETS, INC.",
+                        "PROVIDENT SECURITIES & INVESTMENT COMPANY",
+                        "OREC SECURITIES, LLC",
+                        "LUMENT SECURITIES, LLC"
+                    ],
+                    "firm_scope": "ACTIVE",
+                    "firm_disclosure_fl": "N",
+                    "firm_ia_disclosure_fl": "N",
+                    "firm_approved_finra_registration_count": 1,
+                    "firm_branches_count": 13,
+                    "firm_address_details": "{\"officeAddress\": {\"street1\": \"10 WEST BROAD STREET\", \"street2\": \"8TH FLOOR\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43215\"}, \"mailingAddress\": {\"street1\": \"10 WEST BROAD STREET\", \"street2\": \"8TH FLOOR\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"country\": \"UNITED STATES\", \"postalCode\": \"43215\"}, \"businessPhoneNumber\": \"614-857-1600\"}"
+                },
+                "highlight": {},
+                "inner_hits": {
+                    "branchOfficeLocations": {
+                        "hits": {
+                            "hits": [
+                                {
+                                    "_source": {
+                                        "street1": "230 Park Avenue",
+                                        "street2": "19th Floor",
+                                        "city": "New York",
+                                        "state": "NY",
+                                        "zipCode": "10169"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
